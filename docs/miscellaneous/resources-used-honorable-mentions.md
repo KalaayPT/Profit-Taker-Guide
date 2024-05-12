@@ -58,7 +58,7 @@ Notable contributors:
 
 - Discovered that Vengeful Archwing applies to Pogris.
 
-**Great guides of the past:**  
+## **Great guides of the past:**  
 Profit-Taker guides have had a bit of a rocky history.  Many innovations have remained in relatively small communities for extended periods of time before becoming known to the greater public, and much Profit-Taker knowledge is communicated entirely via word-of-mouth. Here are some stand-out guides that have helped to spread Profit-Taker knowledge over the years. It is not a comprehensive list, merely the most notable.
 
 **This guide, version 3!:**
