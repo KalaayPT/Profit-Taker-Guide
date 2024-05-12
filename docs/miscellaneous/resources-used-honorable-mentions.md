@@ -2,7 +2,7 @@
 
 As it is an attempt to compile over 5 years of Profit-Taker knowledge, this guide has been a collaborative effort from the Profit-Taker community. Here we acknowledge people outside the main team who helped contribute images, videos, time, and more to this project, along with paying homage to our predecessors.
 
-Notable contributors:
+## **Notable contributors:**
 
 **Vaeli**
 
@@ -119,7 +119,7 @@ This guide popularized and brought up-to-date Profit-Taker speedruns to the Chin
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oWvet2JCypU?si=pM9nUxTDZV67YcJe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-These two guides were at the time, and for a long time afterward, the most accurate and up-to-date Profit-Taker guides on youtube. As of the publishing of this guide, they were still the best.
+These two guides were at the time, and for a long time afterward, the most accurate and up-to-date Profit-Taker guides on youtube. As of the publishing of the first version of this guide, they were still the best.
 
 **Blunt’s Profit-Taker guide:**
 
