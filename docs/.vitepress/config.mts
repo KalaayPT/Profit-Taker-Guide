@@ -17,7 +17,6 @@ export default defineConfig({
           { text: 'Resources used', link: '/miscellaneous/resources-used-honorable-mentions.md' },
           { text: 'Privacy Policy', link: '/miscellaneous/privacy-policy.md' },
           { text: 'Calculator', link: 'https://docs.google.com/spreadsheets/d/1jcbUMplWUc0nU-MucVWycNe82CCNhQBsKZElMQb0HnQ' },
-          { text: 'GitHub Repo', link: 'https://github.com/KalaayPT/Profit-Taker-Guide' },
         ]
       }
     ],
@@ -63,7 +62,8 @@ export default defineConfig({
       copyright: 'Copyright © 2024-present Kalaay, ZeyroX, Reuzehagel',
     },
     socialLinks: [
-      { icon: 'discord', link: 'https://discord.profit-taker.com' }
+      { icon: 'discord', link: 'https://discord.profit-taker.com' },
+      { icon: 'github', link: 'https://github.com/KalaayPT/Profit-Taker-Guide' }
     ],
     outline: [2, 6],
   }
