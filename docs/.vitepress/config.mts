@@ -15,8 +15,9 @@ export default defineConfig({
         items: [
           { text: 'Bugs', link: '/miscellaneous/bugs' },
           { text: 'Resources used', link: '/miscellaneous/resources-used-honorable-mentions.md' },
-          { text: 'Calculator', link: 'https://docs.google.com/spreadsheets/d/1jcbUMplWUc0nU-MucVWycNe82CCNhQBsKZElMQb0HnQ' },
           { text: 'Privacy Policy', link: '/miscellaneous/privacy-policy.md' },
+          { text: 'Calculator', link: 'https://docs.google.com/spreadsheets/d/1jcbUMplWUc0nU-MucVWycNe82CCNhQBsKZElMQb0HnQ' },
+          { text: 'GitHub Repo', link: 'https://github.com/KalaayPT/Profit-Taker-Guide' },
         ]
       }
     ],
