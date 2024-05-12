@@ -65,7 +65,7 @@ Profit-Taker guides have had a bit of a rocky history.  Many innovations have r
 
 [5 (and a bit) Years of Profit-Taker](https://docs.google.com/document/d/1DWY-ZNv7cUA6egxDZKYu0e8qz7z-yHT2KncyYAo5NHU/edit)
 
-This is the guide as it was the day the April 2024 Website dropped.
+This is the guide as it was the day the Website dropped.
 
 **This guide, version 2!:**
 
