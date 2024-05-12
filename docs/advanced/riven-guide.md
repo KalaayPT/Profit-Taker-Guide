@@ -62,30 +62,36 @@ Avoid Physical Damage (IPS), Crit Chance, and Attack Speed;
 ## **Velocitus**
 
 **Calculated with S grades & FR build, all Rivens can use non-FR build. Grades matter.**
-**CC Corpus rolls:**
-1\. Heat/Elec: Sabot or FR, will oneshot without Damage Blessing.
-3\. Crit Damage: Magma/Charged or FR, would then need Damage Blessing or 3 Volt shields stacked.
-6\. Damage: Magma/Charged or FR, would then need Damage Blessing or 2 Volt shields stacked.
-8\. Multishot: to use FR you have to replace Hollowed Bullets and use bless or 4 Volt shields stacked.
 
-**CC MS rolls:**	
-2\. Heat/Elec: replaces one of the elements to use FR, will oneshot without bless.
-5\. Crit Damage: to use FR you have to replace Hollowed Bullets and use bless or 3 Volt shields stacked. 
-11\. Damage: needs damage bless, won’t oneshot without even with 6 Volt shields stacked.
+<u>**CC Corpus rolls:**</u>
 
-**CC with 2 Damage stats:**
+- Heat/Elec: Sabot or FR, will oneshot without Damage Blessing.
+- Crit Damage: Magma/Charged or FR, would then need Damage Blessing or 3 Volt shields stacked.
+- Damage: Magma/Charged or FR, would then need Damage Blessing or 2 Volt shields stacked.
+- Multishot: to use FR you have to replace Hollowed Bullets and use bless or 4 Volt shields stacked.
 
-4\. CD Heat/Elec: Sabot or FR, would then need Damage Blessing or 2 Volt shields stacked.
-7\. DMG Heat/Elec: Magma/Charged or FR, would then need Damage Blessing or 4 Volt shields stacked.
-9\. Heat Elec: Sabot or FR, would then need Damage Blessing or 5 Volt shields stacked.
-10\. CD DMG: Magma/Charged or FR, would then need less, but won’t oneshot even with 6 shields.
+<u>**CC MS rolls:**</u>
 
-**CC MS Dual Stat roll:**
+- Heat/Elec: replaces one of the elements to use FR, will oneshot without bless.
+- Crit Damage: to use FR you have to replace Hollowed Bullets and use bless or 3 Volt shields stacked. 
+- Damage: needs damage bless, won’t oneshot without even with 6 Volt shields stacked.
+
+<u>**CC with 2 Damage stats:**</u>
+
+- CD Heat/Elec: Sabot or FR, would then need Damage Blessing or 2 Volt shields stacked.
+- DMG Heat/Elec: Magma/Charged or FR, would then need Damage Blessing or 4 Volt shields stacked.
+- Heat Elec: Sabot or FR, would then need Damage Blessing or 5 Volt shields stacked.
+- CD DMG: Magma/Charged or FR, would then need less, but won’t oneshot even with 6 shields.
+
+<u>**CC MS Dual Stat roll:**</u>
+
 Needs 133,4CC (B riven grade) on riven to hit 100% Critical Chance, needs bless to use FR, replaces Critical Focus with Containment Breach. Replace FR mod with 60/60 Heat/Elec mod when blessless. Won’t 1-shot with FR blessless even with 6 shields.
 
-Note: Multishot rivens are not preferred due to their tendency to only hit one of the pellets, doing half the damage.
+:::info Note: 
+Multishot rivens are not preferred due to their tendency to only hit one of the pellets, doing half the damage.
+:::
 
-**Negatives:** 
+<u>**Negatives:**</u>
 Avoid Multishot, Damage, Physical Damage (IPS), Crit Chance, Crit Damage, Corpus;
 
 ## **Corvas**

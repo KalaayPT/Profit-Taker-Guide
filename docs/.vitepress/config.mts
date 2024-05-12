@@ -43,6 +43,22 @@ export default defineConfig({
             { text: 'Creating Builds', link: '/beginner/creating-builds' },
           ],
         },
+        {
+          text: 'See also',
+          items: [
+            { text: 'Advanced', link: '/advanced/welcome' },
+            {
+              text: 'Miscellaneous',
+              collapsed: true,
+              items: [
+                { text: 'Bugs', link: '/miscellaneous/bugs' },
+                { text: 'Resources used', link: '/miscellaneous/resources-used-honorable-mentions.md' },
+                { text: 'Privacy Policy', link: '/miscellaneous/privacy-policy.md' },
+                { text: 'Calculator', link: 'https://docs.google.com/spreadsheets/d/1jcbUMplWUc0nU-MucVWycNe82CCNhQBsKZElMQb0HnQ' },
+              ]
+            },
+          ]
+        }
       ],
       '/advanced/': [
         {
@@ -54,6 +70,22 @@ export default defineConfig({
             { text: 'Squad Speedruns', link: '/advanced/squad-speedruns' },
             { text: 'Riven Guide', link: '/advanced/riven-guide' },
             { text: 'Untapped Potential', link: '/advanced/untapped-potential' },
+          ]
+        },
+        {
+          text: 'See also',
+          items: [
+            { text: 'Beginner', link: '/beginner/welcome' },
+            {
+              text: 'Miscellaneous',
+              collapsed: true,
+              items: [
+                { text: 'Bugs', link: '/miscellaneous/bugs' },
+                { text: 'Resources used', link: '/miscellaneous/resources-used-honorable-mentions.md' },
+                { text: 'Privacy Policy', link: '/miscellaneous/privacy-policy.md' },
+                { text: 'Calculator', link: 'https://docs.google.com/spreadsheets/d/1jcbUMplWUc0nU-MucVWycNe82CCNhQBsKZElMQb0HnQ' },
+              ]
+            },
           ]
         }
       ],
