@@ -1,0 +1,1 @@
+We do not collect any user data as we do not use any analytics, ads or similar
