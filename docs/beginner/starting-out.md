@@ -8,9 +8,7 @@ The three major phases of the fight are as follows:
 
 ## **Shield Phase**
 
-During the Shield
-
-Phase, a glowing damage type symbol appears above the Profit-Taker's forehead. Only damage with the corresponding element can harm the shields. Once enough damage is dealt, the shield will cycle to another vulnerable element. If the shield does not take enough damage, it will automatically cycle after 25 seconds. Alternatively, if 5 seconds have passed since the shield last changed, you can manually cycle it by using void damage. The Shield Phase usually ends after clearing 5 elements.
+During the Shield Phase, a glowing damage type symbol appears above the Profit-Taker's forehead. Only damage with the corresponding element can harm the shields. Once enough damage is dealt, the shield will cycle to another vulnerable element. If the shield does not take enough damage, it will automatically cycle after 25 seconds. Alternatively, if 5 seconds have passed since the shield last changed, you can manually cycle it by using void damage. The Shield Phase usually ends after clearing 5 elements.
 
 ## **Armor Phase**
 
@@ -18,7 +16,7 @@ After each Shield Phase, Profit-Taker enters the Armor Phase. In this phase, you
 
 ## **Pylon Phase**
 
-Following the first and third Armor Phases, the Profit-Taker enters the Pylon Phase. During this phase, Profit-Taker sends out 4 or 6 Pylons that must be destroyed before moving on to the next phase. The Pylons will land in random places around Profit-Taker and they have shield bubbles that you cannot shoot through surrounding them. The traditional way to break these is by going through the shields, at which point you can destroy the Pylons as normal.
+Following the first and third Armor Phases, the Profit-Taker enters the Pylon Phase. During this phase, Profit-Taker sends out 4 or 6 Pylons that must be destroyed before moving on to the next phase. The Pylons will land in random places around Profit-Taker and they have shield bubbles that you cannot shoot through surrounding them. The traditional way to break these is by entering the bubble, at which point you can destroy the Pylons as normal.
 
 ## **Phase Order**
 
