@@ -91,6 +91,7 @@ export default defineConfig({
       ],
     },
     footer: {
+      message: 'released under MIT license',
       copyright: 'Copyright © 2024-present Kalaay, ZeyroX, Reuzehagel',
     },
     socialLinks: [
