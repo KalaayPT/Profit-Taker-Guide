@@ -271,6 +271,7 @@ Pros:
 
 Cons:
 
+- only has viable usage in combination with Volt's Shield and a decent riven
 - As the Velocitus is a projectile weapon, there is a barely noticeable delay between firing a shot and said shot hitting the target
 - The Charge is all or none, making it extremely impractical to charge the Velocitus.
 - There are only 11 stat combinations of Riven Mods (fewer without a negative) that work for uncharged oneshots. Note that some Rivens oneshot without a CC Mod on, but they have only 74% cc. No Riven is necessary for charged shots
