@@ -4,15 +4,19 @@
 
 ## **Archgun Hitbox Bug**
 
- Since Whispers in the Walls, a big chunk of Archguns has a bug that makes hitboxes much bigger than they should be. This bug greatly impacts Volt, as the bigger hitboxes result in Archguns hitting Profit-Taker before passing through his shield.
+ Since Whispers in the Walls, a big chunk of Archguns has a bug that makes hitboxes much bigger than they should be. This bug greatly impacts Volt, as the bigger hitboxes result in Archguns hitting Profit-Taker before passing through his shield. The only solution this is to keep enough distance, see the video below.
 
 The Archguns affected by this are: Imperator (Vandal), Corvas, (Prisma) Dual Decurions, Cyngas, Phaedra, Cortege.
 
-Video showcasing the issue:
+Video:
 
-<div class="video-container">
-<iframe src="https://www.youtube.com/embed/vxsFDMVjVaE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div style="padding-bottom: 20px;">
+<video height="100" onclick="this.paused?this.play():this.pause();arguments[0].preventDefault();" loop muted>
+ <source type="video/mp4" src="/media/hitbox_bug.mp4">
+</video>
 </div>
+
+Video showcasing the issue with different archguns: [Archgun issue (Youtube)](https://youtu.be/vxsFDMVjVaE?si=IVWUgNkOq3t6qFZJ)
 
 ## **Animation Bug**
 
