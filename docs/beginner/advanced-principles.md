@@ -42,8 +42,12 @@ For all landings, you want to be flying straight and level in Archwing, then lea
 
 See how when leaving Archwing I’m flying straight, not up or down? At the speeds of an Archwing, slight variations in trajectory can mean the difference between a controlled landing, massively overshooting, and quickly slamming into the ground.
 
-<div style="width: 100%; text-align: left;">
-    <img src="/media/overshoot_optimized.gif" alt="overshoot" style="width: 100%; height: auto;">
+Video (click to play/pause):
+
+<div style="padding-bottom: 20px;">
+<video width="100%" onclick="this.paused?this.play():this.pause();arguments[0].preventDefault();" loop muted>
+ <source type="video/mp4" src="/media/overshoot.mp4">
+</video>
 </div>
 
 ### **Soft Landing**
@@ -58,24 +62,36 @@ Mountain:
 
 For Mountain, blink up and towards the spawn such that you’re at the right height for landing, and blink once more on the way over. Exit Archwing around the rocks you pass over right before spawn, and slide up the side of the hill.
 
-<div style="width: 100%; text-align: left;">
-    <img src="/media/softmountain_optimized.gif" alt="softmountain" style="width: 100%; height: auto;">
+Video (click to play/pause):
+
+<div style="padding-bottom: 20px;">
+<video width="100%" onclick="this.paused?this.play():this.pause();arguments[0].preventDefault();" loop muted>
+ <source type="video/mp4" src="/media/softmountain.mp4">
+</video>
 </div>
 
 Lake:
 
 For Lake, fly straight to where you want to land, there should be time for 3 blinks. The entire landing zone is uphill so this is the easiest landing to do.
 
-<div style="width: 100%; text-align: left;">
-    <img src="/media/softlake.gif" alt="softlake" style="width: 100%; height: auto;">
+Video (click to play/pause):
+
+<div style="padding-bottom: 20px;">
+<video width="100%" onclick="this.paused?this.play():this.pause();arguments[0].preventDefault();" loop muted>
+ <source type="video/mp4" src="/media/softlake.mp4">
+</video>
 </div>
 
 Shrooms:
 
 For shrooms, take a straight line through enrichment labs until you reach the crater rim, then turn into the landing so you have a good angle to land on the hill.
 
-<div style="width: 100%; text-align: left;">
-    <img src="/media/softshrooms.gif" alt="softshrooms" style="width: 100%; height: auto;">
+Video (click to play/pause):
+
+<div style="padding-bottom: 20px;">
+<video width="100%" onclick="this.paused?this.play():this.pause();arguments[0].preventDefault();" loop muted>
+ <source type="video/mp4" src="/media/softshrooms.mp4">
+</video>
 </div>
 
 ### **Hard Landing (Volt)**
@@ -88,8 +104,12 @@ Mountain:
 
 First fly up while holding W, then do a blink after you line up with Profit-Taker. This saves about 0.2s when compared to blinking straight from elevator.
 
-<div style="width: 100%; text-align: left;">
-    <img src="/media/hardmountain.gif" alt="hardmountain" style="width: 100%; height: auto;">
+Video (click to play/pause):
+
+<div style="padding-bottom: 20px;">
+<video width="100%" onclick="this.paused?this.play():this.pause();arguments[0].preventDefault();" loop muted>
+ <source type="video/mp4" src="/media/hardmountain.mp4">
+</video>
 </div>
 
 Lake:
@@ -98,16 +118,24 @@ Blink forward to the spawn, don't blink up or too far down or you'll hit the cli
 
 Land near the left of Profit-Taker as it'll move to the left. This will help get a good angle to hit legs.
 
-<div style="width: 100%; text-align: left;">
-    <img src="/media/hardlake.gif" alt="hardlake" style="width: 100%; height: auto;">
+Video (click to play/pause):
+
+<div style="padding-bottom: 20px;">
+<video width="100%" onclick="this.paused?this.play():this.pause();arguments[0].preventDefault();" loop muted>
+ <source type="video/mp4" src="/media/hardlake.mp4">
+</video>
 </div>
 
 Shrooms:
 
 Blink towards the spawn, don't go too high up, make sure you exit archwing early and leave enough time to cast Eclipse.
 
-<div style="width: 100%; text-align: left;">
-    <img src="/media/hardshrooms.gif" alt="hardshrooms" style="width: 100%; height: auto;">
+Video (click to play/pause):
+
+<div style="padding-bottom: 20px;">
+<video width="100%" onclick="this.paused?this.play():this.pause();arguments[0].preventDefault();" loop muted>
+ <source type="video/mp4" src="/media/hardshrooms.mp4">
+</video>
 </div>
 
 ::: info Notes:
@@ -136,15 +164,23 @@ There are three attacks for which we know that they are based on the Player’s 
 
 Profit-Taker slams the ground, sending out horizontal magnetic waves in all directions. You can prevent Profit-Taker from using this attack by <u>**not being too close to Profit-Taker**</u>. If she does use the attack, the magnetic waves can easily be avoided by being below or above them.
 
-<div style="width: 100%; text-align: left;">
-    <img src="/media/empslam.gif" alt="empslam" style="width: 100%; height: auto;">
+Video (click to play/pause):
+
+<div style="padding-bottom: 20px;">
+<video width="100%" onclick="this.paused?this.play():this.pause();arguments[0].preventDefault();" loop muted>
+ <source type="video/mp4" src="/media/empslam.mp4">
+</video>
 </div>
 
 ### **The Laser Sweep attack**
 where Profit-Taker fires a massive laser that can deal thousands of damage in as little as three frames. Profit-Taker will only use the attack during or directly after the Shield Phase if you stand directly in front, to the sides, or behind her. If you notice the attack early, it is easy enough to dodge. Keep an eye out for when the legs ‘snap’ into position for the attack and dodge by not being directly in front of her. Don’t eat the lasers, they’re bad for your health.
 
-<div style="width: 100%; text-align: left;">
-    <img src="/media/ptlaser.gif" alt="ptlaser" style="width: 100%; height: auto;">
+Video (click to play/pause):
+
+<div style="padding-bottom: 20px;">
+<video width="100%" onclick="this.paused?this.play():this.pause();arguments[0].preventDefault();" loop muted>
+ <source type="video/mp4" src="/media/ptlaser.mp4">
+</video>
 </div>
 
 [*__pt laser attack (Youtube)__*](https://www.youtube.com/watch?v=MR1mRcnfrEk)
@@ -153,15 +189,23 @@ Profit-Taker only does the Laser Sweep attack during certain phases. During othe
 ### **The Mortar attack**
 In this attack, she shoots a fiery ball in front of her that explodes a few seconds after it hits a surface. Move towards this attack to avoid the worst of the effect.
 
-<div style="width: 100%; text-align: left;">
-    <img src="/media/mortar.gif" alt="mortar" style="width: 100%; height: auto;">
+Video (click to play/pause):
+
+<div style="padding-bottom: 20px;">
+<video width="100%" onclick="this.paused?this.play():this.pause();arguments[0].preventDefault();" loop muted>
+ <source type="video/mp4" src="/media/mortar.mp4">
+</video>
 </div>
 
 ### **The Leg Zap**
 which inflicts an extremely high damage Electric proc that both destroys your shield gating and can affect teammates with unavoidable damage over time. Profit-Taker will only use this attack when you are in front of one of her legs.
 
-<div style="width: 100%; text-align: left;">
-    <img src="/media/legzap.gif" alt="legzap" style="width: 100%; height: auto;">
+Video (click to play/pause):
+
+<div style="padding-bottom: 20px;">
+<video width="100%" onclick="this.paused?this.play():this.pause();arguments[0].preventDefault();" loop muted>
+ <source type="video/mp4" src="/media/legzap.mp4">
+</video>
 </div>
 
 *As you can see in the gif, the laser attack doesn’t just come from the front*
@@ -177,20 +221,30 @@ Profit-Taker also has a couple of extremely annoying attacks that seem to be inf
 ### The **Bounce** 
 appears to happen when you get too close to Profit-Taker during Armor and Pylon Phase. It shoots you away from Profit-Taker and is the only knockback to effect Mech. Rolling or bullet jumping into the bounce minimizes knockback. There is a guaranteed bounce while the first pylons are launching if you are close enough to profit taker. Being bounced during second legs can be avoided via the [__Push Strat__](/advanced/speedrun-strats.html#push-strat).
 
-<div style="width: 100%; text-align: left;">
-    <img src="/media/bounce.gif" alt="bounce" style="width: 100%; height: auto;">
+Video (click to play/pause):
+
+<div style="padding-bottom: 20px;">
+<video width="100%" onclick="this.paused?this.play():this.pause();arguments[0].preventDefault();" loop muted>
+ <source type="video/mp4" src="/media/bounce.mp4">
+</video>
 </div>
 
 ### **The Blue Walls** 
 knock you back when you collide with them and can block Zenith shots. These appear to trigger more often when you’re beyond a certain distance from Profit-Taker and don't happen as much if the EMP slam or bounce attack happens.  
 **How to deal with blue walls:** While Blue Walls are spawning, you will see light blue seams between walls. You can move and shoot through these seams. If you can’t reach a seam in time, roll into the wall as it hits you to avoid getting knocked back. Each wall can only hit you once, so once you roll into one you can walk through it like it isn’t there.
 
-<div style="width: 100%; text-align: left;">
-    <img src="/media/bluewall1.gif" alt="bluewall1" style="width: 100%; height: auto;">
+Video (click to play/pause):
+
+<div style="padding-bottom: 0px;">
+<video width="100%" onclick="this.paused?this.play():this.pause();arguments[0].preventDefault();" loop muted>
+ <source type="video/mp4" src="/media/bluewall1.mp4">
+</video>
 </div>
 
-<div style="width: 100%; text-align: left;">
-    <img src="/media/bluewall2.gif" alt="bluewall2" style="width: 100%; height: auto;">
+<div style="padding-bottom: 20px;">
+<video width="100%" onclick="this.paused?this.play():this.pause();arguments[0].preventDefault();" loop muted>
+ <source type="video/mp4" src="/media/bluewall2.mp4">
+</video>
 </div>
 
 Try to stay just inside the distance blue walls spawn from, while staying outside of the bounce range.  A good range to aim for is about  25 m away from the main body. This will minimize both bounces and blue walls

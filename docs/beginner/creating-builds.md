@@ -226,8 +226,12 @@ Pros:
 - One of the few hitscan Archguns
 - Full auto and a large ammo pool means you can make one, sweeping motion through all four limbs without worrying too much about cooldown due to missed or wasted shots.
 
-<div style="width: 100%; text-align: left;">
-    <img src="/media/mausolonarmor.gif" alt="mausolonarmor" style="width: 100%; height: auto;">
+Video (click to play/pause):
+
+<div style="padding-bottom: 20px;">
+<video width="100%" onclick="this.paused?this.play():this.pause();arguments[0].preventDefault();" loop muted>
+ <source type="video/mp4" src="/media/mausolonarmor.mp4">
+</video>
 </div>
 
 Cons:
@@ -312,26 +316,36 @@ The five weapons that meet these criteria, in order of speed:
 
 Ogris has a mod called Nightwatch Napalm, which leaves a large area of effect where the rockets land that lasts six seconds. This AoE can damage pylons through the pylon bubble, making it possible to destroy a pylon after it has landed, and if a pylon lands in the AoE, it can be quickly destroyed. This makes the Ogris several seconds faster than the next best option, as it isn’t solely reliant on reaction time (and aim) after the pylons have landed, but rather predicting where the pylons will land and pre-firing them. The Kuva Ogris is best for this as the progenitor damage bonus is one of the only damage increases that apply to Nightwatch Napalm. This is a speedrun strat known in the community as “Pogris”, more information on it [__here__](/advanced/speedrun-strats.html#pogris). Pogris is unable to effectively damage shields, so it must also be paired with a good [__On Call Crew__](/advanced/speedrun-strats.html#on-call-strats).
 
-<div style="width: 100%; text-align: left; margin-bottom: 20px;">
-    <img src="/media/ogrispylons.gif" alt="ogrispylons" style="width: 100%; height: auto;">
+Video (click to play/pause):
+
+<div style="padding-bottom: 20px;">
+<video height="100" onclick="this.paused?this.play():this.pause();arguments[0].preventDefault();" loop muted>
+ <source type="video/mp4" src="/media/ogrispylons.mp4">
+</video>
 </div>
 
 ##### Zenith
 
 Infinite punch-through allows the Zenith to go through mountains to hit Pylons from any point, along with its good base crit stats giving it good shield damage. The only drawback is its status as a weapon from daily rewards means you likely either have it or must wait months before you can get it. If you've sold it, you can find it at simaris. Zenith is also borderline on oneshotting Pylons with each pellet with a majority of builds (having to rely on multishot is just asking to have one of the pellets miss.) Only Saryn (due to Venom Dose), Grendel (due to Nourish), Mirage (due to Nourish again), and Oberon (due to Smite Infusion) don’t have to worry about this, other frames have to sacrifice survivability for power strength to oneshot with Zenith.
 
-<div style="width: 100%; text-align: left; margin-bottom: 20px;">
-    <img src="/media/zenithpylons.gif" alt="zenithpylons" style="width: 100%; height: auto;">
-</div>
+Video (click to play/pause):
 
+<div style="padding-bottom: 20px;">
+<video width="100%" onclick="this.paused?this.play():this.pause();arguments[0].preventDefault();" loop muted>
+ <source type="video/mp4" src="/media/zenithpylons.mp4">
+</video>
+</div>
 
 ##### Opticor/Opticor Vandal
 
 While the Opticor Vandal is best for this task due to its higher fire rate, both Opticors can shoot Pylons from outside the shields. However, they cannot shoot through mountains and have horrible performance against shields, leaving them in second place.
 
+Video (click to play/pause):
 
-<div style="width: 100%; text-align: left; margin-bottom: 20px;">
-    <img src="/media/opticorpylons_optimized.gif" alt="opticorpylons" style="width: 100%; height: auto;">
+<div style="padding-bottom: 20px;">
+<video width="100%" onclick="this.paused?this.play():this.pause();arguments[0].preventDefault();" loop muted>
+ <source type="video/mp4" src="/media/opticorpylons.mp4">
+</video>
 </div>
 
 ##### Fluctus
