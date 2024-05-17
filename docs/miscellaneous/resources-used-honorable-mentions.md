@@ -105,7 +105,7 @@ His Riven guide was used as a base for this guide’s Riven guide.
 
 **Kalaay’s Profit-Taker guide:**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lwpmGCcgrE0?si=cfIvx8MDg1NcAhE6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[easy universal profit taker setup](https://youtu.be/lwpmGCcgrE0?si=ZEYQwKpj3d9PHqCm)
 
 **Mebius’ guide (Chinese):**  
 [__【Warframe】电男大蜘蛛竞速攻略全方位详解（2022最新版）__](https://www.bilibili.com/video/BV1nL4y1M7nz)  
@@ -113,11 +113,11 @@ This guide popularized and brought up-to-date Profit-Taker speedruns to the Chin
 
 **Axel’s Profit-Taker guide:**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gegyu6zEWxo?si=syxiPJVW3BNbRgxk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[DEFEAT PROFIT TAKER IN UNDER 3 MINUTES SOLO | IN DEPTH GUIDE TO THE PROFIT TAKER ORB](https://youtu.be/gegyu6zEWxo?si=p_ZmZC06RB_BENKZ)
 
 **RoboSt3alth’s Profit-Taker guide:**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oWvet2JCypU?si=pM9nUxTDZV67YcJe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[Fast & Easy Profit Taker - A Full In Depth Warframe PT Boss Guide [THE BEST CREDIT FARM]](https://youtu.be/oWvet2JCypU?si=UzEu4SZer1d-EBo4)
 
 These two guides were at the time, and for a long time afterward, the most accurate and up-to-date Profit-Taker guides on youtube. As of the publishing of the first version of this guide, they were still the best.
 

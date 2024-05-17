@@ -164,7 +164,7 @@ There are two ways to enter mech, proximity, and aim. You want to always use pro
 
 Placing mech can and should be done during landing to avoid a time loss. See the following gifs:
 
-Video (click to play/pause):
+Videos (click to play/pause):
 
 <div style="padding-bottom: 0px;">
 <video width="100%" onclick="this.paused?this.play():this.pause();arguments[0].preventDefault();" loop muted>

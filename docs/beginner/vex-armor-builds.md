@@ -154,6 +154,4 @@ __See [Mech Setup](/beginner/other-builds.html#mech-setup) for what to use on Me
 
 ### **Effigy Placement**
 
-<div class="video-container">
-<iframe src="https://www.youtube.com/embed/7-4iw1YjN6A?si=uJqzKLHkV-du8OoR" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+See the tutorial on how to place Effigy [here](https://youtu.be/7-4iw1YjN6A?si=fbrp4014gVYHQHR0)
