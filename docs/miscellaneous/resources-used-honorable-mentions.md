@@ -23,6 +23,7 @@ As it is an attempt to compile over 5 years of Profit-Taker knowledge, this guid
 **Fremy**
 
 - Provided coverage of Chroma speedruns and how to utilize Virtuos Surge for Operator Element.
+- provided footage for archgun hitbox bug
 
 **Okayeg**
 
@@ -57,6 +58,10 @@ As it is an attempt to compile over 5 years of Profit-Taker knowledge, this guid
 **44bananas**
 
 - Discovered that Vengeful Archwing applies to Pogris.
+
+**ErwinsArm**
+
+- Provided a video of Armor Reset.
 
 ## **Great guides of the past:**  
 Profit-Taker guides have had a bit of a rocky history.  Many innovations have remained in relatively small communities for extended periods of time before becoming known to the greater public, and much Profit-Taker knowledge is communicated entirely via word-of-mouth. Here are some stand-out guides that have helped to spread Profit-Taker knowledge over the years. It is not a comprehensive list, merely the most notable.
