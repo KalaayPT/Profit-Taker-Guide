@@ -71,9 +71,9 @@ This bug is even more noticeable on explosive weapons like the (Kuva) Grattler, 
 When the 2nd phase body is killed, the shield will keep regenerating for 3 seconds, you may feel free to recast your abilities to pass the time or continue shooting. In cases where you have a lot of elements such as in squads, the shield will be barely visible on the health bar but it won’t go down.
 
 ## **Armor Reset bug**
-also known as "Phase Skip"
+*also known as "Phase Skip"*
 
-Another, extremely prevalent and annoying bug is what’s known as the **Armor Reset Bug** in which an Armor Phase seemingly randomly resets when it comes time to do damage to the body, forcing you to destroy all 4 legs and the body a second (or even third) time. This can result in phase skips, more details [__here__](https://forums.warframe.com/topic/1281197-profit-taker-heist-not-granting-mission-rewards/?do=findComment&comment=12331102).
+Another, extremely prevalent and annoying bug is what’s known as the **Armor Reset Bug** in which an Armor Phase seemingly randomly resets when it comes time to do damage to the body, forcing you to destroy all 4 legs and the body a second (or even third) time. This can result in phase skips, more details in the forum post [__here__](https://forums.warframe.com/topic/1281197-profit-taker-heist-not-granting-mission-rewards/?do=findComment&comment=12331102).
 
 Video (click to play/pause):
 

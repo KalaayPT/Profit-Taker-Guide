@@ -1,0 +1,26 @@
+{
+  "name": "is-zst",
+  "version": "1.0.0",
+  "description": "Check if a buffer is zst compressed.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Stieneee/is-zst.git"
+  },
+  "keywords": [
+    "zst",
+    "zstandard",
+    "zstd",
+    "is-zst",
+    "is-gzip"
+  ],
+  "author": "Tyler Stiene <tystiene@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Stieneee/is-zst/issues"
+  },
+  "homepage": "https://github.com/Stieneee/is-zst#readme"
+}

@@ -1,0 +1,34 @@
+{
+  "name": "duplex-maker",
+  "version": "1.0.0",
+  "description": "Create a duplex stream from a writable and a readable",
+  "main": "index.js",
+  "scripts": {
+    "test": "istanbul cover _mocha -- test -R spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Floby/node-duplex-maker.git"
+  },
+  "keywords": [
+    "stream",
+    "readable",
+    "writable",
+    "duplex",
+    "combine",
+    "assemble"
+  ],
+  "author": "Florent Jaby <florent.jaby@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Floby/node-duplex-maker/issues"
+  },
+  "homepage": "https://github.com/Floby/node-duplex-maker",
+  "devDependencies": {
+    "chai": "^1.9.2",
+    "istanbul": "^0.3.2",
+    "mocha": "^2.0.1",
+    "sinon": "^1.10.3",
+    "stream-sink": "^1.2.0"
+  }
+}

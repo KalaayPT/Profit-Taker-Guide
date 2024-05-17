@@ -160,11 +160,9 @@ As you can see, I get walls instead of bounce as my Warframe is far enough away.
 
 *Placing and swapping to mech*
 
-There are two ways to enter mech, proximity, and aim. You want to always use proximity as it is the fastest and most reliable. To do this, summon your mech in the proper place while or before placing shields.
+There are two ways to enter mech, proximity, and aim. You want to always use proximity as it is the fastest and most reliable. Proximity also does not require you to look at the mech, which both saves time and allows you to aim at the legs faster. To do this, summon your mech in the proper place while or before placing shields.
 
-Placing mech can and should be done during landing to avoid a time loss. See the following gifs:
-
-Videos (click to play/pause):
+Placing mech can and should be done during landing to avoid a time loss. See the following videos (click to play/pause):
 
 <div style="padding-bottom: 0px;">
 <video width="100%" onclick="this.paused?this.play():this.pause();arguments[0].preventDefault();" loop muted>
