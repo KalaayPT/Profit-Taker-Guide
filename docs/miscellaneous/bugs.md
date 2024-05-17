@@ -8,7 +8,7 @@
 
 The Archguns affected by this are: Imperator (Vandal), Corvas, (Prisma) Dual Decurions, Cyngas, Phaedra, Cortege.
 
-Video:
+Video (click to play/pause):
 
 <div style="padding-bottom: 20px;">
 <video height="100" onclick="this.paused?this.play():this.pause();arguments[0].preventDefault();" loop muted>
@@ -75,8 +75,12 @@ also known as "Phase Skip"
 
 Another, extremely prevalent and annoying bug is what’s known as the **Armor Reset Bug** in which an Armor Phase seemingly randomly resets when it comes time to do damage to the body, forcing you to destroy all 4 legs and the body a second (or even third) time. This can result in phase skips, more details [__here__](https://forums.warframe.com/topic/1281197-profit-taker-heist-not-granting-mission-rewards/?do=findComment&comment=12331102).
 
-<div style="width: 100%; text-align: left;">
-    <img src="/media/armorreset_optimized.gif" alt="armorreset" style="width: 100%; height: auto;">
+Video (click to play/pause):
+
+<div style="padding-bottom: 20px;">
+<video width="100%" onclick="this.paused?this.play():this.pause();arguments[0].preventDefault();" loop muted>
+ <source type="video/mp4" src="/media/armorreset.mp4">
+</video>
 </div>
 
 ## **Tenet Detron Multishot Bug**

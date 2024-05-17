@@ -146,8 +146,12 @@ After casting Void Strike you go into archwing with roughly 6 seconds left on th
 
 When landing from first pylons, an issue a lot of people run into is that they get bounced while doing legs. As Profit-Taker’s attacks are dependent on Warframe distance, the way to avoid the bounce is to land out of bounce range (\~30 m away from PT) and use Transference to get into Mech.
 
-<div style="width: 100%; text-align: left;">
-    <img src="/media/pushstrat_optimized.gif" alt="pushstrat" style="width: 100%; height: auto;">
+Video (click to play/pause):
+
+<div style="padding-bottom: 20px;">
+<video width="100%" onclick="this.paused?this.play():this.pause();arguments[0].preventDefault();" loop muted>
+ <source type="video/mp4" src="/media/pushstrat.mp4">
+</video>
 </div>
 
 As you can see, I get walls instead of bounce as my Warframe is far enough away.
@@ -160,12 +164,18 @@ There are two ways to enter mech, proximity, and aim. You want to always use pro
 
 Placing mech can and should be done during landing to avoid a time loss. See the following gifs:
 
-<div style="width: 100%; text-align: left;">
-    <img src="/media/proximity.gif" alt="proximity" style="width: 100%; height: auto;">
+Video (click to play/pause):
+
+<div style="padding-bottom: 0px;">
+<video width="100%" onclick="this.paused?this.play():this.pause();arguments[0].preventDefault();" loop muted>
+ <source type="video/mp4" src="/media/proximity.mp4">
+</video>
 </div>
 
-<div style="width: 100%; text-align: left;">
-    <img src="/media/placing.gif" alt="placing" style="width: 100%; height: auto;">
+<div style="padding-bottom: 20px;">
+<video width="100%" onclick="this.paused?this.play():this.pause();arguments[0].preventDefault();" loop muted>
+ <source type="video/mp4" src="/media/placing.mp4">
+</video>
 </div>
 
 See the speed difference?
@@ -218,17 +228,21 @@ This is a high skill strat because without zooming in the margin of error is ext
 
 Note: -recoil is needed if you want to shoot accurately with this strat.
 
-<div style="width: 100%; text-align: left;">
-    <img src="/media/unscopedzenith.gif" alt="unscopedzenith" style="width: 100%; height: auto;">
+Video (click to play/pause):
+
+<div style="padding-bottom: 20px;">
+<video width="100%" onclick="this.paused?this.play():this.pause();arguments[0].preventDefault();" loop muted>
+ <source type="video/mp4" src="/media/unscopedzenith.mp4">
+</video>
 </div>
 
 ## **Weapon Swaps (no On Call)**
 
-**This strat is now defunct due to power creep. You can still go to the old versions of this guide that contain it [__here__](/miscellaneous/resources-used-honorable-mentions.html).** 
+**This strat is now defunct due to power creep. You can still go to the old versions of this guide that contain it [__here__](/miscellaneous/resources-used-honorable-mentions.html#great-guides-of-the-past).** 
 
 ## **Ass Meta (with Cycron Crew)**
 
-**This meta is now defunct due to __Animation Bug__ and new modding options. You can still go to the old versions of this guide that contain mention of it in the section [__here.__](/miscellaneous/resources-used-honorable-mentions.html)** 
+**This meta is now defunct due to __Animation Bug__ and new modding options. You can still go to the old versions of this guide that contain mention of it in the section [__here.__](/miscellaneous/resources-used-honorable-mentions.html#great-guides-of-the-past)** 
 
 ## **Learning by Example**
 
