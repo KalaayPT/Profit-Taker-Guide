@@ -65,9 +65,15 @@ export default defineConfig({
           text: 'Advanced',
           items: [
             { text: 'Welcome', link: '/advanced/welcome' },
-            { text: 'Speedrun Strats', link: '/advanced/speedrun-strats' },
-            { text: 'Solo Speedrun Builds', link: '/advanced/solo-speedrun-builds' },
-            { text: 'Squad Speedruns', link: '/advanced/squad-speedruns' },
+            {
+              text: 'Speedruns',
+              collapsed: false,
+              items: [
+                { text: 'Strats', link: '/advanced/speedrun-strats' },
+                { text: 'Solo Builds', link: '/advanced/solo-speedrun-builds' },
+                { text: 'Squad Builds', link: '/advanced/squad-speedruns' },
+              ]
+            },
             { text: 'Riven Guide', link: '/advanced/riven-guide' },
             { text: 'Untapped Potential', link: '/advanced/untapped-potential' },
           ]

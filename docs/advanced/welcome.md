@@ -2,7 +2,7 @@
 
 ## What to Expect
 
-In this advanced guide, we'll delve into the intricate strategies and techniques required to conquer the Profit-Taker fight efficiently for credit farming and speedrunning. From mastering the fight mechanics to optimizing your gear setup, we're here to help you maximize your cred earnings and shave off every possible second.
+In this advanced guide, we'll delve into the intricate strategies and techniques required to conquer the Profit-Taker fight efficiently for credit farming and speedrunning. From mastering the fight mechanics to optimizing your gear setup, we're here to help you maximize your cred earnings and shave off every possible second. This Guide is also made to be data-friendly and the entire site does not use more than about 100-200MB of data.
 
 ## Who is This Part of the Guide For?
 
