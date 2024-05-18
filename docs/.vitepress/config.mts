@@ -17,6 +17,7 @@ export default defineConfig({
           { text: 'Resources used', link: '/miscellaneous/resources-used-honorable-mentions.md' },
           { text: 'Privacy Policy', link: '/miscellaneous/privacy-policy.md' },
           { text: 'Calculator', link: 'https://docs.google.com/spreadsheets/d/1jcbUMplWUc0nU-MucVWycNe82CCNhQBsKZElMQb0HnQ' },
+          { text: 'Analyzer', link: 'https://basi.is-a.dev/pta/' },
         ]
       }
     ],
@@ -55,6 +56,7 @@ export default defineConfig({
                 { text: 'Resources used', link: '/miscellaneous/resources-used-honorable-mentions.md' },
                 { text: 'Privacy Policy', link: '/miscellaneous/privacy-policy.md' },
                 { text: 'Calculator', link: 'https://docs.google.com/spreadsheets/d/1jcbUMplWUc0nU-MucVWycNe82CCNhQBsKZElMQb0HnQ' },
+                { text: 'Analyzer', link: 'https://basi.is-a.dev/pta/' },
               ]
             },
           ]
@@ -90,6 +92,7 @@ export default defineConfig({
                 { text: 'Resources used', link: '/miscellaneous/resources-used-honorable-mentions.md' },
                 { text: 'Privacy Policy', link: '/miscellaneous/privacy-policy.md' },
                 { text: 'Calculator', link: 'https://docs.google.com/spreadsheets/d/1jcbUMplWUc0nU-MucVWycNe82CCNhQBsKZElMQb0HnQ' },
+                { text: 'Analyzer', link: 'https://basi.is-a.dev/pta/' },
               ]
             },
           ]
