@@ -1,5 +1,6 @@
 ---
 layout: home
+
 hero:
   name: "Profit-Taker Guide"
   tagline: a community effort by uumm, Mebius, Iterniam, Kalaay and others
@@ -20,3 +21,10 @@ features:
   - title: By Speedrunners
     details: This guide was made by speedrunners, there’s no getting around it, but we’ve done our best to provide everything you need to do the fight at any level, even if you’ve never done the fight before.
 ---
+
+<style>
+.image-src:hover {
+  transform: translate(-50%, -50%) rotate(666turn);
+  transition: transform 59s 1s cubic-bezier(0.3, 0, 0.8, 1);
+}
+</style>

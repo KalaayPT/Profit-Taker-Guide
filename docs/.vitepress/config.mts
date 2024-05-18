@@ -1,4 +1,5 @@
 import { defineConfig } from 'vitepress'
+
 export default defineConfig({
   title: "Profit-Taker Guide",
   description: 'New, improved and no longer a Google Doc!',
