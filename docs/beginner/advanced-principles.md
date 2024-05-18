@@ -2,10 +2,6 @@
 
 *Essential parts of the fight that are well known, but that take a measure of familiarity and dedication to learn*
 
-::: info
-this section has a lot of gifs, so you might not want to read it on mobile data
-:::
-
 ## **Timing The fight**
 
 The Timer starts on the frame the minimap changes from the elevator to the Vallis, as seen in the following images:
