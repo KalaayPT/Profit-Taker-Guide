@@ -2,7 +2,7 @@
 
 *Advanced techniques that require special thought to certain areas of the fight and involve more than your basic level of skill.*
 
-## **Late Start strat**
+## **Late Start Strat**
 
 Profit Taker walks forwards constantly until you destroy all four legs in the first armor phase. You can take advantage of this to get a better angle at the rear legs by leaving the elevator just a half second to a second after PT spawns (a bit after 8s on the ingame timer). This makes leg phase overall more consistent for fast runners, and minimizes the effect of the __animation bug__.
 
