@@ -1,6 +1,6 @@
 # **Speedrun Strats**
 
-*Advanced techniques that require special thought to certain areas of the fight and involve more than your basic level of skill.*
+*Advanced techniques that require special thought toward certain areas of the fight and involve more than your basic level of skill.*
 
 ## **Late Start Strat**
 
