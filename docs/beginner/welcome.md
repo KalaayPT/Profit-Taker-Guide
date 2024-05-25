@@ -2,7 +2,7 @@
 
 ## What to Expect
 
-In this beginner's guide, we'll cover everything you need to know to tackle the Profit-Taker fight with confidence. From understanding the mechanics of the fight to assembling the right gear, we've got you covered every step of the way. This Guide is also made to be data-friendly and the entire site does not use more than about 100-200MB of data.
+In this beginner's guide, we'll cover everything you need to know to tackle the Profit-Taker fight with confidence. From understanding the mechanics of the fight to assembling the right gear, we've got you covered every step of the way. This Guide is also made to be data-friendly and the entire site does not use more than about 160MB of data.
 
 ## Who is This Part of the Guide For?
 
