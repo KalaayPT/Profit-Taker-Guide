@@ -154,6 +154,7 @@ Video (click to play/pause):
 Tying in with the previous section, Profit-Taker’s movement and attacks are largely based on your position. Some things directly, others indirectly. With proper positioning, Profit-Taker will sit and stare at you without attacking or moving. A proper landing is the first step of good positioning as the first shield phase is when Profit-Taker is most mobile and likely to turn.
 
 <u>**Profit-Taker’s attacks and you**</u>
+
 There are three attacks for which we know that they are based on the Player’s position:
 
 ### **The EMP Slam attack**
