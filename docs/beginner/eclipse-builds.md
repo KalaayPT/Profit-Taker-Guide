@@ -11,12 +11,12 @@ This is a generic Profit-Taker build for every frame if Eclipse is subsumed.
 #### **Generic Zenith/Opticor Frame Build**
 
 <div style="width: 100%; text-align: left;">
-    <img src="/media/Generic_Zenith_Opticor_Frame_Build.png" alt="Generic_Zenith_Opticor_Frame_Build" style="width: 100%; height: auto;">
+    <img src="https://cdn.profit-taker.com/Generic_Zenith_Opticor_Frame_Build.png" alt="Generic_Zenith_Opticor_Frame_Build" style="width: 100%; height: auto;">
 </div>
 
 [*__Overframe Link__*](https://overframe.gg/build/601655/)
 
-- Since Dante Unbound, oneshotting Pylons rivenless with Zenith is no longer possible. This build relies on either Sling Strength or more added strength (about 40%) to 2-shot with Zenith.
+- Since Dante Unbound, oneshotting Pylons rivenless with Zenith and subsumed Eclipse is no longer possible. This build relies on either Sling Strength or more added strength (about 40%) to 2-shot with Zenith.
 - Opticor always oneshots fully charged; depending on the setup, quick shots will need about 50% charge to oneshot with this build
 - If you have Primed Sure Footed, remove Fortitude and Sure Footed. Put Primed Sure Footed in the Exilus slot.
 - Any empty slots are flex slots.
@@ -30,12 +30,11 @@ This is a generic Profit-Taker build for every frame if Eclipse is subsumed.
 This build is nearly the bare minimum for a Kuva Ogris setup, assumes you use a crewmate to cover toxin
 
 <div style="width: 100%; text-align: left;">
-    <img src="/media/Generic_Pogris_Frame_Build.png" alt="Generic_Pogris_Frame_Build" style="width: 100%; height: auto;">
+    <img src="https://cdn.profit-taker.com/Generic_Pogris_Frame_Build.png" alt="Generic_Pogris_Frame_Build" style="width: 100%; height: auto;">
 </div>
 
 [*__Overframe Link__*](https://overframe.gg/build/663626/)
 
-- Has no build variety without an ogris riven.
 - This build relies on the Vengeful Archwing Intrinsic and 5 str shards to 3-tick pylons, will need 4 otherwise
 - If you don't have Primed Sure Footed, you can use Sure Footed+Fortitude, will cost you pylon time
 - With this build, a rivenless Kuva Ogris will destroy pylons in 3-4 damage ticks
@@ -51,7 +50,7 @@ There are three useful Aura Mods: Sprint Boost, Growing Power, and Aerodynamic. 
 **TriUmbral Saryn**
 
 <div style="width: 100%; text-align: left;">
-    <img src="/media/TriUmbral_Saryn.png" alt="TriUmbral_Saryn" style="width: 100%; height: auto;">
+    <img src="https://cdn.profit-taker.com/TriUmbral_Saryn.png" alt="TriUmbral_Saryn" style="width: 100%; height: auto;">
 </div>
 
 [*__Overframe Link__*](https://overframe.gg/build/328823/)
@@ -59,7 +58,7 @@ There are three useful Aura Mods: Sprint Boost, Growing Power, and Aerodynamic. 
 **Cheap Saryn Build**
 
 <div style="width: 100%; text-align: left;">
-    <img src="/media/cheap_saryn.png" alt="cheap_saryn" style="width: 100%; height: auto;">
+    <img src="https://cdn.profit-taker.com/cheap_saryn.png" alt="cheap_saryn" style="width: 100%; height: auto;">
 </div>
 
 [*__Overframe Link__*](https://overframe.gg/build/328824)
@@ -79,7 +78,7 @@ __Primary weapons:__
 #### **Zenith**
 
 <div style="width: 100%; text-align: left;">
-    <img src="/media/Zenith_Build.png" alt="zenith_eclipse" style="width: 100%; height: auto;">
+    <img src="https://cdn.profit-taker.com/Zenith_Build.png" alt="zenith_eclipse" style="width: 100%; height: auto;">
 </div>
 
 [*__Overframe Link__*](https://overframe.gg/build/650129/)
@@ -93,7 +92,7 @@ Covers toxin. Twitch is flex. This is the bare minimum build required to oneshot
 #### **Opticor Vandal**
 
 <div style="width: 100%; text-align: left;">
-    <img src="/media/opticor_eclipse.png" alt="opticor_eclipse" style="width: 100%; height: auto;">
+    <img src="https://cdn.profit-taker.com/opticor_eclipse.png" alt="opticor_eclipse" style="width: 100%; height: auto;">
 </div>
 
 [*__Overframe Link__*](https://overframe.gg/build/663619/)
@@ -108,7 +107,7 @@ Covers toxin. Twitch is flex. This is the bare minimum build required to oneshot
 #### **Kuva Ogris (Pogris)**
 
 <div style="width: 100%; text-align: left;">
-    <img src="/media/pogris_eclipse.png" alt="pogris_eclipse" style="width: 100%; height: auto;">
+    <img src="https://cdn.profit-taker.com/pogris_eclipse.png" alt="pogris_eclipse" style="width: 100%; height: auto;">
 </div>
 
 [*__Overframe Link__*](https://overframe.gg/build/663638/)
@@ -122,7 +121,7 @@ __Secondary weapon:__
 #### **Tenet Diplos build**
 
 <div style="width: 100%; text-align: left;">
-    <img src="/media/diplos_eclipse.png" alt="diplos_eclipse" style="width: 100%; height: auto;">
+    <img src="https://cdn.profit-taker.com/diplos_eclipse.png" alt="diplos_eclipse" style="width: 100%; height: auto;">
 </div>
 
 [*__Overframe Link__*](https://overframe.gg/build/601639/)
@@ -137,7 +136,7 @@ __Melee weapon:__
 #### **Contagion Build**
 
 <div style="width: 100%; text-align: left;">
-    <img src="/media/balla_eclipse.png" alt="balla_eclipse" style="width: 100%; height: auto;">
+    <img src="https://cdn.profit-taker.com/balla_eclipse.png" alt="balla_eclipse" style="width: 100%; height: auto;">
 </div>
 
 [*__Overframe Link__*](https://overframe.gg/build/601643/)
@@ -154,7 +153,7 @@ __Heavy weapon:__
 [*__Overframe Link__*](https://overframe.gg/build/328827/)
 
 <div style="width: 100%; text-align: left;">
-    <img src="/media/Mausolon_eclipse.png" alt="Mausolon_eclipse" style="width: 100%; height: auto;">
+    <img src="https://cdn.profit-taker.com/Mausolon_eclipse.png" alt="Mausolon_eclipse" style="width: 100%; height: auto;">
 </div>
 
 - Consider replacing Automatic Trigger with Containment Breach for more damage.

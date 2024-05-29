@@ -9,19 +9,19 @@ The Timer starts on the frame the minimap changes from the elevator to the Valli
 In elevator:
 
 <div style="width: 60%; text-align: left;">
-    <img src="/media/inelevator.png" alt="Inelevator" style="width: 100%; height: auto;">
+    <img src="https://cdn.profit-taker.com/inelevator.png" alt="Inelevator" style="width: 100%; height: auto;">
 </div>
 
 Out of elevator:
 
 <div style="width: 60%; text-align: left;">
-    <img src="/media/outofelevator.png" alt="outofelevator" style="width: 100%; height: auto;">
+    <img src="https://cdn.profit-taker.com/outofelevator.png" alt="outofelevator" style="width: 100%; height: auto;">
 </div>
 
 And the timer ends when Profit-Taker flashes blue upon death as seen in the image:
 
 <div style="width: 60%; text-align: left;">
-    <img src="/media/timerends.png" alt="timerends" style="width: 100%; height: auto;">
+    <img src="https://cdn.profit-taker.com/timerends.png" alt="timerends" style="width: 100%; height: auto;">
 </div>
 
 Profit-Taker spawns at 8s on the in-game timer. Note that the in-game timer will reset once Warframe finishes loading the bounty, which takes \~4s on a good PC. This can take longer on slower systems. To get the most accurate time, stay in the elevator until this timer hits 8s after resetting. Only the host’s timer resets. This system helps avoid giving an unfair advantage to people with an extremely good PC.
@@ -42,7 +42,7 @@ Video (click to play/pause):
 
 <div style="padding-bottom: 20px;">
 <video width="100%" onclick="this.paused?this.play():this.pause();arguments[0].preventDefault();" loop muted>
- <source type="video/mp4" src="/media/overshoot.mp4">
+ <source type="video/mp4" src="https://cdn.profit-taker.com/overshoot.mp4">
 </video>
 </div>
 
@@ -62,7 +62,7 @@ Video (click to play/pause):
 
 <div style="padding-bottom: 20px;">
 <video width="100%" onclick="this.paused?this.play():this.pause();arguments[0].preventDefault();" loop muted>
- <source type="video/mp4" src="/media/softmountain.mp4">
+ <source type="video/mp4" src="https://cdn.profit-taker.com/softmountain.mp4">
 </video>
 </div>
 
@@ -74,7 +74,7 @@ Video (click to play/pause):
 
 <div style="padding-bottom: 20px;">
 <video width="100%" onclick="this.paused?this.play():this.pause();arguments[0].preventDefault();" loop muted>
- <source type="video/mp4" src="/media/softlake.mp4">
+ <source type="video/mp4" src="https://cdn.profit-taker.com/softlake.mp4">
 </video>
 </div>
 
@@ -86,7 +86,7 @@ Video (click to play/pause):
 
 <div style="padding-bottom: 20px;">
 <video width="100%" onclick="this.paused?this.play():this.pause();arguments[0].preventDefault();" loop muted>
- <source type="video/mp4" src="/media/softshrooms.mp4">
+ <source type="video/mp4" src="https://cdn.profit-taker.com/softshrooms.mp4">
 </video>
 </div>
 
@@ -104,7 +104,7 @@ Video (click to play/pause):
 
 <div style="padding-bottom: 20px;">
 <video width="100%" onclick="this.paused?this.play():this.pause();arguments[0].preventDefault();" loop muted>
- <source type="video/mp4" src="/media/hardmountain.mp4">
+ <source type="video/mp4" src="https://cdn.profit-taker.com/hardmountain.mp4">
 </video>
 </div>
 
@@ -118,7 +118,7 @@ Video (click to play/pause):
 
 <div style="padding-bottom: 20px;">
 <video width="100%" onclick="this.paused?this.play():this.pause();arguments[0].preventDefault();" loop muted>
- <source type="video/mp4" src="/media/hardlake.mp4">
+ <source type="video/mp4" src="https://cdn.profit-taker.com/hardlake.mp4">
 </video>
 </div>
 
@@ -130,7 +130,7 @@ Video (click to play/pause):
 
 <div style="padding-bottom: 20px;">
 <video width="100%" onclick="this.paused?this.play():this.pause();arguments[0].preventDefault();" loop muted>
- <source type="video/mp4" src="/media/hardshrooms.mp4">
+ <source type="video/mp4" src="https://cdn.profit-taker.com/hardshrooms.mp4">
 </video>
 </div>
 
@@ -165,7 +165,7 @@ Video (click to play/pause):
 
 <div style="padding-bottom: 20px;">
 <video width="100%" onclick="this.paused?this.play():this.pause();arguments[0].preventDefault();" loop muted>
- <source type="video/mp4" src="/media/empslam.mp4">
+ <source type="video/mp4" src="https://cdn.profit-taker.com/empslam.mp4">
 </video>
 </div>
 
@@ -176,7 +176,7 @@ Video (click to play/pause):
 
 <div style="padding-bottom: 20px;">
 <video width="100%" onclick="this.paused?this.play():this.pause();arguments[0].preventDefault();" loop muted>
- <source type="video/mp4" src="/media/ptlaser.mp4">
+ <source type="video/mp4" src="https://cdn.profit-taker.com/ptlaser.mp4">
 </video>
 </div>
 
@@ -190,7 +190,7 @@ Video (click to play/pause):
 
 <div style="padding-bottom: 20px;">
 <video width="100%" onclick="this.paused?this.play():this.pause();arguments[0].preventDefault();" loop muted>
- <source type="video/mp4" src="/media/mortar.mp4">
+ <source type="video/mp4" src="https://cdn.profit-taker.com/mortar.mp4">
 </video>
 </div>
 
@@ -201,14 +201,14 @@ Video (click to play/pause):
 
 <div style="padding-bottom: 20px;">
 <video width="100%" onclick="this.paused?this.play():this.pause();arguments[0].preventDefault();" loop muted>
- <source type="video/mp4" src="/media/legzap.mp4">
+ <source type="video/mp4" src="https://cdn.profit-taker.com/legzap.mp4">
 </video>
 </div>
 
 *As you can see in the gif, the laser attack doesn’t just come from the front*
 
 <div style="width: 100%; text-align: left;">
-    <img src="/media/legzap.png" alt="legzap" style="width: 100%; height: auto;">
+    <img src="https://cdn.profit-taker.com/legzap.png" alt="legzap" style="width: 100%; height: auto;">
 </div>
 
 *Red is the laser attack, blue is the leg zap. Smile is the front*
@@ -222,7 +222,7 @@ Video (click to play/pause):
 
 <div style="padding-bottom: 20px;">
 <video width="100%" onclick="this.paused?this.play():this.pause();arguments[0].preventDefault();" loop muted>
- <source type="video/mp4" src="/media/bounce.mp4">
+ <source type="video/mp4" src="https://cdn.profit-taker.com/bounce.mp4">
 </video>
 </div>
 
@@ -234,13 +234,13 @@ Video (click to play/pause):
 
 <div style="padding-bottom: 0px;">
 <video width="100%" onclick="this.paused?this.play():this.pause();arguments[0].preventDefault();" loop muted>
- <source type="video/mp4" src="/media/bluewall1.mp4">
+ <source type="video/mp4" src="https://cdn.profit-taker.com/bluewall1.mp4">
 </video>
 </div>
 
 <div style="padding-bottom: 20px;">
 <video width="100%" onclick="this.paused?this.play():this.pause();arguments[0].preventDefault();" loop muted>
- <source type="video/mp4" src="/media/bluewall2.mp4">
+ <source type="video/mp4" src="https://cdn.profit-taker.com/bluewall2.mp4">
 </video>
 </div>
 
@@ -251,7 +251,7 @@ __Profit-Taker movement and you:__
 <u>**The most important thing to do is stay in front of Profit-Taker.**</u> If she targets someone more than 10-20 degrees off directly in front of her, she will turn to face them. This is generally a bad thing, as it can quickly ruin your ability to shoot some limbs (especially if you’re using mech) and you will be generally unable to reliably hit precise spots while Profit-Taker is moving. Volt is most sensitive to Profit-Taker moving due to his shields, which block a lot of the damage from Profit-Taker while being essential to many parts of the meta setup.
 
 <div style="width: 60%; text-align: left;">
-    <img src="/media/angle.png" alt="angle" style="width: 100%; height: auto;">
+    <img src="https://cdn.profit-taker.com/angle.png" alt="angle" style="width: 100%; height: auto;">
 </div>
 
 TL;DR: For best results, stay in the green area when not playing Volt, since Volt’s shields protect him from the laser attack. The yellow area is where the laser attack happens, if you’re outside of the green area, Profit-Taker will turn to face you.
@@ -293,7 +293,7 @@ Once the swing has finished, the melee returns to the idle animation in the wind
 When you melee while aim gliding (like you need to for contagion) you get ‘locked’ at your current height during every frame of the melee animation, this is known as Air Lock. Wind-up, swing, and wind-down all scale with attack speed, however, certain melee types take noticeably longer to complete certain parts of the animation, and the scaling appears to be uneven.
 
 <div style="width: 50%; text-align: left;">
-    <img src="/media/meleetimingsidk.png" alt="meleetimingsidk" style="width: 100%; height: auto;">
+    <img src="https://cdn.profit-taker.com/meleetimingsidk.png" alt="meleetimingsidk" style="width: 100%; height: auto;">
 </div>
 
 *This swing scales more with attack speed than wind-up or wind-down do.*

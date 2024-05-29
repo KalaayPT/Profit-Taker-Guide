@@ -3,11 +3,11 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "Profit-Taker Guide",
   description: 'New, improved and no longer a Google Doc!',
+  head: [['link', { rel: 'icon', href: 'https://cdn.profit-taker.com/favicon.ico' }]],
   themeConfig: {
     search: {
       provider: 'local'
     },
-    sidebarDepth: 4,
     appearance: 'dark',
     nav: [
       { text: 'Beginner', link: '/beginner/welcome' },
@@ -18,7 +18,7 @@ export default defineConfig({
           { text: 'Bugs', link: '/miscellaneous/bugs' },
           { text: 'Resources used', link: '/miscellaneous/resources-used-honorable-mentions.md' },
           { text: 'Privacy Policy', link: '/miscellaneous/privacy-policy.md' },
-          { text: 'Calculator', link: 'https://docs.google.com/spreadsheets/d/1jcbUMplWUc0nU-MucVWycNe82CCNhQBsKZElMQb0HnQ' },
+          { text: 'Calculator', link: 'https://calc.profit-taker.com' },
           { text: 'Analyzer', link: 'https://basi.is-a.dev/pta/' },
         ]
       }
@@ -57,7 +57,7 @@ export default defineConfig({
                 { text: 'Bugs', link: '/miscellaneous/bugs' },
                 { text: 'Resources used', link: '/miscellaneous/resources-used-honorable-mentions.md' },
                 { text: 'Privacy Policy', link: '/miscellaneous/privacy-policy.md' },
-                { text: 'Calculator', link: 'https://docs.google.com/spreadsheets/d/1jcbUMplWUc0nU-MucVWycNe82CCNhQBsKZElMQb0HnQ' },
+                { text: 'Calculator', link: 'https://calc.profit-taker.com' },
                 { text: 'Analyzer', link: 'https://basi.is-a.dev/pta/' },
               ]
             },
@@ -93,7 +93,7 @@ export default defineConfig({
                 { text: 'Bugs', link: '/miscellaneous/bugs' },
                 { text: 'Resources used', link: '/miscellaneous/resources-used-honorable-mentions.md' },
                 { text: 'Privacy Policy', link: '/miscellaneous/privacy-policy.md' },
-                { text: 'Calculator', link: 'https://docs.google.com/spreadsheets/d/1jcbUMplWUc0nU-MucVWycNe82CCNhQBsKZElMQb0HnQ' },
+                { text: 'Calculator', link: 'https://calc.profit-taker.com' },
                 { text: 'Analyzer', link: 'https://basi.is-a.dev/pta/' },
               ]
             },

@@ -5,7 +5,7 @@ Mech build doesn’t matter as you shouldn’t spend much time in it. A basic he
 #### **Corvas Build**
 
 <div style="width: 100%; text-align: left;">
-    <img src="/media/corvas_mech.png" alt="corvas_mech" style="width: 100%; height: auto;">
+    <img src="https://cdn.profit-taker.com/corvas_mech.png" alt="corvas_mech" style="width: 100%; height: auto;">
 </div>
 
 [*__Overframe Link__*](https://overframe.gg/build/601657/)
@@ -19,7 +19,7 @@ Mech build doesn’t matter as you shouldn’t spend much time in it. A basic he
 #### **Velocitus Build**
 
 <div style="width: 100%; text-align: left;">
-    <img src="/media/velocitus_mech.png" alt="velocitus_mech" style="width: 100%; height: auto;">
+    <img src="https://cdn.profit-taker.com/velocitus_mech.png" alt="velocitus_mech" style="width: 100%; height: auto;">
 </div>
 
 [*__Overframe Link__*](https://overframe.gg/build/367048/)
@@ -31,7 +31,7 @@ Mech build doesn’t matter as you shouldn’t spend much time in it. A basic he
 #### **Arquebex build (Used to clear Toxin Shield)**
 
 <div style="width: 100%; text-align: left;">
-    <img src="/media/Arquebex_mech.png" alt="Arquebex_mech" style="width: 100%; height: auto;">
+    <img src="https://cdn.profit-taker.com/Arquebex_mech.png" alt="Arquebex_mech" style="width: 100%; height: auto;">
 </div>
 
 [*__Overframe Link__*](https://overframe.gg/build/318743/)
@@ -53,7 +53,7 @@ As the crewmate (more on this [__later__](/advanced/speedrun-strats.html#on-call
 An example of a usable weapon is the Amprex, modded for toxin:
 
 <div style="width: 100%; text-align: left;">
-    <img src="/media/amprex_build.png" alt="amprex_build" style="width: 100%; height: auto;">
+    <img src="https://cdn.profit-taker.com/amprex_build.png" alt="amprex_build" style="width: 100%; height: auto;">
 </div>
 
 [*__Overframe Link__*](https://overframe.gg/build/599307/)
@@ -67,7 +67,7 @@ An example of a usable weapon is the Amprex, modded for toxin:
 #### **Smeeta Kavat**
 
 <div style="width: 100%; text-align: left;">
-    <img src="/media/smeeta_build.png" alt="smeeta_build" style="width: 100%; height: auto;">
+    <img src="https://cdn.profit-taker.com/smeeta_build.png" alt="smeeta_build" style="width: 100%; height: auto;">
 </div>
 
 [*__Overframe Link__*](https://overframe.gg/build/601642/)
@@ -78,7 +78,7 @@ An example of a usable weapon is the Amprex, modded for toxin:
 #### **Wyrm Prime**
 
 <div style="width: 100%; text-align: left;">
-    <img src="/media/wyrm_build.png" alt="wyrm_build" style="width: 100%; height: auto;">
+    <img src="https://cdn.profit-taker.com/wyrm_build.png" alt="wyrm_build" style="width: 100%; height: auto;">
 </div>
 
 [*__Overframe Link__*](https://overframe.gg/build/396909/)
@@ -93,7 +93,7 @@ __Weapons:__
 #### **Vulklok Build**
 
 <div style="width: 100%; text-align: left;">
-    <img src="/media/vulklok_build.png" alt="vulklok_build" style="width: 100%; height: auto;">
+    <img src="https://cdn.profit-taker.com/vulklok_build.png" alt="vulklok_build" style="width: 100%; height: auto;">
 </div>
 
 [*__Overframe Link__*](https://overframe.gg/build/601634/)
@@ -105,7 +105,7 @@ __Weapons:__
 #### **Verglas Build**
 
 <div style="width: 100%; text-align: left;">
-    <img src="/media/verglas_build.png" alt="verglas_build" style="width: 100%; height: auto;">
+    <img src="https://cdn.profit-taker.com/verglas_build.png" alt="verglas_build" style="width: 100%; height: auto;">
 </div>
 
 [*__Overframe Link__*](https://overframe.gg/build/601638/)
