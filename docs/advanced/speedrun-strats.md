@@ -47,7 +47,7 @@ However, there is another major drawback to Pogris: there is very little build v
 Rivenless Pogris build (Which element it is doesn't matter, however what bonus% it is, matters)
 
 <div style="width: 100%; text-align: left;">
-    <img src="/media/pogris.png" alt="pogris" style="width: 100%; height: auto;">
+    <img src="https://cdn.profit-taker.com/pogris.png" alt="pogris" style="width: 100%; height: auto;">
 </div>
 
 [*__Overframe Link__*](https://overframe.gg/build/602193/)
@@ -71,7 +71,7 @@ Here are your mod options for this build:
 
 Here are the ranges of required power strength with various setups:
 <div style="width: 100%; text-align: left;">
-    <img src="/media/pogris_recommendations.png" alt="pogris_recommendations" style="width: 100%; height: auto;">
+    <img src="https://cdn.profit-taker.com/pogris_recommendations.png" alt="pogris_recommendations" style="width: 100%; height: auto;">
 </div>
 
 Here’s what you can do on volt and elsewhere to boost your Pogris damage beyond power strength mods:
@@ -150,7 +150,7 @@ Video (click to play/pause):
 
 <div style="padding-bottom: 20px;">
 <video width="100%" onclick="this.paused?this.play():this.pause();arguments[0].preventDefault();" loop muted>
- <source type="video/mp4" src="/media/pushstrat.mp4">
+ <source type="video/mp4" src="https://cdn.profit-taker.com/pushstrat.mp4">
 </video>
 </div>
 
@@ -166,13 +166,13 @@ Placing mech can and should be done during landing to avoid a time loss. See the
 
 <div style="padding-bottom: 0px;">
 <video width="100%" onclick="this.paused?this.play():this.pause();arguments[0].preventDefault();" loop muted>
- <source type="video/mp4" src="/media/proximity.mp4">
+ <source type="video/mp4" src="https://cdn.profit-taker.com/proximity.mp4">
 </video>
 </div>
 
 <div style="padding-bottom: 20px;">
 <video width="100%" onclick="this.paused?this.play():this.pause();arguments[0].preventDefault();" loop muted>
- <source type="video/mp4" src="/media/placing.mp4">
+ <source type="video/mp4" src="https://cdn.profit-taker.com/placing.mp4">
 </video>
 </div>
 
@@ -189,13 +189,13 @@ You can only get to 90 FOV in the game settings, but if you use Windowed mode yo
 For the most extreme version of this, if you set your resolution to 32:9 (like in the picture below), you can get a maximized horizontal field of view. This makes it easier to get good Pylon time if you can still aim at them with the reduced vertical height.
 
 <div style="width: 100%; text-align: left;">
-    <img src="/media/fovdemo.png" alt="fovdemo" style="width: 100%; height: auto;">
+    <img src="https://cdn.profit-taker.com/fovdemo.png" alt="fovdemo" style="width: 100%; height: auto;">
 </div>
 
 The only way to do so is by dragging your window until it fits 32:9 resolution.
 
 <div style="width: 100%; text-align: left;">
-    <img src="/media/fovslider.png" alt="fovslider" style="width: 100%; height: auto;">
+    <img src="https://cdn.profit-taker.com/fovslider.png" alt="fovslider" style="width: 100%; height: auto;">
 </div>
 
 However, many people dislike this extreme for several reasons: It wastes a lot of your screen, It can be hard to see the Pylons on a small screen, and it doesn’t do much 21:9 doesn’t do.
@@ -230,7 +230,7 @@ Video (click to play/pause):
 
 <div style="padding-bottom: 20px;">
 <video width="100%" onclick="this.paused?this.play():this.pause();arguments[0].preventDefault();" loop muted>
- <source type="video/mp4" src="/media/unscopedzenith.mp4">
+ <source type="video/mp4" src="https://cdn.profit-taker.com/unscopedzenith.mp4">
 </video>
 </div>
 

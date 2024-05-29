@@ -12,7 +12,7 @@ Suggested Warframe Arcanes include: Tanker, Guardian, Avenger, Acceleration, Vel
 #### **Generic Vex Armor build**
 
 <div style="width: 100%; text-align: left;">
-    <img src="/media/Generic_Vex_Armor.png" alt="Generic_Vex_Armor" style="width: 100%; height: auto;">
+    <img src="https://cdn.profit-taker.com/Generic_Vex_Armor.png" alt="Generic_Vex_Armor" style="width: 100%; height: auto;">
 </div>
 
 [*__Overframe Link__*](https://overframe.gg/build/318737)
@@ -34,7 +34,7 @@ Suggested Warframe Arcanes include: Tanker, Guardian, Avenger, Acceleration, Vel
 #### **Parasitic Armor Vex Armor**
 
 <div style="width: 100%; text-align: left;">
-    <img src="/media/Parasitic_Armor_Vex_Armor.png" alt="Parasitic_Armor_Vex_Armor" style="width: 100%; height: auto;">
+    <img src="https://cdn.profit-taker.com/Parasitic_Armor_Vex_Armor.png" alt="Parasitic_Armor_Vex_Armor" style="width: 100%; height: auto;">
 </div>
 
 [*__Overframe Link__*](https://overframe.gg/build/626814/)
@@ -46,7 +46,7 @@ Suggested Warframe Arcanes include: Tanker, Guardian, Avenger, Acceleration, Vel
 #### **Dispensary Vex Armor**
 
 <div style="width: 100%; text-align: left;">
-    <img src="/media/Dispensary_Vex_Armor.png" alt="Dispensary_Vex_Armor" style="width: 100%; height: auto;">
+    <img src="https://cdn.profit-taker.com/Dispensary_Vex_Armor.png" alt="Dispensary_Vex_Armor" style="width: 100%; height: auto;">
 </div>
 
 [*__Overframe Link__*](https://overframe.gg/build/318702/)
@@ -59,7 +59,7 @@ Suggested Warframe Arcanes include: Tanker, Guardian, Avenger, Acceleration, Vel
 #### **Nourish Vex Armor**
 
 <div style="width: 100%; text-align: left;">
-    <img src="/media/Nourish_Vex_Armor.png" alt="Nourish_Vex_Armor" style="width: 100%; height: auto;">
+    <img src="https://cdn.profit-taker.com/Nourish_Vex_Armor.png" alt="Nourish_Vex_Armor" style="width: 100%; height: auto;">
 </div>
 
 [*__Overframe Link__*](https://overframe.gg/build/451919/)
@@ -79,7 +79,7 @@ __Primary weapon:__
 #### **Zenith Build**
 
 <div style="width: 100%; text-align: left;">
-    <img src="/media/Zenith_Build.png" alt="Zenith_Build" style="width: 100%; height: auto;">
+    <img src="https://cdn.profit-taker.com/Zenith_Build.png" alt="Zenith_Build" style="width: 100%; height: auto;">
 </div>
 
 [*__Overframe Link__*](https://overframe.gg/build/650129/)
@@ -94,7 +94,7 @@ __Primary weapon:__
 #### **Opticor Vandal Build**
 
 <div style="width: 100%; text-align: left;">
-    <img src="/media/Opticor_Vandal_Build.png" alt="Opticor_Vandal_Build" style="width: 100%; height: auto;">
+    <img src="https://cdn.profit-taker.com/Opticor_Vandal_Build.png" alt="Opticor_Vandal_Build" style="width: 100%; height: auto;">
 </div>
 
 [*__Overframe Link__*](https://overframe.gg/build/661307/)
@@ -111,7 +111,7 @@ __Secondary weapon:__
 #### **Tenet Diplos Build**
 
 <div style="width: 100%; text-align: left;">
-    <img src="/media/Vex_Armor_Tenet_Diplos_Build.png" alt="Vex_Armor_Tenet_Diplos_Build" style="width: 100%; height: auto;">
+    <img src="https://cdn.profit-taker.com/Vex_Armor_Tenet_Diplos_Build.png" alt="Vex_Armor_Tenet_Diplos_Build" style="width: 100%; height: auto;">
 </div>
 
 [*__Overframe Link__*](https://overframe.gg/build/661076/)
@@ -127,7 +127,7 @@ __Melee weapon:__
 #### **Exodia Contagion Zaw Build**
 
 <div style="width: 100%; text-align: left;">
-    <img src="/media/balla_eclipse.png" alt="Exodia_Contagion_Zaw_Build" style="width: 100%; height: auto;">
+    <img src="https://cdn.profit-taker.com/balla_eclipse.png" alt="Exodia_Contagion_Zaw_Build" style="width: 100%; height: auto;">
 </div>
 
 [*__Overframe Link__*](https://overframe.gg/build/601643/)
@@ -142,7 +142,7 @@ __Heavy Weapon:__
 #### **Mausolon Build**
 
 <div style="width: 100%; text-align: left;">
-    <img src="/media/Mausolon_Build.png" alt="Mausolon_Build" style="width: 100%; height: auto;">
+    <img src="https://cdn.profit-taker.com/Mausolon_Build.png" alt="Mausolon_Build" style="width: 100%; height: auto;">
 </div>
 
 [*__Overframe Link__*](https://overframe.gg/build/602062/)

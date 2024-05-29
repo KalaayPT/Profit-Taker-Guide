@@ -5,7 +5,7 @@ hero:
   name: "Profit-Taker Guide"
   tagline: a community effort by uumm, Mebius, Iterniam, Kalaay and others
   image:
-    src: /pt-orb.webp
+    src: https://cdn.profit-taker.com/pt-orb.webp
     alt: ProfitTakerOrb
 features:
   - title: Five years of Profit-Taker

@@ -17,7 +17,7 @@ Generally, squads make use of at least one Archgunner, meaning one player who ar
 ### **Volt Build - Squad**
 
 <div style="width: 100%; text-align: left;">
-    <img src="/media/voltbuild.png" alt="voltbuild" style="width: 100%; height: auto;">
+    <img src="https://cdn.profit-taker.com/voltbuild.png" alt="voltbuild" style="width: 100%; height: auto;">
 </div>
 
 [*__Overframe Link__*](https://overframe.gg/build/396847/)
@@ -32,7 +32,7 @@ Generally, squads make use of at least one Archgunner, meaning one player who ar
 ### **Mirage Build - Squad**
 
 <div style="width: 100%; text-align: left;">
-    <img src="/media/miragebuild.png" alt="miragebuild" style="width: 100%; height: auto;">
+    <img src="https://cdn.profit-taker.com/miragebuild.png" alt="miragebuild" style="width: 100%; height: auto;">
 </div>
 
 [*__Overframe Link__*](https://overframe.gg/build/626559/)
@@ -45,7 +45,7 @@ Generally, squads make use of at least one Archgunner, meaning one player who ar
 ### **Chroma Build - Squad**
 
 <div style="width: 100%; text-align: left;">
-    <img src="/media/chromabuild.png" alt="chromabuild" style="width: 100%; height: auto;">
+    <img src="https://cdn.profit-taker.com/chromabuild.png" alt="chromabuild" style="width: 100%; height: auto;">
 </div>
 
 [*__Overframe Link__*](https://overframe.gg/build/626562/)
@@ -60,7 +60,7 @@ Generally, squads make use of at least one Archgunner, meaning one player who ar
 ### **Wisp Build - Squad**
 
 <div style="width: 100%; text-align: left;">
-    <img src="/media/wispbuild.png" alt="wispbuild" style="width: 100%; height: auto;">
+    <img src="https://cdn.profit-taker.com/wispbuild.png" alt="wispbuild" style="width: 100%; height: auto;">
 </div>
 
 [*__Overframe Link__*](https://overframe.gg/build/626566/)
@@ -74,7 +74,7 @@ Generally, squads make use of at least one Archgunner, meaning one player who ar
 ### **Nova build - Squad**
 
 <div style="width: 100%; text-align: left;">
-    <img src="/media/novabuild.png" alt="novabuild" style="width: 100%; height: auto;">
+    <img src="https://cdn.profit-taker.com/novabuild.png" alt="novabuild" style="width: 100%; height: auto;">
 </div>
 
 [*__Overframe Link__*](https://overframe.gg/build/626700/)
@@ -90,13 +90,13 @@ Generally, squads make use of at least one Archgunner, meaning one player who ar
 ### **Build - all Archguns**
 
 <div style="width: 100%; text-align: left;">
-    <img src="/media/imperatorbuild.png" alt="imperatorbuild" style="width: 100%; height: auto;">
+    <img src="https://cdn.profit-taker.com/imperatorbuild.png" alt="imperatorbuild" style="width: 100%; height: auto;">
 </div>
 
 [*__Overframe Link__*](https://overframe.gg/build/626706/)
 
 <div style="width: 25%; text-align: left;">
-    <img src="/media/imperatorriven.png" alt="imperatorriven" style="width: 100%; height: auto;">
+    <img src="https://cdn.profit-taker.com/imperatorriven.png" alt="imperatorriven" style="width: 100%; height: auto;">
 </div>
 
 ## **Squad Pylons**

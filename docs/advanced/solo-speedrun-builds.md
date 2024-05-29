@@ -10,7 +10,7 @@
 by [__Fremy__](https://www.youtube.com/watch?v=glgE1dip6Tc)
 
 <div style="width: 100%; text-align: left;">
-    <img src="/media/chromabyfremy.png" alt="chromabyfremy" style="width: 100%; height: auto;">
+    <img src="https://cdn.profit-taker.com/chromabyfremy.png" alt="chromabyfremy" style="width: 100%; height: auto;">
 </div>
 
 [*__Overframe Link__*](https://overframe.gg/build/610242/)
@@ -35,8 +35,8 @@ If you don’t have PSF, you can replace it with Handspring or add regular Sure 
 To make the best use of the Operator element coverage, Madurai is essential. Void Strike gives you a massive damage increase while also emptying your Operator energy, therefore guaranteeing Eternal Onslaught in the process. The best weapon to use is a Klamora - Certus (7x7) Amp because of its continuous high damage output.
 
 <div style="display: flex; flex-wrap: wrap;">
-    <img src="/media/amparcanes.png" alt="amparcanes" style="max-width: 62.5%; min-width: 267px; padding: 3px;">
-    <img src="/media/ampsetup.png" alt="ampsetup" style="max-width: 37.5%; min-width: 130px; padding: 3px">
+    <img src="https://cdn.profit-taker.com/amparcanes.png" alt="amparcanes" style="max-width: 62.5%; min-width: 267px; padding: 3px;">
+    <img src="https://cdn.profit-taker.com/ampsetup.png" alt="ampsetup" style="max-width: 37.5%; min-width: 130px; padding: 3px">
 </div>
 
 
@@ -45,7 +45,7 @@ To make the best use of the Operator element coverage, Madurai is essential. Voi
 ### **Volt**
 
 <div style="width: 100%; text-align: left;">
-    <img src="/media/voltspeedrunbuild.png" alt="voltspeedrunbuild" style="width: 100%; height: auto;">
+    <img src="https://cdn.profit-taker.com/voltspeedrunbuild.png" alt="voltspeedrunbuild" style="width: 100%; height: auto;">
 </div>
 
 [*__Overframe Link__*](https://overframe.gg/build/610238/)
@@ -59,7 +59,7 @@ Natural Talent can be replaced with Augur Secrets and yellow archon shards or ca
 ### **Kuva Ogris**
 
 <div style="width: 100%; text-align: left;">
-    <img src="/media/ogrisbuild.png" alt="ogrisbuild" style="width: 100%; height: auto;">
+    <img src="https://cdn.profit-taker.com/ogrisbuild.png" alt="ogrisbuild" style="width: 100%; height: auto;">
 </div>
 
 [*__Overframe Link__*](https://overframe.gg/build/610245/)
@@ -67,7 +67,7 @@ Natural Talent can be replaced with Augur Secrets and yellow archon shards or ca
 Kuva Ogris is entirely for pylons. Magazine size mods are so that you have enough shots for all pylons. Damage and multishot on riven lets you always twotick with decent power strength (rip Eclipse). Projectile speed gives the most QoL out of any third stat.
 
 <div style="width: 25%; text-align: left;">
-    <img src="/media/ogrisriven.png" alt="ogrisriven" style="width: 100%; height: auto;">
+    <img src="https://cdn.profit-taker.com/ogrisriven.png" alt="ogrisriven" style="width: 100%; height: auto;">
 </div>
 
 ### **Zenith**
@@ -77,7 +77,7 @@ Kuva Ogris is entirely for pylons. Magazine size mods are so that you have enoug
 ### **Tenet Diplos**
 
 <div style="width: 100%; text-align: left;">
-    <img src="/media/diplosbuild.png" alt="diplosbuild" style="width: 100%; height: auto;">
+    <img src="https://cdn.profit-taker.com/diplosbuild.png" alt="diplosbuild" style="width: 100%; height: auto;">
 </div>
 
 [*__Overframe Link__*](https://overframe.gg/build/396859/)
@@ -85,13 +85,13 @@ Kuva Ogris is entirely for pylons. Magazine size mods are so that you have enoug
 Tenet Diplos doesn’t have much build variety. This build expects riven to have both toxin and cold, however, a riven with only one of the two will work, in which case replace Accelerated Isotope with the missing element. Diplos uses magnetic progenitor.
 
 <div style="width: 25%; text-align: left;">
-    <img src="/media/diplerriven.png" alt="diplerriven" style="width: 100%; height: auto;">
+    <img src="https://cdn.profit-taker.com/diplerriven.png" alt="diplerriven" style="width: 100%; height: auto;">
 </div>
 
 ### **Balla Dagger Zaw**
 
 <div style="width: 100%; text-align: left;">
-    <img src="/media/ballazaw.png" alt="ballazaw" style="width: 100%; height: auto;">
+    <img src="https://cdn.profit-taker.com/ballazaw.png" alt="ballazaw" style="width: 100%; height: auto;">
 </div>
 
 [*__Overframe Link__*](https://overframe.gg/build/396863/)
@@ -99,13 +99,13 @@ Tenet Diplos doesn’t have much build variety. This build expects riven to have
 High attack speed build, it saves a few milliseconds. Volt shield, Vigorous Swap, and Eclipse makes damage-increasing mods unnecessary, so the riven is only for increasing attack speed.
 
 <div style="width: 25%; text-align: left;">
-    <img src="/media/ballariven.png" alt="ballariven" style="width: 100%; height: auto;">
+    <img src="https://cdn.profit-taker.com/ballariven.png" alt="ballariven" style="width: 100%; height: auto;">
 </div>
 
 ### **Mech Velocitus**
 
 <div style="width: 100%; text-align: left;">
-    <img src="/media/mechvelo.png" alt="mechvelo" style="width: 100%; height: auto;">
+    <img src="https://cdn.profit-taker.com/mechvelo.png" alt="mechvelo" style="width: 100%; height: auto;">
 </div>
 
 [*__Overframe Link__*](https://overframe.gg/build/396891/)
@@ -113,13 +113,13 @@ High attack speed build, it saves a few milliseconds. Volt shield, Vigorous Swap
 This is a bless fr riven build without ms. If you have a riven that has ms, then depending on if your riven also has heat/electric you’ll replace either a heat/electric mod or Hollowed Bullets. If no damage blessing, replace Automatic Trigger with Hollowed Bullets (if you don’t have it on already) or a 60/60 heat/electric mod.
 
 <div style="width: 25%; text-align: left;">
-    <img src="/media/mechveloriven.png" alt="mechveloriven" style="width: 100%; height: auto;">
+    <img src="https://cdn.profit-taker.com/mechveloriven.png" alt="mechveloriven" style="width: 100%; height: auto;">
 </div>
 
 ### **Crewmate Torid**
 
 <div style="width: 100%; text-align: left;">
-    <img src="/media/crewmatetorid.png" alt="crewmatetorid" style="width: 100%; height: auto;">
+    <img src="https://cdn.profit-taker.com/crewmatetorid.png" alt="crewmatetorid" style="width: 100%; height: auto;">
 </div>
 
 [*__Overframe Link__*](https://overframe.gg/build/622921/)

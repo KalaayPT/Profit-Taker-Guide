@@ -9,7 +9,7 @@ By uumm
 Warframe builds for Profit-Taker are pretty open to buildcrafting, there are 4 Mods (5, if you’re missing Primed Sure Footed, 3 if you’re using Unairu’s Poise) that you will see on all but the most specialized Profit-Taker builds
 
 <div style="width: 100%; text-align: left;">
-    <img src="/media/framebuilds.png" alt="framebuilds" style="width: 100%; height: auto;">
+    <img src="https://cdn.profit-taker.com/framebuilds.png" alt="framebuilds" style="width: 100%; height: auto;">
 </div>
 
 *If you don’t have it, substitute Sure Footed & Power Drift in place of Primed Sure Footed*
@@ -38,7 +38,7 @@ There is a wide range of utility Mods that range from immensely helpful to quest
 - Sometimes you want **even more power strength!!!** For this, either Umbral Fiber or Augur Secrets, or both.
 
 <div style="width: 50%; text-align: left;">
-    <img src="/media/strength.png" alt="strength" style="width: 100%; height: auto;">
+    <img src="https://cdn.profit-taker.com/strength.png" alt="strength" style="width: 100%; height: auto;">
 </div>
 
 - Peculiar bloom because big flowers
@@ -46,12 +46,12 @@ There is a wide range of utility Mods that range from immensely helpful to quest
 Putting it all together, a more standard build might look like this:
 
 <div style="width: 100%; text-align: left;">
-    <img src="/media/standardbuild.png" alt="standardbuild" style="width: 100%; height: auto;">
+    <img src="https://cdn.profit-taker.com/standardbuild.png" alt="standardbuild" style="width: 100%; height: auto;">
 </div>
 
 There are a few other things that are important to know, too:
 
-- The actual damage increase of Eclipse is related to the local light level and has nothing to do with light sources artificially created by the Player. The damage buff from Eclipse is consistently near or at max on the Orb Vallis.
+- The damage buff from Eclipse is on Eclipse's hold cast by default. Consider inverting Mirage's ability controls in your settings to make Solar Eclipse (the damage buff) a tap cast  
 - Buffs that act as a single stat element like Shock Trooper will poison your available elements by combining your modded single stat elements.
 
 ## **Shield, Pylon, Armor Build Factors**
@@ -123,7 +123,7 @@ To start with, even if a weapon has an innate element like the Cyanex, it is sti
 [__Off meta mechless run ft. cyanex + dagger zaw__](https://www.youtube.com/watch?v=1Dgkwg9n4H4)
 
 <div style="width: 35%; text-align: left;">
-    <img src="/media/cyanex.png" alt="cyanex" style="width: 100%; height: auto;">
+    <img src="https://cdn.profit-taker.com/cyanex.png" alt="cyanex" style="width: 100%; height: auto;">
 </div>
 
 While on the other hand, even though it doesn’t have any innate elements, the Lato Vandal can be quite good due to its stats.
@@ -142,7 +142,7 @@ As a bonus, Profit-Taker runners also look for certain things about a weapon tha
 A generic weapon build will look something like this:
 
 <div style="width: 100%; text-align: left;">
-    <img src="/media/genericweapon.png" alt="genericweapon" style="width: 100%; height: auto;">
+    <img src="https://cdn.profit-taker.com/genericweapon.png" alt="genericweapon" style="width: 100%; height: auto;">
 </div>
 
 The specifics change between primary/secondary/melee, and certain stats are prioritized due to various factors such as available Mods and weapon type.
@@ -158,7 +158,7 @@ Note that with a well-coordinated squad, even the most absurd setups can do impr
 Trying to figure out elemental combinations can get quite confusing, this image from the wiki can help keep track of everything.
 
 <div style="width: 75%; text-align: left;">
-    <img src="/media/elementschart.png" alt="elementschart" style="width: 100%; height: auto;">
+    <img src="https://cdn.profit-taker.com/elementschart.png" alt="elementschart" style="width: 100%; height: auto;">
 </div>
 '
 
@@ -171,11 +171,11 @@ Seekalla is the best grip for most strikes because it is the highest attack spee
 Vargeet II Jai gives you max attack speed and critical chance. With Sacrificial Steel and Vargeet II Jai, all strikes reach 100% cc, making it the de facto choice.
 
 <div style="width: 100%; text-align: left;">
-    <img src="/media/zawspreadsheet1.png" alt="zawspreadsheet1" style="width: 100%; height: auto;">
+    <img src="https://cdn.profit-taker.com/zawspreadsheet1.png" alt="zawspreadsheet1" style="width: 100%; height: auto;">
 </div>
 
 <div style="width: 60%; text-align: left;">
-    <img src="/media/zawspreadsheet2.png" alt="zawspreadsheet2" style="width: 100%; height: auto;">
+    <img src="https://cdn.profit-taker.com/zawspreadsheet2.png" alt="zawspreadsheet2" style="width: 100%; height: auto;">
 </div>
 
 ### **Armor**
@@ -185,7 +185,7 @@ The easiest and least complicated phase, the Armor Phase relies almost entirely 
 Archgun builds are fairly cut and paste, with pretty much all Archguns using the following build:
 
 <div style="width: 100%; text-align: left;">
-    <img src="/media/genericarmor.png" alt="genericarmor" style="width: 100%; height: auto;">
+    <img src="https://cdn.profit-taker.com/genericarmor.png" alt="genericarmor" style="width: 100%; height: auto;">
 </div>
 
 - The biggest difference between the two Archgun builds is generally whether or not Automatic Trigger (60% FR) is used. With some extremely rare exceptions, Containment Breach is the best replacement when you want more single-shot damage over fire rate.
@@ -194,7 +194,7 @@ Archgun builds are fairly cut and paste, with pretty much all Archguns using the
 - The most important part of any build is to mod for Radiation for reasons you can see clearly in the graph below. The relative elemental damage multiplier from Radiation is greater than any other single damage buff that can apply to an Archgun. Cold is never worthwhile, as it doesn’t increase how much Radiation you have, and Radiation doesn’t increase how much Cold you get.
 
 <div style="width: 100%; text-align: left;">
-    <img src="/media/modifierchart.png" alt="modifierchart" style="width: 100%; height: auto;">
+    <img src="https://cdn.profit-taker.com/modifierchart.png" alt="modifierchart" style="width: 100%; height: auto;">
 </div>
 
 Rivens ideally give Archguns 100% cc and/or ms for consistency’s sake, especially in the case of the Velocitus, for which the meta build **requires** critical chance on the Riven.
@@ -230,7 +230,7 @@ Video (click to play/pause):
 
 <div style="padding-bottom: 20px;">
 <video width="100%" onclick="this.paused?this.play():this.pause();arguments[0].preventDefault();" loop muted>
- <source type="video/mp4" src="/media/mausolonarmor.mp4">
+ <source type="video/mp4" src="https://cdn.profit-taker.com/mausolonarmor.mp4">
 </video>
 </div>
 
@@ -320,7 +320,7 @@ Video (click to play/pause):
 
 <div style="padding-bottom: 20px;">
 <video height="100" onclick="this.paused?this.play():this.pause();arguments[0].preventDefault();" loop muted>
- <source type="video/mp4" src="/media/ogrispylons.mp4">
+ <source type="video/mp4" src="https://cdn.profit-taker.com/ogrispylons.mp4">
 </video>
 </div>
 
@@ -332,7 +332,7 @@ Video (click to play/pause):
 
 <div style="padding-bottom: 20px;">
 <video width="100%" onclick="this.paused?this.play():this.pause();arguments[0].preventDefault();" loop muted>
- <source type="video/mp4" src="/media/zenithpylons.mp4">
+ <source type="video/mp4" src="https://cdn.profit-taker.com/zenithpylons.mp4">
 </video>
 </div>
 
@@ -344,7 +344,7 @@ Video (click to play/pause):
 
 <div style="padding-bottom: 20px;">
 <video width="100%" onclick="this.paused?this.play():this.pause();arguments[0].preventDefault();" loop muted>
- <source type="video/mp4" src="/media/opticorpylons.mp4">
+ <source type="video/mp4" src="https://cdn.profit-taker.com/opticorpylons.mp4">
 </video>
 </div>
 
