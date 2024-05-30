@@ -12,12 +12,14 @@ Warframe builds for Profit-Taker are pretty open to buildcrafting, there are 4 M
     <img src="https://cdn.profit-taker.com/framebuilds.png" alt="framebuilds" style="width: 100%; height: auto;">
 </div>
 
-*If you don’t have it, substitute Sure Footed & Power Drift in place of Primed Sure Footed*
+*If you don’t have it, substitute Sure Footed & Fortitude in place of Primed Sure Footed*
 
+:::box
 - Eclipse is used as it's the best available damage buff,
 - Blind Rage and Umbral Intensify bring power strength to appreciable levels,
 - Umbral Vitality is used because shield gating isn’t reliable enough in Profit-Taker to be viable
 - Primed Sure Footed is used because of the sheer number of knockbacks and staggers in the fight.
+:::
 
 This build covers all the basics of a Profit-Taker build. However, this build is not only difficult to use, but it also has quite poor performance as it has very little survivability, no Arcanes, extremely poor energy economy, and none of the normal utility Mods.
 
@@ -28,6 +30,7 @@ To fix these problems and reach a more standard Profit-Taker build you can follo
 
 There is a wide range of utility Mods that range from immensely helpful to questionably useful:
 
+:::box
 - Vigorous Swap is a standard as it is a reliable source of damage due to frequent weapon swaps
 - Sprint boost will improve Archwing speed, and is immensely helpful when in a squad that does not have a Volt
 - Aura doesn’t matter too much, and ideally, it doesn’t make many differences but there are occasions where aura does matter.
@@ -42,6 +45,7 @@ There is a wide range of utility Mods that range from immensely helpful to quest
 </div>
 
 - Peculiar bloom because big flowers
+:::
 
 Putting it all together, a more standard build might look like this:
 
@@ -49,10 +53,11 @@ Putting it all together, a more standard build might look like this:
     <img src="https://cdn.profit-taker.com/standardbuild.png" alt="standardbuild" style="width: 100%; height: auto;">
 </div>
 
-There are a few other things that are important to know, too:
+**There are a few other things that are important to know, too:**
 
 - The damage buff from Eclipse is on Eclipse's hold cast by default. Consider inverting Mirage's ability controls in your settings to make Solar Eclipse (the damage buff) a tap cast  
 - Buffs that act as a single stat element like Shock Trooper will poison your available elements by combining your modded single stat elements.
+
 
 ## **Shield, Pylon, Armor Build Factors**
 
@@ -66,6 +71,7 @@ Profit-Taker's shields are the reason behind 80% of the meta loadout. To cover a
 
 #### **Weapon Elementals**
 
+:::box-brand 
 When building your weapons for Profit-Taker, no Toxin damage is an almost unavoidable problem, to see the reason why consider the current meta weapon elements for solo Profit-Taker:
 
 Secondary: Viral(Cold+**Toxin**) and Heat, innate Mag, optional Radiation
@@ -75,15 +81,17 @@ Melee (Contagion): Gas(**Toxin**\+Heat) and Cold, innate IPS, Blast, Corrosive, 
 [__Operator__](/advanced/speedrun-strats.html#operator-element)/Volt Shield: Electric
 
 With this combination, you're only missing Toxin, and there is no way to fit it in the builds without creating the need to switch to your primary.
+:::
 
 If you try putting it in place of any of the other modded single-stat elements, it will just combine with the dual-stat elements.
 
-To solve this you must do one of the following:
+:::info To solve this you must do one of the following:
 
 - Sacrifice Pylon performance and use a Zenith with toxin on it
 - Use an On Call Crew to cover toxin
 - Use Saryn
 - Get a friend(s) to use an alternate elemental config that covers Toxin
+:::
 
 Going more in depth on how to cover this last missing element:
 
@@ -101,12 +109,13 @@ The only source of unreliability from this setup is the On Call Crew, which ofte
 
 While we’ve mentioned the basics of shields in previous sections, there are some very good reasons the elemental combinations are the way they are. In some cases, it comes down to available Mods, but it mostly has to do with weapon innate elements and fire mode.
 
-The things Profit-Taker runners look for in weapons when looking at shields are:
+:::info The things Profit-Taker runners look for in weapons when looking at shields are:
 
 - High damage when modded for crit.
 - Multiple innate single stat elements (like the Shedu) OR innate dual stat elements (like the Tenet Detron/Diplos)
 - Functionality: if a weapon requires some specific setup to work as advertised, or doesn’t work properly at all, it's not going to be very practical. (like the Shedu, which doesn’t work)
 - Decent fire rate and magazine are optional in theory, but quite important in practice
+:::
 
 Generally, the only weapons in a Profit-Taker loadout not completely built for breaking shields as fast as possible are primary and whatever you’re using to break limbs. You need as many of the 13 elements as you can get. Simply put, if you only have 6 elements, the best run you’re looking at is in the area of 3-4 minutes due to how much time you will need to spend cycling shields. This assumes you have a good understanding of the fight and have well-set up Archguns already.
 
@@ -151,9 +160,7 @@ Once every element a weapon covers can be consistently cleared in one shot, it i
 
 **Rivens MUST be an improvement over at least one of the Mods above or open up a Mod slot, otherwise, they are not worth slotting onto the build**
 
-Note that with a well-coordinated squad, even the most absurd setups can do impressively good runs provided enough damage and most of the elements, like in this sub-2-minute Bonewidow run:
-
-[__Bonewidow profit taker 1 47__](https://www.youtube.com/watch?v=iaFSMatVcHc)
+Note that with a well-coordinated squad, even the most absurd setups can do impressively good runs provided enough damage and most of the elements, like in this sub-2-minute Bonewidow run: [__Bonewidow profit taker 1 47 (Youtube)__](https://www.youtube.com/watch?v=iaFSMatVcHc)
 
 Trying to figure out elemental combinations can get quite confusing, this image from the wiki can help keep track of everything.
 
@@ -203,19 +210,21 @@ Rivens ideally give Archguns 100% cc and/or ms for consistency’s sake, especia
 
 Before getting into the specifics about Archgun setups, make sure that no matter what setup you use, **keybind the gear item** as it massively increases the reliability and versatility of both Heavy Weapon and mech summon.
 
-__Heavy Weapon:__
+##### __Heavy Weapon__
 
-Pros:
+:::success Pros:
 
 - Has access to frame damage buffs such as Eclipse. This means that once you have your Archgun called down, it will shred Profit-Taker legs
 - Is fairly close to the ground, and you can crouch to get lower, letting you get a decent view of all legs from the front
+:::
 
-Cons:
+:::danger Cons:
 
 - Has a \~3s delay to call down Archgun. The animation starts once you put away your current weapon and takes place over a fixed amount of time. If you have a scanner out, the animation will start immediately
 - Due to the Archgun cooldown, explained in build basics, many Archguns miss out on DPS to slot Ammo Chain.
 - You are completely exposed when calling down Archgun, requiring you to either get lucky or plan your positioning around calling down Archgun.
 - After the first Shield Phase, it is extremely common for Profit-Taker to do her laser attack while you’re calling Archgun. Press a/d + slide right before calling Archgun to slide out of the way of this attack, your momentum won’t stop immediately when you’re in the call animation, you need the Archgun deployer on a keybind to do this.
+:::
 
 __Mausolon (Heavy Weapon):__
 
@@ -253,17 +262,19 @@ Cons:
 - Projectile weapon like most Archguns
 - Is affected by [__Archgun Hitbox Bug__](/miscellaneous/bugs.html#archgun-hitbox-bug)
 
-__Mech:__
+##### __Mech__
 
-Pros:
+:::success Pros:
 
 - Instant summon
 - Fairly tanky, don’t need to worry about dying.
+:::
 
-Cons:
+:::danger Cons:
 
 - High camera and weapon position sometimes make rear limbs hard to hit
 - Few damage buffs, and an extremely restrictive meta setup. The forms of damage increase available are as follows: Volt shield, Damage Bless, Tactical Rank 9, and Riven Mods.
+:::
 
 __Velocitus (Necramech):__
 
@@ -281,7 +292,7 @@ Cons:
 - There are only 11 stat combinations of Riven Mods (fewer without a negative) that work for uncharged oneshots. Note that some Rivens oneshot without a CC Mod on, but they have only 74% cc. No Riven is necessary for charged shots
 - To reach those extremely low leg times, you need a Riven that can run lower damage but a higher fire rate build. Bless helps with this, but without Bless, there are two viable stat combinations and grades will decide if a Riven will work or not.
 
-__Corvas (Necramech, non-Prime):__
+__Corvas (Necramech, <span style="color: red;">non-Prime</span>):__
 
 Pros:
 

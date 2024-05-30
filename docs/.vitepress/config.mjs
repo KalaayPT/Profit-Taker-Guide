@@ -1,4 +1,4 @@
-import { defineConfig } from 'vitepress'
+import { defineConfig } from '@lando/vitepress-theme-default-plus/config';
 
 export default defineConfig({
   title: "Profit-Taker Guide",
@@ -30,7 +30,7 @@ export default defineConfig({
           text: 'Beginner',
           items: [
             { text: 'Welcome', link: '/beginner/welcome' },
-            { text: 'Getting Started', link: '/beginner/starting-out' },
+            { text: 'Getting Started', link: '/beginner/getting-started' },
             { text: 'Basic Principles', link: '/beginner/basic-principles' },
 
             {
@@ -42,8 +42,8 @@ export default defineConfig({
                 { text: 'Other Builds', link: '/beginner/other-builds' },
               ]
             },
-            { text: 'Advanced Principles', link: '/beginner/advanced-principles' },
             { text: 'Creating Builds', link: '/beginner/creating-builds' },
+            { text: 'Advanced Principles', link: '/beginner/advanced-principles' },
           ],
         },
         {
@@ -110,5 +110,27 @@ export default defineConfig({
       { icon: 'github', link: 'https://github.com/KalaayPT/Profit-Taker-Guide' }
     ],
     outline: [2, 6],
+    contributors: {
+      merge: 'name',
+      debotify: true,
+      exclude: [
+        'KalaayPT <ha.me445@gmail.com>',
+        'KalaayPT <github.erratic421@passinbox.com>',
+      ],
+      include: [
+        {
+          name: 'KalaayPT',
+          email: 'contact@kalaay.dev',
+          title: 'Maintainer',
+          links: [
+            { icon: 'github', link: 'https://github.com/KalaayPT/' },
+          ],
+          maintainer: true,
+          mergeOnly: true,
+          mergeWith: 'contact@kalaay.dev'
+        },
+      ],
+    },
+    editLink: { pattern: 'https://github.com/KalaayPT/Profit-Taker-Guide/edit/master/docs/:path' },
   }
-})
+});

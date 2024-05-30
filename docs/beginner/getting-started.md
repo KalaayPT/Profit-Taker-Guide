@@ -1,6 +1,6 @@
 # Getting Started
 
-*This section should educate readers on the basic, common sense things essential to learning Profit-Taker, such as how the fight works, RTA timing, and the 6 principles*
+*This and following sections should educate readers on the basic, common sense things essential to learning Profit-Taker*
 
 Profit-Taker is a boss in Orb Vallis that is unlocked once you reach max standing with Solaris United in Fortuna. The fight has three major repeating phases and has a 5-minute time limit towards the end.
 

@@ -11,7 +11,7 @@ This section of the guide is tailored for experienced players looking to push th
 ## How to Use This Guide
 
 Use the menus on the left and right to navigate through the sections and explore different facets of the Profit-Taker fight. All of the expected navigation options like going back and forth after clicking on a link should work.
-:::info Note:
+:::brand Note:
 All the Videos in the Guide are paused by default, and you can click to play/pause them. All of the Videos are also muted by default so don't worry about sound.
 :::
 
@@ -22,4 +22,4 @@ If you ever
 2. you have trouble finding something and think it should be easier to find or
 3. you find information to be missing or hidden 
 
-please contact us on [Discord](https://discord.gg/VfaD56Uj89) or at our email: [contact@profit-taker.com](mailto:contact@profit-taker.com) or open an issue on [GitHub](https://github.com/KalaayPT/Profit-Taker-Guide)
+please contact us on [Discord](https://discord.profit-taker.com) or at our email: [contact@profit-taker.com](mailto:contact@profit-taker.com) or open an issue on [GitHub](https://github.com/KalaayPT/Profit-Taker-Guide)
