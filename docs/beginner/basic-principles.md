@@ -10,11 +10,12 @@ Knockdown immunity fully negates knockdowns and staggers, even those caused by y
 
 You might find builds that use knockdown recovery speed mods, but those are never worth it. Knockdown recovery only affects knockdowns, not staggers. Perhaps more importantly, you’ll still be interrupted very often, which disrupts the flow of the fight. This is why, even if you can only get a 90% chance to resist knockdowns, knockdown immunity should be used instead of knockdown recovery.
 
-Nowadays, good builds deal with knockdowns in one of four ways:
+:::info Nowadays, good builds deal with knockdowns in one of four ways:
 1. Knockdown immunity Mods - Primed Sure Footed or Sure Footed + Fortitude
 2. Unairu’s Poise - active for 40 seconds.
 3. Frames that have their own ways of providing knockdown immunity like Revenant.
 4. Infuse Titania’s Spellbind.
+:::
 
 ## **2\. Surviving**
 
@@ -44,7 +45,7 @@ Fluctus is not practical and will not be considered.
 
 Opticor and Opticor Vandal require you to enter Archwing to get a line of sight to the Pylons and shoot them without spending time on getting close.
 
-The same applies to both Ogris variants, although Ogris allows you to preshoot Pylons, more on that later in [__Pogris__](/advanced/speedrun-strats.html#pogris)
+The same applies to both Ogris variants, although Ogris allows you to preshoot Pylons, more on that later in [__Pogris__](/beginner/advanced-principles.html#pogris)
 
 Zenith, using its Alt-fire, additionally pierces terrain because it has infinite punch through. This means you can stay on the ground and fire at the Pylon waypoints through terrain and shield bubbles alike.
 Unfortunately, Zenith is not readily obtainable. You can only get it when you log in on days 100/300/500/700. Until then, you can use the Kuva Ogris or the Opticor Vandal.
