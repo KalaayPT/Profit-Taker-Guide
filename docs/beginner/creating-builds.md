@@ -268,6 +268,7 @@ Cons:
 
 - Instant summon
 - Fairly tanky, don’t need to worry about dying.
+- This also applies to general survivability: not being exposed while doing the armor phase will make you die less overall
 :::
 
 :::danger Cons:
