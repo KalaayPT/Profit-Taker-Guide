@@ -29,7 +29,7 @@ Suggested Warframe Arcanes include: Tanker, Guardian, Avenger, Acceleration, Vel
 - Steel Charge isn’t special aside from the extra capacity, any aura works.
 - You can replace Primed Mods with non-Primed Mods, and consider running rank 8 Mods instead of rank 10.
 - Using Rage, Energy Nexus, Flow, Preparation and/or amber archon shards can allow you to run without energy pads.
-- Consider running a Decayed Dragon Key or slotting rank 0 Catalyzing Shields to reduce your shieldgate to 0.33s.
+- Consider running a Decaying Dragon Key or slotting rank 0 Catalyzing Shields to reduce your shieldgate to 0.33s.
 :::
 
 #### **Parasitic Armor**
@@ -43,6 +43,8 @@ Suggested Warframe Arcanes include: Tanker, Guardian, Avenger, Acceleration, Vel
 - Sort of a halfway point between Eclipse and normal Vex build, giving a mix of fast shield clears and being tanky. The biggest weakness of Vex armor is the slow start of building your stacks, and removing your shields speeds it up significantly.
 - Using archwing while on the ground makes you take damage and can be used to proc Vex’ damage bonus when at 0 shields. Also procs Avenger. May be inconsistent as client.
 - This build assumes you’re running with an On Call Crewmate. If you don’t have one though, you can use Narrow Minded instead of Primed Continuity.
+- Consider running a Decaying Dragon Key or slotting rank 0 Catalyzing Shields to reduce your shieldgate to 0.33s.
+- Activating parasitic armor also activates your shield gate even though your healthbar stays red.
 :::
 
 #### **Dispensary**

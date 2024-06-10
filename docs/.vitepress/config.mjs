@@ -119,6 +119,7 @@ export default defineConfig({
       ],
       include: [
         {
+          avatar: 'https://avatars.githubusercontent.com/u/146133939',
           name: 'KalaayPT',
           email: 'contact@kalaay.dev',
           title: 'Maintainer',
