@@ -149,6 +149,10 @@ __Melee weapon:__
 
 __Heavy Weapon:__
 
+:::danger ATTENTION:
+We are currently in the process of reviewing the changes caused by the Jade update. These changes almost exclusively affect Archgun performance and the main takeaway is that Magnetic damage is now needed instead of Radiation. Profit Taker's legs also have more health now. We will update the builds as soon as possible
+:::
+
 #### **Mausolon Build**
 
 <div style="width: 100%; text-align: left;">

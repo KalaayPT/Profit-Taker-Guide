@@ -7,11 +7,11 @@
   "scripts": {
     "docs:dev": "vitepress dev docs",
     "docs:build": "vitepress build docs",
-    "docs:preview": "vitepress preview docs",
-    "docs:compress": "gzipper compress docs/.vitepress/dist --gzip-level 9 --remove-larger"
+    "docs:preview": "vitepress preview docs"
   },
   "dependencies": {
-    "gzipper": "^7.2.0",
+    "@orestbida/iframemanager": "^1.2.5",
+    "vanilla-cookieconsent": "^3.0.1",
     "vue": "^3.4.23"
   }
 }
