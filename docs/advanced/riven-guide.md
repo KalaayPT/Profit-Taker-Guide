@@ -61,6 +61,10 @@ Avoid Physical Damage (IPS), Crit Chance, and Attack Speed;
 
 ## **Velocitus**
 
+:::danger ATTENTION:
+We are currently in the process of reviewing the changes caused by the Jade update. These changes almost exclusively affect Archgun performance and the main takeaway is that Magnetic damage is now needed instead of Radiation. Profit Taker's legs also have more health now. We will update the builds as soon as possible
+:::
+
 **Calculated with S grades & FR build, all Rivens can use non-FR build. Grades matter.**
 
 <u>**CC Corpus rolls:**</u>

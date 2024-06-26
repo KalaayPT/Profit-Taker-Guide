@@ -86,7 +86,9 @@ This is the guide as it was the day the Jan 2023 update dropped.
 
 **Vaeli's Dante Pogris Guide**
 
-[https://docs.google.com/document/d/1jW6TAy_69XElE7u7kJJzOjCZeI6IImL2A9Mszx21OlA/edit](https://docs.google.com/document/d/1jW6TAy_69XElE7u7kJJzOjCZeI6IImL2A9Mszx21OlA/edit)
+[https://tinyurl.com/DantePogris](https://tinyurl.com/DantePogris)
+
+now integrated into [Speedrun Strats](/advanced/speedrun-strats.html#fast-pogris-pylons-double-shot-void-strike)
 
 **Neemiii’s Profit-Taker loadout and Riven guides (posted on the Warframe Community Discord):**
 
@@ -110,7 +112,7 @@ His Riven guide was used as a base for this guide’s Riven guide.
 
 **Kalaay’s Profit-Taker guide:**
 
-[easy universal profit taker setup](https://youtu.be/lwpmGCcgrE0?si=ZEYQwKpj3d9PHqCm)
+[youtu.be/lwpmGCcgrE0](https://youtu.be/lwpmGCcgrE0)
 
 **Mebius’ guide (Chinese):**  
 [__【Warframe】电男大蜘蛛竞速攻略全方位详解（2022最新版）__](https://www.bilibili.com/video/BV1nL4y1M7nz)  
@@ -118,11 +120,11 @@ This guide popularized and brought up-to-date Profit-Taker speedruns to the Chin
 
 **Axel’s Profit-Taker guide:**
 
-[DEFEAT PROFIT TAKER IN UNDER 3 MINUTES SOLO | IN DEPTH GUIDE TO THE PROFIT TAKER ORB](https://youtu.be/gegyu6zEWxo?si=p_ZmZC06RB_BENKZ)
+[youtu.be/gegyu6zEWxo](https://youtu.be/gegyu6zEWxo)
 
 **RoboSt3alth’s Profit-Taker guide:**
 
-[Fast & Easy Profit Taker - A Full In Depth Warframe PT Boss Guide [THE BEST CREDIT FARM]](https://youtu.be/oWvet2JCypU?si=UzEu4SZer1d-EBo4)
+[youtu.be/oWvet2JCypU](https://youtu.be/oWvet2JCypU)
 
 These two guides were at the time, and for a long time afterward, the most accurate and up-to-date Profit-Taker guides on youtube. As of the publishing of the first version of this guide, they were still the best.
 

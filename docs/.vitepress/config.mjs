@@ -102,7 +102,7 @@ export default defineConfig({
       ],
     },
     footer: {
-      message: 'released under MIT license',
+      message: 'Released under the MIT License.',
       copyright: 'Copyright © 2024-present Kalaay, ZeyroX, Reuzehagel',
     },
     socialLinks: [

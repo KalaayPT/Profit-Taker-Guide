@@ -134,7 +134,7 @@ However, many people dislike this extreme for several reasons: It wastes a lot o
 
 Ultimately this is just a personal thing, mess around with various resolutions and see what works best for you.
 
-## **Operator element**
+## **Operator Element**
 
 **Note: this will invalidate a run for the purpose of posting on the speedrun.com leaderboards.**
 
