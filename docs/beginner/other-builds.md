@@ -2,6 +2,10 @@
 
 Mech build doesn’t matter as you shouldn’t spend much time in it. A basic health Mod should be enough if you have problems.
 
+:::danger ATTENTION:
+We are currently in the process of reviewing the changes caused by the Jade update. These changes almost exclusively affect Archgun performance and the main takeaway is that Magnetic damage is now needed instead of Radiation. We will update the builds as soon as possible
+:::
+
 #### **Corvas Build**
 
 <div style="width: 100%; text-align: left;">
