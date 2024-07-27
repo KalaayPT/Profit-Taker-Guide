@@ -105,7 +105,7 @@ High attack speed build, it saves a few milliseconds. Volt shield, Vigorous Swap
 ### **Mech Velocitus**
 
 :::danger ATTENTION:
-We are currently in the process of reviewing the changes caused by the Jade update. These changes almost exclusively affect Archgun performance and the main takeaway is that Magnetic damage is now needed instead of Radiation. Profit Taker's legs also have more health now. We will update the builds as soon as possible
+We are currently in the process of reviewing the changes caused by the Jade update. These changes almost exclusively affect Archgun performance and the main takeaway is that Magnetic damage is now needed instead of Radiation. Profit Taker's legs also have more health now. We will update the builds as soon as possible (whenever Overframe adds Primed Dual Rounds so we can update the screenshots)
 :::
 
 <div style="width: 100%; text-align: left;">
