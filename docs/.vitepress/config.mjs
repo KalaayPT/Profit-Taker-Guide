@@ -4,11 +4,11 @@ export default defineConfig({
   title: "Profit-Taker Guide",
   description: 'New, improved and no longer a Google Doc!',
   head: [['link', { rel: 'icon', href: 'https://cdn.profit-taker.com/favicon.ico' }]],
+  appearance: 'dark',
   themeConfig: {
     search: {
       provider: 'local'
     },
-    appearance: 'dark',
     nav: [
       { text: 'Beginner', link: '/beginner/welcome' },
       { text: 'Advanced', link: '/advanced/welcome' },

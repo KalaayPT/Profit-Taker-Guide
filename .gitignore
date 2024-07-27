@@ -1,2 +1,3 @@
 /docs/.vitepress/dist
 /.vscode
+/docs/.vitepress/cache
