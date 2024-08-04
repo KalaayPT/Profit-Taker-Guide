@@ -150,7 +150,11 @@ __Melee weapon:__
 __Heavy Weapon:__
 
 :::danger ATTENTION:
-We are currently in the process of reviewing the changes caused by the Jade update. These changes almost exclusively affect Archgun performance and the main takeaway is that Magnetic damage is now needed instead of Radiation. Profit Taker's legs also have more health now. We will update the builds as soon as possible (whenever Overframe adds Primed Dual Rounds so we can update the screenshots)
+The Jade Shadows Update changed the way archgun calculations and damage resistances work so our archgun builds are no longer up to date. We will update the builds as soon as possible (whenever Overframe adds Primed Dual Rounds so we can update the screenshots). 
+
+Main takeaways are as follows: Everything has more health and Profit-Taker is now weak to magnetic
+
+For now, just replace radiation with magnetic and fire rate with Primed Dual Rounds in your archgun builds.
 :::
 
 #### **Mausolon Build**
