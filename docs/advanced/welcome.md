@@ -30,4 +30,4 @@ If you ever
 2. you have trouble finding something and think it should be easier to find or
 3. you find information to be missing or hidden 
 
-please contact us on [Discord](https://discord.profit-taker.com) or at our email: [contact@profit-taker.com](mailto:contact@profit-taker.com) or open an issue on [GitHub](https://github.com/KalaayPT/Profit-Taker-Guide)
+you can reach out to us on [Discord](https://discord.profit-taker.com), email us at [contact@profit-taker.com](mailto:contact@profit-taker.com), or open an issue on [GitHub](https://github.com/KalaayPT/Profit-Taker-Guide)
