@@ -29,7 +29,7 @@ else
 fi
 
 # Run npm install
-npm install
+/opt/plesk/node/7/bin/npm install
 
 # Restore the custom files from backup
 if [ -f "$CUSTOM_FILE_1" ]; then
@@ -50,4 +50,4 @@ echo "Deployment script executed successfully."
 
 
 # build website
-npm run docs:build
+/opt/plesk/node/7/bin/npm run docs:build
