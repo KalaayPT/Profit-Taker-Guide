@@ -1,7 +1,7 @@
 <script lang="ts" setup>
 import { ref, onMounted } from 'vue';
-import type { ButtonTranslations } from '../../../../types/local-search';
-import { createSearchTranslate } from '../support/translation';
+import type { ButtonTranslations } from '../../../../types/local-search'
+import { createSearchTranslate } from '../support/translation'
 
 // Button-Translations
 const defaultTranslations: { button: ButtonTranslations } = {
@@ -136,7 +136,7 @@ onMounted(() => {
   height: 16px;
   color: var(--vp-c-text-1);
   fill: currentColor;
-  transition: color 0.25s;
+  transition: color 0.5s;
 }
 
 .DocSearch-Button:hover .DocSearch-Search-Icon {
@@ -160,7 +160,7 @@ onMounted(() => {
   font-size: 13px;
   font-weight: 500;
   color: var(--vp-c-text-2);
-  transition: color 0.25s;
+  transition: color 0.5s;
 }
 
 .DocSearch-Button:hover .DocSearch-Button-Placeholder {
