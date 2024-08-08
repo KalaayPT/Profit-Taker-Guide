@@ -74,9 +74,9 @@ Profit-Taker's shields are the reason behind 80% of the meta loadout. To cover a
 :::box-brand 
 When building your weapons for Profit-Taker, no Toxin damage is an almost unavoidable problem, to see the reason why consider the current meta weapon elements for solo Profit-Taker:
 
-Secondary: Viral(Cold+**Toxin**) and Heat, innate Mag, optional Radiation
+Secondary: Viral(Cold+**Toxin**), Heat, innate Mag, and optional Radiation
 
-Melee (Contagion): Gas(**Toxin**\+Heat) and Cold, innate IPS, Blast, Corrosive, Radiation
+Melee (Contagion): Gas(**Toxin**\+Heat), Cold, innate IPS, Blast (covered by Exodia Contagion), Corrosive (covered by Melee Exposure), and Radiation
 
 [__Operator__](/advanced/speedrun-strats.html#operator-element)/Volt Shield: Electric
 
