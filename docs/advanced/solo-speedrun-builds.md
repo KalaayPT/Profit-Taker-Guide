@@ -96,7 +96,7 @@ Tenet Diplos doesn’t have much build variety. This build expects riven to have
 
 [*__Overframe Link__*](https://overframe.gg/build/396863/)
 
-High attack speed build, it saves a few milliseconds. Volt shield, Vigorous Swap, and Eclipse makes damage-increasing mods unnecessary, so the riven is only for increasing attack speed. Note that if your riven doesn't have heat or cold you must still have gas (heat + toxin), cold and hopefully radiation (with focus radon) covered by mods, so swap mods as necessary with elements taking priority over QOL. For more information on which elements are covered by each weapon, [__Creating Builds__](https://profit-taker.com/beginner/creating-builds.html#shield-pylon-armor-build-factors).
+High attack speed build, it saves a few milliseconds. Volt shield, Vigorous Swap, and Eclipse makes damage-increasing mods unnecessary. The riven goes over one of the elemental mods for gas and cold, in this example it replaces the heat mod and is otherwise only for increasing attack speed.
 
 <div style="width: 25%; text-align: left;">
     <img src="https://cdn.profit-taker.com/ballariven.png" alt="ballariven" style="width: 100%; height: auto;">
