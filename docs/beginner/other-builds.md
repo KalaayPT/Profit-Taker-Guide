@@ -16,7 +16,7 @@ For now, just replace radiation with magnetic and fire rate with Primed Dual Rou
     <img src="https://cdn.profit-taker.com/corvas_mech.png" alt="corvas_mech" style="width: 100%; height: auto;">
 </div>
 
-:::info [*__Overframe Link__*](https://overframe.gg/build/601657/)
+:::info [*__Overframe Link__*](https://overframe.gg/build/699246/)
 
 - For use on Necramech, this build can oneshot limbs if you charge it enough.
 - Corvas is a good pick if you plan on getting rivens down the line, as it has a lot of viable riven variety.
