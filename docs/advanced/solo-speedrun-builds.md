@@ -96,7 +96,7 @@ Tenet Diplos doesn’t have much build variety. This build expects riven to have
 
 [*__Overframe Link__*](https://overframe.gg/build/396863/)
 
-High attack speed build, it saves a few milliseconds. Volt shield, Vigorous Swap, and Eclipse makes damage-increasing mods unnecessary, so the riven is only for increasing attack speed.
+High attack speed build, it saves a few milliseconds. Volt shield, Vigorous Swap, and Eclipse makes damage-increasing mods unnecessary. The riven goes over one of the elemental mods for gas and cold, in this example it replaces the heat mod and is otherwise only for increasing attack speed.
 
 <div style="width: 25%; text-align: left;">
     <img src="https://cdn.profit-taker.com/ballariven.png" alt="ballariven" style="width: 100%; height: auto;">
