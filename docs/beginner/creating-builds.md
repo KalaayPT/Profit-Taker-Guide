@@ -187,6 +187,10 @@ Vargeet II Jai gives you max attack speed and critical chance. With Sacrificial 
 
 ### **Armor**
 
+:::warning ATTENTION:
+The Jade Shadows Update changed the way archgun calculations and damage resistances work so some of the archgun info may not be up to date yet. Main takeaway is that Profit-Taker is now weak to magnetic.
+:::
+
 The easiest and least complicated phase, the Armor Phase relies almost entirely on your choice in Archgun and build, so here are a few helpful tips and the pros and cons of the four best setups.
 
 Archgun builds are fairly cut and paste, with pretty much all Archguns using the following build:
@@ -199,10 +203,6 @@ Archgun builds are fairly cut and paste, with pretty much all Archguns using the
 - Dual Rounds might not be the best if you want maximum reliability. If you have a Riven that gives >100% cc with Critical Focus and Parallax Scope but does not have multishot, it might be best to replace Dual Rounds with said Riven.
 - Sometimes it is best to replace Hollowed Bullets or Parallax Scope with a Riven and use Automatic Trigger. After all, if you consistently (100% of the time) one or two-shot legs without the Mods equipped then there is no reason for them to be equipped.
 - The most important part of any build is to mod for Radiation for reasons you can see clearly in the graph below. The relative elemental damage multiplier from Radiation is greater than any other single damage buff that can apply to an Archgun. Cold is never worthwhile, as it doesn’t increase how much Radiation you have, and Radiation doesn’t increase how much Cold you get.
-
-<div style="width: 100%; text-align: left;">
-    <img src="https://cdn.profit-taker.com/modifierchart.png" alt="modifierchart" style="width: 100%; height: auto;">
-</div>
 
 Rivens ideally give Archguns 100% cc and/or ms for consistency’s sake, especially in the case of the Velocitus, for which the meta build **requires** critical chance on the Riven.
 

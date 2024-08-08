@@ -167,27 +167,22 @@ __Melee weapon:__
 
 __Heavy weapon:__
 
-:::danger ATTENTION:
-The Jade Shadows Update changed the way archgun calculations and damage resistances work so our archgun builds are no longer up to date. We will update the builds as soon as possible (whenever Overframe adds Primed Dual Rounds so we can update the screenshots). 
-
-Main takeaways are as follows: Everything has more health and Profit-Taker is now weak to magnetic
-
-For now, just replace radiation with magnetic and fire rate with Primed Dual Rounds in your archgun builds.
-:::
-
 #### **Mausolon Build**
+
+:::warning ATTENTION:
+We are using a workaround for the build screenshots, so capacity and multishot stats on archguns wont be displayed correctly
+:::
 
 <div style="width: 100%; text-align: left;">
     <img src="https://cdn.profit-taker.com/Mausolon_eclipse.png" alt="Mausolon_eclipse" style="width: 100%; height: auto;">
 </div>
 
-:::info [*__Overframe Link__*](https://overframe.gg/build/328827/)
+:::info [*__Overframe Link__*](https://overframe.gg/build/706001/)
 
-- Consider replacing Automatic Trigger with Containment Breach for more damage.
-- People commonly don’t have Dual Rounds or Critical Focus, replace them with the Heat/Electric 60/60 Mods for best results.
-- Running Ammo Chain instead of Dual Rounds/Automatic Trigger to avoid cooldowns, especially between second and third legs, is also a possibility
+- People commonly don’t have Primed Dual Rounds or Critical Focus, if so, replace them with Normal Dual Rounds, Sabot Rounds or the Cold/Electric 60/60 Mods for best results.
+- Running Ammo Chain instead of Dual Rounds/Automatic Trigger to avoid cooldowns, especially between second and third legs, is a possibility.
 - Running Vigorous Swap greatly impacts the amount of damage you deal with Heavy Weapons, as it applies **after** the animation has finished, and is therefore usable for doing the leg phase
 :::
 
-**Prisma Dual Decurion:**   
-Runs the same build as Mausolon but has a faster fire rate. Prisma Dual Decurion is quite unforgiving when it comes to wasting ammo, consider running Mausolon instead.
+**Prisma Dual Decurions:**   
+Runs the same build as Mausolon but has a faster fire rate. Prisma Dual Decurions are quite unforgiving when it comes to wasting ammo, consider running Mausolon instead.

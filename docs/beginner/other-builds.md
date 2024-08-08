@@ -1,13 +1,11 @@
+# Other Builds: Mech, Companion, Crewmate
+
 ## **Mech Setup**
 
 Mech build doesn’t matter as you shouldn’t spend much time in it. A basic health Mod should be enough if you have problems.
 
-:::danger ATTENTION:
-The Jade Shadows Update changed the way archgun calculations and damage resistances work so our archgun builds are no longer up to date. We will update the builds as soon as possible (whenever Overframe adds Primed Dual Rounds so we can update the screenshots). 
-
-Main takeaways are as follows: Everything has more health and Profit-Taker is now weak to magnetic
-
-For now, just replace radiation with magnetic and fire rate with Primed Dual Rounds in your archgun builds.
+:::warning ATTENTION:
+We are using a workaround for the build screenshots, so capacity and multishot stats on archguns wont be displayed correctly
 :::
 
 #### **Corvas Build**
@@ -18,9 +16,9 @@ For now, just replace radiation with magnetic and fire rate with Primed Dual Rou
 
 :::info [*__Overframe Link__*](https://overframe.gg/build/699246/)
 
-- For use on Necramech, this build can oneshot limbs if you charge it enough.
-- Corvas is a good pick if you plan on getting rivens down the line, as it has a lot of viable riven variety.
-- Fire rate is a bit low, so using Heavy Weapon may be faster.
+- For use on Necramech, this build can twoshot limbs if you fully charge it.
+- Corvas has a lot of viable riven variety.
+- Fire rate is low, so using Heavy Weapon may be faster.
 - The build uses Primed Rubedo-Lined Barrel even if you’re using vex armor because Necramech doesn’t get Warframe buffs.
 - Is affected by [__hitbox bug__](/miscellaneous/bugs.html#archgun-hitbox-bug)
 :::
@@ -31,11 +29,12 @@ For now, just replace radiation with magnetic and fire rate with Primed Dual Rou
     <img src="https://cdn.profit-taker.com/velocitus_mech.png" alt="velocitus_mech" style="width: 100%; height: auto;">
 </div>
 
-:::info [*__Overframe Link__*](https://overframe.gg/build/367048/)
+:::info [*__Overframe Link__*](https://overframe.gg/build/706019/)
 
 - For use on Necramech, this build will oneshot limbs if the weapon is fully charged.
+- If you have damage bless, replace Venomous Clip with Shell Rush.
 - Velocitus shots are either fully charged or not charged, so you need to fully charge it.
-- Velocitus only has a single pellet, so it will hit where you’re aiming, making it easier to avoid going underneath Profit Taker.
+- Charged Velocitus often has hitbox problems, so you will likely have to go under Profit-Taker to hit the back legs. 
 :::
 
 #### **Arquebex build (Used to clear Toxin Shield)**

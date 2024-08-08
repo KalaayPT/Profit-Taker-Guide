@@ -104,21 +104,17 @@ High attack speed build, it saves a few milliseconds. Volt shield, Vigorous Swap
 
 ### **Mech Velocitus**
 
-:::danger ATTENTION:
-The Jade Shadows Update changed the way archgun calculations and damage resistances work so our archgun builds are no longer up to date. We will update the builds as soon as possible (whenever Overframe adds Primed Dual Rounds so we can update the screenshots). 
-
-Main takeaways are as follows: Everything has more health and Profit-Taker is now weak to magnetic
-
-For now, just replace radiation with magnetic and fire rate with Primed Dual Rounds in your archgun builds.
+:::warning ATTENTION:
+We are using a workaround for the build screenshots, so capacity and multishot stats on archguns wont be displayed correctly
 :::
 
 <div style="width: 100%; text-align: left;">
     <img src="https://cdn.profit-taker.com/mechvelo.png" alt="mechvelo" style="width: 100%; height: auto;">
 </div>
 
-[*__Overframe Link__*](https://overframe.gg/build/396891/)
+[*__Overframe Link__*](https://overframe.gg/build/705996/)
 
-This is a bless fr riven build without ms. If you have a riven that has ms, then depending on if your riven also has heat/electric you’ll replace either a heat/electric mod or Hollowed Bullets. If no damage blessing, replace Automatic Trigger with Hollowed Bullets (if you don’t have it on already) or a 60/60 heat/electric mod.
+This build and riven needs damage bless and a volt shield to oneshot. Info about viable riven rolls can be found in the [Riven guide](/advanced/riven-guide.html#velocitus-with-crit-chance)
 
 <div style="width: 25%; text-align: left;">
     <img src="https://cdn.profit-taker.com/mechveloriven.png" alt="mechveloriven" style="width: 100%; height: auto;">
