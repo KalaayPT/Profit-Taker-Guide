@@ -59,44 +59,17 @@ Avoid Damage, Crit Damage, Corpus, Fire Rate, Crit Chance, Multishot
 **Negatives:**
 Avoid Physical Damage (IPS), Crit Chance, and Attack Speed;
 
-## **Velocitus**
+## **Velocitus with Crit Chance**
 
-:::danger ATTENTION:
-The Jade Shadows Update changed the way archgun calculations and damage resistances work so our archgun builds are no longer up to date. We will update the builds as soon as possible (whenever Overframe adds Primed Dual Rounds so we can update the screenshots). 
+**Calculated with S grades. Grades matter and usually need to be around B or higher.**
 
-Main takeaways are as follows: Everything has more health and Profit-Taker is now weak to magnetic
+ - Any combination of **CC** with elec,cold,dtc,cd,dmg on a 3 positive 1 negative riven works if the roll is high enough.
+ - all rivens need the Mech Intrinsic and Damage Blessing to oneshot.
+ - The only combination that is not viable is cc cold elec -.
+ - you can use the [Archgun Calc](https://calc.profit-taker.com) to check whether your Riven oneshots.
 
-For now, just replace radiation with magnetic and fire rate with Primed Dual Rounds in your archgun builds.
-:::
-
-**Calculated with S grades & FR build, all Rivens can use non-FR build. Grades matter.**
-
-<u>**CC Corpus rolls:**</u>
-
-- Heat/Elec: Sabot or FR, will oneshot without Damage Blessing.
-- Crit Damage: Magma/Charged or FR, would then need Damage Blessing or 3 Volt shields stacked.
-- Damage: Magma/Charged or FR, would then need Damage Blessing or 2 Volt shields stacked.
-- Multishot: to use FR you have to replace Hollowed Bullets and use bless or 4 Volt shields stacked.
-
-<u>**CC MS rolls:**</u>
-
-- Heat/Elec: replaces one of the elements to use FR, will oneshot without bless.
-- Crit Damage: to use FR you have to replace Hollowed Bullets and use bless or 3 Volt shields stacked. 
-- Damage: needs damage bless, won’t oneshot without even with 6 Volt shields stacked.
-
-<u>**CC with 2 Damage stats:**</u>
-
-- CD Heat/Elec: Sabot or FR, would then need Damage Blessing or 2 Volt shields stacked.
-- DMG Heat/Elec: Magma/Charged or FR, would then need Damage Blessing or 4 Volt shields stacked.
-- Heat Elec: Sabot or FR, would then need Damage Blessing or 5 Volt shields stacked.
-- CD DMG: Magma/Charged or FR, would then need less, but won’t oneshot even with 6 shields.
-
-<u>**CC MS Dual Stat roll:**</u>
-
-Needs 133,4CC (B riven grade) on riven to hit 100% Critical Chance, needs bless to use FR, replaces Critical Focus with Containment Breach. Replace FR mod with 60/60 Heat/Elec mod when blessless. Won’t 1-shot with FR blessless even with 6 shields.
-
-:::info Note: 
-Multishot rivens are not preferred due to their tendency to only hit one of the pellets, doing half the damage.
+:::box-brand
+Crit Chance is mandatory.
 :::
 
 <u>**Negatives:**</u>
@@ -112,6 +85,6 @@ The main stat you want on a Mausolon is CC, for the best possible chance at crit
 
 A fire rate riven will be less consistent damage wise, but might be desirable for faster leg performance.
 
-TL;DR: you want a 2 stat cc + elec/heat/dtc/cd/dmg/fr.
+TL;DR: you want a 2 stat cc + elec/cold/dtc/cd/dmg/fr.
 
 ***This section was made using Neemiii’s guide as a base.***

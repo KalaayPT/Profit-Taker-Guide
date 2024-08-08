@@ -4,12 +4,10 @@
 
 In this advanced guide, we'll delve into the intricate strategies and techniques required to conquer the Profit-Taker fight efficiently for credit farming and speedrunning. From mastering the fight mechanics to optimizing your gear setup, we're here to help you maximize your Cred earnings and shave off every possible second. This Guide is also made to be data-friendly and the entire site does not use more than about 160MB of data.
 
-:::danger ATTENTION:
-The Jade Shadows Update changed the way archgun calculations and damage resistances work so our archgun builds are no longer up to date. We will update the builds as soon as possible (whenever Overframe adds Primed Dual Rounds so we can update the screenshots). 
+:::warning ATTENTION:
+The Jade Shadows Update changed the way archgun calculations and damage resistances work so some of the archgun info may not be up to date yet. Main takeaway is that Profit-Taker is now weak to magnetic.
 
-Main takeaways are as follows: Everything has more health and Profit-Taker is now weak to magnetic
-
-For now, just replace radiation with magnetic and fire rate with Primed Dual Rounds in your archgun builds.
+We are using a workaround for the build screenshots, so capacity and multishot stats on archguns wont be displayed correctly
 :::
 
 ## Who is This Part of the Guide For?

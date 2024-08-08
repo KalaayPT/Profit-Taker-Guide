@@ -149,12 +149,8 @@ __Melee weapon:__
 
 __Heavy Weapon:__
 
-:::danger ATTENTION:
-The Jade Shadows Update changed the way archgun calculations and damage resistances work so our archgun builds are no longer up to date. We will update the builds as soon as possible (whenever Overframe adds Primed Dual Rounds so we can update the screenshots). 
-
-Main takeaways are as follows: Everything has more health and Profit-Taker is now weak to magnetic
-
-For now, just replace radiation with magnetic and fire rate with Primed Dual Rounds in your archgun builds.
+:::warning ATTENTION:
+We are using a workaround for the build screenshots, so capacity and multishot stats on archguns wont be displayed correctly
 :::
 
 #### **Mausolon Build**
@@ -165,7 +161,7 @@ For now, just replace radiation with magnetic and fire rate with Primed Dual Rou
 
 :::info [*__Overframe Link__*](https://overframe.gg/build/602062/)
 
-- For a Heavy Weapon, it takes 4-5 shots to destroy legs.
+- For a Heavy Weapon, it takes 5-6 shots to destroy legs.
 - Make sure you have enough health to survive the summon animation.
 :::
 

@@ -84,19 +84,15 @@ Generally, squads make use of at least one Archgunner, meaning one player who ar
 
 ### **Build - all Archguns**
 
-:::danger ATTENTION:
-The Jade Shadows Update changed the way archgun calculations and damage resistances work so our archgun builds are no longer up to date. We will update the builds as soon as possible (whenever Overframe adds Primed Dual Rounds so we can update the screenshots). 
-
-Main takeaways are as follows: Everything has more health and Profit-Taker is now weak to magnetic
-
-For now, just replace radiation with magnetic and fire rate with Primed Dual Rounds in your archgun builds.
+:::warning ATTENTION:
+We are using a workaround for the build screenshots, so capacity and multishot stats on archguns wont be displayed correctly
 :::
 
 <div style="width: 100%; text-align: left;">
     <img src="https://cdn.profit-taker.com/imperatorbuild.png" alt="imperatorbuild" style="width: 100%; height: auto;">
 </div>
 
-[*__Overframe Link__*](https://overframe.gg/build/626706/)
+[*__Overframe Link__*](https://overframe.gg/build/705998/)
 
 <div style="width: 25%; text-align: left;">
     <img src="https://cdn.profit-taker.com/imperatorriven.png" alt="imperatorriven" style="width: 100%; height: auto;">

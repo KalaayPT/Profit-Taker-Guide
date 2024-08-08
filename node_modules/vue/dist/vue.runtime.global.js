@@ -1,5 +1,5 @@
 /**
-* vue v3.4.35
+* vue v3.4.37
 * (c) 2018-present Yuxi (Evan) You and Vue contributors
 * @license MIT
 **/
@@ -753,7 +753,7 @@ var Vue = (function (exports) {
         return isShallow2;
       } else if (key === "__v_raw") {
         if (receiver === (isReadonly2 ? isShallow2 ? shallowReadonlyMap : readonlyMap : isShallow2 ? shallowReactiveMap : reactiveMap).get(target) || // receiver is not the reactive proxy, but has the same prototype
-        // this means the reciever is a user proxy of the reactive proxy
+        // this means the receiver is a user proxy of the reactive proxy
         Object.getPrototypeOf(target) === Object.getPrototypeOf(receiver)) {
           return target;
         }
@@ -2872,7 +2872,7 @@ getter: `, this.getter);
       }
       function pruneCacheEntry(key) {
         const cached = cache.get(key);
-        if (!current || !isSameVNodeType(cached, current)) {
+        if (cached && (!current || !isSameVNodeType(cached, current))) {
           unmount(cached);
         } else if (current) {
           resetShapeFlag(current);
@@ -2934,6 +2934,10 @@ getter: `, this.getter);
           return rawVNode;
         }
         let vnode = getInnerChild(rawVNode);
+        if (vnode.type === Comment) {
+          current = null;
+          return vnode;
+        }
         const comp = vnode.type;
         const name = getComponentName(
           isAsyncWrapper(vnode) ? vnode.type.__asyncResolved || {} : comp
@@ -4226,7 +4230,7 @@ If you want to remount the same app, move your app creation logic into a factory
   function inject(key, defaultValue, treatDefaultAsFactory = false) {
     const instance = currentInstance || currentRenderingInstance;
     if (instance || currentApp) {
-      const provides = instance ? instance.parent == null ? instance.vnode.appContext && instance.vnode.appContext.provides : instance.parent.provides : currentApp._context.provides;
+      const provides = currentApp ? currentApp._context.provides : instance ? instance.parent == null ? instance.vnode.appContext && instance.vnode.appContext.provides : instance.parent.provides : void 0;
       if (provides && key in provides) {
         return provides[key];
       } else if (arguments.length > 1) {
@@ -5420,6 +5424,7 @@ Server rendered element contains more child nodes than client vdom.`
         }
         if (props) {
           {
+            const isCustomElement = el.tagName.includes("-");
             for (const key in props) {
               if (// #11189 skip if this node has directives that have created hooks
               // as it could have mutated the DOM in any possible way
@@ -5427,7 +5432,7 @@ Server rendered element contains more child nodes than client vdom.`
                 logMismatchError();
               }
               if (forcePatch && (key.endsWith("value") || key === "indeterminate") || isOn(key) && !isReservedProp(key) || // force hydrate v-bind with .prop modifiers
-              key[0] === ".") {
+              key[0] === "." || isCustomElement) {
                 patchProp(el, key, null, props[key], void 0, parentComponent);
               }
             }
@@ -7125,13 +7130,13 @@ Server rendered element contains fewer child nodes than client vdom.`
           namespace
         );
       }
+      container._vnode = vnode;
       if (!isFlushing) {
         isFlushing = true;
         flushPreFlushCbs();
         flushPostFlushCbs();
         isFlushing = false;
       }
-      container._vnode = vnode;
     };
     const internals = {
       p: patch,
@@ -7533,7 +7538,8 @@ Server rendered element contains fewer child nodes than client vdom.`
           return options.get ? options.get(localValue) : localValue;
         },
         set(value) {
-          if (!hasChanged(value, localValue) && !(prevSetValue !== EMPTY_OBJ && hasChanged(value, prevSetValue))) {
+          const emittedValue = options.set ? options.set(value) : value;
+          if (!hasChanged(emittedValue, localValue) && !(prevSetValue !== EMPTY_OBJ && hasChanged(value, prevSetValue))) {
             return;
           }
           const rawProps = i.vnode.props;
@@ -7542,7 +7548,6 @@ Server rendered element contains fewer child nodes than client vdom.`
             localValue = value;
             trigger();
           }
-          const emittedValue = options.set ? options.set(value) : value;
           i.emit(`update:${name}`, emittedValue);
           if (hasChanged(value, emittedValue) && hasChanged(value, prevSetValue) && !hasChanged(emittedValue, prevEmittedValue)) {
             trigger();
@@ -7580,9 +7585,9 @@ Server rendered element contains fewer child nodes than client vdom.`
       } = instance;
       if (emitsOptions) {
         if (!(event in emitsOptions) && true) {
-          if (!propsOptions || !(toHandlerKey(event) in propsOptions)) {
+          if (!propsOptions || !(toHandlerKey(camelize(event)) in propsOptions)) {
             warn$1(
-              `Component emitted event "${event}" but it is neither declared in the emits option nor as an "${toHandlerKey(event)}" prop.`
+              `Component emitted event "${event}" but it is neither declared in the emits option nor as an "${toHandlerKey(camelize(event))}" prop.`
             );
           }
         } else {
@@ -9608,7 +9613,7 @@ Component that was made reactive: `,
     return true;
   }
 
-  const version = "3.4.35";
+  const version = "3.4.37";
   const warn = warn$1 ;
   const ErrorTypeStrings = ErrorTypeStrings$1 ;
   const devtools = devtools$1 ;
@@ -10031,8 +10036,10 @@ Component that was made reactive: `,
       setVarsOnVNode(instance.subTree, vars);
       updateTeleports(vars);
     };
-    onMounted(() => {
+    onBeforeMount(() => {
       watchPostEffect(setVars);
+    });
+    onMounted(() => {
       const ob = new MutationObserver(setVars);
       ob.observe(instance.subTree.el.parentNode, { childList: true });
       onUnmounted(() => ob.disconnect());
