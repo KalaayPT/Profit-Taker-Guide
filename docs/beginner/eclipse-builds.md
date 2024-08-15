@@ -180,7 +180,7 @@ We are using a workaround for the build screenshots, so capacity and multishot s
 :::info [*__Overframe Link__*](https://overframe.gg/build/706001/)
 
 - People commonly don’t have Primed Dual Rounds or Critical Focus, if so, replace them with Normal Dual Rounds, Sabot Rounds or the Cold/Electric 60/60 Mods for best results.
-- Running Ammo Chain instead of Dual Rounds/Automatic Trigger to avoid cooldowns, especially between second and third legs, is a possibility.
+- Running Ammo Chain instead of Automatic Trigger to avoid cooldowns, especially between second and third legs, is a possibility.
 - Running Vigorous Swap greatly impacts the amount of damage you deal with Heavy Weapons, as it applies **after** the animation has finished, and is therefore usable for doing the leg phase
 :::
 

@@ -64,9 +64,9 @@ Avoid Physical Damage (IPS), Crit Chance, and Attack Speed;
 **Calculated with S grades. Grades matter and usually need to be around B or higher.**
 
  - Any combination of **CC** with elec,cold,dtc,cd,dmg on a 3 positive 1 negative riven works if the roll is high enough.
- - all rivens need the Mech Intrinsic and Damage Blessing to oneshot.
+ - All rivens need the Mech Intrinsic and Damage Blessing to oneshot.
  - The only combination that is not viable is cc cold elec -.
- - you can use the [Archgun Calc](https://calc.profit-taker.com) to check whether your Riven oneshots.
+ - You can use the [Archgun Calc](https://calc.profit-taker.com) to check whether your Riven oneshots.
 
 :::box-brand
 Crit Chance is mandatory.
