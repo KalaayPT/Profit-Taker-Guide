@@ -1,10 +1,16 @@
 import { defineConfig } from '@lando/vitepress-theme-default-plus/config';
+import { tabsMarkdownPlugin } from 'vitepress-plugin-tabs';
 
 export default defineConfig({
   title: "Profit-Taker Guide",
   description: 'New, improved and no longer a Google Doc!',
   head: [['link', { rel: 'icon', href: 'https://cdn.profit-taker.com/favicon.ico' }]],
   appearance: 'dark',
+  markdown: {
+    config(md) {
+      md.use(tabsMarkdownPlugin)
+    }
+  },
   themeConfig: {
     search: {
       provider: 'local'
