@@ -6,8 +6,6 @@ In this beginner's guide, we'll cover everything you need to know to tackle the 
 
 :::warning ATTENTION:
 The Jade Shadows Update changed the way archgun calculations and damage resistances work so some of the archgun info may not be up to date yet. Main takeaway is that Profit-Taker is now weak to magnetic.
-
-We are using a workaround for the build screenshots, so capacity and multishot stats on archguns wont be displayed correctly
 :::
 
 ## Who is This Part of the Guide For?

@@ -84,10 +84,6 @@ Generally, squads make use of at least one Archgunner, meaning one player who ar
 
 ### **Build - all Archguns**
 
-:::warning ATTENTION:
-We are using a workaround for the build screenshots, so capacity and multishot stats on archguns wont be displayed correctly
-:::
-
 <div style="width: 100%; text-align: left;">
     <img src="https://cdn.profit-taker.com/imperatorbuild.png" alt="imperatorbuild" style="width: 100%; height: auto;">
 </div>
