@@ -104,10 +104,6 @@ High attack speed build, it saves a few milliseconds. Volt shield, Vigorous Swap
 
 ### **Mech Velocitus**
 
-:::warning ATTENTION:
-We are using a workaround for the build screenshots, so capacity and multishot stats on archguns wont be displayed correctly
-:::
-
 <div style="width: 100%; text-align: left;">
     <img src="https://cdn.profit-taker.com/mechvelo.png" alt="mechvelo" style="width: 100%; height: auto;">
 </div>

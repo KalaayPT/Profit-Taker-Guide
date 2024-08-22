@@ -4,10 +4,6 @@
 
 Mech build doesn’t matter as you shouldn’t spend much time in it. A basic health Mod should be enough if you have problems.
 
-:::warning ATTENTION:
-We are using a workaround for the build screenshots, so capacity and multishot stats on archguns wont be displayed correctly
-:::
-
 #### **Corvas Build**
 
 <div style="width: 100%; text-align: left;">

@@ -149,10 +149,6 @@ __Melee weapon:__
 
 __Heavy Weapon:__
 
-:::warning ATTENTION:
-We are using a workaround for the build screenshots, so capacity and multishot stats on archguns wont be displayed correctly
-:::
-
 #### **Mausolon Build**
 
 <div style="width: 100%; text-align: left;">

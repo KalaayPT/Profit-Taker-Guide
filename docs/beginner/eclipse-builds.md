@@ -169,10 +169,6 @@ __Heavy weapon:__
 
 #### **Mausolon Build**
 
-:::warning ATTENTION:
-We are using a workaround for the build screenshots, so capacity and multishot stats on archguns wont be displayed correctly
-:::
-
 <div style="width: 100%; text-align: left;">
     <img src="https://cdn.profit-taker.com/Mausolon_eclipse.png" alt="Mausolon_eclipse" style="width: 100%; height: auto;">
 </div>
