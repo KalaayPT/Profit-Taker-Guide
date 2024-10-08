@@ -10,7 +10,7 @@ The Jade Shadows Update changed the way archgun calculations and damage resistan
 
 ## Who is This Part of the Guide For?
 
-This section of the guide is designed with beginners in mind, but even experienced players might find some useful info here. 
+This section of the guide is designed with beginners in mind, but even experienced players might find some useful info here. Most of the builds and strategies in here are designed as templates for you to modify with what you need, not necessarily as perfect builds, so make sure to read builds notes as well. 
 
 ## How to Use This Guide
 

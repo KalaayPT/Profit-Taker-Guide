@@ -100,6 +100,10 @@ __Primary weapon:__
 
 #### **Opticor Vandal Build**
 
+:::box-red
+DOES NOT WORK AS OF WRITING THIS
+:::
+
 <div style="width: 100%; text-align: left;">
     <img src="https://cdn.profit-taker.com/Opticor_Vandal_Build.png" alt="Opticor_Vandal_Build" style="width: 100%; height: auto;">
 </div>

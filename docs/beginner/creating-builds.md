@@ -350,6 +350,10 @@ Video (click to play/pause):
 
 ##### Opticor/Opticor Vandal
 
+:::box-red
+DOES NOT WORK AS OF WRITING THIS
+:::
+
 While the Opticor Vandal is best for this task due to its higher fire rate, both Opticors can shoot Pylons from outside the shields. However, they cannot shoot through mountains and have horrible performance against shields, leaving them in second place.
 
 Video (click to play/pause):
