@@ -75,7 +75,7 @@ Crit Chance is mandatory.
 <u>**Negatives:**</u>
 Avoid Multishot, Damage, Physical Damage (IPS), Crit Chance, Crit Damage, Corpus;
 
-## **Corvas**
+## **Corvas (non-Prime)**
 
 All of the above from Velocitus applies to Corvas. Corvas doesn’t need a really good grade or god-roll stats, but try to go for the best one you could get. Crit Chance is not necessary on Corvas.
 

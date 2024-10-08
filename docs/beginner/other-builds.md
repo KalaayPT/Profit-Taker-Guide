@@ -4,7 +4,7 @@
 
 Mech build doesn’t matter as you shouldn’t spend much time in it. A basic health Mod should be enough if you have problems.
 
-#### **Corvas Build**
+#### **Corvas Build (non-Prime)**
 
 <div style="width: 100%; text-align: left;">
     <img src="https://cdn.profit-taker.com/corvas_mech.png" alt="corvas_mech" style="width: 100%; height: auto;">

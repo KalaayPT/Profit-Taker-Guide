@@ -106,6 +106,10 @@ Covers toxin. Twitch is flex. This is the bare minimum build required to oneshot
 
 #### **Opticor Vandal**
 
+:::box-red
+DOES NOT WORK AS OF WRITING THIS
+:::
+
 <div style="width: 100%; text-align: left;">
     <img src="https://cdn.profit-taker.com/opticor_eclipse.png" alt="opticor_eclipse" style="width: 100%; height: auto;">
 </div>
