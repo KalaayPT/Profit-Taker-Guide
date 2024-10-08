@@ -448,6 +448,10 @@ Rivenless Pogris build (Which element it is doesn't matter, however what bonus% 
 
 This build needs 427% strength with subsumed Eclipse, Vengeful Archwing and Arcane Rise/Vigorous Swap to 3-tick pylons consistently (will need 4 ticks otherwise).
 
+:::info Note:
+The Strength requirements can be offset somewhat by replacing Speed Trigger with Semi-Rifle Cannonade
+:::
+
 This build consists of:
 
 - Magazine so you have enough ammo to destroy all 6 pylons in the second phase
@@ -462,6 +466,7 @@ Here are your mod options for this build:
 - If you use Void Strike to do the second pylon phase, you dont need to equip Tainted Mag, since Void Strike gives more than enough ammo efficiency to shoot all pylons
 - Empty slot can be filled with a riven or Heavy Caliber. We highly recommend NOT using Heavy Caliber, because while it offsets the strength, the accuracy penalty is *extremely** noticeable.
 - Speed Trigger can be replaced by Vile Acceleration, but you’ll need x% more strength to oneshot, or more damage rivens or frame. Vile Accel can also be put in the empty slot
+- Speed Trigger can also be replaced by Semi-Rifle Cannonade, offsetting strength requirements
 
 Here are the ranges of required power strength with various setups:
 <div style="width: 100%; text-align: left;">
