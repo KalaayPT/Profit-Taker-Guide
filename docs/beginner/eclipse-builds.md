@@ -132,9 +132,10 @@ DOES NOT WORK AS OF WRITING THIS
 
 :::info [*__Overframe Link__*](https://overframe.gg/build/663638/)
 
-- since Dante Unbound, Pogris is extremely despairge but still more comfortable than zenith or opticor; needs 427% to only take 3 instead of 4 damage ticks to destroy Pylons with the provided frame build, Sling str and 5 str shards. An alternative to this approach would be to [__double shot pylons__](/advanced/speedrun-strats.html#fast-pogris-pylons-double-shot-void-strike) to require two ticks instad
+- since Dante Unbound, Pogris is extremely despairge but still more comfortable than zenith or opticor; needs 427% to only take 3 instead of 4 damage ticks to destroy Pylons with the provided frame build, Sling str and 5 str shards. An alternative to this approach would be to [__double shot pylons__](/advanced/speedrun-strats.html#fast-pogris-pylons-double-shot-void-strike) to require two ticks instead
 - Nightwatch Napalm will damage Pylons as long as they are in range, even through the Pylon bubble.
 - Damage is extremely sensitive to warframe power strength, very few things will increase Nightwatch Napalm damage.
+- Normal Ogris also works well enough if Kuva Ogris feels too grindy. Does less damage (adding Heavy Caliber in place of Vile Acceleration is an option, but makes you miss the pylon sometimes) but only needs one ammo mod. The other one can be replaced with Firestorm on a standard Ogris, for slightly less required accuracy especially if combined with Heavy Caliber.
 :::
 
 __Secondary weapon:__
