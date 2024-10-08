@@ -78,9 +78,22 @@ Suggested Warframe Arcanes include: Tanker, Guardian, Avenger, Acceleration, Vel
 
 ## Weapon Builds - Vex Armor
 
-*The following builds don’t run Damage Mods because Vex Armor is additive with Damage Mods.*
+*The following builds don’t run Damage Mods (other than Amalgam Serration) because Vex Armor is additive with Damage Mods.*
 
 __Primary weapon:__
+
+#### **Kuva Ogris**
+
+<div style="width: 100%; text-align: left;">
+    <img src="https://cdn.profit-taker.com/pogris_eclipse.png" alt="pogris_eclipse" style="width: 100%; height: auto;">
+</div>
+
+:::info [*__Overframe Link__*](https://overframe.gg/build/663638/)
+
+- needs 277%+ Strength to kill a pylon in two damage ticks, cannot go lower than that as very few things can increase Nightwatch Napalm damage, especially as Chroma.
+- Nightwatch Napalm will damage Pylons as long as they are in range, even through the Pylon bubble.
+- Normal Ogris also works well enough if Kuva Ogris feels too grindy. Does less damage (adding Heavy Caliber in place of Vile Acceleration is an option, but makes you miss the pylon sometimes) but only needs one ammo mod. The other one can be replaced with Firestorm on a standard Ogris, for slightly less required accuracy especially if combined with Heavy Caliber.
+:::
 
 #### **Zenith Build**
 
