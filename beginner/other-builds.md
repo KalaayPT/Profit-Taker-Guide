@@ -19,7 +19,7 @@ Mech build doesn’t matter as you shouldn’t spend much time in it. A basic he
 - Is affected by [__hitbox bug__](/miscellaneous/bugs.html#archgun-hitbox-bug)
 :::
 
-#### **charged Velocitus Build**
+#### **Charged Velocitus Build**
 
 <div style="width: 100%; text-align: left;">
     <img src="https://cdn.profit-taker.com/velocitus_mech.png" alt="velocitus_mech" style="width: 100%; height: auto;">
