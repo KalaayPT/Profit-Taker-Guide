@@ -1,4 +1,6 @@
-# This is the public repository for the Profit-Taker Warframe community guide
+# Profit-Taker Warframe community guide
+
+This is the public repository for the Profit-Taker Warframe community guide
 
 If you are just looking for the Profit-Taker Guide you can find it here: https://profit-taker.com
 
