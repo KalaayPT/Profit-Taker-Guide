@@ -1,4 +1,8 @@
 /docs/.vitepress/dist
 /.vscode
+<<<<<<< HEAD
 /docs/.vitepress/cache
 /node_modules
+=======
+/docs/.vitepress/cache
+>>>>>>> e380bf4ce5d84d978106987add50753576c76337
