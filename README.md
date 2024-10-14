@@ -22,6 +22,6 @@ Just edit any file on GitHub and submit a pull request. If you are not sure how 
 
 5. Edit any file and the changes should automatically apply in the browser
 
-6. Make a push request with your changes
+6. Make a pull request with your changes
 
 released under the MIT license
