@@ -125,9 +125,9 @@ export default defineConfig({
       text: 'Suggest changes to this page'
     },
     lastUpdated: {
-      text: 'Updated at',
+      text: 'Last Updated',
       formatOptions: {
-        dateStyle: 'full',
+        dateStyle: 'medium',
         timeStyle: 'medium'
       }
     },

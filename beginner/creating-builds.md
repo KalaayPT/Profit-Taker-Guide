@@ -263,7 +263,7 @@ Cons:
 :::danger Cons:
 
 - High camera and weapon position sometimes make rear limbs hard to hit
-- Few damage buffs, and an extremely restrictive meta setup. The forms of damage increase available are as follows: Volt shield, Damage Bless, Tactical Rank 9, and Riven Mods.
+- Few damage buffs, and an extremely restrictive meta setup. The forms of damage increase available are as follows: Volt shield, Damage Bless, Tactical Rank 9, Riven Mods and Jade's Deathbringer <Badge type="warning" text="still unclear on whether thats intended" />.
 :::
 
 __Velocitus (Necramech):__
