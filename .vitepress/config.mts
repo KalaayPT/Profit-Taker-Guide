@@ -12,6 +12,7 @@ export default defineConfig({
   description: 'Revised!',
   head: [['link', { rel: 'icon', href: 'https://cdn.profit-taker.com/favicon.ico' }]],
   cleanUrls: true,
+  appearance: 'dark',
   themeConfig: {
     logo: 'https://cdn.profit-taker.com/buried-debts-sigil.png.webp',
     search: {
