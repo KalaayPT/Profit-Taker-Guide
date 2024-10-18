@@ -69,7 +69,7 @@ An example of a usable weapon is the Amprex, modded for toxin:
 - Other usable weapons are found in [__On Call Strats__](/advanced/speedrun-strats.html#on-call-strats)
 :::
 
-## **Companion Builds** <Badge type="warning" text="outdated info currently (not updated yet)" />
+## **Companion Builds**
 
 #### **Beast Build (Adarza Kavat)**
 
