@@ -4,6 +4,7 @@ import type { Theme } from 'vitepress'
 import DefaultTheme from 'vitepress/theme'
 import './style.css'
 import { enhanceAppWithTabs } from 'vitepress-plugin-tabs/client'
+import VPNavBarSearchButton from './components/VPNavBarSearchButton.vue';
 
 export default {
   extends: DefaultTheme,
@@ -14,6 +15,7 @@ export default {
   },
   enhanceApp({ app, router, siteData }) {
     enhanceAppWithTabs(app)
+    app.component('VPNavBarSearchButton', VPNavBarSearchButton);
     // ...
   }
 } satisfies Theme
