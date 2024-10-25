@@ -1,6 +1,6 @@
 <script lang="ts" setup>
 import { ref, onMounted } from 'vue';
-import type { ButtonTranslations } from '../../../../types/local-search'
+import type { ButtonTranslations } from 'vitepress/types/local-search'
 import { createSearchTranslate } from 'vitepress/dist/client/theme-default/support/translation'
 
 // Button-Translations
@@ -14,26 +14,24 @@ const defaultTranslations: { button: ButtonTranslations } = {
 const translate = createSearchTranslate(defaultTranslations)
 const docSearchButton = ref<HTMLButtonElement | null>(null);
 
+const isClicked = ref(false);
+
 const handleButtonClick = () => {
-  if (docSearchButton.value) {
-    docSearchButton.value.classList.add('DocSearch-Button--clicked');
-    localStorage.setItem('docSearchButtonClicked', 'true');
-  }
+  isClicked.value = true;
+  localStorage.setItem('docSearchButtonClicked', 'true');
 };
 
 onMounted(() => {
-  const isClicked = localStorage.getItem('docSearchButtonClicked') === 'true';
-  if (isClicked && docSearchButton.value) {
-    docSearchButton.value.classList.add('DocSearch-Button--clicked');
-  }
+  // Check `localStorage` on load to determine if button was clicked
+  isClicked.value = localStorage.getItem('docSearchButtonClicked') === 'true';
 });
 </script>
 
 <template>
   <button 
-    ref="docSearchButton"
     type="button" 
     class="DocSearch DocSearch-Button" 
+    :class="{ 'DocSearch-Button--clicked': isClicked }"
     :aria-label="translate('button.buttonAriaLabel')"
     @click="handleButtonClick"
   >
