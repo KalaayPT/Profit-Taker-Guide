@@ -122,7 +122,7 @@ export default defineConfig({
     ],
     outline: [2, 6],
     editLink: { 
-      pattern: 'https://github.com/KalaayPT/Profit-Taker-Guide/edit/master/docs/:path', 
+      pattern: 'https://github.com/KalaayPT/Profit-Taker-Guide/edit/master/:path', 
       text: 'Suggest changes to this page'
     },
     lastUpdated: {
