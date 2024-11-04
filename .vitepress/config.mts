@@ -3,6 +3,14 @@ import { tabsMarkdownPlugin } from 'vitepress-plugin-tabs'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  vite: { 
+      ssr: { 
+        noExternal: [ 
+          // If there are other packages that need to be processed by Vite, you can add them here.
+          '@nolebase/vitepress-plugin-highlight-targeted-heading', 
+        ], 
+      }, 
+    }, 
   markdown: {
     config(md) {
       md.use(tabsMarkdownPlugin)
