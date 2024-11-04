@@ -1,5 +1,6 @@
 {
   "devDependencies": {
+    "@nolebase/vitepress-plugin-highlight-targeted-heading": "^2.8.1",
     "vitepress": "^1.4.0",
     "vitepress-plugin-tabs": "^0.5.0"
   },
