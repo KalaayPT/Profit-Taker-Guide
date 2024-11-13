@@ -53,7 +53,7 @@ With this combination, you're only missing Toxin, and there is no way to fit it 
 Video demonstration (17&thinsp;mb):
 ![just use ogris](https://cdn.profit-taker.com/Just%20Use%20The%20Ogris-10.mp4)
 <div style="padding-bottom: 20px;">
-<video width="100%">
+<video width="100%" controls>
  <source type="video/mp4" src="https://cdn.profit-taker.com/Just%20Use%20The%20Ogris-10.mp4">
 </video>
 </div>
