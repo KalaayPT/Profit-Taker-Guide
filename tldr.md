@@ -52,6 +52,11 @@ With this combination, you're only missing Toxin, and there is no way to fit it 
 
 Video demonstration (17&thinsp;mb):
 ![just use ogris](https://cdn.profit-taker.com/Just%20Use%20The%20Ogris-10.mp4)
+<div style="padding-bottom: 20px;">
+<video width="100%">
+ <source type="video/mp4" src="https://cdn.profit-taker.com/Just%20Use%20The%20Ogris-10.mp4">
+</video>
+</div>
 
 You should usually only need one shot if your buffs (Vex Armor on Chroma, Eclipse on anything else) are up. The Nightwatch Napalm damage ticks will finish it for you.
 
