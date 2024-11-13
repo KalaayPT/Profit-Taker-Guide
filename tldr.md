@@ -51,7 +51,6 @@ With this combination, you're only missing Toxin, and there is no way to fit it 
 #### Primary: [Ogris](/beginner/vex-armor-builds#kuva-ogris)
 
 Video demonstration (17&thinsp;mb):
-![just use ogris](https://cdn.profit-taker.com/Just%20Use%20The%20Ogris-10.mp4)
 <div style="padding-bottom: 20px;">
 <video width="100%" controls>
  <source type="video/mp4" src="https://cdn.profit-taker.com/Just%20Use%20The%20Ogris-10.mp4">
@@ -64,35 +63,47 @@ The Ogris is the weapon of choice because it's both simple to use and easy to ge
 
 #### Secondary: [Diplos](/beginner/vex-armor-builds#tenet-diplos-build)
 
-not a lot to be said here, you just shoot between contagion throws.
-
 ![diplers](https://cdn.profit-taker.com/Vex_Armor_Tenet_Diplos_Build.png)
 
+not a lot to be said here, you just shoot between contagion throws.
+
 #### Zaw
-
-Exodia Contagion is thrown by double jumping, aim gliding, and meleeing. This allows you to shoot your secondary while you fall after throwing your zaw, when you do it quickly.
-
-Here is a slow demonstration of what the button presses look like (7&thinsp;mb): 
-![contagion slow](https://cdn.profit-taker.com/Contagion%20Example%20Slow-1.mp4)
-
-Here is a real life example of quickly throwing and shooting (7&thinsp;mb):
-![contagion RL](https://cdn.profit-taker.com/Contagion%20Example-3.mp4)
-I use the scroll wheel to jump and i shoot with 2 in this example. This allows me to do the contagion-shooting-loop very quickly.
 
 Example Build:
 ![zaw](https://cdn.profit-taker.com/balla_eclipse.png)
 
+Exodia Contagion is thrown by double jumping, aim gliding, and meleeing. This allows you to shoot your secondary while you fall after throwing your zaw, when you do it quickly.
+
+Here is a slow demonstration of what the button presses look like (7&thinsp;mb): 
+<div style="padding-bottom: 20px;">
+<video width="100%" controls>
+ <source type="video/mp4" src="https://cdn.profit-taker.com/Contagion%20Example%20Slow-1.mp4">
+</video>
+</div>
+
+Here is a real life example of quickly throwing and shooting (7&thinsp;mb):
+<div style="padding-bottom: 20px;">
+<video width="100%" controls>
+ <source type="video/mp4" src="https://cdn.profit-taker.com/Contagion%20Example-3.mp4">
+</video>
+</div>
+I use the scroll wheel to jump and i shoot with 2 in this example. This allows me to do the contagion-shooting-loop very quickly.
+
 #### Archgun: [Mausolon](/beginner/vex-armor-builds#mausolon-build)
 
-Benefits from Warframe buffs such as Vex Armor or Reinforced bond, is limited by long call down animation and ammo economy. If you waste too many bullets, you will have to deal with long cooldowns.
 ![maus](https://cdn.profit-taker.com/Mausolon_Build.png)
+
+Benefits from Warframe buffs such as Vex Armor or Reinforced bond, is limited by long call down animation and ammo economy. If you waste too many bullets, you will have to deal with long cooldowns.
 
 #### Archgun: [Corvas <span style="color: red;">(non-Prime)</span>](/beginner/other-builds#corvas-build-non-prime)
 
-Allows You to survive more easily, does not have to deal with cooldowns. Usually slightly more annoying to use because of a higher aiming point and the mech being completely unbuffed.
 ![cornbass](https://cdn.profit-taker.com/corvas_mech.png)
+Allows You to survive more easily, does not have to deal with cooldowns. Usually slightly more annoying to use because of a higher aiming point and the mech being completely unbuffed.
 
 ### Warframe: Chroma
+
+Here is an example build for Chroma (see more linked above): 
+![chroma build](https://cdn.profit-taker.com/Parasitic_Armor_Vex_Armor.png)
 
 For best credit gains, you need at least one [Chroma](/beginner/vex-armor-builds) in your squad. To make sure you actually benefit from it, you might as well run it yourself.
 
@@ -101,8 +112,6 @@ Chroma has the ability to double credits (double dipping with things like credit
 Make sure not to walk away from your Effigy after you have placed it. The credit doubling only works when you are in range (about 10&thinsp;m) of it.
 :::
 
-Here is an example build for Chroma (see more linked above): 
-![chroma build](https://cdn.profit-taker.com/Parasitic_Armor_Vex_Armor.png)
 :::info See more build notes [here](/beginner/vex-armor-builds#parasitic-armor)
 This build utilizes the Parasitic Armor Helminth Ability to remove shields, making it easier to both stack the Vex Armor damage buff and survive.
 - You <u>don't</u> need a triumbral build, this is just an example that helps with survivability. You can also use Adaptation.
