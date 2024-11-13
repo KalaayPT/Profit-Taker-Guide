@@ -161,7 +161,7 @@ __Melee weapon:__
 - Covers IPS, cold, radiation, gas, corrosive and blast.
 - Rank 0 Melee Exposure is just fine on most builds.
 - If you don't oneshot elements, consider replacing attack speed mods with Organ shatter and/or Primed Pressure Point or modding for more strength.
-- The Zaw is Balla+Peye+Vargeet II Jai. If you have a different strike, see [__How to Build A Zaw__](/beginner/creating-builds.html#zaw-part-setups) for making a Zaw with a different strike.
+- The Zaw is Balla+Peye+Vargeet II Jai. If you have a different strike, see [__How to Build A Zaw__](/beginner/creating-builds#zaw-part-setups) for making a Zaw with a different strike.
 :::
 
 __Heavy Weapon:__

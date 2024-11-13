@@ -45,7 +45,7 @@ Fluctus is not practical and will not be considered.
 
 Opticor and Opticor Vandal require you to enter Archwing to get a line of sight to the Pylons and shoot them without spending time on getting close.
 
-The same applies to both Ogris variants, although Ogris allows you to preshoot Pylons, more on that later in [__Pogris__](/beginner/advanced-principles.html#pogris)
+The same applies to both Ogris variants, although Ogris allows you to preshoot Pylons, more on that later in [__Pogris__](/beginner/pogris)
 
 Zenith, using its Alt-fire, additionally pierces terrain because it has infinite punch through. This means you can stay on the ground and fire at the Pylon waypoints through terrain and shield bubbles alike.
 Unfortunately, Zenith is not readily obtainable. You can only get it when you log in on days 100/300/500/700. Until then, you can use the Kuva Ogris or the Opticor Vandal.

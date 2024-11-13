@@ -15,6 +15,8 @@ This section of the guide is designed with beginners in mind, but even experienc
 ## How to Use This Guide
 
 Navigate through the sections using the menus on the left and right to learn about different aspects of the Profit-Taker fight. If you're new to Warframe or just need a refresher, start with the basics and work your way up to more advanced strategies. All of the expected navigation options like going back and forth after clicking on a link should work.
+
+Hovering over links to get a preview of the page also works. Will only show the correct heading when linking to a page instead of a heading inside a page.
 :::tip Note:
 All the Videos in the Guide are paused by default, and you can click to play/pause them. All of the Videos are also muted by default so don't worry about sound.
 :::

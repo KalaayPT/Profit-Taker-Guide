@@ -1,23 +1,32 @@
 import { defineConfig } from 'vitepress'
 import { tabsMarkdownPlugin } from 'vitepress-plugin-tabs'
+import { InlineLinkPreviewElementTransform } from '@nolebase/vitepress-plugin-inline-link-preview/markdown-it'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   vite: { 
+      optimizeDeps: { 
+            exclude: [ 
+              '@nolebase/vitepress-plugin-inline-link-preview/client', 
+            ], 
+          }, 
       ssr: { 
         noExternal: [ 
           // If there are other packages that need to be processed by Vite, you can add them here.
           '@nolebase/vitepress-plugin-highlight-targeted-heading', 
+          '@nolebase/vitepress-plugin-inline-link-preview', 
+          '@nolebase/ui',
         ], 
       }, 
     }, 
   markdown: {
     config(md) {
       md.use(tabsMarkdownPlugin)
+      md.use(InlineLinkPreviewElementTransform) 
     }
   },
   title: "Profit-Taker Guide",
-  description: 'Revised!',
+  description: 'Sparky! Right. We\'re all here. Let\'s get started.',
   head: [['link', { rel: 'icon', href: 'https://cdn.profit-taker.com/favicon.ico' }]],
   cleanUrls: true,
   appearance: 'dark',
@@ -29,6 +38,7 @@ export default defineConfig({
     },
     // https://vitepress.dev/reference/default-theme-config
     nav: [
+      { text: 'Quick Start Guide', link: '/tldr' },
       { text: 'Basics', link: '/beginner/welcome' },
       { text: 'Advanced', link: '/advanced/welcome' },
       {
@@ -53,7 +63,7 @@ export default defineConfig({
             { text: 'Basic Principles', link: '/beginner/basic-principles' },
 
             {
-              text: 'Basic Builds',
+              text: 'Basic Builds', link: '/beginner/vex-armor-builds' ,
               collapsed: false,
               items: [
                 { text: 'Vex Armor Builds', link: '/beginner/vex-armor-builds' },
@@ -61,8 +71,34 @@ export default defineConfig({
                 { text: 'Other Builds', link: '/beginner/other-builds' },
               ]
             },
-            { text: 'Creating Builds', link: '/beginner/creating-builds' },
-            { text: 'Advanced Principles', link: '/beginner/advanced-principles' },
+            {
+              text: 'Creating Builds', link: '/beginner/creating-builds',
+              //collapsed: true,
+              //items: [
+              //  { text: 'Frame Build Factors', link: '/beginner/frame-builds' },
+              //  {
+              //    text: 'Weapon Build Factors', link: '/beginner/shields',
+              //    collapsed: false,
+              //    items: [
+              //      { text: 'Shields', link: '/beginner/shields' },
+              //      { text: 'Armor', link: '/beginner/armor' },
+              //      { text: 'Pylons', link: '/beginner/pylons' },
+              //    ]
+              //  },
+              //]
+            },
+            {
+              text: 'Advanced Principles', link: '/beginner/timing-the-fight',
+              collapsed: true,
+              items: [
+                { text: 'Timing the fight', link: '/beginner/timing-the-fight' },
+                { text: 'Landing', link: '/beginner/landing' },
+                { text: 'Positioning', link: '/beginner/positioning' },
+                { text: 'Exodia Contagion Zaws', link: '/beginner/contagion-zaws' },
+                { text: 'Pogris', link: '/beginner/pogris' },
+                { text: 'Misc. Trivia', link: '/beginner/misc-trivia' },
+              ]
+            },
           ],
         },
         {
