@@ -16,7 +16,7 @@ Shield → Armor → Death
 
 :::info So the procedure looks like this:
 - You land, use Your weapons to take the shield down, then use an archgun to destroy the legs (making PT fall) and body.
-- Profit-Taker shoots out pylons, you destroy those and repeat the process
+- Profit-Taker shoots out pylons, you destroy those (usually with your primary, see [Ogris](#primary-ogris) later) and repeat the process
 :::
 
 ## Prerequisites
@@ -59,20 +59,25 @@ Video demonstration (17&thinsp;mb):
 
 You should usually only need one shot if your buffs (Vex Armor on Chroma, Eclipse on anything else) are up. The Nightwatch Napalm damage ticks will finish it for you.
 
-The Ogris is the weapon of choice because it's both simple to use and easy to get. You can use either variant, although the Kuva variant is preferred due to it dealing more damage. A very basic but funtional build is also shown in the video. For more info about how it works, click [here](/beginner/pogris) and for a proper build with more info, click [here](/beginner/vex-armor-builds#kuva-ogris) or, if you want to get a riven for it (or have one already), [this](/advanced/solo-speedrun-builds#kuva-ogris) might be the build you want.
+The Ogris is the weapon of choice because it's both simple to use and easy to get. You can use either variant, although the Kuva variant is preferred due to it dealing more damage. A very basic but functional build is also <u>shown in the video</u>. For more info about how it works, click [here](/beginner/pogris) and for a proper build with more info, click [here](/beginner/vex-armor-builds#kuva-ogris) or, if you want to get a riven for it (or have one already), [this](/advanced/solo-speedrun-builds#kuva-ogris) might be the build you want.
 
 #### Secondary: [Diplos](/beginner/vex-armor-builds#tenet-diplos-build)
 
 ![diplers](https://cdn.profit-taker.com/Vex_Armor_Tenet_Diplos_Build.png)
 
-not a lot to be said here, you just shoot between contagion throws.
+not a lot to be said here, you just shoot between contagion throws. You don't *need* 60% valence, but more always helps.
 
 #### Zaw
 
 Example Build:
 ![zaw](https://cdn.profit-taker.com/balla_eclipse.png)
+Contagion can be unranked, Exposure often needs at least about rank 2.
 
 Exodia Contagion is thrown by double jumping, aim gliding, and meleeing. This allows you to shoot your secondary while you fall after throwing your zaw, when you do it quickly.
+
+:::tip
+This allows you to not have to think about what elements are on what wepaons, you just spam both weapons until you dont do damage, meaning you are looking at electric or toxin.
+:::
 
 Here is a slow demonstration of what the button presses look like (7&thinsp;mb): 
 <div style="padding-bottom: 20px;">
@@ -89,29 +94,21 @@ Here is a real life example of quickly throwing and shooting (7&thinsp;mb):
 </div>
 I use the scroll wheel to jump and i shoot with 2 in this example. This allows me to do the contagion-shooting-loop very quickly.
 
-#### Archgun: [Mausolon](/beginner/vex-armor-builds#mausolon-build)
+#### Archgun in hand: [Mausolon](/beginner/vex-armor-builds#mausolon-build)
 
 ![maus](https://cdn.profit-taker.com/Mausolon_Build.png)
 
-Benefits from Warframe buffs such as Vex Armor or Reinforced bond, is limited by long call down animation and ammo economy. If you waste too many bullets, you will have to deal with long cooldowns.
+Benefits from Warframe buffs such as Vex Armor or Reinforced bond, is limited by long call down animation and ammo economy. If You waste too many bullets, you will have to deal with long cooldowns. That's why this build has Ammo Chain, because the cooldown is based on %ammo used.
 
-#### Archgun: [Corvas <span style="color: red;">(non-Prime)</span>](/beginner/other-builds#corvas-build-non-prime)
+#### Archgun on mech: [Corvas <span style="color: red;">(non-Prime)</span>](/beginner/other-builds#corvas-build-non-prime)
 
 ![cornbass](https://cdn.profit-taker.com/corvas_mech.png)
 Allows You to survive more easily, does not have to deal with cooldowns. Usually slightly more annoying to use because of a higher aiming point and the mech being completely unbuffed.
 
 ### Warframe: Chroma
 
-Here is an example build for Chroma (see more linked above): 
+Here is an example build for Chroma (see more [here](/beginner/vex-armor-builds)): 
 ![chroma build](https://cdn.profit-taker.com/Parasitic_Armor_Vex_Armor.png)
-
-For best credit gains, you need at least one [Chroma](/beginner/vex-armor-builds) in your squad. To make sure you actually benefit from it, you might as well run it yourself.
-
-Chroma has the ability to double credits (double dipping with things like credit blessing) by picking up credits in range of his effigy ability, see [How To Place Effigy](/beginner/vex-armor-builds#effigy-placement) for how you can place it. 
-:::warning Attention:
-Make sure not to walk away from your Effigy after you have placed it. The credit doubling only works when you are in range (about 10&thinsp;m) of it.
-:::
-
 :::info See more build notes [here](/beginner/vex-armor-builds#parasitic-armor)
 This build utilizes the Parasitic Armor Helminth Ability to remove shields, making it easier to both stack the Vex Armor damage buff and survive.
 - You <u>don't</u> need a triumbral build, this is just an example that helps with survivability. You can also use Adaptation.
@@ -120,4 +117,18 @@ This build utilizes the Parasitic Armor Helminth Ability to remove shields, maki
 - Arcane Velocity very noticably affects Your secondaries' performance and is therefore a must-get if you are going to invest into farming Profit-Taker, other useful Arcanes include (but are not limited to): Guardian, Awakening, Grace.
 :::
 
+For best credit gains, you need at least one [Chroma](/beginner/vex-armor-builds) in your squad. To make sure you actually benefit from it, you might as well run it yourself.
+
+Chroma has the ability to double credits (double dipping with things like credit blessing) by picking up credits in range of his effigy ability, see [How To Place Effigy](https://youtu.be/7-4iw1YjN6A?si=fbrp4014gVYHQHR0) for how you can place it. 
+:::warning Attention:
+Make sure not to walk away from your Effigy after you have placed it. The credit doubling only works when you are in range (about 10&thinsp;m) of it.
+:::
+
+## Other useful stuff
+
+In general, you should level up your railjack instrinsics, as this has an effect on a lot of aspects of this fight, mainly: Necramech damage (whatever r8), pylon damage (gunnery r8) and:
+
+### Crewmates
+
+One of the most useful tools to help you with Profit-Taker is the On-Call Railjack crewmate. it is free to use after you have bought one from ticker in fortuna and it can help you kill enemies around you or cover elements you havent covered (toxin in particular)
 
