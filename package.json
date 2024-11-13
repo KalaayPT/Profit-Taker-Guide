@@ -1,6 +1,7 @@
 {
   "devDependencies": {
     "@nolebase/vitepress-plugin-highlight-targeted-heading": "^2.8.1",
+    "@nolebase/vitepress-plugin-inline-link-preview": "^2.8.1",
     "vitepress": "^1.4.0",
     "vitepress-plugin-tabs": "^0.5.0"
   },
@@ -10,6 +11,8 @@
     "preview": "vitepress preview"
   },
   "dependencies": {
+    "@vitejs/plugin-vue": "^5.1.4",
+    "vite": "^5.4.10",
     "vue": "^3.5.12"
   }
 }

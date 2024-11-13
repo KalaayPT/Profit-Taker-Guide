@@ -14,7 +14,7 @@ by [__Fremy__](https://www.youtube.com/watch?v=glgE1dip6Tc)
 </div>
 
 :::tip Note:
-this build still uses Eclipse Subsume and will be updated soon. Nowadays Vex Armor is better.
+this build still uses Eclipse Subsume and will be updated at some point to use Vex Armor instead. Nowadays Vex Armor is better.
 :::
 
 [*__Overframe Link__*](https://overframe.gg/build/610242/)
