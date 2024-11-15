@@ -1,6 +1,8 @@
 # Quick Start Guide <Badge type="warning" text="Work in progress" />
 
-*This section is for those who don't have the time or energy to read the entire guide and just want a quick summary. This is <b>NOT</b> meant to replace reading everything on this site and is <u>NOT</u> a complete summary by any means. Throughout this page, we will link to more thorough explanations of the discussed topics so you can read up on the things you have questions about. This section is also supposed to work as a sort of FAQ, answering the most asked questions.*
+by Kalaay
+
+*This section is for those who don't have the time or energy to read the entire guide and just want a quick summary. This is <b>NOT</b> meant to replace reading everything on this site and is <u>NOT</u> a complete summary by any means. Throughout this page, we will link to more thorough explanations of the discussed topics so you can read up on the things you have questions about.
 
 ## How the fight works
 
@@ -34,7 +36,7 @@ To be able to do the Profit-Taker boss in the first place, you need to be max ra
 - Primary: used either exclusively (Ogris) or mainly (Zenith) for pylons.
 - Melee: any Zaw with <b>Exodia Contagion</b> (make sure you can reach 100% crit chance). This is because Contagion turns Zaws into incredibly strong projectile weapons that can both be used very quickly and cover a lot of elements because of how Exodia contagion works, more on that a bit later
 - Secondary: any high [crit] damage secondary works, but because of the innate elements on a Contagion Zaw, you want one that has innate magnetic damage (a lich weapon or a Synoid Gammacor). The weapon of choice therefore is [Tenet Diplos](/beginner/vex-armor-builds#tenet-diplos-build). More on the element distribution in a second.
-- Archgun: can be used either in hand (see [Mausolon](#archgun-mausolon) lower down) or in mech (see [Corvas](#archgun-corvas) lower down). The easier option is usually to do mech, since it doesn't leave you in the open during the pull down animation and during the destroying of the legs
+- Archgun: can be used either in hand (see [Mausolon](#archgun-in-hand-mausolon) lower down) or in mech (see [Corvas](#archgun-on-mech-corvas) lower down). The easier option is usually to do mech, since it doesn't leave you in the open during the pull down animation and during the destroying of the legs
 :::
 
 :::tip The expected distribution of elements looks like this (taken from [Creating builds](/beginner/creating-builds#shields)):
@@ -94,6 +96,12 @@ Here is a real life example of quickly throwing and shooting (7&thinsp;mb):
 </div>
 I use the scroll wheel to jump and i shoot with 2 in this example. This allows me to do the contagion-shooting-loop very quickly.
 
+:::warning ATTENTION:
+All the following builds are meant for Chroma only, as Chroma's Vex Armor ability is additive to damage mods so Chroma does not run +damage% mods if he doesn't have to.
+
+For builds for other frames running Eclipse, consult the [Eclipse Builds](/beginner/eclipse-builds) page.
+:::
+
 #### Archgun in hand: [Mausolon](/beginner/vex-armor-builds#mausolon-build)
 
 ![maus](https://cdn.profit-taker.com/Mausolon_Build.png)
@@ -126,9 +134,37 @@ Make sure not to walk away from your Effigy after you have placed it. The credit
 
 ## Other useful stuff
 
-In general, you should level up your railjack instrinsics, as this has an effect on a lot of aspects of this fight, mainly: Necramech damage (whatever r8), pylon damage (gunnery r8) and:
+In general, you should level up your railjack instrinsics, as this has an effect on a lot of aspects of this fight, mainly: Archwing speed (Piloting r8), Necramech damage (Gunnery r5), pylon damage (gunnery r8) and:
 
-### Crewmates
+### On-Call Crewmates
 
-One of the most useful tools to help you with Profit-Taker is the On-Call Railjack crewmate. it is free to use after you have bought one from ticker in fortuna and it can help you kill enemies around you or cover elements you havent covered (toxin in particular)
+One of the most useful tools to help you with Profit-Taker is the On-Call Railjack crewmate. It is free to use after you have bought one from ticker in fortuna, stays for 3 minutes after you have summoned it and it can help you kill enemies around you or cover elements you havent covered (toxin in particular). 
+
+They can have different stats, and the ones you should prioritize are combat, repair and endurance, in that order.  Elite crewmates (unlocked at Command r10) can have additional perk, and you one you want most for efficient runs is the +150%cc buff. It comes in secondary and primary variants and is a bonus additive to other cc mods. Generally speaking, any crewmate with a cc perk is better than one without it.
+
+An ideal Crewmate would look somewhat like this:
+![crewmate](https://cdn.profit-taker.com/crew.png)
+
+In terms of weapon choices, as long as it has high damage and is crit-based, it will work somewhat. AoE weapons, or weapons with an AoE damage portion, are usually preferred. Limitations are: some AoE weapons cant do damage to Profit-Taker and can therefore only be used for killing adds (notably: Zarr or Ogris), Crewmates cannot use Incarnon perks or abilities, Rivens, or Arcanes (with a few insignificant expections), and Crewmates cannot use a lot of two-handed weapons like bows, double pistols or throwing weapons (anything rifle or pistol shaped will usually work)
+
+Recommended weapons are (click them to see the builds):
+
+<u>Secondary:</u> [Catabolyst](https://overframe.gg/build/518597/)
+
+<u>Primary:</u> [__Torid__](/advanced/solo-speedrun-builds.html#crewmate-torid), [__Kuva Chakkhurr__](https://overframe.gg/build/626709/), [__Amprex__](https://overframe.gg/build/599307/), [__Synoid Gammacor__](https://overframe.gg/build/626714/)
+
+:::tip Note:
+All weapons except Chakkhurr need your Crewmate to be buffed with Vex Armor or Total Eclipse to work well.
+:::
+
+### Energy economy
+
+With the provided setup you will quickly notice that you need a lot of energy. With Energy orbs from enemies being an incosistent source of orb drops, we strongly recommend [Energy Restores](https://warframe.fandom.com/wiki/Squad_Energy_Restore). Alternatively, you can run Nourish as your subsume on Chroma, allowing you to make some use of the few energy orbs you get per run. 
+
+The more comfortable setup is to run what the community refers to as "padless" by using [Preparation](https://warframe.fandom.com/wiki/Preparation) and Primed Flow to have a huge reserve of Energy which should last the entire run.
+
+Here is an example Volt build with this philosophy in mind:
+
+![voltpadless](https://cdn.profit-taker.com/voltpadless.png)
+[Overframe build](https://overframe.gg/build/396847/)
 
