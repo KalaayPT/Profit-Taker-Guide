@@ -187,7 +187,7 @@ Vargeet II Jai gives you max attack speed and critical chance. With Sacrificial 
 
 The easiest and least complicated phase, the Armor Phase relies almost entirely on your choice in Archgun and build, so here are a few helpful tips and the pros and cons of the four best setups.
 
-Archgun builds are fairly cut and dry, with pretty much all Archguns using the following build:
+Archgun builds are fairly cut and dry, with pretty much all Archguns using the following build (or variations thereof):
 
 <div style="width: 100%; text-align: left;">
     <img src="https://cdn.profit-taker.com/genericarmor.png" alt="genericarmor" style="width: 100%; height: auto;">
