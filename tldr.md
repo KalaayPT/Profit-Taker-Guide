@@ -2,7 +2,7 @@
 
 by Kalaay
 
-*This section is for those who don't have the time or energy to read the entire guide and just want a quick summary. This is <b>NOT</b> meant to replace reading everything on this site and is <u>NOT</u> a complete summary by any means. Throughout this page, we will link to more thorough explanations of the discussed topics so you can read up on the things you have questions about.
+*This section is for those who don't have the time or energy to read the entire guide and just want a quick summary. This is <b>NOT</b> meant to replace reading everything on this site and is <u>NOT</u> a complete summary by any means. Throughout this page, we will link to more thorough explanations of the discussed topics so you can read up on the things you have questions about.*
 
 ## How the fight works
 
@@ -63,6 +63,12 @@ You should usually only need one shot if your buffs (Vex Armor on Chroma, Eclips
 
 The Ogris is the weapon of choice because it's both simple to use and easy to get. You can use either variant, although the Kuva variant is preferred due to it dealing more damage. A very basic but functional build is also <u>shown in the video</u>. For more info about how it works, click [here](/beginner/pogris) and for a proper build with more info, click [here](/beginner/vex-armor-builds#kuva-ogris) or, if you want to get a riven for it (or have one already), [this](/advanced/solo-speedrun-builds#kuva-ogris) might be the build you want.
 
+:::warning ATTENTION:
+All the following builds are meant for Chroma only, as Chroma's Vex Armor ability is additive to damage mods so Chroma does not run +damage% mods if he doesn't have to.
+
+For builds for other frames running Eclipse, consult the [Eclipse Builds](/beginner/eclipse-builds) page.
+:::
+
 #### Secondary: [Diplos](/beginner/vex-armor-builds#tenet-diplos-build)
 
 ![diplers](https://cdn.profit-taker.com/Vex_Armor_Tenet_Diplos_Build.png)
@@ -95,12 +101,6 @@ Here is a real life example of quickly throwing and shooting (7&thinsp;mb):
 </video>
 </div>
 I use the scroll wheel to jump and i shoot with 2 in this example. This allows me to do the contagion-shooting-loop very quickly.
-
-:::warning ATTENTION:
-All the following builds are meant for Chroma only, as Chroma's Vex Armor ability is additive to damage mods so Chroma does not run +damage% mods if he doesn't have to.
-
-For builds for other frames running Eclipse, consult the [Eclipse Builds](/beginner/eclipse-builds) page.
-:::
 
 #### Archgun in hand: [Mausolon](/beginner/vex-armor-builds#mausolon-build)
 

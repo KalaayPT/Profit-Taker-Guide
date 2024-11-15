@@ -16,7 +16,6 @@ This section of the guide is tailored for experienced players looking to push th
 
 Use the menus on the left and right to navigate through the sections and explore different facets of the Profit-Taker fight. All of the expected navigation options like going back and forth after clicking on a link should work.
 
-Hovering over links to get a preview of the page also works. Will only show the correct heading when linking to a page instead of a heading inside a page.
 :::tip Note:
 All the Videos in the Guide are paused by default, and you can click to play/pause them. All of the Videos are also muted by default so don't worry about sound.
 :::
