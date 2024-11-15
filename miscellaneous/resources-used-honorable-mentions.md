@@ -115,7 +115,8 @@ His Riven guide was used as a base for this guide’s Riven guide.
 [youtu.be/lwpmGCcgrE0](https://youtu.be/lwpmGCcgrE0)
 
 **Mebius’ guide (Chinese):**  
-[__【Warframe】电男大蜘蛛竞速攻略全方位详解（2022最新版）__](https://www.bilibili.com/video/BV1nL4y1M7nz)  
+[link removed] 
+
 This guide popularized and brought up-to-date Profit-Taker speedruns to the Chinese community. Is taken offline now.
 
 **Axel’s Profit-Taker guide:**

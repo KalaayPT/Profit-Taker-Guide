@@ -1,10 +1,10 @@
 # Quick Start Guide <Badge type="warning" text="Work in progress" />
 
-*This section is for those who don't have the time or energy to read the entire guide and just want a quick summary. This is <b>NOT</b> meant to replace reading everything on this site and is <u>NOT</u> a complete summary by any means. Throughout this page, we will link to more thorough explanations of the discussed topics so you can read up on the things you have questions about.*
+*This section is for those who don't have the time or energy to read the entire guide and just want a quick summary. This is <b>NOT</b> meant to replace reading everything on this site and is <u>NOT</u> a complete summary by any means. Throughout this page, we will link to more thorough explanations of the discussed topics so you can read up on the things you have questions about. This section is also supposed to work as a sort of FAQ, answering the most asked questions.*
 
 ## How the fight works
 
-The Profit-Taker bossfight has three disticnt phases that repeat like this:
+The Profit-Taker bossfight has three distinct phases that repeat like this:
 
 Shield → Armor → Pylon → 
 
@@ -33,15 +33,15 @@ To be able to do the Profit-Taker boss in the first place, you need to be max ra
 
 - Primary: used either exclusively (Ogris) or mainly (Zenith) for pylons.
 - Melee: any Zaw with <b>Exodia Contagion</b> (make sure you can reach 100% crit chance). This is because Contagion turns Zaws into incredibly strong projectile weapons that can both be used very quickly and cover a lot of elements because of how Exodia contagion works, more on that a bit later
-- Secondary: any high damage secondary works, but because of the innate elements on a Contagion Zaw, you want one that has innate magnetic damage (a lich weapon or a Synoid Gammacor). The weapon of choice therefore is [Tenet Diplos](/beginner/vex-armor-builds#tenet-diplos-build). More on the element distribution in a second.
+- Secondary: any high [crit] damage secondary works, but because of the innate elements on a Contagion Zaw, you want one that has innate magnetic damage (a lich weapon or a Synoid Gammacor). The weapon of choice therefore is [Tenet Diplos](/beginner/vex-armor-builds#tenet-diplos-build). More on the element distribution in a second.
 - Archgun: can be used either in hand (see [Mausolon](#archgun-mausolon) lower down) or in mech (see [Corvas](#archgun-corvas) lower down). The easier option is usually to do mech, since it doesn't leave you in the open during the pull down animation and during the destroying of the legs
 :::
 
 :::tip The expected distribution of elements looks like this (taken from [Creating builds](/beginner/creating-builds#shields)):
 
-Secondary: Viral(Cold+**Toxin**), Heat, innate Mag
+Secondary: Viral, Heat, innate Mag
 
-Melee (Contagion): Gas(**Toxin**\+Heat), Cold, innate IPS, Blast (innate to Exodia Contagion), Corrosive (covered by Melee Exposure), and Radiation
+Melee (Contagion): Gas, Cold, innate IPS, Blast (innate to Exodia Contagion), Corrosive (covered by Melee Exposure), and Radiation
 
 [__Operator__](/advanced/speedrun-strats.html#operator-element)/Volt Shield: Electric
 
