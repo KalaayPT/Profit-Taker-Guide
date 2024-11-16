@@ -1,6 +1,6 @@
 import { defineConfig } from 'vitepress'
 import { tabsMarkdownPlugin } from 'vitepress-plugin-tabs'
-import { InlineLinkPreviewElementTransform } from '@nolebase/vitepress-plugin-inline-link-preview/markdown-it'
+//import { InlineLinkPreviewElementTransform } from '@nolebase/vitepress-plugin-inline-link-preview/markdown-it'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -14,7 +14,7 @@ export default defineConfig({
         noExternal: [ 
           // If there are other packages that need to be processed by Vite, you can add them here.
           '@nolebase/vitepress-plugin-highlight-targeted-heading', 
-          '@nolebase/vitepress-plugin-inline-link-preview', 
+          //'@nolebase/vitepress-plugin-inline-link-preview', 
           '@nolebase/ui',
         ], 
       }, 
@@ -22,7 +22,7 @@ export default defineConfig({
   markdown: {
     config(md) {
       md.use(tabsMarkdownPlugin)
-      md.use(InlineLinkPreviewElementTransform) 
+      //md.use(InlineLinkPreviewElementTransform) 
     }
   },
   title: "Profit-Taker Guide",

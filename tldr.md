@@ -6,7 +6,7 @@ by Kalaay
 
 ## How the fight works
 
-The Profit-Taker bossfight has three distinct phases that repeat like this:
+The Profit-Taker bossfight has three distinct phases (Shields, Armor and Pylons) that repeat like this:
 
 Shield → Armor → Pylon → 
 
@@ -79,7 +79,7 @@ not a lot to be said here, you just shoot between contagion throws. You don't *n
 
 Example Build:
 ![zaw](https://cdn.profit-taker.com/balla_eclipse.png)
-Contagion can be unranked, Exposure often needs at least about rank 2.
+Contagion can be unranked, Exposure often needs at least about rank 2. The Zaw Strike of choice is Balla, because it throws at the beginning of the animation, allowing throws in quick succession. Read more about this [here](/beginner/contagion-zaws)
 
 Exodia Contagion is thrown by double jumping, aim gliding, and meleeing. This allows you to shoot your secondary while you fall after throwing your zaw, when you do it quickly.
 
@@ -133,6 +133,8 @@ Make sure not to walk away from your Effigy after you have placed it. The credit
 :::
 
 ## Other useful stuff
+
+### Intrinsics
 
 In general, you should level up your railjack instrinsics, as this has an effect on a lot of aspects of this fight, mainly: Archwing speed (Piloting r8), Necramech damage (Gunnery r5), pylon damage (gunnery r8) and:
 
