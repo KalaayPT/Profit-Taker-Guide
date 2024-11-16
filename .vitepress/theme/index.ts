@@ -21,11 +21,11 @@ export default {
     })
   },
   enhanceApp({ app, router, siteData }) {
-    enhanceAppWithTabs(app),
-    app.use(NolebaseInlineLinkPreviewPlugin) 
-    app.provide(InjectionKey, { 
-      //
-        }) 
+    enhanceAppWithTabs(app)
+    //app.use(NolebaseInlineLinkPreviewPlugin) 
+    //app.provide(InjectionKey, { 
+    //
+    //    }) 
     //app.component('VPNavBarSearchButton', VPNavBarSearchButton);
     // ...
   }
