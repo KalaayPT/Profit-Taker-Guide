@@ -122,7 +122,7 @@ This build utilizes the Parasitic Armor Helminth Ability to remove shields, maki
 - You <u>don't</u> need a triumbral build, this is just an example that helps with survivability. You can also use Adaptation.
 - Both the empty slot and VigSwap are flex slots, as VigSwap doesn't actually do much for Chroma, with his Vex Armor ability being the same additive damage multiplier 
 - Flex slots can be filled with more strength or duration (e.g. Augur Message/Secrets), or other QoL mods if needed. 
-- Arcane Velocity very noticably affects Your secondaries' performance and is therefore a must-get if you are going to invest into farming Profit-Taker, other useful Arcanes include (but are not limited to): Guardian, Awakening, Grace.
+- Arcane Velocity very noticably affects Your secondaries' performance and is therefore a must-get if you are going to invest into farming Profit-Taker, other useful Arcanes include (but are not limited to): Guardian, Awakening, Grace, Nullifier.
 :::
 
 For best credit gains, you need at least one [Chroma](/beginner/vex-armor-builds) in your squad. To make sure you actually benefit from it, you might as well run it yourself.
@@ -136,7 +136,7 @@ Make sure not to walk away from your Effigy after you have placed it. The credit
 
 ### Intrinsics
 
-In general, you should level up your railjack instrinsics, as this has an effect on a lot of aspects of this fight, mainly: Archwing speed (Piloting r8), Necramech damage (Gunnery r5), pylon damage (gunnery r8) and:
+In general, you should level up your railjack instrinsics, as this has an effect on a lot of aspects of this fight, mainly: Archwing speed (Piloting r8), Necramech damage (Gunnery r5), pylon damage (Gunnery r8) and:
 
 ### On-Call Crewmates
 
