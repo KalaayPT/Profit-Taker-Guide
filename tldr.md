@@ -1,4 +1,4 @@
-# Quick Start Guide <Badge type="warning" text="Work in progress" />
+# Quick Start Guide <Badge type="warning" text="beta release, could have minor errors" />
 
 by Kalaay
 
@@ -17,7 +17,7 @@ Shield → Armor → Pylon →
 Shield → Armor → Death
 
 :::info So the procedure looks like this:
-- You land, use Your weapons to take the shield down, then use an archgun to destroy the legs (making PT fall) and body.
+- You land, use your [secondary and melee] weapons to take the shield down, then use an archgun to destroy the legs (making PT fall) and body.
 - Profit-Taker shoots out pylons, you destroy those (usually with your primary, see [Ogris](#primary-ogris) later) and repeat the process
 :::
 
@@ -33,7 +33,7 @@ To be able to do the Profit-Taker boss in the first place, you need to be max ra
 
 :::info With Profit-Taker's gimmick being that you can only ever do damage with a given element, the setup looks like this:
 
-- Primary: used either exclusively (Ogris) or mainly (Zenith) for pylons.
+- Primary: Ogris, used exclusively for pylons.
 - Melee: any Zaw with <b>Exodia Contagion</b> (make sure you can reach 100% crit chance). This is because Contagion turns Zaws into incredibly strong projectile weapons that can both be used very quickly and cover a lot of elements because of how Exodia contagion works, more on that a bit later
 - Secondary: any high [crit] damage secondary works, but because of the innate elements on a Contagion Zaw, you want one that has innate magnetic damage (a lich weapon or a Synoid Gammacor). The weapon of choice therefore is [Tenet Diplos](/beginner/vex-armor-builds#tenet-diplos-build). More on the element distribution in a second.
 - Archgun: can be used either in hand (see [Mausolon](#archgun-in-hand-mausolon) lower down) or in mech (see [Corvas](#archgun-on-mech-corvas) lower down). The easier option is usually to do mech, since it doesn't leave you in the open during the pull down animation and during the destroying of the legs
@@ -52,6 +52,8 @@ With this combination, you're only missing Toxin, and there is no way to fit it 
 
 #### Primary: [Ogris](/beginner/vex-armor-builds#kuva-ogris)
 
+Ogris deals damage to pylons through the pylon bubble without requiring punch through, using the Nightwatch Napalm augment.
+
 Video demonstration (17&thinsp;mb):
 <div style="padding-bottom: 20px;">
 <video width="100%" controls>
@@ -61,7 +63,7 @@ Video demonstration (17&thinsp;mb):
 
 You should usually only need one shot if your buffs (Vex Armor on Chroma, Eclipse on anything else) are up. The Nightwatch Napalm damage ticks will finish it for you.
 
-The Ogris is the weapon of choice because it's both simple to use and easy to get. You can use either variant, although the Kuva variant is preferred due to it dealing more damage. A very basic but functional build is also <u>shown in the video</u>. For more info about how it works, click [here](/beginner/pogris) and for a proper build with more info, click [here](/beginner/vex-armor-builds#kuva-ogris) or, if you want to get a riven for it (or have one already), [this](/advanced/solo-speedrun-builds#kuva-ogris) might be the build you want.
+The Ogris is the weapon of choice because it's both simple to use and easy to get. You can use either variant, although the Kuva variant is preferred due to it dealing more damage (more progenitor% is better, element doesn't matter). A very basic but functional build is also <u>shown in the video</u>. For more info about how it works, click [here](/beginner/pogris) and for a proper build with more info, click [here](/beginner/vex-armor-builds#kuva-ogris) or, if you want to get a riven for it (or have one already), [this](/advanced/solo-speedrun-builds#kuva-ogris) might be the build you want.
 
 :::warning ATTENTION:
 All the following builds are meant for Chroma only, as Chroma's Vex Armor ability is additive to damage mods so Chroma does not run +damage% mods if he doesn't have to.
@@ -73,7 +75,7 @@ For builds for other frames running Eclipse, consult the [Eclipse Builds](/begin
 
 ![diplers](https://cdn.profit-taker.com/Vex_Armor_Tenet_Diplos_Build.png)
 
-not a lot to be said here, you just shoot between contagion throws. You don't *need* 60% valence, but more always helps.
+not a lot to be said here, you just shoot between contagion throws. you don't *need* 60% valence, but more always helps.
 
 #### Zaw
 
@@ -108,10 +110,10 @@ I use the scroll wheel to jump and i shoot with 2 in this example. This allows m
 
 Benefits from Warframe buffs such as Vex Armor or Reinforced bond, is limited by long call down animation and ammo economy. If You waste too many bullets, you will have to deal with long cooldowns. That's why this build has Ammo Chain, because the cooldown is based on %ammo used.
 
-#### Archgun on mech: [Corvas <span style="color: red;">(non-Prime)</span>](/beginner/other-builds#corvas-build-non-prime)
+#### Archgun on mech: [Corvas](/beginner/other-builds#corvas-build-non-prime) <span style="color: red;">(non-Prime)</span>
 
 ![cornbass](https://cdn.profit-taker.com/corvas_mech.png)
-Allows You to survive more easily, does not have to deal with cooldowns. Usually slightly more annoying to use because of a higher aiming point and the mech being completely unbuffed.
+Allows you to survive more easily, does not have to deal with cooldowns. Usually slightly more annoying to use because of a higher aiming point and the mech being completely unbuffed.
 
 ### Warframe: Chroma
 
@@ -122,7 +124,8 @@ This build utilizes the Parasitic Armor Helminth Ability to remove shields, maki
 - You <u>don't</u> need a triumbral build, this is just an example that helps with survivability. You can also use Adaptation.
 - Both the empty slot and VigSwap are flex slots, as VigSwap doesn't actually do much for Chroma, with his Vex Armor ability being the same additive damage multiplier 
 - Flex slots can be filled with more strength or duration (e.g. Augur Message/Secrets), or other QoL mods if needed. 
-- Arcane Velocity very noticably affects Your secondaries' performance and is therefore a must-get if you are going to invest into farming Profit-Taker, other useful Arcanes include (but are not limited to): Guardian, Awakening, Grace, Nullifier.
+- Arcane Velocity very noticably affects your secondaries' performance and is therefore a must-get if you are going to invest into farming Profit-Taker, other useful Arcanes include (but are not limited to): Guardian, Awakening, Grace, Nullifier.
+- Shards: either duration (red), strength (red), or starting energy (blue) 
 :::
 
 For best credit gains, you need at least one [Chroma](/beginner/vex-armor-builds) in your squad. To make sure you actually benefit from it, you might as well run it yourself.
@@ -142,7 +145,7 @@ In general, you should level up your railjack instrinsics, as this has an effect
 
 One of the most useful tools to help you with Profit-Taker is the On-Call Railjack crewmate. It is free to use after you have bought one from ticker in fortuna, stays for 3 minutes after you have summoned it and it can help you kill enemies around you or cover elements you havent covered (toxin in particular). 
 
-They can have different stats, and the ones you should prioritize are combat, repair and endurance, in that order.  Elite crewmates (unlocked at Command r10) can have additional perk, and you one you want most for efficient runs is the +150%cc buff. It comes in secondary and primary variants and is a bonus additive to other cc mods. Generally speaking, any crewmate with a cc perk is better than one without it.
+They can have different stats, and the ones you should prioritize are combat, repair and endurance, in that order.  Elite crewmates (unlocked at Command r10) can have additional perks, and the one you want most for efficient runs is the +150%cc buff. It comes in secondary and primary variants and is a bonus additive to other cc mods. Generally speaking, any crewmate with a cc perk is better than one without it.
 
 An ideal Crewmate would look somewhat like this:
 ![crewmate](https://cdn.profit-taker.com/crew.png)
@@ -161,12 +164,15 @@ All weapons except Chakkhurr need your Crewmate to be buffed with Vex Armor or T
 
 ### Energy economy
 
-With the provided setup you will quickly notice that you need a lot of energy. With Energy orbs from enemies being an incosistent source of orb drops, we strongly recommend [Energy Restores](https://warframe.fandom.com/wiki/Squad_Energy_Restore). Alternatively, you can run Nourish as your subsume on Chroma, allowing you to make some use of the few energy orbs you get per run. 
+With the provided setup you will quickly notice that you need a lot of energy. With enemies being an incosistent source of orb drops, we strongly recommend [Energy Restores](https://warframe.fandom.com/wiki/Squad_Energy_Restore). Alternatively, you can run Nourish as your subsume on Chroma, allowing you to make some use of the few energy orbs you get per run. 
 
-The more comfortable setup is to run what the community refers to as "padless" by using [Preparation](https://warframe.fandom.com/wiki/Preparation) and Primed Flow to have a huge reserve of Energy which should last the entire run.
+The more comfortable setup is what the community refers to as "padless" by using [Preparation](https://warframe.fandom.com/wiki/Preparation) and Primed Flow to have a huge reserve of Energy which should last the entire run. You can also use blue Archon Shards to further expand your energy capacity or  
 
 Here is an example Volt build with this philosophy in mind:
 
 ![voltpadless](https://cdn.profit-taker.com/voltpadless.png)
 [Overframe build](https://overframe.gg/build/396847/)
 
+### Graphics Settings
+
+It is generally recommended to lower your graphics settings (low preset except for anti-aliasing so it doesnt look blurry), especially Effects Intensity (found in accessibility settings, recommended setting: 50%), because enemy reinforcements and Profit-Taker attacks are very flashy and therefore very distracting. Screen shake should also be off, for your eyes' sake. 
