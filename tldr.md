@@ -31,7 +31,7 @@ To be able to do the Profit-Taker boss in the first place, you need to be max ra
 
 ### Overview
 
-:::info With Profit-Taker's gimmick being that you can only ever do damage with a given element, the setup looks like this:
+:::info Profit-Taker's main mechanic restricts you to dealing damage with only one element at a time, so the recommended setup looks like this:
 
 - Primary: Ogris, used exclusively for pylons.
 - Melee: any Zaw with <b>Exodia Contagion</b> (make sure you can reach 100% crit chance). This is because Contagion turns Zaws into incredibly strong projectile weapons that can both be used very quickly and cover a lot of elements because of how Exodia contagion works, more on that a bit later
@@ -172,6 +172,10 @@ Here is an example Volt build with this philosophy in mind:
 
 ![voltpadless](https://cdn.profit-taker.com/voltpadless.png)
 [Overframe build](https://overframe.gg/build/396847/)
+
+### Archon Shards
+
+Shards that always work are reds for strength or duration. Going with the sentiment expressed above, blue shards for starting energy also work. Most speedrunners run either all strength or 4 strength and one cast speed.
 
 ### Graphics Settings
 
