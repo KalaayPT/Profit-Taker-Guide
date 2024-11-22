@@ -4,6 +4,12 @@ layout: home
 hero:
   name: "Profit-Taker Guide"
   tagline: a community effort by uumm, Mebius, Iterniam, Kalaay and others
+  actions:
+    - theme: brand
+      text: Quick Start Guide
+      link: /tldr
+    - theme: alt
+      text: Check out the search function as well!
   image:
     src: https://cdn.profit-taker.com/pt-orb.webp
     alt: ProfitTakerOrb
@@ -13,7 +19,7 @@ features:
   - title: For beginners...
     details: New to Profit-Taker? This guide will to get you up to speed. Learn the basics, understand the mechanics, and begin your journey with confidence.
     link: '/beginner/welcome'
-    linkText: Read Beginner section
+    linkText: Read Basics section
   - title: ... and advanced players
     details: Want to be the fastest or just want to efficiently farm credits? Explore advanced strategies, fine-tune your approach, and enhance your profit taking.
     link: '/advanced/welcome'
