@@ -75,7 +75,7 @@ For builds for other frames running Eclipse, consult the [Eclipse Builds](/begin
 
 ![diplers](https://cdn.profit-taker.com/Vex_Armor_Tenet_Diplos_Build.png)
 
-not a lot to be said here, you just shoot between contagion throws. you don't *need* 60% valence, but more always helps.
+Not a lot to be said here, you just shoot between contagion throws. you don't *need* 60% valence, but more always helps. Progenitor element is magnetic.
 
 #### Zaw
 
