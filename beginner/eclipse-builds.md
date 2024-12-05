@@ -45,7 +45,6 @@ This build is nearly the bare minimum for a Kuva Ogris setup, assumes you use a 
 - If you don't have Primed Sure Footed, you can use Sure Footed+Fortitude, will cost you pylon time
 - With this build, a rivenless Kuva Ogris will destroy pylons in 3-4 damage ticks
 - Vigorous Swap will always boost pylon damage when you leave archwing.
-- destroying the pylons in one tick is only possible with a riven.
 :::
 ::::
 
@@ -88,7 +87,7 @@ There are three useful Aura Mods: Sprint Boost, Growing Power, and Aerodynamic. 
 
 ## **Weapon Builds - Eclipse**
 
-missing elements can be covered via: Warframe abilities, primary weapon, on call crewmate, manually cycling, Amp Arcanes, or Arquebex
+Missing elements can be covered via: Warframe abilities, primary weapon, on call crewmate, manually cycling, Amp Arcanes, or Arquebex
 
 __Primary weapons:__
 
@@ -102,9 +101,9 @@ __Primary weapons:__
 
 Covers toxin. Twitch is flex. This is the bare minimum build required to oneshot Pylons with the Generic Eclipse build and Sling Strength / Transient Fortitude. It relies on Multishot to oneshot, so to increase its consistency you can:
 
-- you can use a maxed Vigilante Armaments and Galvanized Chamber to have 3ms
+- You can use a maxed Vigilante Armaments and Galvanized Chamber to have 3ms
 - Invest in a dmg ms riven of any kind, this will allow you to oneshot 
-- if you don't need Zenith to do shields, replace the crit mods with more fire rate
+- If you don't need Zenith to do shields, replace the crit mods with more fire rate
 :::
 
 #### **Opticor Vandal**
@@ -119,7 +118,7 @@ DOES NOT WORK AS OF WRITING THIS
 
 :::info [*__Overframe Link__*](https://overframe.gg/build/663619/)
 
-- needs about 60% charge to oneshot with the provided frame build
+- Needs about 60% charge to oneshot with the provided frame build
 - Covers toxin.
 - Twitch and fire rate are flex
 - Opticor Vandal has no problems oneshotting Pylons, though you need to use Archwing to go around mountains.
@@ -135,7 +134,7 @@ DOES NOT WORK AS OF WRITING THIS
 
 :::info [*__Overframe Link__*](https://overframe.gg/build/663638/)
 
-- since Dante Unbound, Pogris is extremely despairge but still more comfortable than zenith or opticor; needs 427% to only take 3 instead of 4 damage ticks to destroy Pylons with the provided frame build, Sling str and 5 str shards. An alternative to this approach would be to [__double shot pylons__](/advanced/speedrun-strats.html#fast-pogris-pylons-double-shot-void-strike) to require two ticks instead
+- Since Dante Unbound, Pogris is extremely despairge but still more comfortable than zenith or opticor; needs 427% to only take 3 instead of 4 damage ticks to destroy Pylons with the provided frame build, Sling str and 5 str shards. An alternative to this approach would be to [__double shot pylons__](/advanced/speedrun-strats.html#fast-pogris-pylons-double-shot-void-strike) to require two ticks instead
 - Nightwatch Napalm will damage Pylons as long as they are in range, even through the Pylon bubble.
 - Damage is extremely sensitive to warframe power strength, very few things will increase Nightwatch Napalm damage.
 - Normal Ogris also works well enough if Kuva Ogris feels too grindy. Does less damage (adding Heavy Caliber in place of Vile Acceleration is an option, but makes you miss the pylon sometimes) but only needs one ammo mod. The other one can be replaced with Firestorm on a standard Ogris, for slightly less required accuracy especially if combined with Heavy Caliber.
@@ -169,6 +168,7 @@ __Melee weapon:__
 
 - Covers IPS, cold, radiation, gas, corrosive and blast.
 - Rank 0 Melee Exposure is just fine on most builds.
+- Rank >0 Exodia Contagion is not necessary.
 - If you don't oneshot elements, consider replacing attack speed mods with Primed Pressure Point and/or Organ shatter or modding for more strength.
 - The Zaw is Balla+Peye+Vargeet II Jai. If you have a different strike, see [__How to Build A Zaw__](/beginner/creating-builds.html#zaw-part-setups) for making a Zaw with a different strike.
 :::
