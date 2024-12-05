@@ -90,7 +90,7 @@ __Primary weapon:__
 
 :::info [*__Overframe Link__*](https://overframe.gg/build/663638/)
 
-- needs 277%+ Strength to kill a pylon in two damage ticks, cannot go lower than that as very few things can increase Nightwatch Napalm damage, especially as Chroma.
+- Needs 277%+ Strength to kill a pylon in two damage ticks, cannot go lower than that as very few things can increase Nightwatch Napalm damage, especially as Chroma.
 - Nightwatch Napalm will damage Pylons as long as they are in range, even through the Pylon bubble.
 - Normal Ogris also works well enough if Kuva Ogris feels too grindy. Does less damage (adding Heavy Caliber in place of Vile Acceleration is an option, but makes you miss the pylon sometimes) but only needs one ammo mod. The other one can be replaced with Firestorm on a standard Ogris, for slightly less required accuracy especially if combined with Heavy Caliber.
 :::
@@ -103,7 +103,7 @@ __Primary weapon:__
 
 :::info [*__Overframe Link__*](https://overframe.gg/build/650129/)
 
-- covers toxin 
+- Covers toxin 
 - Despite Vex Armor giving an additive damage bonus, Amalgam Serration is used for its sprint speed buff. 
 - This build relies on multishot to destroy Pylons. 
 - Vex Armor needs to be ramped up to oneshot pylons. This is extremely sensitive to any changes in power strength and needs about 278%str or higher to oneshot (achievable with Blind Rage + Umbral Intensify+Vitality + Augur Secrets)
@@ -123,7 +123,7 @@ DOES NOT WORK AS OF WRITING THIS
 
 :::info [*__Overframe Link__*](https://overframe.gg/build/661307/)
 
-- covers toxin
+- Covers toxin
 - Despite Vex Armor giving an additive damage bonus, Amalgam Serration is used for its sprint speed buff. 
 - Opticor Vandal has more than enough damage to one-hit Pylons with Vex Armor. 
 - Vex Armor needs to be ramped up to oneshot pylons. Needs 322%str or higher to oneshot at the lowest possible charge (around 30%)
@@ -160,6 +160,7 @@ __Melee weapon:__
 
 - Covers IPS, cold, radiation, gas, corrosive and blast.
 - Rank 0 Melee Exposure is just fine on most builds.
+- Rank >0 Exodia Contagion is not necessary.
 - If you don't oneshot elements, consider replacing attack speed mods with Organ shatter and/or Primed Pressure Point or modding for more strength.
 - The Zaw is Balla+Peye+Vargeet II Jai. If you have a different strike, see [__How to Build A Zaw__](/beginner/creating-builds#zaw-part-setups) for making a Zaw with a different strike.
 :::
