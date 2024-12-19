@@ -9,33 +9,33 @@ We've tried our best to make cheap builds that do extremely well. When copying t
 These builds are for Chroma running Vex Armor. QoL is a priority in this section.  
 Suggested Warframe Arcanes include: Velocity, Avenger, Nullifier, Acceleration
 
-#### **Generic Vex Armor**
+#### **Generic Vex Armor (Shock Trooper)**
 
 <div style="width: 100%; text-align: left;">
-    <img src="https://cdn.profit-taker.com/Generic_Vex_Armor.png" alt="Generic_Vex_Armor" style="width: 100%; height: auto;"> <-- TODO CHANGE THIS
+    <img src="https://cdn.profit-taker.com/Generic_Vex_Armor.png" alt="Generic_Vex_Armor" style="width: 100%; height: auto;"> 
 </div>
 
 :::info [*__Overframe Link__*](https://overframe.gg/build/585565/)
 
 - This is the generic build for this section, the others are example variations.
+- If you have Primed Sure Footed, use it over Handspring. If you want to just run Unairu instead, you can put Preparation in exilus.
 - Decaying Dragon Key is recommended to stack your Vex Fury much faster, but you should keep an eye on your health since you won't get the full armor buff from Vex immediately.
 - The umbral forma isn't necessary if you forma every other slot, but gives you a lot more flexibility for future changes.
 - Your main method of healing should be Magus Elevate on operator. If you spam 5-e-5-e you can quickly heal to full health.
 - If energy isn't an issue, replacing Arcane Nullifier with Arcane Avenger is a decent boost to Diplos damage, and a big one to Mausolon damage.
-- You're expected to run Madurai for damage, and void striking for 2nd leg phase to keep Mausolon cooldown low for 3rd legs. It's somewhat minor, especially in slow runs, so you can replace it with Unairu or Zenurik.
-- If you have Primed Sure Footed, use it over Handspring. If you want to just run Unairu instead, you can put Preparation in exilus.
 - Rage is a flex Mod. If your runs are fast, Primed Flow with Preparation or amber starting energy archon shards will give you enough energy for the whole run.
 - Heat elemental ward gives you the most EHP, along with healing you when you recast. This means you may be able to forego alternate forms of healing in a pinch.
 - If heat/cold Elemental Ward isn’t needed for survivability, you can use toxin for more dps, but it is additive with Vex and therefore a minor increase.
 - Steel Charge isn’t special aside from the extra capacity, any aura works.
 - You can replace Primed Continuity with Narrow Minded if you don't have a crewmate. If you have one, it's highly recommended to not run negative range, as he is very fragile without Vex.
 - Starting energy archon shard(s) are highly recommended for the first casts.
+- You're expected to run Madurai for damage, and void striking for 2nd leg phase to keep Mausolon cooldown low for 3rd legs. It's somewhat minor, especially in slow runs, so you can replace it with Unairu or Zenurik.
 :::
 
 #### **Energized Munitions**
 
 <div style="width: 100%; text-align: left;">
-    <img src="https://cdn.profit-taker.com/Parasitic_Armor_Vex_Armor.png" alt="Parasitic_Armor_Vex_Armor" style="width: 100%; height: auto;"> <-- TODO CHANGE THIS
+    <img src="https://cdn.profit-taker.com/Energized_Munitions_Vex_Armor.png" alt="Energized_Munitions_Vex_Armor" style="width: 100%; height: auto;"> 
 </div>
 
 :::info [*__Overframe Link__*](https://overframe.gg/build/626814/)  <-- TODO CHANGE THIS
@@ -51,7 +51,7 @@ Suggested Warframe Arcanes include: Velocity, Avenger, Nullifier, Acceleration
 #### **Spellbind**
 
 <div style="width: 100%; text-align: left;">
-    <img src="https://cdn.profit-taker.com/Dispensary_Vex_Armor.png" alt="Dispensary_Vex_Armor" style="width: 100%; height: auto;"> <-- TODO CHANGE THIS
+    <img src="https://cdn.profit-taker.com/Spellbind_Vex_Armor.png" alt="Spellbind_Vex_Armor" style="width: 100%; height: auto;"> 
 </div>
 
 :::info [*__Overframe Link__*](https://overframe.gg/build/318702/) <-- TODO CHANGE THIS
