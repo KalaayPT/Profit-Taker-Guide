@@ -7,73 +7,58 @@ We've tried our best to make cheap builds that do extremely well. When copying t
 ## **Chroma builds - Vex Armor**
 
 These builds are for Chroma running Vex Armor. QoL is a priority in this section.  
-Suggested Warframe Arcanes include: Tanker, Guardian, Avenger, Acceleration, Velocity, Vigor
+Suggested Warframe Arcanes include: Velocity, Avenger, Nullifier, Acceleration
 
 #### **Generic Vex Armor**
 
 <div style="width: 100%; text-align: left;">
-    <img src="https://cdn.profit-taker.com/Generic_Vex_Armor.png" alt="Generic_Vex_Armor" style="width: 100%; height: auto;">
+    <img src="https://cdn.profit-taker.com/Generic_Vex_Armor.png" alt="Generic_Vex_Armor" style="width: 100%; height: auto;"> <-- TODO CHANGE THIS
 </div>
 
-:::info [*__Overframe Link__*](https://overframe.gg/build/318737)
+:::info [*__Overframe Link__*](https://overframe.gg/build/585565/)
 
 - This is the generic build for this section, the others are example variations.
-- If you don’t have Primed Sure Footed, use Unairu Poise, subsume Spellbind, or run Sure Footed+Fortitude in the empty slots. You may need to invest some Forma to do this. The remaining empty slots are flexible.
-- Augur Secrets helps this build reach a high power strength, consider replacing it with more power strength if you decide to invest more Forma in this build.
-- Streamline is a flex Mod. It means you can keep your Effigy down longer at the end of the fight, making it easier to time for the double credits.
-- Consider adding Rage/Hunter Adrenaline for energy. Maybe in place of PSF if you have an alternate form of status immunity.
-- Consider running Zenurik for Energy.
+- Decaying Dragon Key is recommended to stack your Vex Fury much faster, but you should keep an eye on your health since you won't get the full armor buff from Vex immediately.
+- The umbral forma isn't necessary if you forma every other slot, but gives you a lot more flexibility for future changes.
+- Your main method of healing should be Magus Elevate on operator. If you spam 5-e-5-e you can quickly heal to full health.
+- If energy isn't an issue, replacing Arcane Nullifier with Arcane Avenger is a decent boost to Diplos damage, and a big one to Mausolon damage.
+- You're expected to run Madurai for damage, and void striking for 2nd leg phase to keep Mausolon cooldown low for 3rd legs. It's somewhat minor, especially in slow runs, so you can replace it with Unairu or Zenurik.
+- If you have Primed Sure Footed, use it over Handspring. If you want to just run Unairu instead, you can put Preparation in exilus.
+- Rage is a flex Mod. If your runs are fast, Primed Flow with Preparation or amber starting energy archon shards will give you enough energy for the whole run.
 - Heat elemental ward gives you the most EHP, along with healing you when you recast. This means you may be able to forego alternate forms of healing in a pinch.
-- If heat/cold Elemental Ward isn’t needed for survivability, use toxin for more dps.
-- A single Umbal Forma is the most efficient (in terms of build variety) for any Profit-Taker frame as Umbral Intensify is used in the *vast* majority of Profit-Taker builds. However, it is not strictly necessary for this build.
+- If heat/cold Elemental Ward isn’t needed for survivability, you can use toxin for more dps, but it is additive with Vex and therefore a minor increase.
 - Steel Charge isn’t special aside from the extra capacity, any aura works.
-- You can replace Primed Mods with non-Primed Mods, and consider running rank 8 Mods instead of rank 10.
-- Using Rage, Energy Nexus, Flow, Preparation and/or amber archon shards can allow you to run without energy pads.
-- Consider running a Decaying Dragon Key or slotting rank 0 Catalyzing Shields to reduce your shieldgate to 0.33s.
+- You can replace Primed Continuity with Narrow Minded if you don't have a crewmate. If you have one, it's highly recommended to not run negative range, as he is very fragile without Vex.
+- Starting energy archon shard(s) are highly recommended for the first casts.
 :::
 
-#### **Parasitic Armor**
+#### **Energized Munitions**
 
 <div style="width: 100%; text-align: left;">
-    <img src="https://cdn.profit-taker.com/Parasitic_Armor_Vex_Armor.png" alt="Parasitic_Armor_Vex_Armor" style="width: 100%; height: auto;">
+    <img src="https://cdn.profit-taker.com/Parasitic_Armor_Vex_Armor.png" alt="Parasitic_Armor_Vex_Armor" style="width: 100%; height: auto;"> <-- TODO CHANGE THIS
 </div>
 
-:::info [*__Overframe Link__*](https://overframe.gg/build/626814/)
+:::info [*__Overframe Link__*](https://overframe.gg/build/626814/)  <-- TODO CHANGE THIS
 
-- Sort of a halfway point between Eclipse and normal Vex build, giving a mix of fast shield clears and being tanky. The biggest weakness of Vex armor is the slow start of building your stacks, and removing your shields speeds it up significantly.
-- Using archwing while on the ground makes you take damage and can be used to proc Vex’ damage bonus when at 0 shields. Also procs Avenger. May be inconsistent as client.
-- This build assumes you’re running with an On Call Crewmate. If you don’t have one though, you can use Narrow Minded instead of Primed Continuity.
-- Consider running a Decaying Dragon Key or slotting rank 0 Catalyzing Shields to reduce your shieldgate to 0.33s.
-- Activating parasitic armor also activates your shield gate even though your healthbar stays red.
+- When not running Shock Trooper, you should do electric shields by Void Striking with Virtuos Surge. 7x7 amp with Eternal Onslaught is recommended.
+- Energized Munitions' point is lowering your Archgun Deployer cooldown, as the cooldown is based on ammo spent / max ammo.
+- Best archgun with EM is Velocitus, because it can oneshot legs basically as fast as you can click. It doesn't need a great riven to work, but you should at least have one with critical chance so you don't have to rely on Arcane Avenger or luck. Use [the calculator](https://calc.profit-taker.com/) to see if you can oneshot.
+- Even with Mausolon, you can find EM useful if your power strength or Mausolon build is lacking.
+- EM is quite expensive to cast at 50 base energy cost and 3 expected casts per run.
+- WARNING: If you're a client in a squad, the ammo efficiency doesn't affect the cooldown even though visually it does. Your archgun will just be unpullable with no error message until the 'real cooldown' is over.
 :::
 
-#### **Dispensary**
+#### **Spellbind**
 
 <div style="width: 100%; text-align: left;">
-    <img src="https://cdn.profit-taker.com/Dispensary_Vex_Armor.png" alt="Dispensary_Vex_Armor" style="width: 100%; height: auto;">
+    <img src="https://cdn.profit-taker.com/Dispensary_Vex_Armor.png" alt="Dispensary_Vex_Armor" style="width: 100%; height: auto;"> <-- TODO CHANGE THIS
 </div>
 
-:::info [*__Overframe Link__*](https://overframe.gg/build/318702/)
+:::info [*__Overframe Link__*](https://overframe.gg/build/318702/) <-- TODO CHANGE THIS
 
-- Example helminth subsume build, using dispensary for the energy generation.
-- A majority of the generic build’s tips apply here.
-- Primed Continuity can be replaced by Narrow Minded.
-- Equilibrium is a flex Mod. It makes Dispensary more effective. 
-:::
-
-#### **Nourish**
-
-<div style="width: 100%; text-align: left;">
-    <img src="https://cdn.profit-taker.com/Nourish_Vex_Armor.png" alt="Nourish_Vex_Armor" style="width: 100%; height: auto;">
-</div>
-
-:::info [*__Overframe Link__*](https://overframe.gg/build/451919/)
-
-- Alternative to using Dispensary- Nourish Grants Viral to all weapons.
-- A majority of the generic build’s tips apply here.
-- You can replace Primed Mods with non-Primed Mods, and consider running rank 8 Mods instead of rank 10.
-- Augur Secrets isn't necessary; you can swap it for Augur Message  for more duration or drop Secrets and Power Drift for Constitution(+ rank 2 Augur Message) if needing more duration.
-- In the same vein, you can drop Augur Secrets/Power Drift and Swap Primed Continuity for Narrow Minded.
+- When not running Shock Trooper, you should do electric shields by Void Striking with Virtuos Surge. 7x7 amp with Eternal Onslaught is recommended.
+- Spellbind is used to gain full status and knockback immunity without needing Unairu or Primed Sure Footed.
+- On top of knockbacks, immunity to the electric status from her sweep attack and puncture procs from adds are useful.
 :::
 
 ## Weapon Builds - Vex Armor
@@ -109,7 +94,6 @@ __Primary weapon:__
 - Vex Armor needs to be ramped up to oneshot pylons. This is extremely sensitive to any changes in power strength and needs about 278%str or higher to oneshot (achievable with Blind Rage + Umbral Intensify+Vitality + Augur Secrets)
 - if you don't need Zenith to do shields, replace the crit mods with more fire rate
 :::
-
 
 __Secondary weapon:__
 
