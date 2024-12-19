@@ -13,25 +13,7 @@ This is a generic Profit-Taker build for every frame if Eclipse is subsumed.
 #### Generic Frame Builds
 
 ::::tabs
-== Zenith/Opticor Frame Build
-
-<div style="width: 100%; text-align: left;">
-    <img src="https://cdn.profit-taker.com/Generic_Zenith_Opticor_Frame_Build.png" alt="Generic_Zenith_Opticor_Frame_Build" style="width: 100%; height: auto;">
-</div>
-
-:::info [*__Overframe Link__*](https://overframe.gg/build/601655/)
-
-- Since Dante Unbound, oneshotting Pylons rivenless with Zenith and subsumed Eclipse is no longer possible. This build relies on either Sling Strength or more added strength (about 40%) to 2-shot with Zenith.
-- Opticor always oneshots fully charged; depending on the setup, quick shots will need about 50% charge to oneshot with this build
-- If you have Primed Sure Footed, remove Fortitude and Sure Footed. Put Primed Sure Footed in the Exilus slot.
-- Any empty slots are flex slots.
-- Streamline is flex.
-- Augur Secrets is there so the build goes to about 280% power strength. Make sure you maintain high power strength or Zenith will start having performance issues. Transient fortitude is a reasonable replacement.
-- If you can survive, consider running Zenurik to reduce energy pad use or replacing Umbral Vitality with a QoL or power strength mod.
-- Consider using Sprint Boost in the aura slot to reach Profit-Taker faster.
-:::
-
-== Pogris Frame Build
+== Ogris Frame Build
 
 This build is nearly the bare minimum for a Kuva Ogris setup, assumes you use a crewmate to cover toxin
 
@@ -42,10 +24,27 @@ This build is nearly the bare minimum for a Kuva Ogris setup, assumes you use a 
 :::info [*__Overframe Link__*](https://overframe.gg/build/663626/)
 
 - This build relies on the Vengeful Archwing Intrinsic and 5 str shards to 3-tick pylons, will need 4 otherwise
-- If you don't have Primed Sure Footed, you can use Sure Footed+Fortitude, will cost you pylon time
+- If you don't have Primed Sure Footed, you can use Sure Footed+Fortitude, can cost you pylon time
 - With this build, a rivenless Kuva Ogris will destroy pylons in 3-4 damage ticks
 - Vigorous Swap will always boost pylon damage when you leave archwing.
 - destroying the pylons in one tick is only possible with a riven.
+:::
+
+== Zenith Frame Build
+
+<div style="width: 100%; text-align: left;">
+    <img src="https://cdn.profit-taker.com/Generic_Zenith_Opticor_Frame_Build.png" alt="Generic_Zenith_Opticor_Frame_Build" style="width: 100%; height: auto;">
+</div>
+
+:::info [*__Overframe Link__*](https://overframe.gg/build/601655/)
+
+- Since Dante Unbound, oneshotting Pylons rivenless with Zenith and subsumed Eclipse is no longer possible. This build relies on either Sling Strength or more added strength (about 40%) to 2-shot with Zenith.
+- If you have Primed Sure Footed, remove Fortitude and Sure Footed. Put Primed Sure Footed in the Exilus slot.
+- Any empty slots are flex slots.
+- Streamline is flex.
+- Augur Secrets is there so the build goes to about 280% power strength. Make sure you maintain high power strength or Zenith will start having performance issues. Transient fortitude is a reasonable replacement.
+- If you can survive, consider running Zenurik to reduce energy pad use or replacing Umbral Vitality with a QoL or power strength mod.
+- Consider using Sprint Boost in the aura slot to reach Profit-Taker faster.
 :::
 ::::
 
@@ -92,6 +91,20 @@ missing elements can be covered via: Warframe abilities, primary weapon, on call
 
 __Primary weapons:__
 
+#### **Kuva Ogris (Pogris)**
+
+<div style="width: 100%; text-align: left;">
+    <img src="https://cdn.profit-taker.com/pogris_eclipse.png" alt="pogris_eclipse" style="width: 100%; height: auto;">
+</div>
+
+:::info [*__Overframe Link__*](https://overframe.gg/build/663638/)
+
+- since Dante Unbound, Pogris needs 427% to only take 3 instead of 4 damage ticks to destroy Pylons with the provided frame build, Sling str and 5 str shards. An alternative to this approach would be to [__double shot pylons__](/advanced/speedrun-strats.html#fast-pogris-pylons-double-shot-void-strike) to require two ticks instead
+- Nightwatch Napalm will damage Pylons as long as they are in range, even through the Pylon bubble.
+- Damage is extremely sensitive to warframe power strength, very few things will increase Nightwatch Napalm damage.
+- Normal Ogris also works well enough if Kuva Ogris feels too grindy. Does less damage but only needs one ammo mod. Damage can be offset a bit with Heavy Caliber, but that makes it less accurate. The other ammo mod can be replaced with Firestorm on a standard Ogris, for slightly less required accuracy especially if combined with Heavy Caliber.
+:::
+
 #### **Zenith**
 
 <div style="width: 100%; text-align: left;">
@@ -105,40 +118,6 @@ Covers toxin. Twitch is flex. This is the bare minimum build required to oneshot
 - you can use a maxed Vigilante Armaments and Galvanized Chamber to have 3ms
 - Invest in a dmg ms riven of any kind, this will allow you to oneshot 
 - if you don't need Zenith to do shields, replace the crit mods with more fire rate
-:::
-
-#### **Opticor Vandal**
-
-:::danger ATTENTION:
-DOES NOT WORK AS OF WRITING THIS
-:::
-
-<div style="width: 100%; text-align: left;">
-    <img src="https://cdn.profit-taker.com/opticor_eclipse.png" alt="opticor_eclipse" style="width: 100%; height: auto;">
-</div>
-
-:::info [*__Overframe Link__*](https://overframe.gg/build/663619/)
-
-- needs about 60% charge to oneshot with the provided frame build
-- Covers toxin.
-- Twitch and fire rate are flex
-- Opticor Vandal has no problems oneshotting Pylons, though you need to use Archwing to go around mountains.
-- Point Strike over Critical Delay due to the noticeable charge time. -fire rate is very bad for the Opticor Vandal.
-- if you don't need Opticor to do shields, replace the crit mods with more fire rate
-:::
-
-#### **Kuva Ogris (Pogris)**
-
-<div style="width: 100%; text-align: left;">
-    <img src="https://cdn.profit-taker.com/pogris_eclipse.png" alt="pogris_eclipse" style="width: 100%; height: auto;">
-</div>
-
-:::info [*__Overframe Link__*](https://overframe.gg/build/663638/)
-
-- since Dante Unbound, Pogris is extremely despairge but still more comfortable than zenith or opticor; needs 427% to only take 3 instead of 4 damage ticks to destroy Pylons with the provided frame build, Sling str and 5 str shards. An alternative to this approach would be to [__double shot pylons__](/advanced/speedrun-strats.html#fast-pogris-pylons-double-shot-void-strike) to require two ticks instead
-- Nightwatch Napalm will damage Pylons as long as they are in range, even through the Pylon bubble.
-- Damage is extremely sensitive to warframe power strength, very few things will increase Nightwatch Napalm damage.
-- Normal Ogris also works well enough if Kuva Ogris feels too grindy. Does less damage (adding Heavy Caliber in place of Vile Acceleration is an option, but makes you miss the pylon sometimes) but only needs one ammo mod. The other one can be replaced with Firestorm on a standard Ogris, for slightly less required accuracy especially if combined with Heavy Caliber.
 :::
 
 __Secondary weapon:__

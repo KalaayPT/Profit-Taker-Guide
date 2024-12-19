@@ -35,7 +35,7 @@ To be able to do the Profit-Taker boss in the first place, you need to be max ra
 
 - Primary: Ogris, used exclusively for pylons.
 - Melee: any Zaw with <b>Exodia Contagion</b> (make sure you can reach 100% crit chance). This is because Contagion turns Zaws into incredibly strong projectile weapons that can both be used very quickly and cover a lot of elements because of how Exodia contagion works, more on that a bit later
-- Secondary: any high [crit] damage secondary works, but because of the innate elements on a Contagion Zaw, you want one that has innate magnetic damage (a lich weapon or a Synoid Gammacor). The weapon of choice therefore is [Tenet Diplos](/beginner/vex-armor-builds#tenet-diplos-build). More on the element distribution in a second.
+- Secondary: any high [crit] damage secondary works, but because of the innate elements on a Contagion Zaw, you want one that has innate magnetic damage (a lich weapon or a Synoid Gammacor) or you will have to equip [Magnetic Might](https://warframe.fandom.com/wiki/Magnetic_Might). The weapon of choice therefore is [Tenet Diplos](/beginner/vex-armor-builds#tenet-diplos-build). More on the element distribution in a second.
 - Archgun: can be used either in hand (see [Mausolon](#archgun-in-hand-mausolon) lower down) or in mech (see [Corvas](#archgun-on-mech-corvas) lower down). The easier option is usually to do mech, since it doesn't leave you in the open during the pull down animation and during the destroying of the legs
 :::
 
@@ -180,3 +180,7 @@ Shards that always work are reds for strength or duration. Going with the sentim
 ### Graphics Settings
 
 It is generally recommended to lower your graphics settings (low preset except for anti-aliasing so it doesnt look blurry), especially Effects Intensity (found in accessibility settings, recommended setting: 50%), because enemy reinforcements and Profit-Taker attacks are very flashy and therefore very distracting. Screen shake should also be off, for your eyes' sake. 
+
+## Further reading
+
+Want to read more? Start by clicking "Basics" up top!
