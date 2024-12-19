@@ -5,7 +5,7 @@
 This section covers generic builds for frames using Eclipse  
 This includes: Volt builds, Mirage builds, Saryn builds, etc  
 They are generally tailored to specific primary weapon setups  
-Suggested Warframe Arcanes include : Tanker, Guardian, Avenger, Acceleration, Velocity, Vigor   
+Suggested Warframe Arcanes include : Guardian, Avenger, Acceleration, Velocity   
 Suggested operator Arcanes include: Elevate, Repair, Lockdown, Cloud  
 
 This is a generic Profit-Taker build for every frame if Eclipse is subsumed.
