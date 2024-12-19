@@ -3,7 +3,7 @@
 ## **Warframe Builds - Eclipse**
 
 This section covers generic builds for frames using Eclipse  
-This includes: Volt, Mirage, Saryn, etc  
+This includes: Volt builds, Mirage builds, Saryn builds, etc  
 They are generally tailored to specific primary weapon setups  
 Suggested Warframe Arcanes include : Tanker, Guardian, Avenger, Acceleration, Velocity, Vigor   
 Suggested operator Arcanes include: Elevate, Repair, Lockdown, Cloud  
