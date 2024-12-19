@@ -95,27 +95,6 @@ __Primary weapon:__
 - if you don't need Zenith to do shields, replace the crit mods with more fire rate
 :::
 
-
-#### **Opticor Vandal Build**
-
-:::danger ATTENTION:
-DOES NOT WORK AS OF WRITING THIS
-:::
-
-<div style="width: 100%; text-align: left;">
-    <img src="https://cdn.profit-taker.com/Opticor_Vandal_Build.png" alt="Opticor_Vandal_Build" style="width: 100%; height: auto;">
-</div>
-
-:::info [*__Overframe Link__*](https://overframe.gg/build/661307/)
-
-- Covers toxin
-- Despite Vex Armor giving an additive damage bonus, Amalgam Serration is used for its sprint speed buff. 
-- Opticor Vandal has more than enough damage to one-hit Pylons with Vex Armor. 
-- Vex Armor needs to be ramped up to oneshot pylons. Needs 322%str or higher to oneshot at the lowest possible charge (around 30%)
-- Point Strike over Critical Delay due to the noticeable charge time. -fire rate is very bad for the Opticor Vandal.
-- if you don't need Opticor to do shields, replace the crit mods with more fire rate
-:::
-
 __Secondary weapon:__
 
 #### **Tenet Diplos Build**
