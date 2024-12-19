@@ -38,13 +38,14 @@ Suggested Warframe Arcanes include: Velocity, Avenger, Nullifier, Acceleration
     <img src="https://cdn.profit-taker.com/Energized_Munitions_Vex_Armor.png" alt="Energized_Munitions_Vex_Armor" style="width: 100%; height: auto;"> 
 </div>
 
-:::info [*__Overframe Link__*](https://overframe.gg/build/626814/)  <-- TODO CHANGE THIS
+:::info [*__Overframe Link__*](https://overframe.gg/build/769770/)
 
 - When not running Shock Trooper, you should do electric shields by Void Striking with Virtuos Surge. 7x7 amp with Eternal Onslaught is recommended.
 - Energized Munitions' point is lowering your Archgun Deployer cooldown, as the cooldown is based on ammo spent / max ammo.
 - Best archgun with EM is Velocitus, because it can oneshot legs basically as fast as you can click. It doesn't need a great riven to work, but you should at least have one with critical chance so you don't have to rely on Arcane Avenger or luck. Use [the calculator](https://calc.profit-taker.com/) to see if you can oneshot.
 - Even with Mausolon, you can find EM useful if your power strength or Mausolon build is lacking.
 - EM is quite expensive to cast at 50 base energy cost and 3 expected casts per run.
+- Natural Talent is a flex slot.
 - WARNING: If you're a client in a squad, the ammo efficiency doesn't affect the cooldown even though visually it does. Your archgun will just be unpullable with no error message until the 'real cooldown' is over.
 :::
 
@@ -54,11 +55,12 @@ Suggested Warframe Arcanes include: Velocity, Avenger, Nullifier, Acceleration
     <img src="https://cdn.profit-taker.com/Spellbind_Vex_Armor.png" alt="Spellbind_Vex_Armor" style="width: 100%; height: auto;"> 
 </div>
 
-:::info [*__Overframe Link__*](https://overframe.gg/build/318702/) <-- TODO CHANGE THIS
+:::info [*__Overframe Link__*](https://overframe.gg/build/769774/)
 
 - When not running Shock Trooper, you should do electric shields by Void Striking with Virtuos Surge. 7x7 amp with Eternal Onslaught is recommended.
 - Spellbind is used to gain full status and knockback immunity without needing Unairu or Primed Sure Footed.
 - On top of knockbacks, immunity to the electric status from her sweep attack and puncture procs from adds are useful.
+- All the energy in the above build is probably overkill. Depending on your run speeds and polarities you can swap Rage or Primed Flow for whatever you feel like you need, Steel Fiber for example can help you survive early on.
 :::
 
 ## Weapon Builds - Vex Armor
