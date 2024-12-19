@@ -43,12 +43,10 @@ The Pylons have shield bubbles around them that normally prevent all shots fired
 There are four (known) weapons that can pierce shield bubbles. Ogris, Kuva Ogris, Zenith, Fluctus.
 Fluctus is not practical and will not be considered.
 
-Opticor and Opticor Vandal require you to enter Archwing to get a line of sight to the Pylons and shoot them without spending time on getting close.
-
-The same applies to both Ogris variants, although Ogris allows you to preshoot Pylons, more on that later in [__Pogris__](/beginner/pogris)
+Ogris and Kuva Ogris require you to enter Archwing to get a line of sight to the Pylons and shoot them without spending time on getting close. Ogris variants allow you to preshoot Pylons, more on that later in [__Pogris__](/beginner/pogris)
 
 Zenith, using its Alt-fire, additionally pierces terrain because it has infinite punch through. This means you can stay on the ground and fire at the Pylon waypoints through terrain and shield bubbles alike.
-Unfortunately, Zenith is not readily obtainable. You can only get it when you log in on days 100/300/500/700. Until then, you can use the Kuva Ogris or the Opticor Vandal.
+Unfortunately, Zenith is not readily obtainable. You can only get it when you log in on days 100/300/500/700..
 
 ## **6\. Clearing the Armor Phase**
 

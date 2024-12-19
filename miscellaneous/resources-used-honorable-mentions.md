@@ -44,7 +44,7 @@ As it is an attempt to compile over 5 years of Profit-Taker knowledge, this guid
 
 **Bane**
 
-- Provided a video of Opticor pylons.
+- Provided a video of Opticor pylons when that was still a thing.
 
 **Tater.**
 

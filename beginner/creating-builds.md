@@ -307,13 +307,12 @@ Cons:
 
 Pylons are an essential part of the fight, but they have an impenetrable bubble around them that you have to work around. Generally, one of your weapons will be chosen not for shield performance, but for Pylon performance.
 
-#### **__What To Use for Pylon Phase:__**
+#### **What To Use for Pylon Phase**
 
-Ideally, you have a weapon that can break the Pylons from outside the shield bubbles, to do this your weapon must have either infinite punch through or be an Opticor-style beam cannon.
+Ideally, you have a weapon that can break the Pylons from outside the shield bubbles.
+The three weapon [types] that meet these criteria, in order of speed:
 
-The five weapons that meet these criteria, in order of speed:
-
-##### Kuva Ogris
+##### Ogris / Kuva Ogris
 
 Ogris has a mod called Nightwatch Napalm, which leaves a large area of effect where the rockets land that lasts six seconds. This AoE can damage pylons through the pylon bubble, making it possible to destroy a pylon after it has landed, and if a pylon lands in the AoE, it can be quickly destroyed. This makes the Ogris several seconds faster than the next best option, as it isn’t solely reliant on reaction time (and aim) after the pylons have landed, but rather predicting where the pylons will land and pre-firing them. The Kuva Ogris is best for this as the progenitor damage bonus is one of the only damage increases that apply to Nightwatch Napalm. This is a speedrun strat known in the community as “Pogris”, more information on it [__here__](/advanced/speedrun-strats.html#pogris). Pogris is unable to effectively damage shields, so it must also be paired with a good [__On Call Crew__](/advanced/speedrun-strats.html#on-call-strats).
 
@@ -334,22 +333,6 @@ Video (click to play/pause):
 <div style="padding-bottom: 20px;">
 <video width="100%" onclick="this.paused?this.play():this.pause();arguments[0].preventDefault();" loop muted>
  <source type="video/mp4" src="https://cdn.profit-taker.com/zenithpylons.mp4">
-</video>
-</div>
-
-##### Opticor/Opticor Vandal
-
-:::danger ATTENTION:
-DOES NOT WORK AS OF WRITING THIS
-:::
-
-While the Opticor Vandal is best for this task due to its higher fire rate, both Opticors can shoot Pylons from outside the shields. However, they cannot shoot through mountains and have horrible performance against shields, leaving them in second place.
-
-Video (click to play/pause):
-
-<div style="padding-bottom: 20px;">
-<video width="100%" onclick="this.paused?this.play():this.pause();arguments[0].preventDefault();" loop muted>
- <source type="video/mp4" src="https://cdn.profit-taker.com/opticorpylons.mp4">
 </video>
 </div>
 
