@@ -9,13 +9,13 @@ By uumm
 Warframe builds for Profit-Taker are pretty open to buildcrafting, there are 4 Mods (5, if you’re missing Primed Sure Footed, 3 if you’re using Unairu’s Poise) that you will see on all but the most specialized Profit-Taker builds
 
 <div style="width: 100%; text-align: left;">
-    <img src="https://cdn.profit-taker.com/framebuilds.png" alt="framebuilds" style="width: 100%; height: auto;">
+    <img src="https://cdn.profit-taker.com/framebuilds.png" alt="framebuilds" style="width: 100%; height: auto;"> <-- TODO
 </div>
 
 *If you don’t have it, substitute Sure Footed & Fortitude in place of Primed Sure Footed*
 
 :::info
-- Eclipse is used as it's the best available damage buff,
+- Eclipse is used as it's the best available damage buff except on Chroma,
 - Blind Rage and Umbral Intensify bring power strength to appreciable levels,
 - Umbral Vitality is used because shield gating isn’t reliable enough in Profit-Taker to be viable
 - Primed Sure Footed is used because of the sheer number of knockbacks and staggers in the fight.
@@ -35,7 +35,7 @@ To fix these problems and reach a more standard Profit-Taker build you can follo
 - Saryn uses her Venom Dose augment to provide her weapons with Corrosive damage
 - The Eclipse augment, Total Eclipse, can be used to buff teammates and Specters such as On Call Crew. It does **NOT** apply to Necramechs.
 - Frames with long casting animations may wish to use Natural Talent
-- Sometimes you’ll need more power strength to oneshot Pylons with Zenith, so transient fortitude may be used
+- Sometimes you’ll need more power strength to oneshot Pylons with Zenith, so Transient Fortitude may be used
 - Sometimes you want **even more power strength!!!** For this, either Umbral Fiber or Augur Secrets, or both.
 
 <div style="width: 50%; text-align: left;">
@@ -48,13 +48,13 @@ To fix these problems and reach a more standard Profit-Taker build you can follo
 Putting it all together, a more standard build might look like this:
 
 <div style="width: 100%; text-align: left;">
-    <img src="https://cdn.profit-taker.com/standardbuild.png" alt="standardbuild" style="width: 100%; height: auto;">
+    <img src="https://cdn.profit-taker.com/standardbuild.png" alt="standardbuild" style="width: 100%; height: auto;"> < TODO 
 </div>
 
 **There are a few other things that are important to know, too:**
 
 - The damage buff from Eclipse is on Eclipse's hold cast by default. Consider inverting Mirage's ability controls in your settings to make Solar Eclipse (the damage buff) a tap cast  
-- Buffs that act as a single stat element like Shock Trooper will poison your available elements by combining your modded single stat elements.
+- As of Update 38: Shocktrooper no longer combines with elements, making it ideal for non-Volt frames to do electricity.
 
 
 ## **Shield, Pylon, Armor Build Factors**
@@ -73,9 +73,9 @@ Profit-Taker's shields are the reason behind 80% of the meta loadout. To cover a
 
 Secondary: Viral(Cold+**Toxin**), Heat, innate Mag, and optional Radiation
 
-Melee (Contagion): Gas(**Toxin**\+Heat), Cold, innate IPS, Blast (covered by Exodia Contagion), Corrosive (covered by Melee Exposure), and Radiation
+Melee (Contagion): Gas(**Toxin**\+Heat), Cold, innate IPS, Blast (covered by Exodia Contagion), Corrosive (covered by Melee Exposure),  Radiation, and optional Magnetic
 
-[__Operator__](/advanced/speedrun-strats.html#operator-element)/Volt Shield: Electric
+[__Operator__](/advanced/speedrun-strats.html#operator-element)/Volt Shield/Shocktrooper: Electric
 
 With this combination, you're only missing Toxin, and there is no way to fit it in the builds without creating the need to switch to your primary.
 :::
@@ -272,15 +272,15 @@ Pros:
 
 - High fire rate makes the Velocitus extremely fast for solo Profit-Taker, being theoretically capable of reaching sub-4s sum of legs if skill permits.
 - The Velocitus is extremely precise.
-- The Velocitus has the Fastest projectile speed of any projectile weapon.
+- The Velocitus has the fastest projectile speed of any projectile weapon.
 
 Cons:
 
 - only has viable usage in combination with Volt's Shield and a good riven
 - As the Velocitus is a projectile weapon, there is a barely noticeable delay between firing a shot and said shot hitting the target
 - The Charge is all or none, making it extremely impractical to charge the Velocitus.
-- There are only 11 stat combinations of Riven Mods (fewer without a negative) that work for uncharged oneshots. Note that some Rivens oneshot without a CC Mod on, but they have only 74% cc. No Riven is necessary for charged shots
-- To reach those extremely low leg times, you need a Riven that can run lower damage but a higher fire rate build. Bless helps with this, but without Bless, there are two viable stat combinations and grades will decide if a Riven will work or not.
+- There are only 9 stat combinations of Riven Mods that work for uncharged oneshots. Note that some Rivens oneshot without a CC Mod on, but they have only 74% cc. No Riven is necessary for charged shots
+- Every Riven combination needs a certain grade value for uncharged oneshots, some less than others. Damage Bless is necessary for every roll.
 
 __Corvas (Necramech, <span style="color: red;">non-Prime</span>):__
 
