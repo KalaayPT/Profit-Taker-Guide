@@ -93,7 +93,7 @@ If you try putting it in place of any of the other modded single-stat elements, 
 
 Going more in depth on how to cover this last missing element:
 
-Saryn can do Toxin via her third ability, Toxic Lash, so while she doesn’t get electricity, she’s still only missing one element and isn’t forced to use operator to cover all elements.
+Saryn can do Toxin via her third ability, Toxic Lash. Meaning she can do every element if she's using Shocktrooper.
 
 For the First solution, you simply use a Zenith as your primary, modding it for toxin. This comes at the cost of pylon times but is consistent and works without issue.
 
