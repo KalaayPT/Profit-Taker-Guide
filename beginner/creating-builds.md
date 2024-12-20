@@ -276,10 +276,10 @@ Pros:
 
 Cons:
 
-- Only has viable usage in combination with Volt's Shield and a good riven
-- As the Velocitus is a projectile weapon, there is a barely noticeable delay between firing a shot and said shot hitting the target
+- Only has viable usage in combination with Volt's Shield and a good riven.
+- As the Velocitus is a projectile weapon, there is a barely noticeable delay between firing a shot and said shot hitting the target.
 - The Charge is all or none, making it extremely impractical to charge the Velocitus.
-- There are only 9 stat combinations of Riven Mods that work for uncharged oneshots. Note that some Rivens oneshot without a CC Mod on, but they have only 74% cc. No Riven is necessary for charged shots
+- There are only 9 stat combinations of Riven Mods that work for uncharged oneshots. Note that some Rivens oneshot without a CC Mod on, but they have only 74% cc. No Riven is necessary for charged shots.
 - Every Riven combination needs a certain grade value for uncharged oneshots, some less than others. Damage Bless is necessary for every roll.
 
 __Corvas (Necramech, <span style="color: red;">non-Prime</span>):__
@@ -289,7 +289,7 @@ Pros:
 - The Charge isn’t all or nothing, Corvas’s stats linearly scale from uncharged to charged stats as you charge it.
 - When used with Volt shield, Corvas is the fastest Archgun for rivenless solo runs, as with Damage Bless it can oneshot Profit-Taker legs if you charge it to slightly over half. When used without Volt shield, a slower build is required making Corvas slightly slower than Heavy Weapon.
 - Can oneshot legs on frames other than Volt with only a moderately good Riven, making it ideal for said frames.
-- Unlike most Archguns, the Corvas is a hitscan weapon, meaning shots hit immediately after firing
+- Unlike most Archguns, the Corvas is a hitscan weapon, meaning shots hit immediately after firing.
 - With additional damage from Volt’s Shields, it is possible, though extremely rare, to oneshot two legs at a time with a single shot due to bullet spread.
 
 Cons:
