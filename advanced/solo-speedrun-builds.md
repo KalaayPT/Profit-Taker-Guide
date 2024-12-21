@@ -5,15 +5,15 @@
 **Please do not mindlessly copy these builds. As a rule, they are extremely specialized. Read the descriptions, and ask any further questions in the discord.**
 
 ## **Credit Farming Setup**
+by [__Fremy__](https://www.youtube.com/watch?v=glgE1dip6Tc) <-- TODO CHANGE THIS upload vid idk  or just remove this part
 
 There's 2 chroma builds that are pretty even, one with Shock Trooper, one with Energized Munitions. When it comes to speedrun.com legal runs, I believe Shock Trooper with a good Corvas riven is the best choice, but also requires a very good riven. When using gravimag I believe Energized Munitions Velocitus has a higher ceiling, but is a lot more rng reliant on shield cycle rng.
 Remember to use Decaying Dragon Key.
 
 ### **Chroma Shock Trooper** 
-by [__Fremy__](https://www.youtube.com/watch?v=glgE1dip6Tc) <-- TODO CHANGE THIS upload vid idk  or just remove this part
 
 <div style="width: 100%; text-align: left;">
-    <img src="https://cdn.profit-taker.com/chromabyfremy.png" alt="chromabyfremy" style="width: 100%; height: auto;"> <-- TODO CHANGE THIS
+    <img src="https://cdn.profit-taker.com/ShockTrooperchromabyfremy.png" alt="ShockTrooperchromabyfremy" style="width: 100%; height: auto;">
 </div>
 
 [*__Overframe Link__*](https://overframe.gg/build/769747/)
@@ -23,10 +23,9 @@ With Mausolon I recommend Void Striking before 2nd legs to make sure the cooldow
 Mausolon build is the same as in [basic builds.](https://profit-taker.com/beginner/vex-armor-builds#mausolon-build)
 
 ### **Chroma Energized Munitions** 
-by [__Fremy__](https://www.youtube.com/watch?v=glgE1dip6Tc) <-- TODO CHANGE THIS upload vid idk
 
 <div style="width: 100%; text-align: left;">
-    <img src="https://cdn.profit-taker.com/chromabyfremy.png" alt="chromabyfremy" style="width: 100%; height: auto;"> <-- TODO CHANGE THIS
+    <img src="https://cdn.profit-taker.com/EMchromabyfremy.png" alt="EMchromabyfremy" style="width: 100%; height: auto;"> 
 </div>
 
 [*__Overframe Link__*](https://overframe.gg/build/762157/)
@@ -120,7 +119,11 @@ High attack speed build, it saves a few milliseconds. Volt shield, Vigorous Swap
 ### **Mech Corvas**
 
 <div style="width: 100%; text-align: left;">
-    <img src="https://cdn.profit-taker.com/mechvelo.png" alt="mechvelo" style="width: 100%; height: auto;"> <-- TODO CHANGE THIS
+    <img src="https://cdn.profit-taker.com/speedrunmechcorvas.png" alt="speedrunmechcorvas" style="width: 100%; height: auto;"> 
+</div>
+
+<div style="width: 25%; text-align: left;">
+    <img src="https://cdn.profit-taker.com/speedrunmechcorvas_riven.png" alt="speedrunmechcorvas_riven" style="width: 100%; height: auto;">
 </div>
 
 [*__Overframe Link__*](https://overframe.gg/build/621203/)
@@ -154,7 +157,11 @@ Explained in [__on call strats__](/advanced/speedrun-strats.html#on-call-strats)
 ### **Gravimag Velocitus**
 
 <div style="width: 100%; text-align: left;">
-    <img src="https://cdn.profit-taker.com/mechvelo.png" alt="mechvelo" style="width: 100%; height: auto;"> <-- TODO CHANGE THIS
+    <img src="https://cdn.profit-taker.com/gravimagvelo.png" alt="gravimagvelo" style="width: 100%; height: auto;"> 
+</div>
+
+<div style="width: 25%; text-align: left;">
+    <img src="https://cdn.profit-taker.com/gravimagveloriven.png" alt="gravimagveloriven" style="width: 100%; height: auto;">
 </div>
 
 [*__Overframe Link__*](https://overframe.gg/build/769758/)
