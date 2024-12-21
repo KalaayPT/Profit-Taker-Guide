@@ -43,7 +43,7 @@ Mech build doesn’t matter as you shouldn’t spend much time in it. A basic he
 
 - This is one of the best ways to clear Toxin for frames that can’t do it themselves. Manually cycling Toxin works, but this saves a fair few seconds.
 - Any frame with an Exalted Weapon won’t need this. They can put Toxin on the Exalted Weapon.
-- Volt and Saryn don’t need this due to Toxic Lash and Volt shield, respectively.
+- Volt and Saryn don’t need this due to Volt shield and Toxic Lash, respectively.
 - If the last element in a shield is Toxin, you can go straight from clearing the shield with Arquebex to breaking legs with Corvas.
 - Arquebex doesn’t do any damage to Profit-Taker’s legs or body.
 :::
