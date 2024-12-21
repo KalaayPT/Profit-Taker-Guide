@@ -7,7 +7,7 @@
 ## **Credit Farming Setup**
 by Fremy
 
-There's 2 chroma builds that are pretty even, one with Shock Trooper, one with Energized Munitions. When it comes to speedrun.com legal runs, I believe Shock Trooper with a good Corvas riven is the best choice, but also requires a very good riven. When using gravimag I believe Energized Munitions Velocitus has a higher ceiling, but is a lot more rng reliant on shield cycle rng.
+There's 2 Chroma builds that are pretty even, one with Shock Trooper, one with Energized Munitions. When it comes to speedrun.com legal runs, I believe Shock Trooper with a good Corvas riven is the best choice, but also requires a very good riven. When using gravimag I believe Energized Munitions Velocitus has a higher ceiling, but is a lot more rng reliant on shield cycle rng.
 Remember to use Decaying Dragon Key.
 
 ### **Chroma Shock Trooper** 
@@ -71,7 +71,7 @@ To make the best use of the Operator element coverage, Madurai is essential. Voi
 
 Low duration Volt build. The higher range is so Total Eclipse more reliably buffs On Call Crew. Amar’s Hatred is a flex slot for this build and only used because of its polarity, because these polarities are compatible with both Eidolon and Arbitration builds. Relies on Ancient Healer Specter and/or shield pads to stay alive.
 
-Natural Talent can be replaced with Augur Secrets and yellow archon shards or cast speed can be dropped altogether. Primed Sure footed can be replaced with Power Drift past a certain pace as knockdowns become increasingly rare and Wyrm can pick up the slack. Unairu is also an option if using power drift or if you don’t have PSF. Arcane Awakening is flex and can be replaced by either Molt Efficiency if you need more duration or Arcane Guardian if you have trouble staying alive.
+Natural Talent can be replaced with Augur Secrets and yellow archon shards or cast speed can be dropped altogether. Primed Sure Footed can be replaced with Power Drift past a certain pace as knockdowns become increasingly rare and Wyrm can pick up the slack. Unairu is also an option if using power drift or if you don’t have PSF. Arcane Awakening is flex and can be replaced by either Molt Efficiency if you need more duration or Arcane Guardian if you have trouble staying alive.
 
 ## **Weapon Builds**
 
