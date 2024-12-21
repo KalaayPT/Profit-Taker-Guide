@@ -19,12 +19,13 @@ Remember to use Decaying Dragon Key.
 [*__Overframe Link__*](https://overframe.gg/build/769747/)
 
 The Shock Trooper build is for running either mech Corvas, or gravimag Mausolon. You get to have all elements without needing to think about electric and doing it with amp, making shield rng much less painful. If you run Mausolon, you should definitely have Arcane Avenger, but with Corvas it's less mandatory and can be replaced with Nullifier. At good speed you shouldn't have energy problems though even with a magnetic proc or two. Archon shards should be starting energy and str.
+
 With Mausolon I recommend Void Striking before 2nd legs to make sure the cooldown is back up for 3rd legs.
 Mausolon build is the same as in [basic builds.](https://profit-taker.com/beginner/vex-armor-builds#mausolon-build)
 
 ### **Chroma Energized Munitions** 
 
-<div style="width: 100%; text-align: left;">S
+<div style="width: 100%; text-align: left;">
     <img src="https://cdn.profit-taker.com/EMchromabyfremy.png" alt="EMchromabyfremy" style="width: 100%; height: auto;"> 
 </div>
 
@@ -36,7 +37,7 @@ Energized Munitions is for enabling gravimag Velocitus, which is by far the fast
 
 Main con of the build is that you can't do electric with Shock Trooper, so you must do it with your amp. You use 7x7, Virtuos Surge, Eternal Onslaught and Void Strike. If you're close to PT it does more damage than from max range. Basically you're hoping for an electric shield early into shield phase 2, so you can kill the whole shield with the amp. If you didn't get an electric shield in phase 1, you can pre-cast Void Strike between the 2nd legs and bodyshot.
 
-You want to use cast speed archon shards to make the EM cast animation shorter. At least 2 are recommended. If it first your polarities better, you can use Natural Talent over Preparation and slot starting energy shards instead.
+You want to use cast speed archon shards to make the EM cast animation shorter. At least 2 are recommended. If it fits your polarities better, you can use Natural Talent over Preparation and slot starting energy shards instead.
 
 Arcane Nullifier is recommended if you want to run completely padless, as the casts are quite expensive. Arcane Avenger isn't mandatory but helps your Diplos DPS.
 
@@ -148,16 +149,6 @@ This build and riven needs damage bless and a volt shield to oneshot. Info about
     <img src="https://cdn.profit-taker.com/mechveloriven.png" alt="mechveloriven" style="width: 100%; height: auto;">
 </div>
 
-### **Crewmate Torid**
-
-<div style="width: 100%; text-align: left;">
-    <img src="https://cdn.profit-taker.com/crewmatetorid.png" alt="crewmatetorid" style="width: 100%; height: auto;">
-</div>
-
-[*__Overframe Link__*](https://overframe.gg/build/622921/)
-
-Explained in [__on call strats__](/advanced/speedrun-strats.html#on-call-strats), only works well with +150% primary cc crewmate. Make sure your crewmate isn’t behind your mech.
-
 ### **Gravimag Velocitus**
 
 <div style="width: 100%; text-align: left;">
@@ -171,3 +162,13 @@ Explained in [__on call strats__](/advanced/speedrun-strats.html#on-call-strats)
 [*__Overframe Link__*](https://overframe.gg/build/769758/)
 
 For Energized Munitions Chroma. If you believe in Arcane Avenger, you can even run rivenless. You should have CC on riven for consistency, but it doesn't need great danage rolls to oneshot. If you lack damage, you can drop Automatic Trigger. Check the [calculator.](https://calc.profit-taker.com)
+
+### **Crewmate Torid**
+
+<div style="width: 100%; text-align: left;">
+    <img src="https://cdn.profit-taker.com/crewmatetorid.png" alt="crewmatetorid" style="width: 100%; height: auto;">
+</div>
+
+[*__Overframe Link__*](https://overframe.gg/build/622921/)
+
+Explained in [__on call strats__](/advanced/speedrun-strats.html#on-call-strats), only works well with +150% primary cc crewmate. Make sure your crewmate isn’t behind your mech.
