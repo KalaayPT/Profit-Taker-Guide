@@ -293,7 +293,7 @@ Pros:
 
 Cons:
 
-- Low base fire rate means it can’t quite match Velocitus performance and needs a strong/expensive Riven if you want to slot Automatic Trigger
+- Low base fire rate means it can’t quite match Velocitus performance
 - Still needs quite a specific Riven if you want to oneshot without charging
 - High multishot makes it possible to miss with a few pellets, meaning the legs aren’t oneshot
 - As it is a shotgun you need to be near Profit-Taker to do significant amounts of damage. Not a massive issue, but something to keep in mind
