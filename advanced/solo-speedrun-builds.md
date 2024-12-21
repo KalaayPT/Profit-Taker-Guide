@@ -5,7 +5,7 @@
 **Please do not mindlessly copy these builds. As a rule, they are extremely specialized. Read the descriptions, and ask any further questions in the discord.**
 
 ## **Credit Farming Setup**
-by [__Fremy__](https://www.youtube.com/watch?v=glgE1dip6Tc) <-- TODO CHANGE THIS upload vid idk  or just remove this part
+by Fremy
 
 There's 2 chroma builds that are pretty even, one with Shock Trooper, one with Energized Munitions. When it comes to speedrun.com legal runs, I believe Shock Trooper with a good Corvas riven is the best choice, but also requires a very good riven. When using gravimag I believe Energized Munitions Velocitus has a higher ceiling, but is a lot more rng reliant on shield cycle rng.
 Remember to use Decaying Dragon Key.

@@ -109,7 +109,7 @@ __Secondary weapon:__
 
 - Covers heat, magnetic (progenitor) and viral
 - Lethal Torrent can be replaced with Accelerated Isotope so you don't have to rely on Contagion for Radiation
-- If you don't have Diplos, you can use the Tenet Detron, Tenet Cycron, Synoid Gammacor or any weapon with innate (or progenitor) magnetic, really.
+- If you don't have Diplos, you can use any weapon with innate (or progenitor) magnetic or any high [crit] damage weapon with the Magnetic Might mod.
 - Reflex Draw is flex
 - Cascadia Overcharge assumes shield pad usage. If you don't use shield pads, you can use Deadhead for less recoil or Merciless if you are able to build stacks.
 :::
