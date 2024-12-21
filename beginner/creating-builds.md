@@ -54,7 +54,7 @@ Putting it all together, a more standard build might look like this:
 **There are a few other things that are important to know, too:**
 
 - The damage buff from Eclipse is on Eclipse's hold cast by default. Consider inverting Mirage's ability controls in your settings to make Solar Eclipse (the damage buff) a tap cast  
-- As of Update 38: Shocktrooper no longer combines with elements, making it ideal for non-Volt frames that have damage buffs to do electricity.
+- As of Update 38: Shocktrooper no longer combines with elements, making it ideal for non-Volt frames that have damage buffs (e.g. Chroma and Mirage) to do electricity.
 
 
 ## **Shield, Pylon, Armor Build Factors**
