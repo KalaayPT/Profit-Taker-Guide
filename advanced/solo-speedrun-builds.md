@@ -24,16 +24,19 @@ Mausolon build is the same as in [basic builds.](https://profit-taker.com/beginn
 
 ### **Chroma Energized Munitions** 
 
-<div style="width: 100%; text-align: left;">
+<div style="width: 100%; text-align: left;">S
     <img src="https://cdn.profit-taker.com/EMchromabyfremy.png" alt="EMchromabyfremy" style="width: 100%; height: auto;"> 
 </div>
 
 [*__Overframe Link__*](https://overframe.gg/build/762157/)
 
 Note that this build isn't speedrun.com legal because Virtuos Surge killing an entire shield is technically a bug. You can make it legal by loading cold or electric onto your companion but it is not reliable at all.
+
 Energized Munitions is for enabling gravimag Velocitus, which is by far the fastest archgun. With Ammo Chain on the velocitus, your cooldown should be around 2s per ammo spent. You should have a riven with at least critical chance on it if you don't want to rely on Arcane Avenger. With some bonus damage from Riven, you can quite easily run blessless while slotting Automatic Trigger on the Velocitus. [Use the calculator to check if you can oneshot.](https://calc.profit-taker.com/)
+
 Main con of the build is that you can't do electric with Shock Trooper, so you must do it with your amp. You use 7x7, Virtuos Surge, Eternal Onslaught and Void Strike. If you're close to PT it does more damage than from max range. Basically you're hoping for an electric shield early into shield phase 2, so you can kill the whole shield with the amp. If you didn't get an electric shield in phase 1, you can pre-cast Void Strike between the 2nd legs and bodyshot.
 You want to use cast speed archon shards to make the EM cast animation shorter. At least 2 are recommended. If it first your polarities better, you can use Natural Talent over Preparation and slot starting energy shards instead.
+
 Arcane Nullifier is recommended if you want to run completely padless, as the casts are quite expensive. Arcane Avenger isn't mandatory but helps your Diplos DPS.
 
 **Less Umbral formas:**
