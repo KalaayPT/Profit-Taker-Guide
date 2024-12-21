@@ -9,7 +9,7 @@ By uumm
 Warframe builds for Profit-Taker are pretty open to buildcrafting, there are 4 Mods (5, if you’re missing Primed Sure Footed, 3 if you’re using Unairu’s Poise) that you will see on all but the most specialized Profit-Taker builds
 
 <div style="width: 100%; text-align: left;">
-    <img src="https://cdn.profit-taker.com/framebuilds.png" alt="framebuilds" style="width: 100%; height: auto;"> <-- TODO
+    <img src="https://cdn.profit-taker.com/framebuilds.png" alt="framebuilds" style="width: 100%; height: auto;"> 
 </div>
 
 *If you don’t have it, substitute Sure Footed & Fortitude in place of Primed Sure Footed*
@@ -48,7 +48,7 @@ To fix these problems and reach a more standard Profit-Taker build you can follo
 Putting it all together, a more standard build might look like this:
 
 <div style="width: 100%; text-align: left;">
-    <img src="https://cdn.profit-taker.com/standardbuild.png" alt="standardbuild" style="width: 100%; height: auto;"> < TODO 
+    <img src="https://cdn.profit-taker.com/standardbuild.png" alt="standardbuild" style="width: 100%; height: auto;">
 </div>
 
 **There are a few other things that are important to know, too:**
