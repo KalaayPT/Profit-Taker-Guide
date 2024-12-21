@@ -54,7 +54,7 @@ Putting it all together, a more standard build might look like this:
 **There are a few other things that are important to know, too:**
 
 - The damage buff from Eclipse is on Eclipse's hold cast by default. Consider inverting Mirage's ability controls in your settings to make Solar Eclipse (the damage buff) a tap cast  
-- As of Update 38: Shocktrooper no longer combines with elements, making it ideal for non-Volt frames to do electricity.
+- As of Update 38: Shocktrooper no longer combines with elements, making it ideal for non-Volt frames that have damage buffs to do electricity.
 
 
 ## **Shield, Pylon, Armor Build Factors**
@@ -93,7 +93,7 @@ If you try putting it in place of any of the other modded single-stat elements, 
 
 Going more in depth on how to cover this last missing element:
 
-Saryn can do Toxin via her third ability, Toxic Lash. Meaning she can do every element if she's using Shocktrooper.
+Saryn can do Toxin via her third ability, Toxic Lash. Meaning she can do every element if she's using Shocktrooper, however - this means that she has to remove Eclipse.
 
 For the First solution, you simply use a Zenith as your primary, modding it for toxin. This comes at the cost of pylon times but is consistent and works without issue.
 
@@ -206,12 +206,12 @@ Before getting into the specifics about Archgun setups, make sure that no matter
 ##### __Heavy Weapon__
 
 > [!IMPORTANT] Pros:
-> - Has access to frame damage buffs such as Eclipse. This means that once you have your Archgun called down, it will shred Profit-Taker legs
-> - Is fairly close to the ground, and you can crouch to get lower, letting you get a decent view of all legs from the front
+> - Has access to frame damage buffs such as Eclipse or Vex Armor. This means that once you have your Archgun called down, it will shred Profit-Taker legs.
+> - Is fairly close to the ground, and you can crouch to get lower, letting you get a decent view of all legs from the front.
 
 :::danger Cons:
 
-- Has a \~3s delay to call down Archgun. The animation starts once you put away your current weapon and takes place over a fixed amount of time. If you have a scanner out, the animation will start immediately
+- Has a \~3s delay to call down Archgun. The animation starts once you put away your current weapon and takes place over a fixed amount of time. If you have a scanner out, the animation will start immediately.
 - Due to the Archgun cooldown, explained in build basics, many Archguns miss out on DPS to slot Ammo Chain.
 - You are completely exposed when calling down Archgun, requiring you to either get lucky or plan your positioning around calling down Archgun.
 - After the first Shield Phase, it is extremely common for Profit-Taker to do her laser attack while you’re calling Archgun. Press a/d + slide right before calling Archgun to slide out of the way of this attack, your momentum won’t stop immediately when you’re in the call animation, you need the Archgun deployer on a keybind to do this.
@@ -229,7 +229,7 @@ Pros:
 Cons:
 
 - Extremely bad Riven disposition means Rivens don’t cause a massive improvement in consistency. For most Rivens to be viable, you need to run Arcane Avenger to raise the cc enough to replace Parallax Scope with Riven.
-- The explosion doesn’t consistently damage the rear limbs. While this allows you to damage a front limb while aiming at a rear limb, the explosion doesn’t do enough damage while solo to break limbs as quickly as the direct hit
+- The explosion doesn’t consistently damage the rear limbs. While this allows you to damage a front limb while aiming at a rear limb, the explosion doesn’t do enough damage while solo to break limbs as quickly as the direct hit.
 
 Video (click to play/pause):
 
@@ -243,26 +243,26 @@ __Prisma Dual Decurion (Heavy Weapon):__
 
 Pros:
 
-- Noticeably higher fire rate than Mausolon
-- Has a unique summon animation that’s 150ms faster than the default
-- Good Riven disposition means it can reliably oneshot legs with the proper Riven, meaning its possible to fire a single shot at each leg if you move the mouse fast enough
+- Noticeably higher fire rate than Mausolon.
+- Has a unique summon animation that’s 150ms faster than the default.
+- Good Riven disposition means it can reliably oneshot legs with the proper Riven, meaning its possible to fire a single shot at each leg if you move the mouse fast enough.
 
 Cons:
 
-- Low ammo pool and high fire rate mean missed/wasted shots are highly penalized by cooldown
-- Projectile weapon like most Archguns
+- Low ammo pool and high fire rate mean missed/wasted shots are highly penalized by cooldown.
+- Projectile weapon like most Archguns.
 - Is affected by [__Archgun Hitbox Bug__](/miscellaneous/bugs.html#archgun-hitbox-bug)
 
 ##### __Mech__
 
 > [!IMPORTANT] Pros:
->- Instant summon
+>- Instant summon.
 >- Fairly tanky, don’t need to worry about dying.
->- This also applies to general survivability: not being exposed while doing the armor phase will make you die less overall
+>- This also applies to general survivability: not being exposed while doing the armor phase will make you die less overall.
 
 :::danger Cons:
 
-- High camera and weapon position sometimes make rear limbs hard to hit
+- High camera and weapon position sometimes make rear limbs hard to hit.
 - Few damage buffs, and an extremely restrictive meta setup. The forms of damage increase available are as follows: Volt shield, Damage Bless, Tactical Rank 9, Riven Mods and Jade's Deathbringer <Badge type="warning" text="still unclear on whether thats intended" />.
 :::
 
@@ -276,10 +276,10 @@ Pros:
 
 Cons:
 
-- only has viable usage in combination with Volt's Shield and a good riven
-- As the Velocitus is a projectile weapon, there is a barely noticeable delay between firing a shot and said shot hitting the target
+- Only has viable usage in combination with Volt's Shield and a good riven.
+- As the Velocitus is a projectile weapon, there is a barely noticeable delay between firing a shot and said shot hitting the target.
 - The Charge is all or none, making it extremely impractical to charge the Velocitus.
-- There are only 9 stat combinations of Riven Mods that work for uncharged oneshots. Note that some Rivens oneshot without a CC Mod on, but they have only 74% cc. No Riven is necessary for charged shots
+- There are only 9 stat combinations of Riven Mods that work for uncharged oneshots. Note that some Rivens oneshot without a CC Mod on, but they have only 74% cc. No Riven is necessary for charged shots.
 - Every Riven combination needs a certain grade value for uncharged oneshots, some less than others. Damage Bless is necessary for every roll.
 
 __Corvas (Necramech, <span style="color: red;">non-Prime</span>):__
@@ -289,7 +289,7 @@ Pros:
 - The Charge isn’t all or nothing, Corvas’s stats linearly scale from uncharged to charged stats as you charge it.
 - When used with Volt shield, Corvas is the fastest Archgun for rivenless solo runs, as with Damage Bless it can oneshot Profit-Taker legs if you charge it to slightly over half. When used without Volt shield, a slower build is required making Corvas slightly slower than Heavy Weapon.
 - Can oneshot legs on frames other than Volt with only a moderately good Riven, making it ideal for said frames.
-- Unlike most Archguns, the Corvas is a hitscan weapon, meaning shots hit immediately after firing
+- Unlike most Archguns, the Corvas is a hitscan weapon, meaning shots hit immediately after firing.
 - With additional damage from Volt’s Shields, it is possible, though extremely rare, to oneshot two legs at a time with a single shot due to bullet spread.
 
 Cons:
