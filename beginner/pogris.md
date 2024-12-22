@@ -27,7 +27,7 @@ Rivenless Pogris build (Which element it is doesn't matter, however what bonus% 
     <img src="https://cdn.profit-taker.com/pogris.png" alt="pogris" style="width: 100%; height: auto;">
 </div>
 
-[*__Overframe Link__*](https://overframe.gg/build/602193/)
+[*__Overframe Link__*](https://overframe.gg/build/771325/)
 
 This build needs 427% strength with subsumed Eclipse, Vengeful Archwing and Arcane Rise/Vigorous Swap to 3-tick pylons consistently (will need 4 ticks otherwise).
 
