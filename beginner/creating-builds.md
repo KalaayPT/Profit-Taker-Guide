@@ -193,8 +193,8 @@ Archgun builds are fairly cut and dry, with pretty much all Archguns using the f
     <img src="https://cdn.profit-taker.com/genericarmor.png" alt="genericarmor" style="width: 100%; height: auto;">
 </div>
 
-- Sometimes it is best to replace Hollowed Bullets or Parallax Scope with a Riven and use Automatic Trigger. After all, if you consistently (100% of the time) one or two-shot legs without the Mods equipped then there is no reason for them to be equipped.
-- The most important part of any build is to mod for Magnetic because Profit-Taker is weak to it 
+- Sometimes it is best to replace Hollowed Bullets or Parallax Scope with a Riven. After all, if you consistently (100% of the time) one or two-shot legs without the Mods equipped then there is no reason for them to be equipped.
+- The most important part of any build is to mod for Magnetic because Profit-Taker is weak to it.
 
 Rivens ideally give Archguns 100% cc and/or ms for consistency’s sake, especially in the case of the Velocitus, for which the meta build **requires** critical chance on the Riven.
 
@@ -220,14 +220,14 @@ __Mausolon (Heavy Weapon):__
 
 Pros:
 
-- Reliable, high damage, can 1-3 shot limbs rivenless with certain setups. Riven, Arcane Avenger, and Adarza Kavat can bump up this consistency.
-- A large ammo pool means you can waste ammo without having to deal with an extremely long Archgun cooldown.
+- Reliable, high damage, can 1-3 shot limbs rivenless with certain setups. Riven, Arcane Avenger, and Adarza Kavat can bump up this consistency
+- A large ammo pool means you can waste ammo without having to deal with an extremely long Archgun cooldown
 - One of the few hitscan Archguns
-- Full auto and a large ammo pool means you can make one, sweeping motion through all four limbs without worrying too much about cooldown due to missed or wasted shots.
+- Full auto and a large ammo pool means you can make one, sweeping motion through all four limbs without worrying too much about cooldown due to missed or wasted shots
 
 Cons:
 
-- Extremely bad Riven disposition means Rivens don’t cause a massive improvement in consistency. For most Rivens to be viable, you need to run Arcane Avenger to raise the cc enough to replace Parallax Scope with Riven.
+- Extremely bad Riven disposition means Rivens don’t cause a massive improvement in consistency. For most Rivens to be viable, you need to run Arcane Avenger to raise the cc enough to replace Parallax Scope with Riven
 - The explosion doesn’t consistently damage the rear limbs. While this allows you to damage a front limb while aiming at a rear limb, the explosion doesn’t do enough damage while solo to break limbs as quickly as the direct hit
 
 Video (click to play/pause):
@@ -256,7 +256,7 @@ Cons:
 
 > [!IMPORTANT] Pros:
 >- Instant summon
->- Fairly tanky, don’t need to worry about dying.
+>- Fairly tanky, don’t need to worry about dying
 >- This also applies to general survivability: not being exposed while doing the armor phase will make you die less overall
 
 :::danger Cons:
@@ -277,9 +277,9 @@ Cons:
 
 - only has viable usage in combination with Volt's Shield (or Jade's Deathbringer) and a good riven
 - As the Velocitus is a projectile weapon, there is a barely noticeable delay between firing a shot and said shot hitting the target
-- The Charge is all or none, making it extremely impractical to charge the Velocitus.
+- The Charge is all or none, making it extremely impractical to charge the Velocitus
 - There are only 9 stat combinations of Riven Mods that work for uncharged oneshots. Note that some Rivens oneshot without a CC Mod on, but they have only 74% cc. No Riven is necessary for charged shots
-- Every Riven combination needs a certain grade value for uncharged oneshots, some less than others. Damage Bless is necessary for every roll.
+- Every Riven combination needs a certain grade value for uncharged oneshots, some less than others. Damage Bless is necessary for every roll
 
 __Corvas (Necramech, <span style="color: red;">non-Prime</span>):__
 
@@ -289,11 +289,11 @@ Pros:
 - When used with Volt shield or Jade's Deathbringer, Corvas is the fastest Archgun for rivenless solo runs, as with Damage Bless it can oneshot Profit-Taker legs if you charge it to slightly over half. When used without Volt shield, a slower build is required making Corvas slightly slower than Heavy Weapon.
 - Can oneshot legs on frames other than Volt with only a moderately good Riven, making it ideal for said frames.
 - Unlike most Archguns, the Corvas is a hitscan weapon, meaning shots hit immediately after firing
-- With additional damage from Volt’s Shields, it is possible, though extremely rare, to oneshot two legs at a time with a single shot due to bullet spread.
+- With additional damage from Volt’s Shields, it is possible, though extremely rare, to oneshot two legs at a time with a single shot due to bullet spread
 
 Cons:
 
-- Low base fire rate means it can’t quite match Velocitus performance and needs a strong/expensive Riven if you want to slot Automatic Trigger.
+- Low base fire rate means it can’t quite match Velocitus performance.
 - Still needs quite a specific Riven if you want to oneshot without charging.
 - High multishot makes it possible to miss with a few pellets, meaning the legs aren’t oneshot.
 - As it is a shotgun you need to be near Profit-Taker to do significant amounts of damage. Not a massive issue, but something to keep in mind.
