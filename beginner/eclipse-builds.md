@@ -21,7 +21,7 @@ This build is nearly the bare minimum for a Kuva Ogris setup, assumes you use a 
     <img src="https://cdn.profit-taker.com/Generic_Pogris_Frame_Build.png" alt="Generic_Pogris_Frame_Build" style="width: 100%; height: auto;">
 </div>
 
-:::info [*__Overframe Link__*](https://overframe.gg/build/663626/)
+:::info [*__Overframe Link__*](https://overframe.gg/build/771300/)
 
 - This build relies on the Vengeful Archwing Intrinsic and 5 str shards to 3-tick pylons, will need 4 otherwise
 - If you don't have Primed Sure Footed, you can use Sure Footed+Fortitude, can cost you pylon time
@@ -36,7 +36,7 @@ This build is nearly the bare minimum for a Kuva Ogris setup, assumes you use a 
     <img src="https://cdn.profit-taker.com/Generic_Zenith_Opticor_Frame_Build.png" alt="Generic_Zenith_Opticor_Frame_Build" style="width: 100%; height: auto;">
 </div>
 
-:::info [*__Overframe Link__*](https://overframe.gg/build/601655/)
+:::info [*__Overframe Link__*](https://overframe.gg/build/771301)
 
 - Since Dante Unbound, oneshotting Pylons rivenless with Zenith and subsumed Eclipse is no longer possible. This build relies on either Sling Strength or more added strength (about 40%) to 2-shot with Zenith.
 - If you have Primed Sure Footed, remove Fortitude and Sure Footed. Put Primed Sure Footed in the Exilus slot.
@@ -61,7 +61,7 @@ There are three useful Aura Mods: Sprint Boost, Growing Power, and Aerodynamic. 
     <img src="https://cdn.profit-taker.com/TriUmbral_Saryn.png" alt="TriUmbral_Saryn" style="width: 100%; height: auto;">
 </div>
 
-:::info [*__Overframe Link__*](https://overframe.gg/build/328823/)
+:::info [*__Overframe Link__*](https://overframe.gg/build/771302/)
 - Mods on the first build can be replaced by Mods on the second build. The second build relies on Unairu Poise for knockdown resistance.
 - TriUmbral is unnecessary, you can replace Umbral Fiber with Transient Fortitude.
 - The general Eclipse build is an option for Saryn too.
@@ -75,7 +75,7 @@ There are three useful Aura Mods: Sprint Boost, Growing Power, and Aerodynamic. 
     <img src="https://cdn.profit-taker.com/cheap_saryn.png" alt="cheap_saryn" style="width: 100%; height: auto;">
 </div>
 
-:::info [*__Overframe Link__*](https://overframe.gg/build/328824)
+:::info [*__Overframe Link__*](https://overframe.gg/build/771303/)
 - Mods on the first build can be replaced by Mods on the second build. The second build relies on Unairu Poise for knockdown resistance.
 - TriUmbral is unnecessary, you can replace Umbral Fiber with Transient Fortitude.
 - The general Eclipse build is an option for Saryn too.
@@ -97,7 +97,7 @@ __Primary weapons:__
     <img src="https://cdn.profit-taker.com/pogris_eclipse.png" alt="pogris_eclipse" style="width: 100%; height: auto;">
 </div>
 
-:::info [*__Overframe Link__*](https://overframe.gg/build/663638/)
+:::info [*__Overframe Link__*](https://overframe.gg/build/771293/)
 
 - since Dante Unbound, Pogris needs 427% to only take 3 instead of 4 damage ticks to destroy Pylons with the provided frame build, Sling str and 5 str shards. An alternative to this approach would be to [__double shot pylons__](/advanced/speedrun-strats.html#fast-pogris-pylons-double-shot-void-strike) to require two ticks instead
 - Nightwatch Napalm will damage Pylons as long as they are in range, even through the Pylon bubble.
@@ -111,7 +111,7 @@ __Primary weapons:__
     <img src="https://cdn.profit-taker.com/Zenith_Build.png" alt="zenith_eclipse" style="width: 100%; height: auto;">
 </div>
 
-:::info [*__Overframe Link__*](https://overframe.gg/build/650129/)
+:::info [*__Overframe Link__*](https://overframe.gg/build/771294/)
 
 Covers toxin. Twitch is flex. This is the bare minimum build required to oneshot Pylons with the Generic Eclipse build and Sling Strength / Transient Fortitude. It relies on Multishot to oneshot, so to increase its consistency you can:
 
@@ -128,7 +128,7 @@ __Secondary weapon:__
     <img src="https://cdn.profit-taker.com/diplos_eclipse.png" alt="diplos_eclipse" style="width: 100%; height: auto;">
 </div>
 
-:::info [*__Overframe Link__*](https://overframe.gg/build/601639/)
+:::info [*__Overframe Link__*](https://overframe.gg/build/771304/)
 
 - Covers heat, magnetic (progenitor) and viral
 - If you don't have Diplos, you can use the Tenet Detron, Tenet Cycron, Synoid Gammacor or any weapon with innate (or progenitor) magnetic, really.
@@ -144,7 +144,7 @@ __Melee weapon:__
     <img src="https://cdn.profit-taker.com/balla_eclipse.png" alt="balla_eclipse" style="width: 100%; height: auto;">
 </div>
 
-:::info [*__Overframe Link__*](https://overframe.gg/build/601643/)
+:::info [*__Overframe Link__*](https://overframe.gg/build/771297/)
 
 - Covers IPS, cold, radiation, gas, corrosive and blast.
 - Rank 0 Melee Exposure is just fine on most builds.
@@ -161,7 +161,7 @@ __Heavy weapon:__
     <img src="https://cdn.profit-taker.com/Mausolon_eclipse.png" alt="Mausolon_eclipse" style="width: 100%; height: auto;">
 </div>
 
-:::info [*__Overframe Link__*](https://overframe.gg/build/706001/)
+:::info [*__Overframe Link__*](https://overframe.gg/build/771305/)
 
 - People commonly don’t have Primed Dual Rounds or Critical Focus, if so, replace them with Normal Dual Rounds, Sabot Rounds or the Cold/Electric 60/60 Mods for best results.
 - Running Ammo Chain instead of Automatic Trigger to avoid cooldowns, especially between second and third legs, is a possibility.
