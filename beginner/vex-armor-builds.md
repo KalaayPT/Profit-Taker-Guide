@@ -15,7 +15,7 @@ Suggested Warframe Arcanes include: Velocity, Avenger, Nullifier, Acceleration
     <img src="https://cdn.profit-taker.com/Generic_Vex_Armor.png" alt="Generic_Vex_Armor" style="width: 100%; height: auto;"> 
 </div>
 
-:::info [*__Overframe Link__*](https://overframe.gg/build/585565/)
+:::info [*__Overframe Link__*](https://overframe.gg/build/771333/)
 
 - This is the generic build for this section, the others are example variations.
 - If you have Primed Sure Footed, use it over Handspring. If you want to just run Unairu instead, you can put Preparation in exilus.
@@ -38,7 +38,7 @@ Suggested Warframe Arcanes include: Velocity, Avenger, Nullifier, Acceleration
     <img src="https://cdn.profit-taker.com/Energized_Munitions_Vex_Armor.png" alt="Energized_Munitions_Vex_Armor" style="width: 100%; height: auto;"> 
 </div>
 
-:::info [*__Overframe Link__*](https://overframe.gg/build/769770/)
+:::info [*__Overframe Link__*](https://overframe.gg/build/771334/)
 
 - When not running Shock Trooper, you should do electric shields by Void Striking with Virtuos Surge. 7x7 amp with Eternal Onslaught is recommended.
 - Energized Munitions' point is lowering your Archgun Deployer cooldown, as the cooldown is based on ammo spent / max ammo.
@@ -55,7 +55,7 @@ Suggested Warframe Arcanes include: Velocity, Avenger, Nullifier, Acceleration
     <img src="https://cdn.profit-taker.com/Spellbind_Vex_Armor.png" alt="Spellbind_Vex_Armor" style="width: 100%; height: auto;"> 
 </div>
 
-:::info [*__Overframe Link__*](https://overframe.gg/build/769774/)
+:::info [*__Overframe Link__*](https://overframe.gg/build/771335/)
 
 - When not running Shock Trooper, you should do electric shields by Void Striking with Virtuos Surge. 7x7 amp with Eternal Onslaught is recommended.
 - Spellbind is used to gain full status and knockback immunity without needing Unairu or Primed Sure Footed.
@@ -75,7 +75,7 @@ __Primary weapon:__
     <img src="https://cdn.profit-taker.com/pogris_eclipse.png" alt="pogris_eclipse" style="width: 100%; height: auto;">
 </div>
 
-:::info [*__Overframe Link__*](https://overframe.gg/build/663638/)
+:::info [*__Overframe Link__*](https://overframe.gg/build/771293/)
 
 - Needs 277%+ Strength to kill a pylon in two damage ticks, cannot go lower than that as very few things can increase Nightwatch Napalm damage, especially as Chroma.
 - Nightwatch Napalm will damage Pylons as long as they are in range, even through the Pylon bubble.
@@ -88,7 +88,7 @@ __Primary weapon:__
     <img src="https://cdn.profit-taker.com/Zenith_Build.png" alt="Zenith_Build" style="width: 100%; height: auto;">
 </div>
 
-:::info [*__Overframe Link__*](https://overframe.gg/build/650129/)
+:::info [*__Overframe Link__*](https://overframe.gg/build/771294/)
 
 - Covers toxin 
 - Despite Vex Armor giving an additive damage bonus, Amalgam Serration is used for its sprint speed buff. 
@@ -105,11 +105,11 @@ __Secondary weapon:__
     <img src="https://cdn.profit-taker.com/Vex_Armor_Tenet_Diplos_Build.png" alt="Vex_Armor_Tenet_Diplos_Build" style="width: 100%; height: auto;">
 </div>
 
-:::info [*__Overframe Link__*](https://overframe.gg/build/661076/)
+:::info [*__Overframe Link__*](https://overframe.gg/build/771296/)
 
 - Covers heat, magnetic (progenitor) and viral
 - Lethal Torrent can be replaced with Accelerated Isotope so you don't have to rely on Contagion for Radiation
-- If you don't have Diplos, you can use the Tenet Detron, Tenet Cycron, Synoid Gammacor or any weapon with innate (or progenitor) magnetic, really.
+- If you don't have Diplos, you can use any weapon with innate (or progenitor) magnetic or any high [crit] damage weapon with the Magnetic Might mod.
 - Reflex Draw is flex
 - Cascadia Overcharge assumes shield pad usage. If you don't use shield pads, you can use Deadhead for less recoil or Merciless if you are able to build stacks.
 :::
@@ -122,7 +122,7 @@ __Melee weapon:__
     <img src="https://cdn.profit-taker.com/balla_eclipse.png" alt="Exodia_Contagion_Zaw_Build" style="width: 100%; height: auto;">
 </div>
 
-:::info [*__Overframe Link__*](https://overframe.gg/build/601643/)
+:::info [*__Overframe Link__*](https://overframe.gg/build/771297/)
 
 - Covers IPS, cold, radiation, gas, corrosive and blast.
 - Rank 0 Melee Exposure is just fine on most builds.
@@ -139,7 +139,7 @@ __Heavy Weapon:__
     <img src="https://cdn.profit-taker.com/Mausolon_Build.png" alt="Mausolon_Build" style="width: 100%; height: auto;">
 </div>
 
-:::info [*__Overframe Link__*](https://overframe.gg/build/602062/)
+:::info [*__Overframe Link__*](https://overframe.gg/build/771299/)
 
 - For a Heavy Weapon, it takes 5-6 shots to destroy legs.
 - Make sure you have enough health to survive the summon animation.

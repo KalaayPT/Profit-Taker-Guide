@@ -2,7 +2,7 @@
 
 *This section should educate readers on general common sense known to Profit-Taker builders, such as the logic behind builds and things in the fight to build around.*
 
-By uumm
+originally by uumm
 
 ## **Frame builds**
 
@@ -75,7 +75,7 @@ Secondary: Viral(Cold+**Toxin**), Heat, innate Mag, and optional Radiation
 
 Melee (Contagion): Gas(**Toxin**\+Heat), Cold, innate IPS, Blast (covered by Exodia Contagion), Corrosive (covered by Melee Exposure),  Radiation, and optional Magnetic
 
-[__Operator__](/advanced/speedrun-strats.html#operator-element)/Volt Shield/Shocktrooper: Electric
+[__Operator__](/advanced/speedrun-strats.html#operator-element)/Volt Shield/Shock Trooper: Electric
 
 With this combination, you're only missing Toxin, and there is no way to fit it in the builds without creating the need to switch to your primary.
 :::
@@ -84,8 +84,8 @@ If you try putting it in place of any of the other modded single-stat elements, 
 
 :::info To solve this you must do one of the following:
 
-- Sacrifice Pylon performance and use a Zenith with toxin on it
 - Use an On Call Crew to cover toxin
+- Sacrifice Pylon performance and use a Zenith with toxin on it
 - Use the [Arquebex](/beginner/other-builds.html#arquebex-build-used-to-clear-toxin-shield) (Voidrigs's 4th ability) or an Archgun on your mech to cover toxin
 - Use Saryn
 - Get a friend(s) to use an alternate elemental config that covers Toxin
@@ -93,15 +93,15 @@ If you try putting it in place of any of the other modded single-stat elements, 
 
 Going more in depth on how to cover this last missing element:
 
-Saryn can do Toxin via her third ability, Toxic Lash. Meaning she can do every element if she's using Shocktrooper.
+Saryn can do Toxin via her third ability, Toxic Lash. Meaning she can do every element if she's using Shock Trooper.
 
-For the First solution, you simply use a Zenith as your primary, modding it for toxin. This comes at the cost of pylon times but is consistent and works without issue.
-
-For the second solution, you must have an On Call Crew set up properly, [__which is explained in depth later in speedrun strats.__](/advanced/speedrun-strats.html#on-call-strats)
+For the first solution, you must have an On Call Crew set up properly, [__which is explained in depth later in speedrun strats.__](/advanced/speedrun-strats.html#on-call-strats)
 
 With a properly set up On Call Crew, you have a way to do missing elements without having to swap weapons.
 
 The only source of unreliability from this setup is the On Call Crew, which often will simply not shoot Profit-Taker, or will just die.
+
+For the second solution, you simply use a Zenith as your primary, modding it for toxin. This comes at the cost of pylon times but is consistent and works without issue.
 
 #### **Weapons**
 
@@ -183,7 +183,7 @@ Vargeet II Jai gives you max attack speed and critical chance. With Sacrificial 
     <img src="https://cdn.profit-taker.com/zawspreadsheet2.png" alt="zawspreadsheet2" style="width: 100%; height: auto;">
 </div>
 
-### **Armor** <Badge type="warning" text="outdated info currently (still under construction)" />
+### **Armor**
 
 The easiest and least complicated phase, the Armor Phase relies almost entirely on your choice in Archgun and build, so here are a few helpful tips and the pros and cons of the four best setups.
 
@@ -211,9 +211,9 @@ Before getting into the specifics about Archgun setups, make sure that no matter
 :::danger Cons:
 
 - Has a \~3s delay to call down Archgun. The animation starts once you put away your current weapon and takes place over a fixed amount of time. If you have a scanner out, the animation will start immediately
-- Due to the Archgun cooldown, explained in build basics, many Archguns miss out on DPS to slot Ammo Chain
-- You are completely exposed when calling down Archgun, requiring you to either get lucky or plan your positioning around calling down Archgun
-- After the first Shield Phase, it is extremely common for Profit-Taker to do her laser attack while you’re calling Archgun. Press a/d + slide right before calling Archgun to slide out of the way of this attack, your momentum won’t stop immediately when you’re in the call animation, you need the Archgun deployer on a keybind to do this
+- Due to the Archgun cooldown, explained in [Basic Principles](/beginner/basic-principles#_6-clearing-the-armor-phase), many Archguns miss out on DPS to slot Ammo Chain.
+- You are completely exposed when calling down Archgun, requiring you to either get lucky or plan your positioning around calling down Archgun.
+- After the first Shield Phase, it is extremely common for Profit-Taker to do her laser attack while you’re calling Archgun. Press a/d + slide right before calling Archgun to slide out of the way of this attack, your momentum won’t stop immediately when you’re in the call animation, you need the Archgun deployer on a keybind to do this.
 :::
 
 __Mausolon (Heavy Weapon):__
@@ -262,20 +262,20 @@ Cons:
 :::danger Cons:
 
 - High camera and weapon position sometimes make rear limbs hard to hit
-- Few damage buffs, and an extremely restrictive meta setup. The forms of damage increase available are as follows: Volt shield, Damage Bless, Tactical Rank 9, Riven Mods and Jade's Deathbringer <Badge type="warning" text="still unclear on whether thats intended" />.
+- Few damage buffs, and an extremely restrictive meta setup. The forms of damage increase available are as follows: Volt shield, Damage Bless, Tactical Rank 9, Riven Mods and Jade's Deathbringer <Badge type="warning" text="still unclear whether thats intended" />.
 :::
 
 __Velocitus (Necramech):__
 
 Pros:
 
-- High fire rate makes the Velocitus extremely fast for solo Profit-Taker, being theoretically capable of reaching sub-4s sum of legs if skill permits
-- The Velocitus is extremely precise
-- The Velocitus has the fastest projectile speed of any projectile weapon
+- High fire rate makes the Velocitus extremely fast for solo Profit-Taker, being theoretically capable of reaching sub-5s sum of legs if skill permits.
+- The Velocitus is extremely precise.
+- The Velocitus has the fastest projectile speed of any projectile weapon.
 
 Cons:
 
-- only has viable usage in combination with Volt's Shield and a good riven
+- only has viable usage in combination with Volt's Shield (or Jade's Deathbringer) and a good riven
 - As the Velocitus is a projectile weapon, there is a barely noticeable delay between firing a shot and said shot hitting the target
 - The Charge is all or none, making it extremely impractical to charge the Velocitus
 - There are only 9 stat combinations of Riven Mods that work for uncharged oneshots. Note that some Rivens oneshot without a CC Mod on, but they have only 74% cc. No Riven is necessary for charged shots
@@ -285,19 +285,19 @@ __Corvas (Necramech, <span style="color: red;">non-Prime</span>):__
 
 Pros:
 
-- The Charge isn’t all or nothing, Corvas’s stats linearly scale from uncharged to charged stats as you charge it
-- When used with Volt shield, Corvas is the fastest Archgun for rivenless solo runs, as with Damage Bless it can oneshot Profit-Taker legs if you charge it to slightly over half. When used without Volt shield, a slower build is required making Corvas slightly slower than Heavy Weapon
-- Can oneshot legs on frames other than Volt with only a moderately good Riven, making it ideal for said frames
+- The Charge isn’t all or nothing, Corvas’s stats linearly scale from uncharged to charged stats as you charge it.
+- When used with Volt shield or Jade's Deathbringer, Corvas is the fastest Archgun for rivenless solo runs, as with Damage Bless it can oneshot Profit-Taker legs if you charge it to slightly over half. When used without Volt shield, a slower build is required making Corvas slightly slower than Heavy Weapon.
+- Can oneshot legs on frames other than Volt with only a moderately good Riven, making it ideal for said frames.
 - Unlike most Archguns, the Corvas is a hitscan weapon, meaning shots hit immediately after firing
 - With additional damage from Volt’s Shields, it is possible, though extremely rare, to oneshot two legs at a time with a single shot due to bullet spread
 
 Cons:
 
-- Low base fire rate means it can’t quite match Velocitus performance
-- Still needs quite a specific Riven if you want to oneshot without charging
-- High multishot makes it possible to miss with a few pellets, meaning the legs aren’t oneshot
-- As it is a shotgun you need to be near Profit-Taker to do significant amounts of damage. Not a massive issue, but something to keep in mind
-- The Primed version is garbage and often deals 0 damage
+- Low base fire rate means it can’t quite match Velocitus performance.
+- Still needs quite a specific Riven if you want to oneshot without charging.
+- High multishot makes it possible to miss with a few pellets, meaning the legs aren’t oneshot.
+- As it is a shotgun you need to be near Profit-Taker to do significant amounts of damage. Not a massive issue, but something to keep in mind.
+- The Primed version is [garbage](https://www.youtube.com/watch?v=VvGG9xdmAwE) and often deals 0 damage.
 - Is affected by [__Archgun Hitbox Bug__](/miscellaneous/bugs.html#archgun-hitbox-bug)
 
 ### **Pylons**

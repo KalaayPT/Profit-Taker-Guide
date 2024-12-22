@@ -10,7 +10,7 @@ Mech build doesn’t matter as you shouldn’t spend much time in it. A basic he
     <img src="https://cdn.profit-taker.com/corvas_mech.png" alt="corvas_mech" style="width: 100%; height: auto;">
 </div>
 
-:::info [*__Overframe Link__*](https://overframe.gg/build/699246/)
+:::info [*__Overframe Link__*](https://overframe.gg/build/771306/)
 
 - For use on Necramech, this build can twoshot limbs if you fully charge it.
 - Corvas has a lot of viable riven variety.
@@ -25,7 +25,7 @@ Mech build doesn’t matter as you shouldn’t spend much time in it. A basic he
     <img src="https://cdn.profit-taker.com/velocitus_mech.png" alt="velocitus_mech" style="width: 100%; height: auto;">
 </div>
 
-:::info [*__Overframe Link__*](https://overframe.gg/build/706019/)
+:::info [*__Overframe Link__*](https://overframe.gg/build/771307/)
 
 - For use on Necramech, this build will oneshot limbs if the weapon is fully charged.
 - If you have damage bless, replace Venomous Clip with Shell Rush.
@@ -39,11 +39,11 @@ Mech build doesn’t matter as you shouldn’t spend much time in it. A basic he
     <img src="https://cdn.profit-taker.com/Arquebex_mech.png" alt="Arquebex_mech" style="width: 100%; height: auto;">
 </div>
 
-:::info [*__Overframe Link__*](https://overframe.gg/build/318743/)
+:::info [*__Overframe Link__*](https://overframe.gg/build/771309/)
 
 - This is one of the best ways to clear Toxin for frames that can’t do it themselves. Manually cycling Toxin works, but this saves a fair few seconds.
 - Any frame with an Exalted Weapon won’t need this. They can put Toxin on the Exalted Weapon.
-- Volt and Saryn don’t need this due to Toxic Lash and Volt shield, respectively.
+- Volt and Saryn don’t need this due to Volt shield and Toxic Lash, respectively.
 - If the last element in a shield is Toxin, you can go straight from clearing the shield with Arquebex to breaking legs with Corvas.
 - Arquebex doesn’t do any damage to Profit-Taker’s legs or body.
 :::
@@ -62,7 +62,7 @@ An example of a usable weapon is the Amprex, modded for toxin:
     <img src="https://cdn.profit-taker.com/amprex_build.png" alt="amprex_build" style="width: 100%; height: auto;">
 </div>
 
-:::info [*__Overframe Link__*](https://overframe.gg/build/599307/)
+:::info [*__Overframe Link__*](https://overframe.gg/build/771338/)
 
 - Crewmates don't use rivens or conditional arcanes.
 - An elite crewmate with the proper cc effect can make point strike flex, as long as you get 100% cc.
@@ -77,7 +77,7 @@ An example of a usable weapon is the Amprex, modded for toxin:
     <img src="https://cdn.profit-taker.com/smeeta_build.png" alt="smeeta_build" style="width: 100%; height: auto;">
 </div>
 
-:::info [*__Overframe Link__*](https://overframe.gg/build/739244/)
+:::info [*__Overframe Link__*](https://overframe.gg/build/771341/)
 
 - Essential mods are: Prosperous Retriever (credit doubling), Synth Fiber (passive reload), Tek Enhance (with Cat's Eye), Tenacious Bond, Reinforced Bond, Fetch, and Calculated Redirection (for Reinforced Bond). Others are flex. 
 - The given build is an Adarza Kavat build, which can't make use of Reinforced Bond without the use of Shield Restores, while other beasts can. If you don't care about the Adarza crit buff, you can use something like a Panzer Vulpaphyla instead.
@@ -94,7 +94,7 @@ An example of a usable weapon is the Amprex, modded for toxin:
     <img src="https://cdn.profit-taker.com/wyrm_build.png" alt="wyrm_build" style="width: 100%; height: auto;">
 </div>
 
-:::info [*__Overframe Link__*](https://overframe.gg/build/396909/)
+:::info [*__Overframe Link__*](https://overframe.gg/build/771342/)
 
 - If not using Verglas, Warrior/Assault Mode is flex.
 - Enhanced Vitality is flex.
@@ -110,7 +110,7 @@ __Weapons:__
     <img src="https://cdn.profit-taker.com/vulklok_build.png" alt="vulklok_build" style="width: 100%; height: auto;">
 </div>
 
-:::info [*__Overframe Link__*](https://overframe.gg/build/601634/)
+:::info [*__Overframe Link__*](https://overframe.gg/build/771343/)
 
 - Full build is far from necessary. You can just use Point Strike to proc Tenacious Bond and be done.
 - The Vulklok’s high base critical chance allows it to easily hit the 50% critical chance required for Tenacious Bond.
@@ -123,7 +123,7 @@ __Weapons:__
     <img src="https://cdn.profit-taker.com/verglas_build.png" alt="verglas_build" style="width: 100%; height: auto;">
 </div>
 
-:::info [*__Overframe Link__*](https://overframe.gg/build/601638/)
+:::info [*__Overframe Link__*](https://overframe.gg/build/771344/)
 
 - The Verglas can do a decent job clearing adds when helped by Total Eclipse, however its damage against shields is paltry.
 :::

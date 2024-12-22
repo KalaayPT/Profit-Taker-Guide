@@ -28,6 +28,8 @@ Healing is primarily done by Magus Elevate, Magus Repair, Vazarin’s Protective
 If you aren’t able to cover all elements, you have to cycle the ones you don’t have, waiting for the 5-second cycle cooldown each time. If you only bring 7 elements to the fight, you spend more time waiting for the cycle cooldown than it takes for some people to finish the entire fight.  
 Any good build will cover at least 12 elements across the primary/secondary/melee weapons and frame buffs. For builds where this is not an option, covering the missing elements with Voidrig’s Exalted Weapon Arquebex, using your operator to cover electric with your amp and virtuos surge, or using an on call crewmate is a good alternative.
 
+Since the 1999 update, Volt's Shock ability and its corresponding Shock Trooper augment can be infused onto any frame to cover all elements except for toxin on a standard setup.
+
 To maximize damage, it is preferred for a weapon’s single stat element (Heat, Cold, Electricity, Toxin) to match the weapon’s Primed Elemental Mod, like Primed Cryo Rounds for primary weapons or Primed Heated Charge for secondary weapons. This is not possible with all builds (and Rivens), so not every build abides by these rules.
 
 ## **4\. Increasing Damage for All Elements**
@@ -35,6 +37,7 @@ To maximize damage, it is preferred for a weapon’s single stat element (Heat, 
 If we cover all elements but barely deal any damage with them, we won’t get very far. For that reason, all builds use frame buffs like Chroma’s Vex Armor or Mirage’s Eclipse, the latter of which can be infused onto any frame and is a better option even on frames that have their own damage buffs.
 
 On weapons, we never spend more Mods than necessary to make a specific element. The remaining Mod space is used to buff all elements: it’s better to quickly take out all elements that a weapon covers than it is to instantly take out one element but slowly take out the others.
+
 
 ## **5\. Clearing Pylons**
 
@@ -50,7 +53,7 @@ Unfortunately, Zenith is not readily obtainable. You can only get it when you lo
 
 ## **6\. Clearing the Armor Phase**
 
-During the Armor Phase, you can only damage Profit-Taker with Archguns. The game does not consider Arquebex to be an Archgun.  
+During the Armor Phase, you can only damage Profit-Taker with Archguns. The game does not consider Arquebex (Voidrig's 4th ability) to be an Archgun.
 Players can choose to either have their frame wield the Archgun with the Archgun Deployer or have their Necramech wield it. Both options come with up-and downsides:
 
 When wielding the Archgun on your frame, your buffs are applied to the Arch-gun, making it easy to deal a lot of damage. However, deploying the Arch-gun takes about 3 seconds, during which you can easily die to your surroundings or lose enough health to die or force you to heal again. Additionally, when you put away your Arch-gun, you can’t instantly get it back. Based on the gun’s max ammo and the ammo you use, you have to wait up to 5 minutes to use the Arch-gun again.  
