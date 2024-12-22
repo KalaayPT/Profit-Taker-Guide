@@ -14,7 +14,7 @@ Generally, squads make use of at least one Archgunner, meaning one player who ar
     <img src="https://cdn.profit-taker.com/voltbuild.png" alt="voltbuild" style="width: 100%; height: auto;">
 </div>
 
-:::info [*__Overframe Link__*](https://overframe.gg/build/396847/)
+:::info [*__Overframe Link__*](https://overframe.gg/build/771318/)
 
 - Volt provides essential speed buffs and damage amplification.
 - He runs Eclipse and deploys shields to increase squad damage by a lot.
@@ -27,7 +27,7 @@ Generally, squads make use of at least one Archgunner, meaning one player who ar
     <img src="https://cdn.profit-taker.com/miragebuild.png" alt="miragebuild" style="width: 100%; height: auto;">
 </div>
 
-:::info [*__Overframe Link__*](https://overframe.gg/build/626559/)
+:::info [*__Overframe Link__*](https://overframe.gg/build/771319/)
 
 - Mirage's clones significantly boost Archgun damage output.
 - Duration is tweaked to make one cast of Eclipse last the entire fight.
@@ -41,7 +41,7 @@ Generally, squads make use of at least one Archgunner, meaning one player who ar
     <img src="https://cdn.profit-taker.com/chromabuild.png" alt="chromabuild" style="width: 100%; height: auto;">
 </div>
 
-:::info [*__Overframe Link__*](https://overframe.gg/build/626562/)
+:::info [*__Overframe Link__*](https://overframe.gg/build/771320/)
 
 - Chroma offers unique utility with damage buffs (including toxin Elemental Ward) and credit doubling abilities.
 - Power Donation aura to buff the squad and fit the mod polarity
@@ -53,7 +53,7 @@ Generally, squads make use of at least one Archgunner, meaning one player who ar
     <img src="https://cdn.profit-taker.com/wispbuild.png" alt="wispbuild" style="width: 100%; height: auto;">
 </div>
 
-:::info [*__Overframe Link__*](https://overframe.gg/build/626566/)
+:::info [*__Overframe Link__*](https://overframe.gg/build/771321/)
 
 - Wisp increases fire rate and flight speed, enhancing shield and leg performance.
 - She can run Roar or Empower based on if an additional pylon Mirage is used.
@@ -67,7 +67,7 @@ Generally, squads make use of at least one Archgunner, meaning one player who ar
     <img src="https://cdn.profit-taker.com/novabuild.png" alt="novabuild" style="width: 100%; height: auto;">
 </div>
 
-:::info [*__Overframe Link__*](https://overframe.gg/build/626700/)
+:::info [*__Overframe Link__*](https://overframe.gg/build/771322/)
 
 - Nova's portals enable her to teleport to Profit Taker’s spawn with an archgun in hand
 - She's best suited for lake spawn and must be the host to be viable.
@@ -88,7 +88,7 @@ Generally, squads make use of at least one Archgunner, meaning one player who ar
     <img src="https://cdn.profit-taker.com/imperatorbuild.png" alt="imperatorbuild" style="width: 100%; height: auto;">
 </div>
 
-[*__Overframe Link__*](https://overframe.gg/build/705998/)
+[*__Overframe Link__*](https://overframe.gg/build/771323/)
 
 <div style="width: 25%; text-align: left;">
     <img src="https://cdn.profit-taker.com/imperatorriven.png" alt="imperatorriven" style="width: 100%; height: auto;">
