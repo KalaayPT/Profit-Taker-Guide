@@ -16,7 +16,7 @@ Remember to use Decaying Dragon Key.
     <img src="https://cdn.profit-taker.com/ShockTrooperchromabyfremy.png" alt="ShockTrooperchromabyfremy" style="width: 100%; height: auto;">
 </div>
 
-[*__Overframe Link__*](https://overframe.gg/build/769747/)
+[*__Overframe Link__*](https://overframe.gg/build/771351/)
 
 The Shock Trooper build is for running either mech Corvas, or gravimag Mausolon. You get to have all elements without needing to think about electric and doing it with amp, making shield rng much less painful. If you run Mausolon, you should definitely have Arcane Avenger, but with Corvas it's less mandatory and can be replaced with Nullifier. At good speed you shouldn't have energy problems though even with a magnetic proc or two. Archon shards should be starting energy and str.
 
@@ -29,7 +29,7 @@ Mausolon build is the same as in [basic builds.](https://profit-taker.com/beginn
     <img src="https://cdn.profit-taker.com/EMchromabyfremy.png" alt="EMchromabyfremy" style="width: 100%; height: auto;"> 
 </div>
 
-[*__Overframe Link__*](https://overframe.gg/build/762157/)
+[*__Overframe Link__*](https://overframe.gg/build/771353/)
 
 Note that this build isn't speedrun.com legal because Virtuos Surge killing an entire shield is technically a bug. You can make it legal by loading cold or electric onto your companion but it is not reliable at all.
 
@@ -67,7 +67,7 @@ To make the best use of the Operator element coverage, Madurai is essential. Voi
     <img src="https://cdn.profit-taker.com/voltspeedrunbuild.png" alt="voltspeedrunbuild" style="width: 100%; height: auto;">
 </div>
 
-[*__Overframe Link__*](https://overframe.gg/build/610238/)
+[*__Overframe Link__*](https://overframe.gg/build/771311/)
 
 Low duration Volt build. The higher range is so Total Eclipse more reliably buffs On Call Crew. Amar’s Hatred is a flex slot for this build and only used because of its polarity, because these polarities are compatible with both Eidolon and Arbitration builds. Relies on Ancient Healer Specter and/or shield pads to stay alive.
 
@@ -81,7 +81,7 @@ Natural Talent can be replaced with Augur Secrets and yellow archon shards or ca
     <img src="https://cdn.profit-taker.com/ogrisbuild.png" alt="ogrisbuild" style="width: 100%; height: auto;">
 </div>
 
-[*__Overframe Link__*](https://overframe.gg/build/610245/)
+[*__Overframe Link__*](https://overframe.gg/build/771312/)
 
 Kuva Ogris is entirely for pylons. Magazine size mods are so that you have enough shots for all pylons. Damage and multishot on riven lets you always twotick with decent power strength (rip Eclipse). Projectile speed gives the most QoL out of any third stat.
 
@@ -99,7 +99,7 @@ Kuva Ogris is entirely for pylons. Magazine size mods are so that you have enoug
     <img src="https://cdn.profit-taker.com/diplosbuild.png" alt="diplosbuild" style="width: 100%; height: auto;">
 </div>
 
-[*__Overframe Link__*](https://overframe.gg/build/396859/)
+[*__Overframe Link__*](https://overframe.gg/build/771313/)
 
 Tenet Diplos doesn’t have much build variety. This build expects riven to have both toxin and cold, however, a riven with only one of the two will work, in which case replace Accelerated Isotope with the missing element. Diplos uses magnetic progenitor.
 
@@ -113,7 +113,7 @@ Tenet Diplos doesn’t have much build variety. This build expects riven to have
     <img src="https://cdn.profit-taker.com/ballazaw.png" alt="ballazaw" style="width: 100%; height: auto;">
 </div>
 
-[*__Overframe Link__*](https://overframe.gg/build/396863/)
+[*__Overframe Link__*](https://overframe.gg/build/771314/)
 
 High attack speed build, it saves a few milliseconds. Volt shield, Vigorous Swap, and Eclipse makes damage-increasing mods unnecessary. The riven goes over one of the elemental mods for gas and cold, in this example it replaces the heat mod and is otherwise only for increasing attack speed.
 
@@ -131,7 +131,7 @@ High attack speed build, it saves a few milliseconds. Volt shield, Vigorous Swap
     <img src="https://cdn.profit-taker.com/speedrunmechcorvas_riven.png" alt="speedrunmechcorvas_riven" style="width: 100%; height: auto;">
 </div>
 
-[*__Overframe Link__*](https://overframe.gg/build/621203/)
+[*__Overframe Link__*](https://overframe.gg/build/771354/)
 
 For Shock Trooper Chroma. You want a riven that lets you at least oneshot at full charge. Check the [calculator.](https://calc.profit-taker.com)
 
@@ -141,7 +141,7 @@ For Shock Trooper Chroma. You want a riven that lets you at least oneshot at ful
     <img src="https://cdn.profit-taker.com/mechvelo.png" alt="mechvelo" style="width: 100%; height: auto;">
 </div>
 
-[*__Overframe Link__*](https://overframe.gg/build/705996/)
+[*__Overframe Link__*](https://overframe.gg/build/771315/)
 
 This build and riven needs damage bless and a volt shield to oneshot. Info about viable riven rolls can be found in the [Riven guide](/advanced/riven-guide.html#velocitus-with-crit-chance)
 
@@ -159,7 +159,7 @@ This build and riven needs damage bless and a volt shield to oneshot. Info about
     <img src="https://cdn.profit-taker.com/gravimagveloriven.png" alt="gravimagveloriven" style="width: 100%; height: auto;">
 </div>
 
-[*__Overframe Link__*](https://overframe.gg/build/769758/)
+[*__Overframe Link__*](https://overframe.gg/build/771357/)
 
 For Energized Munitions Chroma. If you believe in Arcane Avenger, you can even run rivenless. You should have CC on riven for consistency, but it doesn't need great danage rolls to oneshot. If you lack damage, you can drop Automatic Trigger. Check the [calculator.](https://calc.profit-taker.com)
 
@@ -169,6 +169,6 @@ For Energized Munitions Chroma. If you believe in Arcane Avenger, you can even r
     <img src="https://cdn.profit-taker.com/crewmatetorid.png" alt="crewmatetorid" style="width: 100%; height: auto;">
 </div>
 
-[*__Overframe Link__*](https://overframe.gg/build/622921/)
+[*__Overframe Link__*](https://overframe.gg/build/771316/)
 
 Explained in [__on call strats__](/advanced/speedrun-strats.html#on-call-strats), only works well with +150% primary cc crewmate. Make sure your crewmate isn’t behind your mech.
