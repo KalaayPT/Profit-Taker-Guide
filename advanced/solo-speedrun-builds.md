@@ -43,7 +43,7 @@ Arcane Nullifier is recommended if you want to run completely padless, as the ca
 
 **Less Umbral formas:**
 
-You will have less power strength, but you can replace any umbral mods with their regular versions. Chroma is rather tanky already, especially if you use elemental ward for defense purposes, so the lack of Umbral Vitality/Fiber shouldn’t hurt much. You can also consider replacing Fiber with utility like Natural Talent.
+You will have less power strength, but you can replace any umbral mods with their regular versions. Chroma is rather tanky already, especially if you use Elemental Ward for defense purposes, so the lack of Umbral Vitality/Fiber shouldn’t hurt much. You can also consider replacing Fiber with utility like Natural Talent.
 
 **No Primed Sure Footed:**
 

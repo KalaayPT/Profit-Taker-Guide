@@ -4,13 +4,13 @@
 
 ## **Late Start Strat**
 
-Profit Taker walks forwards constantly until you destroy all four legs in the first armor phase. You can take advantage of this to get a better angle at the rear legs by leaving the elevator just a half second to a second after PT spawns (a bit after 8s on the ingame timer). This makes leg phase overall more consistent for fast runners, and minimizes the effect of the [__animation bug__](/miscellaneous/bugs.html#animation-bug).
+Profit Taker walks forwards constantly until you destroy all four legs in the first armor phase. You can take advantage of this to get a better angle at the rear legs by leaving the elevator just a second to a second after PT spawns (a bit after 8s on the ingame timer). This makes leg phase overall more consistent for fast runners, and minimizes the effect of the [__animation bug__](/miscellaneous/bugs.html#animation-bug).
 
 ## **On Call Strats**
 
 On Call Crew is an extremely powerful tool for covering elements that essentially lets you have three weapons attacking shields at a time. This removes the need to switch weapons, and opens up the primary weapon slot for pure pylon damage.
 
-On Call Crew requires you to run Total Eclipse, so they can profit from the damage buff as their damage without said buff is noticeably weak.
+On Call Crew requires you to run Total Eclipse (unless it's using a Kuva Chakkhurr), so they can profit from the damage buff as their damage without said buff is noticeably weak.
 
 Ideally, Crewmate should be thrown straight at the ground while landing. This removes the need to wait for them to teleport, allowing them to start clearing shields immediately.
 
@@ -136,9 +136,9 @@ Ultimately this is just a personal thing, mess around with various resolutions a
 
 **Note: this will invalidate a run for the purpose of posting on the speedrun.com leaderboards.**
 
-Frames other than Volt or Saryn often find themselves missing an element, requiring a secondary, slower way of clearing said element outside of the normal weapon spam. However, damage instances dealing void damage will not change the shield element unless the 5s cooldown is over.
+Frames other than Volt or Saryn sometimes find themselves missing an element when they're not running Shock Trooper, requiring a secondary, slower way of clearing said element outside of the normal weapon spam. However, damage instances dealing void damage will not change the shield element unless the 5s cooldown is over.
 
-It is possible to take advantage of this by using a good amp with the Virtuos Surge arcane and Madurai’s void strike ability, letting you delete the rest of a shield phase once you see electricity, avoiding an otherwise unavoidable timeloss.
+It is possible to take advantage of this by using a good amp with the Virtuos Surge arcane and Madurai’s void strike ability, letting you delete the rest of a shield phase once you see electricity, minimizing an otherwise unavoidable timeloss.
 
 Ideally, this happens in the first or second shield element, as while the shield element will be changed unless the 5s cooldown is in effect, a good amp can easily remove all of Profit-Taker’s shield.
 
@@ -166,7 +166,7 @@ Video (click to play/pause):
 
 **This strat is now defunct due to power creep. You can still go to the old versions of this guide that contain it [__here__](/miscellaneous/resources-used-honorable-mentions.html#great-guides-of-the-past).** 
 
-## **Ass Meta (with Cycron Crew)**
+## **Ass Meta**
 
 **This meta is now defunct due to __Animation Bug__ and new modding options. You can still go to the old versions of this guide that contain mention of it in the section [__here.__](/miscellaneous/resources-used-honorable-mentions.html#great-guides-of-the-past)** 
 
