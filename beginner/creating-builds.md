@@ -93,7 +93,7 @@ If you try putting it in place of any of the other modded single-stat elements, 
 
 Going more in depth on how to cover this last missing element:
 
-Saryn can do Toxin via her third ability, Toxic Lash. Meaning she can do every element if she's using Shock Trooper.
+Saryn can do Toxin via her third ability, Toxic Lash. Meaning she can do every element if she's using Shock Trooper, however - this means she has to remove Eclipse.
 
 For the first solution, you must have an On Call Crew set up properly, [__which is explained in depth later in speedrun strats.__](/advanced/speedrun-strats.html#on-call-strats)
 
@@ -205,7 +205,7 @@ Before getting into the specifics about Archgun setups, make sure that no matter
 ##### __Heavy Weapon__
 
 > [!IMPORTANT] Pros:
-> - Has access to frame damage buffs such as Eclipse. This means that once you have your Archgun called down, it will shred Profit-Taker legs
+> - Has access to frame damage buffs such as Eclipse or Vex Armor. This means that once you have your Archgun called down, it will shred Profit-Taker legs
 > - Is fairly close to the ground, and you can crouch to get lower, letting you get a decent view of all legs from the front
 
 :::danger Cons:
