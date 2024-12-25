@@ -20,7 +20,7 @@ Remember to use Decaying Dragon Key.
 
 The Shock Trooper build is for running either mech Corvas, or gravimag Mausolon. You get to have all elements without needing to think about electric and doing it with amp, making shield rng much less painful. If you run Mausolon, you should definitely have Arcane Avenger, but with Corvas it's less mandatory and can be replaced with Nullifier. At good speed you shouldn't have energy problems though even with a magnetic proc or two. Archon shards should be starting energy and str.
 
-With Mausolon Void Striking before 2nd legs is recommended to make sure the cooldown is back up for 3rd legs.
+With Mausolon, Void Striking before 2nd legs is recommended to make sure the cooldown is back up for 3rd legs.
 Mausolon build is the same as in [basic builds.](https://profit-taker.com/beginner/vex-armor-builds#mausolon-build)
 
 ### **Chroma Energized Munitions** 
