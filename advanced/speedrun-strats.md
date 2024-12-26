@@ -18,9 +18,9 @@ The ideal stat distribution for On Call is 00555 (5 Repair, 5 Combat, 5 Enduranc
 
 If you have an elite Crewmate, you ideally want one with the 150% primary critical chance (or 150% secondary if using Catabolyst) bonus, as it opens up a mod slot on the build. An elite Crewmate isn’t necessary, however.
 
-The modern weapon of choice is [__Torid__](/advanced/solo-speedrun-builds.html#crewmate-torid), as it leaves toxin clouds that consistently damage Profit Taker, meaning your crewmate doesn’t have to target Profit Taker the moment it’s toxin shield, they just have to have shot at Profit Taker recently. Other options are:
+The modern weapon of choice is [Opticor Vandal](/advanced/solo-speedrun-builds.html#crewmate-opticor-vandal), as it can oneshot shield elements and adds while having multiple damage instances, allowing your crewmate to clear most of a shield in one hit, if shield RNG allows. Other options are:
 
-[__Kuva Chakkhurr__](https://overframe.gg/build/626709/), [__Amprex__](https://overframe.gg/build/599307/), [__Synoid Gammacor__](https://overframe.gg/build/626714/), [__Catabolyst__](https://overframe.gg/build/518597/).
+[__Kuva Chakkhurr__](https://overframe.gg/build/626709/), [Torid](https://overframe.gg/build/771316/), [__Amprex__](https://overframe.gg/build/599307/), [__Synoid Gammacor__](https://overframe.gg/build/626714/), [__Catabolyst__](https://overframe.gg/build/518597/).
 
 ## **Fast Pogris Pylons: Double Shot + Void Strike**
 by [__Vaeli__](https://www.youtube.com/watch?v=X2YnYYS5uGE)
