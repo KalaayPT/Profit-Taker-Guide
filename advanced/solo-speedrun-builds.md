@@ -163,12 +163,12 @@ This build and riven needs damage bless and a volt shield to oneshot. Info about
 
 For Energized Munitions Chroma. If you believe in Arcane Avenger, you can even run rivenless. You should have CC on riven for consistency, but it doesn't need great danage rolls to oneshot. If you lack damage, you can drop Automatic Trigger. Check the [calculator.](https://calc.profit-taker.com)
 
-### **Crewmate Torid**
+### **Crewmate Opticor Vandal**
 
 <div style="width: 100%; text-align: left;">
-    <img src="https://cdn.profit-taker.com/crewmatetorid.png" alt="crewmatetorid" style="width: 100%; height: auto;">
+    <img src="https://cdn.profit-taker.com/Crewmate_Opticor_Vandal_Build.png" alt="Crewmate_Opticor_Vandal_Build" style="width: 100%; height: auto;">
 </div>
 
-[*__Overframe Link__*](https://overframe.gg/build/771316/)
+[*__Overframe Link__*](https://overframe.gg/build/773082/)
 
 Explained in [__on call strats__](/advanced/speedrun-strats.html#on-call-strats), only works well with +150% primary cc crewmate. Make sure your crewmate isn’t behind your mech.

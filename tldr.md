@@ -1,4 +1,4 @@
-# Quick Start Guide <Badge type="warning" text="beta release, could have minor errors" />
+# Quick Start Guide 
 
 by Kalaay
 
@@ -118,11 +118,12 @@ Allows you to survive more easily, does not have to deal with cooldowns. Usually
 ### Warframe: Chroma
 
 Here is an example build for Chroma (see more [here](/beginner/vex-armor-builds)): 
-![chroma build](https://cdn.profit-taker.com/Parasitic_Armor_Vex_Armor.png)
-:::info See more build notes [here](/beginner/vex-armor-builds#parasitic-armor)
-This build utilizes the Parasitic Armor Helminth Ability to remove shields, making it easier to both stack the Vex Armor damage buff and survive.
-- You <u>don't</u> need a triumbral build, this is just an example that helps with survivability. You can also use Adaptation.
-- Both the empty slot and VigSwap are flex slots, as VigSwap doesn't actually do much for Chroma, with his Vex Armor ability being the same additive damage multiplier 
+![chroma build](https://cdn.profit-taker.com/Generic_Vex_Armor.png)
+:::info See more build notes [here](/beginner/vex-armor-builds#generic-vex-armor-shock-trooper)
+This build utilizes the Shock Trooper Helminth Ability to cover electric, allowing you to cover all elements if you use an on call crewmate.
+- Handspring can be replaced with Primed Sure Footed if you have it.
+- Decaying Dragon key is recommended so you can stack your damage buff faster.
+- Healing can be done via Magus Elevate.
 - Flex slots can be filled with more strength or duration (e.g. Augur Message/Secrets), or other QoL mods if needed. 
 - Arcane Velocity very noticably affects your secondaries' performance and is therefore a must-get if you are going to invest into farming Profit-Taker, other useful Arcanes include (but are not limited to): Guardian, Awakening, Grace, Nullifier.
 - Shards: either duration (red), strength (red), or starting energy (blue) 
@@ -156,7 +157,7 @@ Recommended weapons are (click them to see the builds):
 
 <u>Secondary:</u> [Catabolyst](https://overframe.gg/build/518597/)
 
-<u>Primary:</u> [__Torid__](/advanced/solo-speedrun-builds.html#crewmate-torid), [__Kuva Chakkhurr__](https://overframe.gg/build/626709/), [__Amprex__](https://overframe.gg/build/599307/), [__Synoid Gammacor__](https://overframe.gg/build/626714/)
+<u>Primary:</u> [Opticor Vandal](/advanced/solo-speedrun-builds.html#crewmate-opticor-vandal), [__Kuva Chakkhurr__](https://overframe.gg/build/626709/), [__Torid__](https://overframe.gg/build/771316/), [__Amprex__](https://overframe.gg/build/599307/), [__Synoid Gammacor__](https://overframe.gg/build/626714/)
 
 :::tip Note:
 All weapons except Chakkhurr need your Crewmate to be buffed with Vex Armor or Total Eclipse to work well.
