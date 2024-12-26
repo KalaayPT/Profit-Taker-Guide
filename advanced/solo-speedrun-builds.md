@@ -43,7 +43,7 @@ Arcane Nullifier is recommended if you want to run completely padless, as the ca
 
 **Less Umbral formas:**
 
-You will have less power strength, but you can replace any umbral mods with their regular versions. Chroma is rather tanky already, especially if you use Elemental Ward for defense purposes, so the lack of Umbral Vitality/Fiber shouldn’t hurt much. You can also consider replacing Fiber with utility like Natural Talent.
+You will have less power strength, but you can replace any Umbral mods with their regular versions. Chroma is rather tanky already, especially if you use Elemental Ward for defense purposes, so the lack of Umbral Vitality/Fiber shouldn’t hurt much. You can also consider replacing Fiber with utility like Natural Talent.
 
 **No Primed Sure Footed:**
 
@@ -71,7 +71,7 @@ To make the best use of the Operator element coverage, Madurai is essential. Voi
 
 Low duration Volt build. The higher range is so Total Eclipse more reliably buffs On Call Crew. Amar’s Hatred is a flex slot for this build and only used because of its polarity, because these polarities are compatible with both Eidolon and Arbitration builds. Relies on Ancient Healer Specter and/or shield pads to stay alive.
 
-Natural Talent can be replaced with Augur Secrets and yellow archon shards or cast speed can be dropped altogether. Primed Sure Footed can be replaced with Power Drift past a certain pace as knockdowns become increasingly rare and Wyrm can pick up the slack. Unairu is also an option if using power drift or if you don’t have PSF. Arcane Awakening is flex and can be replaced by either Molt Efficiency if you need more duration or Arcane Guardian if you have trouble staying alive.
+Natural Talent can be replaced with Augur Secrets and yellow archon shards or cast speed can be dropped altogether. Primed Sure Footed can be replaced with Power Drift past a certain pace as knockdowns become increasingly rare and Wyrm can pick up the slack. Unairu is also an option if using Power Drift or if you don’t have PSF. Arcane Awakening is flex and can be replaced by either Molt Efficiency if you need more duration or Arcane Guardian if you have trouble staying alive.
 
 ## **Weapon Builds**
 
