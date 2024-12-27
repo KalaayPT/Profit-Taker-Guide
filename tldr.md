@@ -41,11 +41,11 @@ To be able to do the Profit-Taker boss in the first place, you need to be max ra
 
 :::tip The expected distribution of elements looks like this (taken from [Creating builds](/beginner/creating-builds#shields)):
 
-Secondary: Viral, Heat, innate Mag
+Secondary: Viral, Heat, innate Mag, and optional Radiation
 
-Melee (Contagion): Gas, Cold, innate IPS, Blast (innate to Exodia Contagion), Corrosive (covered by Melee Exposure), and Radiation
+Melee (Contagion): Gas, Cold, innate IPS, Blast (innate to Exodia Contagion), Corrosive (covered by Melee Exposure), Radiation, and optional Magnetic
 
-[__Operator__](/advanced/speedrun-strats.html#operator-element)/Volt Shield: Electric
+[__Operator__](/advanced/speedrun-strats.html#operator-element)/Volt Shield/Shock Trooper: Electric
 
 With this combination, you're only missing Toxin, and there is no way to fit it in the builds without creating the need to switch to your primary.
 :::
@@ -86,7 +86,7 @@ Contagion can be unranked, Exposure often needs at least about rank 2. The Zaw S
 Exodia Contagion is thrown by double jumping, aim gliding, and meleeing. This allows you to shoot your secondary while you fall after throwing your zaw, when you do it quickly.
 
 :::tip
-This allows you to not have to think about what elements are on what wepaons, you just spam both weapons until you dont do damage, meaning you are looking at electric or toxin.
+This allows you to not have to think about what elements are on what weapons, you just spam both weapons until you dont do damage, meaning you are looking at electric or toxin.
 :::
 
 Here is a slow demonstration of what the button presses look like (7&thinsp;mb): 
@@ -165,9 +165,9 @@ All weapons except Chakkhurr need your Crewmate to be buffed with Vex Armor or T
 
 ### Energy economy
 
-With the provided setup you will quickly notice that you need a lot of energy. With enemies being an incosistent source of orb drops, we strongly recommend [Energy Restores](https://warframe.fandom.com/wiki/Squad_Energy_Restore). Alternatively, you can run Nourish as your subsume on Chroma, allowing you to make some use of the few energy orbs you get per run. 
+With the provided setup you will quickly notice that you need a lot of energy. With enemies being an incosistent source of orb drops, we strongly recommend [Energy Restores](https://warframe.fandom.com/wiki/Squad_Energy_Restore).
 
-The more comfortable setup is what the community refers to as "padless" by using [Preparation](https://warframe.fandom.com/wiki/Preparation) and Primed Flow to have a huge reserve of Energy which should last the entire run. You can also use blue Archon Shards to further expand your energy capacity or  
+The more comfortable and cheaper setup is what the community refers to as "padless" by using [Preparation](https://warframe.fandom.com/wiki/Preparation) and Primed Flow to have a huge reserve of Energy which should last the entire run. You can also use amber Archon Shards to fill some of your maximum energy when you spawn in or blue Archon Shards to further expand your energy capacity.
 
 Here is an example Volt build with this philosophy in mind:
 
@@ -176,7 +176,7 @@ Here is an example Volt build with this philosophy in mind:
 
 ### Archon Shards
 
-Shards that always work are reds for strength or duration. Going with the sentiment expressed above, blue shards for starting energy also work. Most speedrunners run either all strength or 4 strength and one cast speed.
+Shards that always work are reds for strength or duration. Going with the sentiment expressed above, amber shards for starting energy also work. Most speedrunners run either all strength or 4 strength and one cast speed.
 
 ### Graphics Settings
 

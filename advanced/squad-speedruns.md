@@ -1,5 +1,9 @@
 # **Squad Speedruns**
 
+:::warning Note:
+this section will be updated at some point to reflect the current meta for squads (particularly, using Jade because of her ability to buff Necramechs, allowing Volt to run double/triple fire rate on Velocitus). Everything on this page is still viable though.
+:::
+
 ## **Roles**
 
 *Squad strats aren’t fully optimized yet, there are still debatable choices. If you’re interested in finding new strats or wanna run with other people, we welcome you to join [__our discord server__](https://discord.profit-taker.com)*
@@ -87,6 +91,8 @@ Generally, squads make use of at least one Archgunner, meaning one player who ar
 <div style="width: 100%; text-align: left;">
     <img src="https://cdn.profit-taker.com/imperatorbuild.png" alt="imperatorbuild" style="width: 100%; height: auto;">
 </div>
+
+Nowadays, Mausolon is more viable than Imperator, because of [Archgun Hitbox Bug](/miscellaneous/bugs#archgun-hitbox-bug). Build stays the same.
 
 [*__Overframe Link__*](https://overframe.gg/build/771323/)
 
