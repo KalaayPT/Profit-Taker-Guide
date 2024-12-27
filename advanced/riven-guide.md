@@ -38,12 +38,12 @@ Avoid Damage, Corpus, Multishot, Crit Damage, Crit Chance;
 Ideally, you have Toxin and Cold on your Riven, but if you have only one of them it's fine too. Riven needs an element due to disposition.
 
 - Crit Damage
-- Heat
-- Damage
 - Multishot
-- Crit Chance
-- Fire Rate
 - Corpus
+- Damage
+- Heat
+- Fire Rate
+- Crit Chance
 
 **Negatives:**
 Avoid Damage, Crit Damage, Corpus, Fire Rate, Crit Chance, Multishot
@@ -73,7 +73,7 @@ Crit Chance is mandatory.
 :::
 
 <u>**Negatives:**</u>
-Avoid Multishot, Damage, Physical Damage (IPS), Crit Chance, Crit Damage, Corpus;
+Avoid Multishot, Damage, Physical Damage (IPS), Crit Chance, Crit Damage, Corpus, Reload Speed, Magazine Size;
 
 ## **Corvas (non-Prime)**
 

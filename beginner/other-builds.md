@@ -25,13 +25,15 @@ Mech build doesn’t matter as you shouldn’t spend much time in it. A basic he
     <img src="https://cdn.profit-taker.com/velocitus_mech.png" alt="velocitus_mech" style="width: 100%; height: auto;">
 </div>
 
-:::info [*__Overframe Link__*](https://overframe.gg/build/771307/)
+::::info [*__Overframe Link__*](https://overframe.gg/build/771307/)
 
 - For use on Necramech, this build will oneshot limbs if the weapon is fully charged.
 - If you have damage bless, replace Venomous Clip with Shell Rush.
 - Velocitus shots are either fully charged or not charged, so you need to fully charge it.
-- Charged Velocitus often has hitbox problems, so you will likely have to go under Profit-Taker to hit the back legs. 
+:::warning
+Charged Velocitus often has hitbox problems, so you will likely have to go under Profit-Taker to hit the back legs. 
 :::
+::::
 
 #### **Arquebex build (Used to clear Toxin Shield)**
 
@@ -56,16 +58,16 @@ As the crewmate (more on this [__later__](/advanced/speedrun-strats.html#on-call
 - Has a good enough fire rate.
 - Ideally, has some sort of crowd control, i.e. chaining beams or explosions.
 
-An example of a usable weapon is the Amprex, modded for toxin:
+An example of a usable weapon is the Opticor Vandal, modded for toxin:
 
 <div style="width: 100%; text-align: left;">
-    <img src="https://cdn.profit-taker.com/amprex_build.png" alt="amprex_build" style="width: 100%; height: auto;">
+    <img src="https://cdn.profit-taker.com/Crewmate_Opticor_Vandal_Build.png" alt="Crewmate_Opticor_Vandal_Build" style="width: 100%; height: auto;">
 </div>
 
 :::info [*__Overframe Link__*](https://overframe.gg/build/771338/)
 
 - Crewmates don't use rivens or conditional arcanes.
-- An elite crewmate with the proper cc effect can make point strike flex, as long as you get 100% cc.
+- An elite crewmate with the proper crit chance effect can increase your dps.
 - Other usable weapons are found in [__On Call Strats__](/advanced/speedrun-strats.html#on-call-strats)
 :::
 

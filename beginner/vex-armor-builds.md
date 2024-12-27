@@ -20,8 +20,8 @@ Suggested Warframe Arcanes include: Velocity, Avenger, Nullifier, Acceleration
 - This is the generic build for this section, the others are example variations.
 - If you have Primed Sure Footed, use it over Handspring. If you want to just run Unairu instead, you can put Preparation in exilus.
 - Decaying Dragon Key is recommended to stack your Vex Fury much faster, but you should keep an eye on your health since you won't get the full armor buff from Vex immediately.
-- The umbral forma isn't necessary if you forma every other slot, but gives you a lot more flexibility for future changes.
-- Your main method of healing should be Magus Elevate on operator. If you spam 5-e-5-e you can quickly heal to full health.
+- The Umbral Forma isn't necessary if you forma every other slot, but gives you a lot more flexibility for future changes.
+- Your main method of healing should be Magus Elevate on operator. If you spam 5-e-5-e you can very quickly heal to full health.
 - If energy isn't an issue, replacing Arcane Nullifier with Arcane Avenger is a decent boost to Diplos damage, and a big one to Mausolon damage.
 - Rage is a flex Mod. If your runs are fast, Primed Flow with Preparation or amber starting energy archon shards will give you enough energy for the whole run.
 - Heat elemental ward gives you the most EHP, along with healing you when you recast. This means you may be able to forego alternate forms of healing in a pinch.
@@ -38,7 +38,7 @@ Suggested Warframe Arcanes include: Velocity, Avenger, Nullifier, Acceleration
     <img src="https://cdn.profit-taker.com/Energized_Munitions_Vex_Armor.png" alt="Energized_Munitions_Vex_Armor" style="width: 100%; height: auto;"> 
 </div>
 
-:::info [*__Overframe Link__*](https://overframe.gg/build/771334/)
+::::info [*__Overframe Link__*](https://overframe.gg/build/771334/)
 
 - When not running Shock Trooper, you should do electric shields by Void Striking with Virtuos Surge. 7x7 amp with Eternal Onslaught is recommended.
 - Energized Munitions' point is lowering your Archgun Deployer cooldown, as the cooldown is based on ammo spent / max ammo.
@@ -46,8 +46,10 @@ Suggested Warframe Arcanes include: Velocity, Avenger, Nullifier, Acceleration
 - Even with Mausolon, you can find EM useful if your power strength or Mausolon build is lacking.
 - EM is quite expensive to cast at 50 base energy cost and 3 expected casts per run.
 - Natural Talent is a flex slot.
-- WARNING: If you're a client in a squad, the ammo efficiency doesn't affect the cooldown even though visually it does. Your archgun will just be unpullable with no error message until the 'real cooldown' is over.
+:::warning
+If you're a client in a squad, the ammo efficiency doesn't affect the cooldown even though visually it does. Your archgun will just be unpullable with no error message until the 'real cooldown' is over.
 :::
+::::
 
 #### **Spellbind**
 
@@ -77,7 +79,7 @@ __Primary weapon:__
 
 :::info [*__Overframe Link__*](https://overframe.gg/build/771293/)
 
-- Needs 277%+ Strength to kill a pylon in two damage ticks, cannot go lower than that as very few things can increase Nightwatch Napalm damage, especially as Chroma.
+- Needs 283+% Strength to kill a pylon in three damage ticks, needs 4 otherwise. Any riven with at least 50% multishot will reduce it to two ticks at 283+%.
 - Nightwatch Napalm will damage Pylons as long as they are in range, even through the Pylon bubble.
 - Normal Ogris also works well enough if Kuva Ogris feels too grindy. Does less damage (adding Heavy Caliber in place of Vile Acceleration is an option, but makes you miss the pylon sometimes) but only needs one ammo mod. The other one can be replaced with Firestorm on a standard Ogris, for slightly less required accuracy especially if combined with Heavy Caliber.
 :::

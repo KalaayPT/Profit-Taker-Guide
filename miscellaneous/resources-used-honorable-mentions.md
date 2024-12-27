@@ -4,6 +4,10 @@ As it is an attempt to compile over 5 years of Profit-Taker knowledge, this guid
 
 ## **Notable contributors:**
 
+**Kreem**
+
+- did a lot of proofreading and rewriting, especially in the creating builds section
+
 **Vaeli**
 
 - contributed post-Dante Pogris strats 
