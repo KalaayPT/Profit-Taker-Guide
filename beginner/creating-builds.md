@@ -144,7 +144,7 @@ Ideally, the single stat element you mod onto a weapon is the one covered by the
 As a bonus, Profit-Taker runners also look for certain things about a weapon that results in faster elements, weapons like this include:
 
 - Tenet Detron has so much damage and so many projectiles that it can clear 4 elements with one shot given perfect rng.
-- Exodia Contagion, a Zaw Arcane that adds a grenade-like attack with 3 separate damage instances. Each one of said instances do the modded elements, meaning it is not uncommon to throw Contagion and clear 2-3 elements. For more information, check the [__Zaw guide__](/beginner/exodia-contagion-zaws)
+- Exodia Contagion, a Zaw Arcane that adds a grenade-like attack with 3 separate damage instances. Each one of said instances do the modded elements, meaning it is not uncommon to throw Contagion and clear 2-3 elements. For more information, check the [__Zaw guide__](/beginner/contagion-zaws)
 
 A generic weapon build will look something like this:
 
