@@ -144,7 +144,7 @@ Ideally, the single stat element you mod onto a weapon is the one covered by the
 As a bonus, Profit-Taker runners also look for certain things about a weapon that results in faster elements, weapons like this include:
 
 - Tenet Detron has so much damage and so many projectiles that it can clear 4 elements with one shot given perfect rng.
-- Exodia Contagion, a Zaw Arcane that adds a grenade-like attack with 3 separate damage instances. Each one of said instances do the modded elements, meaning it is not uncommon to throw Contagion and clear 2-3 elements. For more information, check the [__Zaw guide__](/beginner/advanced-principles.html#exodia-contagion-zaws)
+- Exodia Contagion, a Zaw Arcane that adds a grenade-like attack with 3 separate damage instances. Each one of said instances do the modded elements, meaning it is not uncommon to throw Contagion and clear 2-3 elements. For more information, check the [__Zaw guide__](/beginner/exodia-contagion-zaws)
 
 A generic weapon build will look something like this:
 
@@ -169,7 +169,7 @@ Trying to figure out elemental combinations can get quite confusing, this image 
 
 ##### __Zaw Part setups:__
 
-Contagion deals a lot of damage, meaning Zaws can focus on Quality of Life and reliability.  When choosing parts for your Zaw, you want to go for a Scythe, Staff, or Polearm Zaw with max attack speed and critical chance. As was said [__here__](/beginner/advanced-principles.html#melee-mechanics), Scythes, Staves, and Polearms don’t suffer from air lock, making them the weapon of choice. Attack speed will make the Zaw more forgiving and easier to use while critical chance guarantees a reliable damage output. If you’re looking for a Zaw Riven, see the graph below for strikes with good Riven disposition. If you’re looking for what mod config to use, [__see the previous section__](/beginner/creating-builds.html#weapon-choice-and-builds).
+Contagion deals a lot of damage, meaning Zaws can focus on Quality of Life and reliability.  When choosing parts for your Zaw, you want to go for a Scythe, Staff, or Polearm Zaw with max attack speed and critical chance. As was said [__here__](/beginner/contagion-zaws#melee-mechanics), Scythes, Staves, and Polearms don’t suffer from air lock, making them the weapon of choice. Attack speed will make the Zaw more forgiving and easier to use while critical chance guarantees a reliable damage output. If you’re looking for a Zaw Riven, see the graph below for strikes with good Riven disposition. If you’re looking for what mod config to use, [__see the previous section__](/beginner/creating-builds.html#weapon-choice-and-builds).
 
 Seekalla is the best grip for most strikes because it is the highest attack speed two-handed grip. It is primarily used for Polearms and Staves. Peye is the highest attack speed one-handed grip and is primarily used for Daggers and Scythes.
 
