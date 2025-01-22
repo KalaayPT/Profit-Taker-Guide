@@ -143,7 +143,7 @@ For Shock Trooper Chroma. You want a riven that lets you at least oneshot at ful
 
 [*__Overframe Link__*](https://overframe.gg/build/771315/)
 
-For Volt. This build and riven needs damage bless and a volt shield to oneshot. Info about viable riven rolls can be found in the [Riven guide](/advanced/riven-guide.html#velocitus-with-crit-chance)
+For Volt only. Velocitus needs Damage Bless and a Volt Shield to oneshot. Info about viable riven rolls can be found in the [Riven guide](/advanced/riven-guide.html#velocitus-with-crit-chance)
 
 <div style="width: 25%; text-align: left;">
     <img src="https://cdn.profit-taker.com/mechveloriven.png" alt="mechveloriven" style="width: 100%; height: auto;">
