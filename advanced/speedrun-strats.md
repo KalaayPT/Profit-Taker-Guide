@@ -174,4 +174,4 @@ Video (click to play/pause):
 
 By far the best way to get good at Profit-Taker outside of doing it yourself with the right builds is to go to the [__speedrun leaderboards__](https://www.speedrun.com/wf/leaderboards?h=Profit-Taker-Solo&x=l_rdnrkqvw-rklqexq2) and watch other people’s runs. There are things this guide cannot teach that you’d never imagine, but if you watch them do it, you just have to learn how to do it yourself.
 
-Nearly all Profit-Taker runners mainly learned how to do PT quickly by watching runs and talking with people in the community
+Nearly all Profit-Taker runners mainly learned how to do PT quickly by watching runs and talking with people in the community.
