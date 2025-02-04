@@ -12,7 +12,7 @@ Suggested Warframe Arcanes include: Velocity, Avenger, Nullifier, Acceleration
 #### **Generic Vex Armor (Shock Trooper)**
 
 <div style="width: 100%; text-align: left;">
-    <img src="https://cdn.profit-taker.com/Generic_Vex_Armor.png" alt="Generic_Vex_Armor" style="width: 100%; height: auto;"> 
+    <img src="https://cdn.profit-taker.com/u/Generic_Vex_Armor.png" alt="Generic_Vex_Armor" style="width: 100%; height: auto;"> 
 </div>
 
 :::info [*__Overframe Link__*](https://overframe.gg/build/771333/)
@@ -35,7 +35,7 @@ Suggested Warframe Arcanes include: Velocity, Avenger, Nullifier, Acceleration
 #### **Energized Munitions**
 
 <div style="width: 100%; text-align: left;">
-    <img src="https://cdn.profit-taker.com/Energized_Munitions_Vex_Armor.png" alt="Energized_Munitions_Vex_Armor" style="width: 100%; height: auto;"> 
+    <img src="https://cdn.profit-taker.com/u/Energized_Munitions_Vex_Armor.png" alt="Energized_Munitions_Vex_Armor" style="width: 100%; height: auto;"> 
 </div>
 
 ::::info [*__Overframe Link__*](https://overframe.gg/build/771334/)
@@ -54,7 +54,7 @@ If you're a client in a squad, the ammo efficiency doesn't affect the cooldown e
 #### **Spellbind**
 
 <div style="width: 100%; text-align: left;">
-    <img src="https://cdn.profit-taker.com/Spellbind_Vex_Armor.png" alt="Spellbind_Vex_Armor" style="width: 100%; height: auto;"> 
+    <img src="https://cdn.profit-taker.com/u/Spellbind_Vex_Armor.png" alt="Spellbind_Vex_Armor" style="width: 100%; height: auto;"> 
 </div>
 
 :::info [*__Overframe Link__*](https://overframe.gg/build/771335/)
@@ -74,7 +74,7 @@ __Primary weapon:__
 #### **Kuva Ogris**
 
 <div style="width: 100%; text-align: left;">
-    <img src="https://cdn.profit-taker.com/pogris_eclipse.png" alt="pogris_eclipse" style="width: 100%; height: auto;">
+    <img src="https://cdn.profit-taker.com/u/pogris_eclipse.png" alt="pogris_eclipse" style="width: 100%; height: auto;">
 </div>
 
 :::info [*__Overframe Link__*](https://overframe.gg/build/771293/)
@@ -87,7 +87,7 @@ __Primary weapon:__
 #### **Zenith Build**
 
 <div style="width: 100%; text-align: left;">
-    <img src="https://cdn.profit-taker.com/Zenith_Build.png" alt="Zenith_Build" style="width: 100%; height: auto;">
+    <img src="https://cdn.profit-taker.com/u/Zenith_Build.png" alt="Zenith_Build" style="width: 100%; height: auto;">
 </div>
 
 :::info [*__Overframe Link__*](https://overframe.gg/build/771294/)
@@ -104,7 +104,7 @@ __Secondary weapon:__
 #### **Sicarus Prime Incarnoff**
 
 <div style="width: 100%; text-align: left;">
-    <img src="https://cdn.profit-taker.com/sicarusbuildgrey.png" alt="sicarusbuildgrey" style="width: 100%; height: auto;">
+    <img src="https://cdn.profit-taker.com/u/sicarusbuildgrey.png" alt="sicarusbuildgrey" style="width: 100%; height: auto;">
 </div>
 
 :::info [*__Overframe Link__*](https://overframe.gg/build/784344/)
@@ -127,7 +127,7 @@ EVO IV: Commodore's Fortune +14% Base CC.
 #### **Tenet Diplos Build**
 
 <div style="width: 100%; text-align: left;">
-    <img src="https://cdn.profit-taker.com/Vex_Armor_Tenet_Diplos_Build.png" alt="Vex_Armor_Tenet_Diplos_Build" style="width: 100%; height: auto;">
+    <img src="https://cdn.profit-taker.com/u/Vex_Armor_Tenet_Diplos_Build.png" alt="Vex_Armor_Tenet_Diplos_Build" style="width: 100%; height: auto;">
 </div>
 
 :::info [*__Overframe Link__*](https://overframe.gg/build/771296/)
@@ -144,7 +144,7 @@ __Melee weapon:__
 #### **Exodia Contagion Zaw Build**
 
 <div style="width: 100%; text-align: left;">
-    <img src="https://cdn.profit-taker.com/balla_eclipse.png" alt="Exodia_Contagion_Zaw_Build" style="width: 100%; height: auto;">
+    <img src="https://cdn.profit-taker.com/u/balla_eclipse.png" alt="Exodia_Contagion_Zaw_Build" style="width: 100%; height: auto;">
 </div>
 
 :::info [*__Overframe Link__*](https://overframe.gg/build/771297/)
@@ -161,7 +161,7 @@ __Heavy Weapon:__
 #### **Mausolon Build**
 
 <div style="width: 100%; text-align: left;">
-    <img src="https://cdn.profit-taker.com/Mausolon_Build.png" alt="Mausolon_Build" style="width: 100%; height: auto;">
+    <img src="https://cdn.profit-taker.com/u/Mausolon_Build.png" alt="Mausolon_Build" style="width: 100%; height: auto;">
 </div>
 
 :::info [*__Overframe Link__*](https://overframe.gg/build/771299/)

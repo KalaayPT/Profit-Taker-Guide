@@ -12,7 +12,7 @@ Video (click to play/pause):
 
 <div style="padding-bottom: 20px;">
 <video height="100" onclick="this.paused?this.play():this.pause();arguments[0].preventDefault();" loop muted>
- <source type="video/mp4" src="https://cdn.profit-taker.com/hitbox_bug.mp4">
+ <source type="video/mp4" src="https://cdn.profit-taker.com/u/hitbox_bug.mp4">
 </video>
 </div>
 
@@ -27,7 +27,7 @@ This bug is especially noticeable on mountain spawn, and you need to land slight
 Before the bug, Profit-Taker would hold herself a set distance above the ground in most animations, even if one leg was much lower than the others, as you can see in the following image and in most gifs in this guide.
 
 <div style="width: 100%; text-align: left;">
-    <img src="https://cdn.profit-taker.com/animationbug.jpg" alt="animationbug" style="width: 100%; height: auto;">
+    <img src="https://cdn.profit-taker.com/u/animationbug.jpg" alt="animationbug" style="width: 100%; height: auto;">
 </div>
 
 As you can see, there is a clear view of the rear limbs, and the turret is well above the ground.
@@ -35,7 +35,7 @@ As you can see, there is a clear view of the rear limbs, and the turret is well 
 After the bug, Profit-Taker will snap into an animation that blocks your view of rear limbs during Armor Phases.
 
 <div style="width: 100%; text-align: left;">
-    <img src="https://cdn.profit-taker.com/blockedleg.png" alt="blockedleg" style="width: 100%; height: auto;">
+    <img src="https://cdn.profit-taker.com/u/blockedleg.png" alt="blockedleg" style="width: 100%; height: auto;">
 </div>
 
 As you can see, Profit-Taker’s turret is completely underground and it is impossible to hit the rear legs.
@@ -55,7 +55,7 @@ There are several major bugs related to weapons that deal AoE damage. Some of th
 The most noticeable AoE damage bug led to the creation of [__Ass Meta__](/advanced/speedrun-strats.html#ass-meta-with-cycron-crew). Basically, if an explosion doesn’t damage the Profit-Taker’s “head” hitbox it will do no damage. The “head” is inside the main body close to the center of Profit-Taker’s belly. Its exact location shifts depending on Profit-Taker’s animation. See [__\[Profit-Taker\] AoE weapons haven't dealt damage in the past 1.5 years. - Mission - Warframe Forums__](https://forums.warframe.com/topic/1228081-profit-taker-aoe-weapons-havent-dealt-damage-in-the-past-15-years/) for the extensive report.
 
 <div style="width: 100%; text-align: left;">
-    <img src="https://cdn.profit-taker.com/assmeta.png" alt="assmeta" style="width: 100%; height: auto;">
+    <img src="https://cdn.profit-taker.com/u/assmeta.png" alt="assmeta" style="width: 100%; height: auto;">
 </div>
 
 Sometimes this bug combines with another bug- if you attack Profit-Taker’s legs during Shield Phase, your damage gets capped at exactly 111751 instead of the normal shield damage cap. Exactly how this interacts with AoE weapons isn’t well understood, but it is noticeable when attempting to do Viral damage with Zaw.
@@ -79,7 +79,7 @@ Video (click to play/pause):
 
 <div style="padding-bottom: 20px;">
 <video width="100%" onclick="this.paused?this.play():this.pause();arguments[0].preventDefault();" loop muted>
- <source type="video/mp4" src="https://cdn.profit-taker.com/armorreset.mp4">
+ <source type="video/mp4" src="https://cdn.profit-taker.com/u/armorreset.mp4">
 </video>
 </div>
 

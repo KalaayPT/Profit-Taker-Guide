@@ -30,5 +30,5 @@ During all phases, enemies will spawn that deal a lot of damage and will easily 
 The simple solution is to **kill the Alert Beacons** that some of the enemies will set up. If you allow the beacons to remain, stronger enemies will spawn and their level will increase. Spending a second to kill a Beacon is well worth avoiding dying a minute later in the fight.
 
 <div style="width: 10%; text-align: left;">
-    <img src="https://cdn.profit-taker.com/alert_beacon.png" alt="alert_beacon" style="width: 100%; height: auto;">
+    <img src="https://cdn.profit-taker.com/u/alert_beacon.png" alt="alert_beacon" style="width: 100%; height: auto;">
 </div>

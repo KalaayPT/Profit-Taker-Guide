@@ -18,7 +18,7 @@ This is a generic Profit-Taker build for every frame if Eclipse is subsumed.
 This build is nearly the bare minimum for a Kuva Ogris setup, assumes you use a crewmate to cover toxin
 
 <div style="width: 100%; text-align: left;">
-    <img src="https://cdn.profit-taker.com/Generic_Pogris_Frame_Build.png" alt="Generic_Pogris_Frame_Build" style="width: 100%; height: auto;">
+    <img src="https://cdn.profit-taker.com/u/Generic_Pogris_Frame_Build.png" alt="Generic_Pogris_Frame_Build" style="width: 100%; height: auto;">
 </div>
 
 :::info [*__Overframe Link__*](https://overframe.gg/build/771300/)
@@ -33,7 +33,7 @@ This build is nearly the bare minimum for a Kuva Ogris setup, assumes you use a 
 == Zenith Frame Build
 
 <div style="width: 100%; text-align: left;">
-    <img src="https://cdn.profit-taker.com/Generic_Zenith_Opticor_Frame_Build.png" alt="Generic_Zenith_Opticor_Frame_Build" style="width: 100%; height: auto;">
+    <img src="https://cdn.profit-taker.com/u/Generic_Zenith_Opticor_Frame_Build.png" alt="Generic_Zenith_Opticor_Frame_Build" style="width: 100%; height: auto;">
 </div>
 
 :::info [*__Overframe Link__*](https://overframe.gg/build/771301)
@@ -58,7 +58,7 @@ There are three useful Aura Mods: Sprint Boost, Growing Power, and Aerodynamic. 
 == TriUmbral Saryn
 
 <div style="width: 100%; text-align: left;">
-    <img src="https://cdn.profit-taker.com/TriUmbral_Saryn.png" alt="TriUmbral_Saryn" style="width: 100%; height: auto;">
+    <img src="https://cdn.profit-taker.com/u/TriUmbral_Saryn.png" alt="TriUmbral_Saryn" style="width: 100%; height: auto;">
 </div>
 
 :::info [*__Overframe Link__*](https://overframe.gg/build/771302/)
@@ -72,7 +72,7 @@ There are three useful Aura Mods: Sprint Boost, Growing Power, and Aerodynamic. 
 == Cheap Saryn Build
 
 <div style="width: 100%; text-align: left;">
-    <img src="https://cdn.profit-taker.com/cheap_saryn.png" alt="cheap_saryn" style="width: 100%; height: auto;">
+    <img src="https://cdn.profit-taker.com/u/cheap_saryn.png" alt="cheap_saryn" style="width: 100%; height: auto;">
 </div>
 
 :::info [*__Overframe Link__*](https://overframe.gg/build/771303/)
@@ -94,7 +94,7 @@ __Primary weapons:__
 #### **Kuva Ogris (Pogris)**
 
 <div style="width: 100%; text-align: left;">
-    <img src="https://cdn.profit-taker.com/pogris_eclipse.png" alt="pogris_eclipse" style="width: 100%; height: auto;">
+    <img src="https://cdn.profit-taker.com/u/pogris_eclipse.png" alt="pogris_eclipse" style="width: 100%; height: auto;">
 </div>
 
 :::info [*__Overframe Link__*](https://overframe.gg/build/771293/)
@@ -108,7 +108,7 @@ __Primary weapons:__
 #### **Zenith**
 
 <div style="width: 100%; text-align: left;">
-    <img src="https://cdn.profit-taker.com/Zenith_Build.png" alt="zenith_eclipse" style="width: 100%; height: auto;">
+    <img src="https://cdn.profit-taker.com/u/Zenith_Build.png" alt="zenith_eclipse" style="width: 100%; height: auto;">
 </div>
 
 :::info [*__Overframe Link__*](https://overframe.gg/build/771294/)
@@ -125,7 +125,7 @@ __Secondary weapon:__
 #### **Sicarus Prime Incarnoff**
 
 <div style="width: 100%; text-align: left;">
-    <img src="https://cdn.profit-taker.com/sicarusbuildgrey.png" alt="sicarusbuildgrey" style="width: 100%; height: auto;">
+    <img src="https://cdn.profit-taker.com/u/sicarusbuildgrey.png" alt="sicarusbuildgrey" style="width: 100%; height: auto;">
 </div>
 
 :::info [*__Overframe Link__*](https://overframe.gg/build/784344/)
@@ -144,7 +144,7 @@ EVO IV: Commodore's Fortune +14% Base CC.
 #### **Tenet Diplos build**
 
 <div style="width: 100%; text-align: left;">
-    <img src="https://cdn.profit-taker.com/diplos_eclipse.png" alt="diplos_eclipse" style="width: 100%; height: auto;">
+    <img src="https://cdn.profit-taker.com/u/diplos_eclipse.png" alt="diplos_eclipse" style="width: 100%; height: auto;">
 </div>
 
 :::info [*__Overframe Link__*](https://overframe.gg/build/771304/)
@@ -160,7 +160,7 @@ __Melee weapon:__
 #### **Contagion Build**
 
 <div style="width: 100%; text-align: left;">
-    <img src="https://cdn.profit-taker.com/balla_eclipse.png" alt="balla_eclipse" style="width: 100%; height: auto;">
+    <img src="https://cdn.profit-taker.com/u/balla_eclipse.png" alt="balla_eclipse" style="width: 100%; height: auto;">
 </div>
 
 :::info [*__Overframe Link__*](https://overframe.gg/build/771297/)
@@ -177,7 +177,7 @@ __Heavy weapon:__
 #### **Mausolon Build**
 
 <div style="width: 100%; text-align: left;">
-    <img src="https://cdn.profit-taker.com/Mausolon_eclipse.png" alt="Mausolon_eclipse" style="width: 100%; height: auto;">
+    <img src="https://cdn.profit-taker.com/u/Mausolon_eclipse.png" alt="Mausolon_eclipse" style="width: 100%; height: auto;">
 </div>
 
 :::info [*__Overframe Link__*](https://overframe.gg/build/771305/)
