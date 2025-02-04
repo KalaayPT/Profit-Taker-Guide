@@ -112,8 +112,11 @@ __Secondary weapon:__
 The Successor to Tenet Diplos. Rivens will ideally replace Tox/CC/CD Mods on the build. Cold and Heat are replaceable, but slightly less ideal, due to replacing either Ice Storm with its additional Magazine Capacity or Primed Heated Charge's higher Heat Damage. 
 
 Incarnon Adapter Evos;
+
 EVO II: Feigned Retreat +40 Base Damage
+
 EVO III: Extended Volley +12 Base Magazine Size
+
 EVO IV: Commodore's Fortune +14% Base CC.
 
 - Covers IPS, Magnetic, Radiation, Viral and Heat.
