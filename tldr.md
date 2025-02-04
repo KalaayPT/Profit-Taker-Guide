@@ -24,8 +24,8 @@ Shield → Armor → Death
 ## Prerequisites
 
 To be able to do the Profit-Taker boss in the first place, you need to be max rank with Solaris United and have finished the first three phases of the Profit-Taker heist.
-![old mate](https://cdn.profit-taker.com/old_mate.png)
-![bounties](https://cdn.profit-taker.com/profit_taker_bounties.jpg)
+![old mate](https://cdn.profit-taker.com/u/old_mate.png)
+![bounties](https://cdn.profit-taker.com/u/profit_taker_bounties.jpg)
 
 ## Gear
 
@@ -57,7 +57,7 @@ Ogris deals damage to pylons through the pylon bubble without requiring punch th
 Video demonstration (17&thinsp;mb):
 <div style="padding-bottom: 20px;">
 <video width="100%" controls>
- <source type="video/mp4" src="https://cdn.profit-taker.com/Just%20Use%20The%20Ogris-10.mp4">
+ <source type="video/mp4" src="https://cdn.profit-taker.com/u/Just%20Use%20The%20Ogris-10.mp4">
 </video>
 </div>
 
@@ -73,14 +73,14 @@ For builds for other frames running Eclipse, consult the [Eclipse Builds](/begin
 
 #### Secondary: [Diplos](/beginner/vex-armor-builds#tenet-diplos-build)
 
-![diplers](https://cdn.profit-taker.com/Vex_Armor_Tenet_Diplos_Build.png)
+![diplers](https://cdn.profit-taker.com/u/Vex_Armor_Tenet_Diplos_Build.png)
 
 Not a lot to be said here, you just shoot between contagion throws. you don't *need* 60% valence, but more always helps. Progenitor element is magnetic.
 
 #### Zaw
 
 Example Build:
-![zaw](https://cdn.profit-taker.com/balla_eclipse.png)
+![zaw](https://cdn.profit-taker.com/u/balla_eclipse.png)
 Contagion can be unranked, Exposure often needs at least about rank 2. The Zaw Strike of choice is Balla, because it throws at the beginning of the animation, allowing throws in quick succession. Read more about this [here](/beginner/contagion-zaws)
 
 Exodia Contagion is thrown by double jumping, aim gliding, and meleeing. This allows you to shoot your secondary while you fall after throwing your zaw, when you do it quickly.
@@ -92,33 +92,33 @@ This allows you to not have to think about what elements are on what weapons, yo
 Here is a slow demonstration of what the button presses look like (7&thinsp;mb): 
 <div style="padding-bottom: 20px;">
 <video width="100%" controls>
- <source type="video/mp4" src="https://cdn.profit-taker.com/Contagion%20Example%20Slow-1.mp4">
+ <source type="video/mp4" src="https://cdn.profit-taker.com/u/Contagion%20Example%20Slow-1.mp4">
 </video>
 </div>
 
 Here is a real life example of quickly throwing and shooting (7&thinsp;mb):
 <div style="padding-bottom: 20px;">
 <video width="100%" controls>
- <source type="video/mp4" src="https://cdn.profit-taker.com/Contagion%20Example-3.mp4">
+ <source type="video/mp4" src="https://cdn.profit-taker.com/u/Contagion%20Example-3.mp4">
 </video>
 </div>
 I use the scroll wheel to jump and i shoot with 2 in this example. This allows me to do the contagion-shooting-loop very quickly.
 
 #### Archgun in hand: [Mausolon](/beginner/vex-armor-builds#mausolon-build)
 
-![maus](https://cdn.profit-taker.com/Mausolon_Build.png)
+![maus](https://cdn.profit-taker.com/u/Mausolon_Build.png)
 
 Benefits from Warframe buffs such as Vex Armor or Reinforced bond, is limited by long call down animation and ammo economy. If You waste too many bullets, you will have to deal with long cooldowns. That's why this build has Ammo Chain, because the cooldown is based on %ammo used.
 
 #### Archgun on mech: [Corvas](/beginner/other-builds#corvas-build-non-prime) <span style="color: red;">(non-Prime)</span>
 
-![cornbass](https://cdn.profit-taker.com/corvas_mech.png)
+![cornbass](https://cdn.profit-taker.com/u/corvas_mech.png)
 Allows you to survive more easily, does not have to deal with cooldowns. Usually slightly more annoying to use because of a higher aiming point and the mech being completely unbuffed.
 
 ### Warframe: Chroma
 
 Here is an example build for Chroma (see more [here](/beginner/vex-armor-builds)): 
-![chroma build](https://cdn.profit-taker.com/Generic_Vex_Armor.png)
+![chroma build](https://cdn.profit-taker.com/u/Generic_Vex_Armor.png)
 :::info See more build notes [here](/beginner/vex-armor-builds#generic-vex-armor-shock-trooper)
 This build utilizes the Shock Trooper Helminth Ability to cover electric, allowing you to cover all elements if you use an on call crewmate.
 - Handspring can be replaced with Primed Sure Footed if you have it.
@@ -149,7 +149,7 @@ One of the most useful tools to help you with Profit-Taker is the On-Call Railja
 They can have different stats, and the ones you should prioritize are combat, repair and endurance, in that order.  Elite crewmates (unlocked at Command r10) can have additional perks, and the one you want most for efficient runs is the +150%cc buff. It comes in secondary and primary variants and is a bonus additive to other cc mods. Generally speaking, any crewmate with a cc perk is better than one without it.
 
 An ideal Crewmate would look somewhat like this:
-![crewmate](https://cdn.profit-taker.com/crew.png)
+![crewmate](https://cdn.profit-taker.com/u/crew.png)
 
 In terms of weapon choices, as long as it has high damage and is crit-based, it will work somewhat. AoE weapons, or weapons with an AoE damage portion, are usually preferred. Limitations are: some AoE weapons cant do damage to Profit-Taker and can therefore only be used for killing adds (notably: Zarr or Ogris), Crewmates cannot use Incarnon perks or abilities, Rivens, or Arcanes (with a few insignificant expections), and Crewmates cannot use a lot of two-handed weapons like bows, double pistols or throwing weapons (anything rifle or pistol shaped will usually work)
 
@@ -171,7 +171,7 @@ The more comfortable and cheaper setup is what the community refers to as "padle
 
 Here is an example Volt build with this philosophy in mind:
 
-![voltpadless](https://cdn.profit-taker.com/voltpadless.png)
+![voltpadless](https://cdn.profit-taker.com/u/voltpadless.png)
 [Overframe build](https://overframe.gg/build/396847/)
 
 ### Archon Shards

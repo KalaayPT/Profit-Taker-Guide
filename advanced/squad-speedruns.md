@@ -15,7 +15,7 @@ Generally, squads make use of at least one Archgunner, meaning one player who ar
 ### **Volt**
 
 <div style="width: 100%; text-align: left;">
-    <img src="https://cdn.profit-taker.com/voltbuild.png" alt="voltbuild" style="width: 100%; height: auto;">
+    <img src="https://cdn.profit-taker.com/u/voltbuild.png" alt="voltbuild" style="width: 100%; height: auto;">
 </div>
 
 :::info [*__Overframe Link__*](https://overframe.gg/build/771318/)
@@ -28,7 +28,7 @@ Generally, squads make use of at least one Archgunner, meaning one player who ar
 ### **Mirage**
 
 <div style="width: 100%; text-align: left;">
-    <img src="https://cdn.profit-taker.com/miragebuild.png" alt="miragebuild" style="width: 100%; height: auto;">
+    <img src="https://cdn.profit-taker.com/u/miragebuild.png" alt="miragebuild" style="width: 100%; height: auto;">
 </div>
 
 :::info [*__Overframe Link__*](https://overframe.gg/build/771319/)
@@ -42,7 +42,7 @@ Generally, squads make use of at least one Archgunner, meaning one player who ar
 ### **Chroma**
 
 <div style="width: 100%; text-align: left;">
-    <img src="https://cdn.profit-taker.com/chromabuild.png" alt="chromabuild" style="width: 100%; height: auto;">
+    <img src="https://cdn.profit-taker.com/u/chromabuild.png" alt="chromabuild" style="width: 100%; height: auto;">
 </div>
 
 :::info [*__Overframe Link__*](https://overframe.gg/build/771320/)
@@ -54,7 +54,7 @@ Generally, squads make use of at least one Archgunner, meaning one player who ar
 ### **Wisp**
 
 <div style="width: 100%; text-align: left;">
-    <img src="https://cdn.profit-taker.com/wispbuild.png" alt="wispbuild" style="width: 100%; height: auto;">
+    <img src="https://cdn.profit-taker.com/u/wispbuild.png" alt="wispbuild" style="width: 100%; height: auto;">
 </div>
 
 :::info [*__Overframe Link__*](https://overframe.gg/build/771321/)
@@ -68,7 +68,7 @@ Generally, squads make use of at least one Archgunner, meaning one player who ar
 ### **Nova**
 
 <div style="width: 100%; text-align: left;">
-    <img src="https://cdn.profit-taker.com/novabuild.png" alt="novabuild" style="width: 100%; height: auto;">
+    <img src="https://cdn.profit-taker.com/u/novabuild.png" alt="novabuild" style="width: 100%; height: auto;">
 </div>
 
 :::info [*__Overframe Link__*](https://overframe.gg/build/771322/)
@@ -89,7 +89,7 @@ Generally, squads make use of at least one Archgunner, meaning one player who ar
 ### **Build - all Archguns**
 
 <div style="width: 100%; text-align: left;">
-    <img src="https://cdn.profit-taker.com/imperatorbuild.png" alt="imperatorbuild" style="width: 100%; height: auto;">
+    <img src="https://cdn.profit-taker.com/u/imperatorbuild.png" alt="imperatorbuild" style="width: 100%; height: auto;">
 </div>
 
 Nowadays, Mausolon is more viable than Imperator, because of [Archgun Hitbox Bug](/miscellaneous/bugs#archgun-hitbox-bug). Build stays the same.
@@ -97,7 +97,7 @@ Nowadays, Mausolon is more viable than Imperator, because of [Archgun Hitbox Bug
 [*__Overframe Link__*](https://overframe.gg/build/771323/)
 
 <div style="width: 25%; text-align: left;">
-    <img src="https://cdn.profit-taker.com/imperatorriven.png" alt="imperatorriven" style="width: 100%; height: auto;">
+    <img src="https://cdn.profit-taker.com/u/imperatorriven.png" alt="imperatorriven" style="width: 100%; height: auto;">
 </div>
 
 ## **Squad Pylons**

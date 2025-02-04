@@ -14,7 +14,7 @@ Example (click to play/pause):
 
 <div style="padding-bottom: 20px;">
 <video width="100%" onclick="this.paused?this.play():this.pause();arguments[0].preventDefault();" loop muted>
- <source type="video/mp4" src="https://cdn.profit-taker.com/novaag.mp4">
+ <source type="video/mp4" src="https://cdn.profit-taker.com/u/novaag.mp4">
 </video>
 </div>
 
@@ -26,6 +26,6 @@ Here is an example using Volt (click to play/pause):
 
 <div style="padding-bottom: 20px;">
 <video width="100%" onclick="this.paused?this.play():this.pause();arguments[0].preventDefault();" loop muted>
- <source type="video/mp4" src="https://cdn.profit-taker.com/archlanding.mp4">
+ <source type="video/mp4" src="https://cdn.profit-taker.com/u/archlanding.mp4">
 </video>
 </div>

@@ -27,11 +27,11 @@ export default defineConfig({
   },
   title: "Profit-Taker Guide",
   description: 'Sparky! Right. We\'re all here. Let\'s get started.',
-  head: [['link', { rel: 'icon', href: 'https://cdn.profit-taker.com/favicon.ico' }]],
+  head: [['link', { rel: 'icon', href: 'https://cdn.profit-taker.com/u/favicon.ico' }]],
   cleanUrls: true,
   appearance: 'dark',
   themeConfig: {
-    logo: 'https://cdn.profit-taker.com/buried-debts-sigil.png.webp',
+    logo: 'https://cdn.profit-taker.com/u/buried-debts-sigil.png.webp',
     search: {
       provider: 'local',
       options: { detailedView: true },
