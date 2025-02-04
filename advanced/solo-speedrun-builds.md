@@ -94,9 +94,9 @@ Kuva Ogris is entirely for pylons. Magazine size mods are so that you have enoug
 **This weapon is now defunct due to the speed and ease of use of Kuva Ogris. You can see it in old versions of the guide [__here__](/miscellaneous/resources-used-honorable-mentions.html).**
 
 ### **Sicarus Prime Incarnoff**
-**TODO** ADD SICARUS BUILD IMAGE
+
 <div style="width: 100%; text-align: left;">
-    <img src="https://cdn.profit-taker.com/diplosbuild.png" alt="diplosbuild" style="width: 100%; height: auto;">
+    <img src="https://cdn.profit-taker.com/sicarusbuildgrey.png" alt="sicarusbuildgrey" style="width: 100%; height: auto;">
 </div>
 
 [*__Overframe Link__*](https://overframe.gg/build/784344/)
