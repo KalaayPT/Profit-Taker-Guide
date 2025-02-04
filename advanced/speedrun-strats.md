@@ -77,7 +77,7 @@ Video (click to play/pause):
 
 <div style="padding-bottom: 20px;">
 <video width="100%" onclick="this.paused?this.play():this.pause();arguments[0].preventDefault();" loop muted>
- <source type="video/mp4" src="https://cdn.profit-taker.com/flight_shots_lq.mp4">
+ <source type="video/mp4" src="https://cdn.profit-taker.com/u/flight_shots_lq.mp4">
 </video>
 </div> 
 
@@ -87,7 +87,7 @@ Video (click to play/pause):
 
 <div style="padding-bottom: 20px;">
 <video width="100%" onclick="this.paused?this.play():this.pause();arguments[0].preventDefault();" loop muted>
- <source type="video/mp4" src="https://cdn.profit-taker.com/air_contagion.mp4">
+ <source type="video/mp4" src="https://cdn.profit-taker.com/u/air_contagion.mp4">
 </video>
 </div> 
 

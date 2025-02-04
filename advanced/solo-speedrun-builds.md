@@ -96,7 +96,7 @@ Kuva Ogris is entirely for pylons. Magazine size mods are so that you have enoug
 ### **Sicarus Prime Incarnoff**
 
 <div style="width: 100%; text-align: left;">
-    <img src="https://cdn.profit-taker.com/sicarusbuildgrey.png" alt="sicarusbuildgrey" style="width: 100%; height: auto;">
+    <img src="https://cdn.profit-taker.com/u/sicarusbuildgrey.png" alt="sicarusbuildgrey" style="width: 100%; height: auto;">
 </div>
 
 [*__Overframe Link__*](https://overframe.gg/build/784344/)
