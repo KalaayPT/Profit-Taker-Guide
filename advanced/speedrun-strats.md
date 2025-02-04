@@ -81,7 +81,7 @@ Video (click to play/pause):
 </video>
 </div> 
 
-For a more advanced variant of Flight Shots, a Contagion throw is incorporated into flight shots. This is a slight timesave from not having to possibly throw Contagion twice after landing or having to wait for a Contagion DOT to tick.
+For a more advanced variant of Flight Shots, a Contagion throw is incorporated into flight shots. This is a slight timesave from not having to possibly throw Contagion twice after landing or having to wait for a Contagion DOT to tick. It also eliminates most of the RNG required for fast first shields.
 
 Video (click to play/pause):
 
