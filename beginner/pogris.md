@@ -24,7 +24,7 @@ However, there is another major drawback to Pogris: there is very little build v
 Rivenless Pogris build (Which element it is doesn't matter, however what bonus% it is, matters)
 
 <div style="width: 100%; text-align: left;">
-    <img src="https://cdn.profit-taker.com/pogris.png" alt="pogris" style="width: 100%; height: auto;">
+    <img src="https://cdn.profit-taker.com/u/pogris.png" alt="pogris" style="width: 100%; height: auto;">
 </div>
 
 [*__Overframe Link__*](https://overframe.gg/build/771325/)
@@ -53,7 +53,7 @@ Here are your mod options for this build:
 
 Here are the ranges of required power strength with various setups:
 <div style="width: 100%; text-align: left;">
-    <img src="https://cdn.profit-taker.com/pogris_recommendations.png" alt="pogris_recommendations" style="width: 100%; height: auto;">
+    <img src="https://cdn.profit-taker.com/u/pogris_recommendations.png" alt="pogris_recommendations" style="width: 100%; height: auto;">
 </div>
 
 Here’s what you can do on Frame and elsewhere to boost your Pogris damage beyond power strength mods:

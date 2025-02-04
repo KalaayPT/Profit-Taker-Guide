@@ -12,7 +12,7 @@ Video (click to play/pause):
 
 <div style="padding-bottom: 20px;">
 <video width="100%" onclick="this.paused?this.play():this.pause();arguments[0].preventDefault();" loop muted>
- <source type="video/mp4" src="https://cdn.profit-taker.com/overshoot.mp4">
+ <source type="video/mp4" src="https://cdn.profit-taker.com/u/overshoot.mp4">
 </video>
 </div>
 
@@ -32,7 +32,7 @@ Video (click to play/pause):
 
 <div style="padding-bottom: 20px;">
 <video width="100%" onclick="this.paused?this.play():this.pause();arguments[0].preventDefault();" loop muted>
- <source type="video/mp4" src="https://cdn.profit-taker.com/softmountain.mp4">
+ <source type="video/mp4" src="https://cdn.profit-taker.com/u/softmountain.mp4">
 </video>
 </div>
 
@@ -44,7 +44,7 @@ Video (click to play/pause):
 
 <div style="padding-bottom: 20px;">
 <video width="100%" onclick="this.paused?this.play():this.pause();arguments[0].preventDefault();" loop muted>
- <source type="video/mp4" src="https://cdn.profit-taker.com/softlake.mp4">
+ <source type="video/mp4" src="https://cdn.profit-taker.com/u/softlake.mp4">
 </video>
 </div>
 
@@ -56,7 +56,7 @@ Video (click to play/pause):
 
 <div style="padding-bottom: 20px;">
 <video width="100%" onclick="this.paused?this.play():this.pause();arguments[0].preventDefault();" loop muted>
- <source type="video/mp4" src="https://cdn.profit-taker.com/softshrooms.mp4">
+ <source type="video/mp4" src="https://cdn.profit-taker.com/u/softshrooms.mp4">
 </video>
 </div>
 
@@ -74,7 +74,7 @@ Video (click to play/pause):
 
 <div style="padding-bottom: 20px;">
 <video width="100%" onclick="this.paused?this.play():this.pause();arguments[0].preventDefault();" loop muted>
- <source type="video/mp4" src="https://cdn.profit-taker.com/hardmountain.mp4">
+ <source type="video/mp4" src="https://cdn.profit-taker.com/u/hardmountain.mp4">
 </video>
 </div>
 
@@ -88,7 +88,7 @@ Video (click to play/pause):
 
 <div style="padding-bottom: 20px;">
 <video width="100%" onclick="this.paused?this.play():this.pause();arguments[0].preventDefault();" loop muted>
- <source type="video/mp4" src="https://cdn.profit-taker.com/hardlake.mp4">
+ <source type="video/mp4" src="https://cdn.profit-taker.com/u/hardlake.mp4">
 </video>
 </div>
 
@@ -100,7 +100,7 @@ Video (click to play/pause):
 
 <div style="padding-bottom: 20px;">
 <video width="100%" onclick="this.paused?this.play():this.pause();arguments[0].preventDefault();" loop muted>
- <source type="video/mp4" src="https://cdn.profit-taker.com/hardshrooms.mp4">
+ <source type="video/mp4" src="https://cdn.profit-taker.com/u/hardshrooms.mp4">
 </video>
 </div>
 

@@ -13,7 +13,7 @@ Remember to use Decaying Dragon Key.
 ### **Chroma Shock Trooper** 
 
 <div style="width: 100%; text-align: left;">
-    <img src="https://cdn.profit-taker.com/ShockTrooperchromabyfremy.png" alt="ShockTrooperchromabyfremy" style="width: 100%; height: auto;">
+    <img src="https://cdn.profit-taker.com/u/ShockTrooperchromabyfremy.png" alt="ShockTrooperchromabyfremy" style="width: 100%; height: auto;">
 </div>
 
 [*__Overframe Link__*](https://overframe.gg/build/771351/)
@@ -26,7 +26,7 @@ Mausolon build is the same as in [basic builds.](https://profit-taker.com/beginn
 ### **Chroma Energized Munitions** 
 
 <div style="width: 100%; text-align: left;">
-    <img src="https://cdn.profit-taker.com/EMchromabyfremy.png" alt="EMchromabyfremy" style="width: 100%; height: auto;"> 
+    <img src="https://cdn.profit-taker.com/u/EMchromabyfremy.png" alt="EMchromabyfremy" style="width: 100%; height: auto;"> 
 </div>
 
 [*__Overframe Link__*](https://overframe.gg/build/771353/)
@@ -54,8 +54,8 @@ If you don’t have PSF, you can replace it with Handspring or just run without 
 To make the best use of the Operator element coverage, Madurai is essential. Void Strike gives you a massive damage increase while also emptying your Operator energy, therefore guaranteeing Eternal Onslaught in the process. The best weapon to use is a Klamora - Certus (7x7) Amp because of its continuous high damage output.
 
 <div style="display: flex; flex-wrap: wrap;">
-    <img src="https://cdn.profit-taker.com/amparcanes.png" alt="amparcanes" style="max-width: 62.5%; min-width: 267px; padding: 3px;">
-    <img src="https://cdn.profit-taker.com/ampsetup.png" alt="ampsetup" style="max-width: 37.5%; min-width: 130px; padding: 3px">
+    <img src="https://cdn.profit-taker.com/u/amparcanes.png" alt="amparcanes" style="max-width: 62.5%; min-width: 267px; padding: 3px;">
+    <img src="https://cdn.profit-taker.com/u/ampsetup.png" alt="ampsetup" style="max-width: 37.5%; min-width: 130px; padding: 3px">
 </div>
 
 
@@ -64,7 +64,7 @@ To make the best use of the Operator element coverage, Madurai is essential. Voi
 ### **Volt**
 
 <div style="width: 100%; text-align: left;">
-    <img src="https://cdn.profit-taker.com/voltspeedrunbuild.png" alt="voltspeedrunbuild" style="width: 100%; height: auto;">
+    <img src="https://cdn.profit-taker.com/u/voltspeedrunbuild.png" alt="voltspeedrunbuild" style="width: 100%; height: auto;">
 </div>
 
 [*__Overframe Link__*](https://overframe.gg/build/771311/)
@@ -78,7 +78,7 @@ Natural Talent can be replaced with Augur Secrets and yellow archon shards or ca
 ### **Kuva Ogris**
 
 <div style="width: 100%; text-align: left;">
-    <img src="https://cdn.profit-taker.com/ogrisbuild.png" alt="ogrisbuild" style="width: 100%; height: auto;">
+    <img src="https://cdn.profit-taker.com/u/ogrisbuild.png" alt="ogrisbuild" style="width: 100%; height: auto;">
 </div>
 
 [*__Overframe Link__*](https://overframe.gg/build/771312/)
@@ -86,7 +86,7 @@ Natural Talent can be replaced with Augur Secrets and yellow archon shards or ca
 Kuva Ogris is entirely for pylons. Magazine size mods are so that you have enough shots for all pylons. Damage and multishot on riven lets you always twotick with decent power strength (rip Eclipse). Projectile speed gives the most QoL out of any third stat.
 
 <div style="width: 25%; text-align: left;">
-    <img src="https://cdn.profit-taker.com/ogrisriven.png" alt="ogrisriven" style="width: 100%; height: auto;">
+    <img src="https://cdn.profit-taker.com/u/ogrisriven.png" alt="ogrisriven" style="width: 100%; height: auto;">
 </div>
 
 ### **Zenith**
@@ -96,7 +96,7 @@ Kuva Ogris is entirely for pylons. Magazine size mods are so that you have enoug
 ### **Tenet Diplos**
 
 <div style="width: 100%; text-align: left;">
-    <img src="https://cdn.profit-taker.com/diplosbuild.png" alt="diplosbuild" style="width: 100%; height: auto;">
+    <img src="https://cdn.profit-taker.com/u/diplosbuild.png" alt="diplosbuild" style="width: 100%; height: auto;">
 </div>
 
 [*__Overframe Link__*](https://overframe.gg/build/771313/)
@@ -104,13 +104,13 @@ Kuva Ogris is entirely for pylons. Magazine size mods are so that you have enoug
 Tenet Diplos doesn’t have much build variety. This build expects riven to have both toxin and cold, however, a riven with only one of the two will work, in which case replace Accelerated Isotope with the missing element. Diplos uses magnetic progenitor.
 
 <div style="width: 25%; text-align: left;">
-    <img src="https://cdn.profit-taker.com/diplerriven.png" alt="diplerriven" style="width: 100%; height: auto;">
+    <img src="https://cdn.profit-taker.com/u/diplerriven.png" alt="diplerriven" style="width: 100%; height: auto;">
 </div>
 
 ### **Balla Dagger Zaw**
 
 <div style="width: 100%; text-align: left;">
-    <img src="https://cdn.profit-taker.com/ballazaw.png" alt="ballazaw" style="width: 100%; height: auto;">
+    <img src="https://cdn.profit-taker.com/u/ballazaw.png" alt="ballazaw" style="width: 100%; height: auto;">
 </div>
 
 [*__Overframe Link__*](https://overframe.gg/build/771314/)
@@ -118,17 +118,17 @@ Tenet Diplos doesn’t have much build variety. This build expects riven to have
 High attack speed build, it saves a few milliseconds. Volt shield, Vigorous Swap, and Eclipse makes damage-increasing mods unnecessary. The riven goes over one of the elemental mods for gas and cold, in this example it replaces the heat mod and is otherwise only for increasing attack speed.
 
 <div style="width: 25%; text-align: left;">
-    <img src="https://cdn.profit-taker.com/ballariven.png" alt="ballariven" style="width: 100%; height: auto;">
+    <img src="https://cdn.profit-taker.com/u/ballariven.png" alt="ballariven" style="width: 100%; height: auto;">
 </div>
 
 ### **Mech Corvas**
 
 <div style="width: 100%; text-align: left;">
-    <img src="https://cdn.profit-taker.com/speedrunmechcorvas.png" alt="speedrunmechcorvas" style="width: 100%; height: auto;"> 
+    <img src="https://cdn.profit-taker.com/u/speedrunmechcorvas.png" alt="speedrunmechcorvas" style="width: 100%; height: auto;"> 
 </div>
 
 <div style="width: 25%; text-align: left;">
-    <img src="https://cdn.profit-taker.com/speedrunmechcorvas_riven.png" alt="speedrunmechcorvas_riven" style="width: 100%; height: auto;">
+    <img src="https://cdn.profit-taker.com/u/speedrunmechcorvas_riven.png" alt="speedrunmechcorvas_riven" style="width: 100%; height: auto;">
 </div>
 
 [*__Overframe Link__*](https://overframe.gg/build/771354/)
@@ -138,7 +138,7 @@ For Shock Trooper Chroma. You want a riven that lets you at least oneshot at ful
 ### **Mech Velocitus**
 
 <div style="width: 100%; text-align: left;">
-    <img src="https://cdn.profit-taker.com/mechvelo.png" alt="mechvelo" style="width: 100%; height: auto;">
+    <img src="https://cdn.profit-taker.com/u/mechvelo.png" alt="mechvelo" style="width: 100%; height: auto;">
 </div>
 
 [*__Overframe Link__*](https://overframe.gg/build/771315/)
@@ -146,17 +146,17 @@ For Shock Trooper Chroma. You want a riven that lets you at least oneshot at ful
 For Volt. This build and riven needs damage bless and a volt shield to oneshot. Info about viable riven rolls can be found in the [Riven guide](/advanced/riven-guide.html#velocitus-with-crit-chance)
 
 <div style="width: 25%; text-align: left;">
-    <img src="https://cdn.profit-taker.com/mechveloriven.png" alt="mechveloriven" style="width: 100%; height: auto;">
+    <img src="https://cdn.profit-taker.com/u/mechveloriven.png" alt="mechveloriven" style="width: 100%; height: auto;">
 </div>
 
 ### **Gravimag Velocitus**
 
 <div style="width: 100%; text-align: left;">
-    <img src="https://cdn.profit-taker.com/gravimagvelo.png" alt="gravimagvelo" style="width: 100%; height: auto;"> 
+    <img src="https://cdn.profit-taker.com/u/gravimagvelo.png" alt="gravimagvelo" style="width: 100%; height: auto;"> 
 </div>
 
 <div style="width: 25%; text-align: left;">
-    <img src="https://cdn.profit-taker.com/gravimagveloriven.png" alt="gravimagveloriven" style="width: 100%; height: auto;">
+    <img src="https://cdn.profit-taker.com/u/gravimagveloriven.png" alt="gravimagveloriven" style="width: 100%; height: auto;">
 </div>
 
 [*__Overframe Link__*](https://overframe.gg/build/771357/)
@@ -166,7 +166,7 @@ For Energized Munitions Chroma. If you believe in Arcane Avenger, you can even r
 ### **Crewmate Opticor Vandal**
 
 <div style="width: 100%; text-align: left;">
-    <img src="https://cdn.profit-taker.com/Crewmate_Opticor_Vandal_Build.png" alt="Crewmate_Opticor_Vandal_Build" style="width: 100%; height: auto;">
+    <img src="https://cdn.profit-taker.com/u/Crewmate_Opticor_Vandal_Build.png" alt="Crewmate_Opticor_Vandal_Build" style="width: 100%; height: auto;">
 </div>
 
 [*__Overframe Link__*](https://overframe.gg/build/773082/)

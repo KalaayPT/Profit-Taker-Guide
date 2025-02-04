@@ -14,7 +14,7 @@ Video (click to play/pause):
 
 <div style="padding-bottom: 20px;">
 <video width="100%" onclick="this.paused?this.play():this.pause();arguments[0].preventDefault();" loop muted>
- <source type="video/mp4" src="https://cdn.profit-taker.com/empslam.mp4">
+ <source type="video/mp4" src="https://cdn.profit-taker.com/u/empslam.mp4">
 </video>
 </div>
 
@@ -25,7 +25,7 @@ Video (click to play/pause):
 
 <div style="padding-bottom: 20px;">
 <video width="100%" onclick="this.paused?this.play():this.pause();arguments[0].preventDefault();" loop muted>
- <source type="video/mp4" src="https://cdn.profit-taker.com/ptlaser.mp4">
+ <source type="video/mp4" src="https://cdn.profit-taker.com/u/ptlaser.mp4">
 </video>
 </div>
 
@@ -39,7 +39,7 @@ Video (click to play/pause):
 
 <div style="padding-bottom: 20px;">
 <video width="100%" onclick="this.paused?this.play():this.pause();arguments[0].preventDefault();" loop muted>
- <source type="video/mp4" src="https://cdn.profit-taker.com/mortar.mp4">
+ <source type="video/mp4" src="https://cdn.profit-taker.com/u/mortar.mp4">
 </video>
 </div>
 
@@ -50,14 +50,14 @@ Video (click to play/pause):
 
 <div style="padding-bottom: 20px;">
 <video width="100%" onclick="this.paused?this.play():this.pause();arguments[0].preventDefault();" loop muted>
- <source type="video/mp4" src="https://cdn.profit-taker.com/legzap.mp4">
+ <source type="video/mp4" src="https://cdn.profit-taker.com/u/legzap.mp4">
 </video>
 </div>
 
 *As you can see in the gif, the laser attack doesn’t just come from the front*
 
 <div style="width: 100%; text-align: left;">
-    <img src="https://cdn.profit-taker.com/legzap.png" alt="legzap" style="width: 100%; height: auto;">
+    <img src="https://cdn.profit-taker.com/u/legzap.png" alt="legzap" style="width: 100%; height: auto;">
 </div>
 
 *Red is the laser attack, blue is the leg zap. Smile is the front*
@@ -71,7 +71,7 @@ Video (click to play/pause):
 
 <div style="padding-bottom: 20px;">
 <video width="100%" onclick="this.paused?this.play():this.pause();arguments[0].preventDefault();" loop muted>
- <source type="video/mp4" src="https://cdn.profit-taker.com/bounce.mp4">
+ <source type="video/mp4" src="https://cdn.profit-taker.com/u/bounce.mp4">
 </video>
 </div>
 
@@ -83,13 +83,13 @@ Video (click to play/pause):
 
 <div style="padding-bottom: 0px;">
 <video width="100%" onclick="this.paused?this.play():this.pause();arguments[0].preventDefault();" loop muted>
- <source type="video/mp4" src="https://cdn.profit-taker.com/bluewall1.mp4">
+ <source type="video/mp4" src="https://cdn.profit-taker.com/u/bluewall1.mp4">
 </video>
 </div>
 
 <div style="padding-bottom: 20px;">
 <video width="100%" onclick="this.paused?this.play():this.pause();arguments[0].preventDefault();" loop muted>
- <source type="video/mp4" src="https://cdn.profit-taker.com/bluewall2.mp4">
+ <source type="video/mp4" src="https://cdn.profit-taker.com/u/bluewall2.mp4">
 </video>
 </div>
 
@@ -100,7 +100,7 @@ Try to stay just inside the distance blue walls spawn from, while staying outsid
 <u>**The most important thing to do is stay in front of Profit-Taker.**</u> If she targets someone more than 10-20 degrees off directly in front of her, she will turn to face them. This is generally a bad thing, as it can quickly ruin your ability to shoot some limbs (especially if you’re using mech) and you will be generally unable to reliably hit precise spots while Profit-Taker is moving. Volt is most sensitive to Profit-Taker moving due to his shields, which block a lot of the damage from Profit-Taker while being essential to many parts of the meta setup.
 
 <div style="width: 60%; text-align: left;">
-    <img src="https://cdn.profit-taker.com/angle.png" alt="angle" style="width: 100%; height: auto;">
+    <img src="https://cdn.profit-taker.com/u/angle.png" alt="angle" style="width: 100%; height: auto;">
 </div>
 
 TL;DR: For best results, stay in the green area when not playing Volt, since Volt’s shields protect him from the laser attack. The yellow area is where the laser attack happens, if you’re outside of the green area, Profit-Taker will turn to face you.
