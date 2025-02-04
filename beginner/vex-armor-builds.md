@@ -122,7 +122,7 @@ EVO IV: Commodore's Fortune +14% Base CC.
 - Covers IPS, Magnetic, Radiation, Viral and Heat.
 - Use the Exilus that benefits your situation the most.
 - Cascadia Overcharge assumes shield pad usage. If you don't use shield pads, use Secondary Enervate.
-- :::
+:::
 
 #### **Tenet Diplos Build**
 
