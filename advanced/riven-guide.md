@@ -10,13 +10,13 @@ For a Riven to be worth equipping on a weapon, it needs to replace at least one 
 Damage + Multishot (ms over 50% is important to hit 3ms):
 
 1. Projectile Flight Speed: most useful stat, drastically improves the time the projectile needs to get to the pylon.
-2. Fire rate: self explanatory
-3. Magazine capacity: Increases max mag size to 8
+2. Fire Rate: self explanatory
+3. Magazine Capacity: Increases max mag size to 8
 
 Rivens with only one or only both work too, but need [__workarounds__](/advanced/speedrun-strats.html#builds), Arcane Rise being the most common one.
 
 **Negatives:**
-Avoid Damage, Multishot, pfs, fire rate, and magazine; -Ammo max is usually harmless, it takes away a bit of reserve ammo though, so there is less tolerance for missed shots
+Avoid Damage, Multishot, PFS, Fire Rate, and Magazine; -Ammo max is usually harmless, it takes away a bit of reserve ammo though, so there is less tolerance for missed shots
 
 ## **Zenith**
 
@@ -33,6 +33,23 @@ Avoid Damage, Corpus, Multishot, Crit Damage, Crit Chance;
 
 *Fire Rate and Magazine Capacity are bad, but won't entirely kill the Riven. Zoom is based on personal preference, but is generally disliked and considered worse for precision.*
 
+## **Sicarus Prime Incarnoff**
+
+With Sicarus Prime's high disposition, most rivens are slottable. However, having atleast any of Tox/CC/CD will make a riven easy to slot.
+
+- Toxin
+- Critical Chance
+- Multishot
+- Damage
+- Critical Damage
+- Corpus
+- Fire Rate
+
+*Cold and Heat rivens are useable, however the +Magazine Capacity provided by Ice Storm means Cold on riven will leave you with less mag size. While with Heat rivens you cannot slot Primed Heated Charge for higher Heat Damage.*
+
+**Negatives:**
+Avoid any of the listed positives and -Magazine Capacity/IPS.
+
 ## **Tenet Diplos/Tenet Detron**
 
 Ideally, you have Toxin and Cold on your Riven, but if you have only one of them it's fine too. Riven needs an element due to disposition.
@@ -46,13 +63,13 @@ Ideally, you have Toxin and Cold on your Riven, but if you have only one of them
 - Crit Chance
 
 **Negatives:**
-Avoid Damage, Crit Damage, Corpus, Fire Rate, Crit Chance, Multishot
+Avoid Damage, Crit Damage, Corpus, Fire Rate, Crit Chance, Multishot, Physical Damage (IPS)
 
 ## **Zaw with Attack Speed**
 
 - Crit Damage: Yes.
 - Damage: Yes.
-- Element: Toxin/Heat/Electricity will be the most flexible.
+- Element: Toxin/Heat/Cold will be the most flexible.
 - Crit Chance: Has to be at least 212.5% to reach 100% CC for consistency.
 - Faction Contagion is OP and grades don't matter, except for CC. On a Volt with Eclipse and Shield, only an attack speed riven makes a difference, although very small and usually not noticeable, can run rivenless otherwise. But this doesn't mean you should be intentionally trying to decrease your damage by getting bad grades, mainly because of future disposition changes.
 
@@ -63,9 +80,9 @@ Avoid Physical Damage (IPS), Crit Chance, and Attack Speed;
 
 **Calculated with S grades. Grades matter and usually need to be around B or higher.**
 
- - Any combination of **CC** with elec,cold,dtc,cd,dmg on a 3 positive 1 negative riven works if the roll is high enough.
+ - Any combination of **CC** with Elec,Cold,DTC,CD,DMG on a 3 positive 1 negative riven works if the roll is high enough.
  - All rivens need the Mech Intrinsic and Damage Blessing to oneshot.
- - The only combination that is not viable is cc cold elec -.
+ - The only combination that is not viable is CC Cold Elec -.
  - You can use the [Archgun Calc](https://calc.profit-taker.com) to check whether your Riven oneshots.
 
 :::tip Note:
@@ -83,8 +100,8 @@ All of the above from Velocitus applies to Corvas. Corvas doesn’t need a reall
 
 The main stat you want on a Mausolon is CC, for the best possible chance at critting. With it having the lowest disposition in the game you also want to have a 2+1 to have the maximum crit chance possible. The other stat being any useful damage stat.
 
-A fire rate riven will be less consistent damage wise, but might be desirable for faster leg performance.
+A Fire Rate riven will be less consistent damage wise, but might be desirable for faster leg performance.
 
-TL;DR: you want a 2 stat cc + elec/cold/dtc/cd/dmg/fr.
+TL;DR: you want a 2 stat CC + Elec/Cold/DTC/CD/DMG/FR.
 
 ***This section was made using Neemiii’s guide as a base.***
