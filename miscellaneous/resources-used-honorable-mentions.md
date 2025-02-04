@@ -23,6 +23,7 @@ As it is an attempt to compile over 5 years of Profit-Taker knowledge, this guid
 **UnOriginalGN**
 
 - Did proofreading and some of the math.
+- Provided flight shot strats.
 
 **Fremy**
 
