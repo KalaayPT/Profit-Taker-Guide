@@ -7,7 +7,7 @@ Mech build doesn’t matter as you shouldn’t spend much time in it. A basic he
 #### **Corvas Build <span style="color: red;">(non-Prime)</span>**
 
 <div style="width: 100%; text-align: left;">
-    <img src="https://cdn.profit-taker.com/corvas_mech.png" alt="corvas_mech" style="width: 100%; height: auto;">
+    <img src="https://cdn.profit-taker.com/u/corvas_mech.png" alt="corvas_mech" style="width: 100%; height: auto;">
 </div>
 
 :::info [*__Overframe Link__*](https://overframe.gg/build/771306/)
@@ -22,7 +22,7 @@ Mech build doesn’t matter as you shouldn’t spend much time in it. A basic he
 #### **Charged Velocitus Build**
 
 <div style="width: 100%; text-align: left;">
-    <img src="https://cdn.profit-taker.com/velocitus_mech.png" alt="velocitus_mech" style="width: 100%; height: auto;">
+    <img src="https://cdn.profit-taker.com/u/velocitus_mech.png" alt="velocitus_mech" style="width: 100%; height: auto;">
 </div>
 
 ::::info [*__Overframe Link__*](https://overframe.gg/build/771307/)
@@ -38,7 +38,7 @@ Charged Velocitus often has hitbox problems, so you will likely have to go under
 #### **Arquebex build (Used to clear Toxin Shield)**
 
 <div style="width: 100%; text-align: left;">
-    <img src="https://cdn.profit-taker.com/Arquebex_mech.png" alt="Arquebex_mech" style="width: 100%; height: auto;">
+    <img src="https://cdn.profit-taker.com/u/Arquebex_mech.png" alt="Arquebex_mech" style="width: 100%; height: auto;">
 </div>
 
 :::info [*__Overframe Link__*](https://overframe.gg/build/771309/)
@@ -61,7 +61,7 @@ As the crewmate (more on this [__later__](/advanced/speedrun-strats.html#on-call
 An example of a usable weapon is the Opticor Vandal, modded for toxin:
 
 <div style="width: 100%; text-align: left;">
-    <img src="https://cdn.profit-taker.com/Crewmate_Opticor_Vandal_Build.png" alt="Crewmate_Opticor_Vandal_Build" style="width: 100%; height: auto;">
+    <img src="https://cdn.profit-taker.com/u/Crewmate_Opticor_Vandal_Build.png" alt="Crewmate_Opticor_Vandal_Build" style="width: 100%; height: auto;">
 </div>
 
 :::info [*__Overframe Link__*](https://overframe.gg/build/771338/)
@@ -76,7 +76,7 @@ An example of a usable weapon is the Opticor Vandal, modded for toxin:
 #### **Beast Build (Adarza Kavat)**
 
 <div style="width: 100%; text-align: left;">
-    <img src="https://cdn.profit-taker.com/smeeta_build.png" alt="smeeta_build" style="width: 100%; height: auto;">
+    <img src="https://cdn.profit-taker.com/u/smeeta_build.png" alt="smeeta_build" style="width: 100%; height: auto;">
 </div>
 
 :::info [*__Overframe Link__*](https://overframe.gg/build/771341/)
@@ -93,7 +93,7 @@ An example of a usable weapon is the Opticor Vandal, modded for toxin:
 #### **Wyrm Prime**
 
 <div style="width: 100%; text-align: left;">
-    <img src="https://cdn.profit-taker.com/wyrm_build.png" alt="wyrm_build" style="width: 100%; height: auto;">
+    <img src="https://cdn.profit-taker.com/u/wyrm_build.png" alt="wyrm_build" style="width: 100%; height: auto;">
 </div>
 
 :::info [*__Overframe Link__*](https://overframe.gg/build/771342/)
@@ -109,7 +109,7 @@ __Weapons:__
 #### **Vulklok Build**
 
 <div style="width: 100%; text-align: left;">
-    <img src="https://cdn.profit-taker.com/vulklok_build.png" alt="vulklok_build" style="width: 100%; height: auto;">
+    <img src="https://cdn.profit-taker.com/u/vulklok_build.png" alt="vulklok_build" style="width: 100%; height: auto;">
 </div>
 
 :::info [*__Overframe Link__*](https://overframe.gg/build/771343/)
@@ -122,7 +122,7 @@ __Weapons:__
 #### **Verglas Build**
 
 <div style="width: 100%; text-align: left;">
-    <img src="https://cdn.profit-taker.com/verglas_build.png" alt="verglas_build" style="width: 100%; height: auto;">
+    <img src="https://cdn.profit-taker.com/u/verglas_build.png" alt="verglas_build" style="width: 100%; height: auto;">
 </div>
 
 :::info [*__Overframe Link__*](https://overframe.gg/build/771344/)

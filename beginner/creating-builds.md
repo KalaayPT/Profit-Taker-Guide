@@ -9,7 +9,7 @@ originally by uumm
 Warframe builds for Profit-Taker are pretty open to buildcrafting, there are 4 Mods (5, if you’re missing Primed Sure Footed, 3 if you’re using Unairu’s Poise) that you will see on all but the most specialized Profit-Taker builds
 
 <div style="width: 100%; text-align: left;">
-    <img src="https://cdn.profit-taker.com/framebuilds.png" alt="framebuilds" style="width: 100%; height: auto;"> 
+    <img src="https://cdn.profit-taker.com/u/framebuilds.png" alt="framebuilds" style="width: 100%; height: auto;"> 
 </div>
 
 *If you don’t have it, substitute Sure Footed & Fortitude in place of Primed Sure Footed*
@@ -39,7 +39,7 @@ To fix these problems and reach a more standard Profit-Taker build you can follo
 - Sometimes you want **even more power strength!!!** For this, either Umbral Fiber or Augur Secrets, or both.
 
 <div style="width: 50%; text-align: left;">
-    <img src="https://cdn.profit-taker.com/strength.png" alt="strength" style="width: 100%; height: auto;">
+    <img src="https://cdn.profit-taker.com/u/strength.png" alt="strength" style="width: 100%; height: auto;">
 </div>
 
 - Peculiar bloom because big flowers
@@ -48,7 +48,7 @@ To fix these problems and reach a more standard Profit-Taker build you can follo
 Putting it all together, a more standard build might look like this:
 
 <div style="width: 100%; text-align: left;">
-    <img src="https://cdn.profit-taker.com/standardbuild.png" alt="standardbuild" style="width: 100%; height: auto;">
+    <img src="https://cdn.profit-taker.com/u/standardbuild.png" alt="standardbuild" style="width: 100%; height: auto;">
 </div>
 
 **There are a few other things that are important to know, too:**
@@ -130,7 +130,7 @@ To start with, even if a weapon has an innate element like the Cyanex, it is sti
 [__Off meta mechless run ft. cyanex + dagger zaw__](https://www.youtube.com/watch?v=1Dgkwg9n4H4)
 
 <div style="width: 35%; text-align: left;">
-    <img src="https://cdn.profit-taker.com/cyanex.png" alt="cyanex" style="width: 100%; height: auto;">
+    <img src="https://cdn.profit-taker.com/u/cyanex.png" alt="cyanex" style="width: 100%; height: auto;">
 </div>
 
 While on the other hand, even though it doesn’t have any innate elements, the Lato Vandal can be quite good due to its stats.
@@ -149,7 +149,7 @@ As a bonus, Profit-Taker runners also look for certain things about a weapon tha
 A generic weapon build will look something like this:
 
 <div style="width: 100%; text-align: left;">
-    <img src="https://cdn.profit-taker.com/genericweapon.png" alt="genericweapon" style="width: 100%; height: auto;">
+    <img src="https://cdn.profit-taker.com/u/genericweapon.png" alt="genericweapon" style="width: 100%; height: auto;">
 </div>
 
 The specifics change between primary/secondary/melee, and certain stats are prioritized due to various factors such as available Mods and weapon type.
@@ -163,7 +163,7 @@ Note that with a well-coordinated squad, even the most absurd setups can do impr
 Trying to figure out elemental combinations can get quite confusing, this image from the wiki can help keep track of everything.
 
 <div style="width: 75%; text-align: left;">
-    <img src="https://cdn.profit-taker.com/elementschart.png" alt="elementschart" style="width: 100%; height: auto;">
+    <img src="https://cdn.profit-taker.com/u/elementschart.png" alt="elementschart" style="width: 100%; height: auto;">
 </div>
 '
 
@@ -176,11 +176,11 @@ Seekalla is the best grip for most strikes because it is the highest attack spee
 Vargeet II Jai gives you max attack speed and critical chance. With Sacrificial Steel and Vargeet II Jai, all strikes reach 100% cc, making it the de facto choice.
 
 <div style="width: 100%; text-align: left;">
-    <img src="https://cdn.profit-taker.com/zawspreadsheet1.png" alt="zawspreadsheet1" style="width: 100%; height: auto;">
+    <img src="https://cdn.profit-taker.com/u/zawspreadsheet1.png" alt="zawspreadsheet1" style="width: 100%; height: auto;">
 </div>
 
 <div style="width: 60%; text-align: left;">
-    <img src="https://cdn.profit-taker.com/zawspreadsheet2.png" alt="zawspreadsheet2" style="width: 100%; height: auto;">
+    <img src="https://cdn.profit-taker.com/u/zawspreadsheet2.png" alt="zawspreadsheet2" style="width: 100%; height: auto;">
 </div>
 
 ### **Armor**
@@ -190,7 +190,7 @@ The easiest and least complicated phase, the Armor Phase relies almost entirely 
 Archgun builds are fairly cut and dry, with pretty much all Archguns using the following build (or variations thereof):
 
 <div style="width: 100%; text-align: left;">
-    <img src="https://cdn.profit-taker.com/genericarmor.png" alt="genericarmor" style="width: 100%; height: auto;">
+    <img src="https://cdn.profit-taker.com/u/genericarmor.png" alt="genericarmor" style="width: 100%; height: auto;">
 </div>
 
 - Sometimes it is best to replace Hollowed Bullets or Parallax Scope with a Riven. After all, if you consistently (100% of the time) one or two-shot legs without the Mods equipped then there is no reason for them to be equipped.
@@ -234,7 +234,7 @@ Video (click to play/pause):
 
 <div style="padding-bottom: 20px;">
 <video width="100%" onclick="this.paused?this.play():this.pause();arguments[0].preventDefault();" loop muted>
- <source type="video/mp4" src="https://cdn.profit-taker.com/mausolonarmor.mp4">
+ <source type="video/mp4" src="https://cdn.profit-taker.com/u/mausolonarmor.mp4">
 </video>
 </div>
 
@@ -319,7 +319,7 @@ Video (click to play/pause):
 
 <div style="padding-bottom: 20px;">
 <video height="100" onclick="this.paused?this.play():this.pause();arguments[0].preventDefault();" loop muted>
- <source type="video/mp4" src="https://cdn.profit-taker.com/ogrispylons.mp4">
+ <source type="video/mp4" src="https://cdn.profit-taker.com/u/ogrispylons.mp4">
 </video>
 </div>
 
@@ -331,7 +331,7 @@ Video (click to play/pause):
 
 <div style="padding-bottom: 20px;">
 <video width="100%" onclick="this.paused?this.play():this.pause();arguments[0].preventDefault();" loop muted>
- <source type="video/mp4" src="https://cdn.profit-taker.com/zenithpylons.mp4">
+ <source type="video/mp4" src="https://cdn.profit-taker.com/u/zenithpylons.mp4">
 </video>
 </div>
 

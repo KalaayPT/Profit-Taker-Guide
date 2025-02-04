@@ -33,7 +33,7 @@ Once the swing has finished, the melee returns to the idle animation in the wind
 When you melee while aim gliding (like you need to for contagion) you get ‘locked’ at your current height during every frame of the melee animation, this is known as Air Lock. Wind-up, swing, and wind-down all scale with attack speed, however, certain melee types take noticeably longer to complete certain parts of the animation, and the scaling appears to be uneven.
 
 <div style="width: 50%; text-align: left;">
-    <img src="https://cdn.profit-taker.com/meleetimingsidk.png" alt="meleetimingsidk" style="width: 100%; height: auto;">
+    <img src="https://cdn.profit-taker.com/u/meleetimingsidk.png" alt="meleetimingsidk" style="width: 100%; height: auto;">
 </div>
 
 *This swing scales more with attack speed than wind-up or wind-down do.*

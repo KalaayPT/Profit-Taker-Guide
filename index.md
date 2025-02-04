@@ -11,7 +11,7 @@ hero:
     - theme: alt
       text: Check out the search function as well!
   image:
-    src: https://cdn.profit-taker.com/pt-orb.webp
+    src: https://cdn.profit-taker.com/u/pt-orb.webp
     alt: ProfitTakerOrb
 features:
   - title: Five years of Profit-Taker
