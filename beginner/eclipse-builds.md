@@ -122,7 +122,7 @@ Covers toxin. Twitch is flex. This is the bare minimum build required to oneshot
 
 __Secondary weapon:__
 
-### **Sicarus Prime Incarnoff**
+#### **Sicarus Prime Incarnoff**
 
 <div style="width: 100%; text-align: left;">
     <img src="https://cdn.profit-taker.com/sicarusbuildgrey.png" alt="sicarusbuildgrey" style="width: 100%; height: auto;">
