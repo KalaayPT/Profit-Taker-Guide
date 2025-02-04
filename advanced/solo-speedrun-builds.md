@@ -93,6 +93,24 @@ Kuva Ogris is entirely for pylons. Magazine size mods are so that you have enoug
 
 **This weapon is now defunct due to the speed and ease of use of Kuva Ogris. You can see it in old versions of the guide [__here__](/miscellaneous/resources-used-honorable-mentions.html).**
 
+### **Sicarus Prime Incarnoff**
+
+<div style="width: 100%; text-align: left;">
+    <img src="https://cdn.profit-taker.com/sicarusbuildgrey.png" alt="sicarusbuildgrey" style="width: 100%; height: auto;">
+</div>
+
+[*__Overframe Link__*](https://overframe.gg/build/784344/)
+
+The Successor to Tenet Diplos. Rivens will ideally replace Tox/CC/CD Mods on the build. Cold and Heat are replaceable, but slightly less ideal, due to replacing either Ice Storm with its additional Magazine Capacity or Primed Heated Charge's higher Heat Damage. 
+
+Incarnon Adapter Evos;
+
+EVO II: Feigned Retreat +40 Base Damage
+
+EVO III: Extended Volley +12 Base Magazine Size
+
+EVO IV: Commodore's Fortune +14% Base CC.
+
 ### **Tenet Diplos**
 
 <div style="width: 100%; text-align: left;">
@@ -143,7 +161,7 @@ For Shock Trooper Chroma. You want a riven that lets you at least oneshot at ful
 
 [*__Overframe Link__*](https://overframe.gg/build/771315/)
 
-For Volt. This build and riven needs damage bless and a volt shield to oneshot. Info about viable riven rolls can be found in the [Riven guide](/advanced/riven-guide.html#velocitus-with-crit-chance)
+For Volt only. Velocitus needs Damage Bless and a Volt Shield to oneshot. Info about viable riven rolls can be found in the [Riven guide](/advanced/riven-guide.html#velocitus-with-crit-chance)
 
 <div style="width: 25%; text-align: left;">
     <img src="https://cdn.profit-taker.com/u/mechveloriven.png" alt="mechveloriven" style="width: 100%; height: auto;">

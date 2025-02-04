@@ -37,7 +37,7 @@ Things to consider before running this strat:
 
 The “Reload while in archwing” route is a bit tricky since you effectively lose time because you are reloading meaning you’ll have to spot the right pylons faster.  
 
-:::info that said the gameplay looks like this:
+:::info That said the gameplay looks like this:
 - Shoot twice
 - Proc Vigorous Swap (skip if you’re running Arcane Rise)
 - Repeat the two steps above
@@ -69,6 +69,27 @@ Pylons
 
 After casting Void Strike you go into archwing with roughly 6 seconds left on the buff, in this remaining time we must land all our shots. Void Strike also gives ammo efficiency which makes your magazine effectively bigger letting you to shoot more spots if unsure where the pylons are going to land
 
+## **Flight Shots**
+
+Flight Shots are a way to speed up the first phase's shield phase, by simply dealing damage to Profit Taker sooner than you would on normal landings. So far, the most ideal weapon for this strategy that has been discovered is Sicarus Prime Incarnoff due to it being hitscan, having high damage, fire rate and having a decent IPS split, lending itself well to speedrunning Profit Taker in comparison to other weapon choices.
+
+Video (click to play/pause):
+
+<div style="padding-bottom: 20px;">
+<video width="100%" onclick="this.paused?this.play():this.pause();arguments[0].preventDefault();" loop muted>
+ <source type="video/mp4" src="https://cdn.profit-taker.com/flight_shots_lq.mp4">
+</video>
+</div> 
+
+For a more advanced variant of Flight Shots, a Contagion throw is incorporated into flight shots. This is a slight timesave from not having to possibly throw Contagion twice after landing or having to wait for a Contagion DOT to tick. It also eliminates most of the RNG required for fast first shields.
+
+Video (click to play/pause):
+
+<div style="padding-bottom: 20px;">
+<video width="100%" onclick="this.paused?this.play():this.pause();arguments[0].preventDefault();" loop muted>
+ <source type="video/mp4" src="https://cdn.profit-taker.com/air_contagion.mp4">
+</video>
+</div> 
 
 ## **Push Strat**
 
@@ -174,4 +195,4 @@ Video (click to play/pause):
 
 By far the best way to get good at Profit-Taker outside of doing it yourself with the right builds is to go to the [__speedrun leaderboards__](https://www.speedrun.com/wf/leaderboards?h=Profit-Taker-Solo&x=l_rdnrkqvw-rklqexq2) and watch other people’s runs. There are things this guide cannot teach that you’d never imagine, but if you watch them do it, you just have to learn how to do it yourself.
 
-Nearly all Profit-Taker runners mainly learned how to do PT quickly by watching runs and talking with people in the community
+Nearly all Profit-Taker runners mainly learned how to do PT quickly by watching runs and talking with people in the community.
