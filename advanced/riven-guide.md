@@ -33,6 +33,23 @@ Avoid Damage, Corpus, Multishot, Crit Damage, Crit Chance;
 
 *Fire Rate and Magazine Capacity are bad, but won't entirely kill the Riven. Zoom is based on personal preference, but is generally disliked and considered worse for precision.*
 
+## **Sicarus Prime Incarnoff**
+
+With Sicarus Prime's high disposition, most rivens are slottable. However, having atleast any of Tox/CC/CD will make a riven easy to slot.
+
+- Toxin
+- Critical Chance
+- Multishot
+- Damage
+- Critical Damage
+- Corpus
+- Fire Rate
+
+*Cold and Heat rivens are useable, however the +Magazine Capacity provided by Ice Storm means Cold on riven will leave you with less mag size. While with Heat rivens you cannot slot Primed Heated Charge for higher Heat Damage.*
+
+**Negatives:**
+Avoid any of the listed positives and -Magazine Capacity/IPS.
+
 ## **Tenet Diplos/Tenet Detron**
 
 Ideally, you have Toxin and Cold on your Riven, but if you have only one of them it's fine too. Riven needs an element due to disposition.
