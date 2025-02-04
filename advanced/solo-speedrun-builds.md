@@ -102,10 +102,11 @@ Kuva Ogris is entirely for pylons. Magazine size mods are so that you have enoug
 [*__Overframe Link__*](https://overframe.gg/build/784344/)
 
 The Successor to Tenet Diplos. Rivens will ideally replace Tox/CC/CD Mods on the build. Cold and Heat are replaceable, but slightly less ideal, due to replacing either Ice Storm with its additional Magazine Capacity or Primed Heated Charge's higher Heat Damage. 
+
 Incarnon Adapter Evos;
 EVO II: Feigned Retreat +40 Base Damage
 EVO III: Extended Volley +12 Base Magazine Size
-EVO IV: Commodore's Fortune +14% Base CC
+EVO IV: Commodore's Fortune +14% Base CC.
 
 ### **Tenet Diplos**
 
