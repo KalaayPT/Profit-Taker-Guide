@@ -136,6 +136,7 @@ Incarnon Adapter Evos;
 EVO II: Feigned Retreat +40 Base Damage
 EVO III: Extended Volley +12 Base Magazine Size
 EVO IV: Commodore's Fortune +14% Base CC.
+:::
 
 #### **Tenet Diplos build**
 
