@@ -29,6 +29,9 @@ export default defineConfig({
   description: 'Sparky! Right. We\'re all here. Let\'s get started.',
   head: [['link', { rel: 'icon', href: 'https://cdn.profit-taker.com/u/favicon.ico' }]],
   cleanUrls: true,
+  sitemap: {
+    hostname: 'https://profit-taker.com/'
+    },
   appearance: 'dark',
   themeConfig: {
     logo: 'https://cdn.profit-taker.com/u/buried-debts-sigil.png.webp',
