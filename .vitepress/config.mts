@@ -165,7 +165,14 @@ export default defineConfig({
     },
     socialLinks: [
       { icon: 'discord', link: 'https://discord.profit-taker.com' },
-      { icon: 'github', link: 'https://github.com/KalaayPT/Profit-Taker-Guide' }
+      { icon: 'github', link: 'https://github.com/KalaayPT/Profit-Taker-Guide' },
+      {
+        icon: {
+          svg: '<svg role="img" viewBox="0 0 24 24" xmlns="https://cdn.profit-taker.com/r/coffee-svgrepo-com.svg"><title>Coffee</title><path d="M12...6.38z"/></svg>'
+        },
+        link: 'https://www.buymeacoffee.com/kalaay',
+        ariaLabel: 'Support the website'
+      }
     ],
     outline: [2, 6],
     editLink: { 
