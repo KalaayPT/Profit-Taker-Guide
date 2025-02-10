@@ -33,15 +33,15 @@ To be able to do the Profit-Taker boss in the first place, you need to be max ra
 
 :::info Profit-Taker's main mechanic restricts you to dealing damage with only one element at a time, so the recommended setup looks like this:
 
-- Primary: Ogris, used exclusively for pylons.
+- Primary: [Kuva] Ogris, used exclusively for pylons.
 - Melee: any Zaw with <b>Exodia Contagion</b> (make sure you can reach 100% crit chance). This is because Contagion turns Zaws into incredibly strong projectile weapons that can both be used very quickly and cover a lot of elements because of how Exodia contagion works, more on that a bit later
-- Secondary: any high [crit] damage secondary works, but because of the innate elements on a Contagion Zaw, you want one that has innate magnetic damage (a lich weapon or a Synoid Gammacor) or you will have to equip [Magnetic Might](https://warframe.fandom.com/wiki/Magnetic_Might). The weapon of choice therefore is [Tenet Diplos](/beginner/vex-armor-builds#tenet-diplos-build). More on the element distribution in a second.
+- Secondary: any high [crit] damage secondary works (Notable examples include, but are not limited to: Sicarus Incarnon, Tenet Diplos, Gammacor Incarnon, Pyrana Prime etc.), but because of the innate elements on a Contagion Zaw, you either want one that has innate magnetic damage (a lich weapon or a Synoid Gammacor) or you have to equip [Magnetic Might](https://warframe.fandom.com/wiki/Magnetic_Might). The weapon of choice therefore is the [Sicarus Prime](/vex-armor-builds#sicarus-prime-incarnoff) with an incarnon adapter installed for its passive buffs. More on the element distribution in a second.
 - Archgun: can be used either in hand (see [Mausolon](#archgun-in-hand-mausolon) lower down) or in mech (see [Corvas](#archgun-on-mech-corvas) lower down). The easier option is usually to do mech, since it doesn't leave you in the open during the pull down animation and during the destroying of the legs
 :::
 
 :::tip The expected distribution of elements looks like this (taken from [Creating builds](/beginner/creating-builds#shields)):
 
-Secondary: Viral, Heat, innate Mag, and optional Radiation
+Secondary: Viral, Heat, Magnetic, and optional Radiation (also IPS, depending on the weapon)
 
 Melee (Contagion): Gas, Cold, innate IPS, Blast (innate to Exodia Contagion), Corrosive (covered by Melee Exposure), Radiation, and optional Magnetic
 
@@ -63,7 +63,7 @@ Video demonstration (17&thinsp;mb):
 
 You should usually only need one shot if your buffs (Vex Armor on Chroma, Eclipse on anything else) are up. The Nightwatch Napalm damage ticks will finish it for you.
 
-The Ogris is the weapon of choice because it's both simple to use and easy to get. You can use either variant, although the Kuva variant is preferred due to it dealing more damage (more progenitor% is better, element doesn't matter). A very basic but functional build is also <u>shown in the video</u>. For more info about how it works, click [here](/beginner/pogris) and for a proper build with more info, click [here](/beginner/vex-armor-builds#kuva-ogris) or, if you want to get a riven for it (or have one already), [this](/advanced/solo-speedrun-builds#kuva-ogris) might be the build you want.
+The Ogris is the weapon of choice because it's both simple to use and easy to get. You can use either variant, although the Kuva variant is preferred due to it dealing more damage (more progenitor% is better, element doesn't matter). A very basic but functional build is also <u>shown in the video</u>. For more info about how it works, click [here](/beginner/pogris), and for a proper build with more info, click [here](/beginner/vex-armor-builds#kuva-ogris) or, if you want to get a riven for it (or have one already), [this](/advanced/solo-speedrun-builds#kuva-ogris) might be the build you want.
 
 :::warning ATTENTION:
 All the following builds are meant for Chroma only, as Chroma's Vex Armor ability is additive to damage mods so Chroma does not run +damage% mods if he doesn't have to.
@@ -71,11 +71,19 @@ All the following builds are meant for Chroma only, as Chroma's Vex Armor abilit
 For builds for other frames running Eclipse, consult the [Eclipse Builds](/beginner/eclipse-builds) page.
 :::
 
-#### Secondary: [Diplos](/beginner/vex-armor-builds#tenet-diplos-build)
+#### Secondary: [Sicarus Prime](/vex-armor-builds#sicarus-prime-incarnoff)
 
-![diplers](https://cdn.profit-taker.com/u/Vex_Armor_Tenet_Diplos_Build.png)
+![sickrus](https://cdn.profit-taker.com/u/sicarusbuildgrey.png)
 
-Not a lot to be said here, you just shoot between contagion throws. you don't *need* 60% valence, but more always helps. Progenitor element is magnetic.
+Not a lot to be said here, you just shoot between contagion throws. Use the Exilus that benefits your situation the most. Cascadia Overcharge assumes shield pad usage. If you don't use shield pads (i.e. if you use Chroma), use Secondary Enervate.
+
+Incarnon Adapter Evos:
+
+EVO II: Feigned Retreat +40 Base Damage
+
+EVO III: Extended Volley +12 Base Magazine Size
+
+EVO IV: Commodore's Fortune +14% Base CC.
 
 #### Zaw
 
@@ -165,7 +173,7 @@ All weapons except Chakkhurr need your Crewmate to be buffed with Vex Armor or T
 
 ### Energy economy
 
-With the provided setup you will quickly notice that you need a lot of energy. With enemies being an incosistent source of orb drops, we strongly recommend [Energy Restores](https://warframe.fandom.com/wiki/Squad_Energy_Restore).
+With the provided setup you will quickly notice that you need a lot of energy. With enemies being an inconsistent source of orb drops, we strongly recommend [Energy Restores](https://warframe.fandom.com/wiki/Squad_Energy_Restore).
 
 The more comfortable and cheaper setup is what the community refers to as "padless" by using [Preparation](https://warframe.fandom.com/wiki/Preparation) and Primed Flow to have a huge reserve of Energy which should last the entire run. You can also use amber Archon Shards to fill some of your maximum energy when you spawn in or blue Archon Shards to further expand your energy capacity.
 
