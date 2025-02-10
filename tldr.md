@@ -71,7 +71,7 @@ All the following builds are meant for Chroma only, as Chroma's Vex Armor abilit
 For builds for other frames running Eclipse, consult the [Eclipse Builds](/beginner/eclipse-builds) page.
 :::
 
-#### Secondary: [Sicarus Prime](/vex-armor-builds#sicarus-prime-incarnoff)
+#### Secondary: [Sicarus Prime](/beginner/vex-armor-builds#sicarus-prime-incarnoff)
 
 ![sickrus](https://cdn.profit-taker.com/u/sicarusbuildgrey.png)
 
