@@ -163,9 +163,9 @@ In terms of weapon choices, as long as it has high damage and is crit-based, it 
 
 Recommended weapons are (click them to see the builds):
 
-<u>Secondary:</u> [Catabolyst](https://overframe.gg/build/518597/)
+<u>Secondary:</u> [Catabolyst](https://overframe.gg/build/518597/), [__Synoid Gammacor__](https://overframe.gg/build/626714/)
 
-<u>Primary:</u> [Opticor Vandal](/advanced/solo-speedrun-builds.html#crewmate-opticor-vandal), [__Kuva Chakkhurr__](https://overframe.gg/build/626709/), [__Torid__](https://overframe.gg/build/771316/), [__Amprex__](https://overframe.gg/build/599307/), [__Synoid Gammacor__](https://overframe.gg/build/626714/)
+<u>Primary:</u> [Opticor Vandal](/advanced/solo-speedrun-builds.html#crewmate-opticor-vandal), [__Kuva Chakkhurr__](https://overframe.gg/build/626709/), [__Torid__](https://overframe.gg/build/771316/), [__Amprex__](https://overframe.gg/build/599307/) 
 
 :::tip Note:
 All weapons except Chakkhurr need your Crewmate to be buffed with Vex Armor or Total Eclipse to work well.
