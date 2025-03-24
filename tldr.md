@@ -134,7 +134,7 @@ This build utilizes the Shock Trooper Helminth Ability to cover electric, allowi
 - Healing can be done via Magus Elevate.
 - Flex slots can be filled with more strength or duration (e.g. Augur Message/Secrets), or other QoL mods if needed. 
 - Arcane Velocity very noticably affects your secondaries' performance and is therefore a must-get if you are going to invest into farming Profit-Taker, other useful Arcanes include (but are not limited to): Guardian, Awakening, Grace, Nullifier.
-- Shards: either duration (red), strength (red), or starting energy (blue) 
+- Shards: either duration (red), strength (red), starting energy (yellow) or max energy (blue) 
 :::
 
 For best credit gains, you need at least one [Chroma](/beginner/vex-armor-builds) in your squad. To make sure you actually benefit from it, you might as well run it yourself.
@@ -163,9 +163,9 @@ In terms of weapon choices, as long as it has high damage and is crit-based, it 
 
 Recommended weapons are (click them to see the builds):
 
-<u>Secondary:</u> [Catabolyst](https://overframe.gg/build/518597/)
+<u>Secondary:</u> [Catabolyst](https://overframe.gg/build/518597/), [__Synoid Gammacor__](https://overframe.gg/build/626714/)
 
-<u>Primary:</u> [Opticor Vandal](/advanced/solo-speedrun-builds.html#crewmate-opticor-vandal), [__Kuva Chakkhurr__](https://overframe.gg/build/626709/), [__Torid__](https://overframe.gg/build/771316/), [__Amprex__](https://overframe.gg/build/599307/), [__Synoid Gammacor__](https://overframe.gg/build/626714/)
+<u>Primary:</u> [Opticor Vandal](/advanced/solo-speedrun-builds.html#crewmate-opticor-vandal), [__Kuva Chakkhurr__](https://overframe.gg/build/626709/), [__Torid__](https://overframe.gg/build/771316/), [__Amprex__](https://overframe.gg/build/599307/) 
 
 :::tip Note:
 All weapons except Chakkhurr need your Crewmate to be buffed with Vex Armor or Total Eclipse to work well.

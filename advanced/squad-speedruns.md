@@ -1,105 +1,108 @@
 # **Squad Speedruns**
 
-:::warning Note:
-this section will be updated at some point to reflect the current meta for squads (particularly, using Jade because of her ability to buff Necramechs, allowing Volt to run double/triple fire rate on Velocitus). Everything on this page is still viable though.
-:::
-
 ## **Roles**
 
-*Squad strats aren’t fully optimized yet, there are still debatable choices. If you’re interested in finding new strats or wanna run with other people, we welcome you to join [__our discord server__](https://discord.profit-taker.com)*
+Volt:
 
-A coordinated PT squad needs to focus on a few different things for a squad run to make good use of the additional manpower.
+![Squad Volt](https://cdn.profit-taker.com/u/Squad_Volt.png)
 
-Generally, squads make use of at least one Archgunner, meaning one player who arrives at the orb and calls down a heavy weapon (or does an archlanding / uses Nova). The main reason for this is that an archgun in heavy weapon mode can receive warframe buffs like Eclipse, Roar or Wisp’s Haste Motes, allowing you to run a weapon with higher fire rate and lower damage to break legs faster. Since a dedicated archgunner can stay in archgun mode throughout the entire fight, it's possible to make full use of the advantages that heavy weapon archguns have over necramech archguns. Imperator Vandal (fell out of favor due to [__archgun hitbox bug__](/miscellaneous/bugs.html#archgun-hitbox-bug)) is usually the archgun of choice, since it has the highest fire rate.
+:::info [*__Overframe Link__*](https://overframe.gg/build/814126/volt-prime/squad-builds-volt-prime-eclipse/)
 
-### **Volt**
+The build for Volt is nearly identical to the solo speedrun setup. Eclipse is subsumed over his 4th ability. Volt's role is to speed up landing/flight and to break first shields and legs. Mech Velocitus will be used for first legs, the riven requirement is much less strict than in solo due to Jade's buff. Critical chance is still mandatory, depending on the strength of the Deathbringer buff you can run up to 3 fire rate modifiers. 
 
-<div style="width: 100%; text-align: left;">
-    <img src="https://cdn.profit-taker.com/u/voltbuild.png" alt="voltbuild" style="width: 100%; height: auto;">
+After first legs Volt handles pylons and places shields for both electric element coverage and damage increase. The on-call crewmate should run Kuva Chakkhurr, which can oneshot toxin shields without the need of Total Eclipse.
+Madurai Void Strike is used for 2nd pylons for the ammo efficiency rather than the damage buff. 
+
+```html
+Video demonstration (90&thinsp;mb):
+<div style="padding-bottom: 20px;">
+<video width="100%" controls>
+ <source type="video/mp4" src="https://cdn.profit-taker.com/u/Volt%20Host%20POV.mp4">
+</video>
 </div>
+```
 
-:::info [*__Overframe Link__*](https://overframe.gg/build/771318/)
+Mirage:
 
-- Volt provides essential speed buffs and damage amplification.
-- He runs Eclipse and deploys shields to increase squad damage by a lot.
-- Runs the same build as in solo, Total Eclipse can be removed for more str.
-:::
+![Squad Mirage](https://cdn.profit-taker.com/u/Squad_Mirage.png)
 
-### **Mirage**
+:::info [*__Overframe Link__*](https://overframe.gg/build/814124/mirage-prime/squad-builds-mirage-prime-shooting-gallery/)
 
-<div style="width: 100%; text-align: left;">
-    <img src="https://cdn.profit-taker.com/u/miragebuild.png" alt="miragebuild" style="width: 100%; height: auto;">
+Mirage takes the role of gunner, and handles the last 3 leg phases. She subsumes Shooting Gallery over her 4th ability as that is the only way to boost damage without replacing Eclipse. Use Prisma Dual Deciurions or Imperator Vandal for extremely fast leg breaks. Vazarin Protective Sling provides easy survivability. Arcane Avenger is only required on rivenless archguns. If there is no space for Mirage in the squad, she can be replaced with Jade using Mausolon.
+
+```html
+Video demonstration (240&thinsp;mb):
+<div style="padding-bottom: 20px;">
+<video width="100%" controls>
+ <source type="video/mp4" src="https://cdn.profit-taker.com/u/Mirage%20AG%20POV%20optimized.mp4">
+</video>
 </div>
+```
 
-:::info [*__Overframe Link__*](https://overframe.gg/build/771319/)
+Chroma:
 
-- Mirage's clones significantly boost Archgun damage output.
-- Duration is tweaked to make one cast of Eclipse last the entire fight.
-- Shooting Gallery subsume for some extra damage without replacing Eclipse
-- Can also be utilized for Pylons after Eclipse nerf, as Mirage retains the original Eclipse strength and can still oneshot Pylons. If 2 Mirages are used, one can subsume Roar.
-:::
+![Squad Chroma](https://cdn.profit-taker.com/u/Squad_Chroma.png)
 
-### **Chroma**
+:::info [*__Overframe Link__*](https://overframe.gg/build/814133/chroma-prime/squad-builds-chroma-prime-nourish/)
 
-<div style="width: 100%; text-align: left;">
-    <img src="https://cdn.profit-taker.com/u/chromabuild.png" alt="chromabuild" style="width: 100%; height: auto;">
+Chroma doubles the credit drops after the fight, and can help with shields using Sicarus and Balla. Nourish subsumed over his first ability in combination with the Zenurik Focus School allows the squad to run without needing to spend energy pads. In case Volt misses a pylon he can run Zenith to quickly clean up. Vex Armour provides a further damage boost. Heat Elemental Ward increases the Arcane Bellicose buff across the squad.
+
+
+```html
+Video demonstration (85&thinsp;mb):
+<div style="padding-bottom: 20px;">
+<video width="100%" controls>
+ <source type="video/mp4" src="https://cdn.profit-taker.com/u/Chroma%20Support%20POV.mp4">
+</video>
 </div>
+```
 
-:::info [*__Overframe Link__*](https://overframe.gg/build/771320/)
+Jade:
 
-- Chroma offers unique utility with damage buffs (including toxin Elemental Ward) and credit doubling abilities.
-- Power Donation aura to buff the squad and fit the mod polarity
-:::
+![Squad Jade](https://cdn.profit-taker.com/u/Squad_Jade.png)
 
-### **Wisp**
+:::info [*__Overframe Link__*](https://overframe.gg/build/814139/jade/squad-builds-jade-roar/)
 
-<div style="width: 100%; text-align: left;">
-    <img src="https://cdn.profit-taker.com/u/wispbuild.png" alt="wispbuild" style="width: 100%; height: auto;">
+Jade can provide a large damage buff to Necramechs. which enables Volt to run extra fire rate mods on Velocitus during the first leg phase. If Volt is sufficiently skilled, this is a consistent timesave. Jade has to cast Deathbringer as soon as possible during landing, ideally during flight. Deathbringer's range is 250m in open worlds, so Jade can land a little after Volt.
+In less experienced squads, Wisp will provide more buffs and survivability across the run. Both Jade and Wisp subsume Roar over their 4th abilities, and run Torid in their primary slot to handle toxin shields, with Sicarus and Balla for everything else.
+
+```html
+Video demonstration (Jade Legs) (238&thinsp;mb):
+<div style="padding-bottom: 20px;">
+<video width="100%" controls>
+ <source type="video/mp4" src="https://cdn.profit-taker.com/u/Jade%20AG%20POV%20optimized.mp4">
+</video>
 </div>
+```
 
-:::info [*__Overframe Link__*](https://overframe.gg/build/771321/)
-
-- Wisp increases fire rate and flight speed, enhancing shield and leg performance.
-- She can run Roar or Empower based on if an additional pylon Mirage is used.
-- Piercing Roar is used to make sure everyone gets the buff.
-- Wisp can put down Reservoirs right after leaving elevator with enough casting speed (shards) to speed up the flight further
-:::
-
-### **Nova**
-
-<div style="width: 100%; text-align: left;">
-    <img src="https://cdn.profit-taker.com/u/novabuild.png" alt="novabuild" style="width: 100%; height: auto;">
+```html
+Video demonstration (Jade Support) (224&thinsp;mb):
+<div style="padding-bottom: 20px;">
+<video width="100%" controls>
+ <source type="video/mp4" src="https://cdn.profit-taker.com/u/Jade%20Support%20POV.mp4">
+</video>
 </div>
+```
 
-:::info [*__Overframe Link__*](https://overframe.gg/build/771322/)
+Wisp:
 
-- Nova's portals enable her to teleport to Profit Taker’s spawn with an archgun in hand
-- She's best suited for lake spawn and must be the host to be viable.
-- See demonstration in [__untapped potential__](/advanced/untapped-potential)
-:::
+![Squad Wisp](https://cdn.profit-taker.com/u/Squad_Wisp.png)
 
-## **Subsumes**
+:::info [*__Overframe Link__*](https://overframe.gg/build/814120/wisp-prime/squad-builds-wisp-prime-roar/)
 
-- Subsumed abilities augment squad performance, often focusing on maximizing damage output.
-- Common combinations include Eclipse on Volt and Roar on Archgunner.
-- Other options include Empower on Wisp, toxin Elemental Ward, or Shooting Gallery.
+Wisp enables the squad to run Arcane Bellicose for a free strength increase. Fused Reservoir speeds up the mote placement, allowing for more survivability, strength, fire rate+ attack speed, and some crowd control with shock mote. Prebuff your initial mote with Madurai Sling Strength and Molt Vigor, then place a second mote after receiving the Bellicose buff. A haste mote can be placed at the elevator to speed up the flight to Profit Taker.
 
-## **Archguns**
-
-### **Build - all Archguns**
-
-<div style="width: 100%; text-align: left;">
-    <img src="https://cdn.profit-taker.com/u/imperatorbuild.png" alt="imperatorbuild" style="width: 100%; height: auto;">
+```html
+Video demonstration (186&thinsp;mb):
+<div style="padding-bottom: 20px;">
+<video width="100%" controls>
+ <source type="video/mp4" src="https://cdn.profit-taker.com/u/Wisp%20Support%20POV.mp4">
+</video>
 </div>
+```
 
-Nowadays, Mausolon is more viable than Imperator, because of [Archgun Hitbox Bug](/miscellaneous/bugs#archgun-hitbox-bug). Build stays the same.
+Excluding Volt, all roles can use Kuva Zarr on their On-call Crewmates, this weapon doesn't damage Profit Taker, but is very effective at killing trash enemies. 
 
-[*__Overframe Link__*](https://overframe.gg/build/771323/)
+Do not drop Ancient Healer specters and ideally park all crewmates to avoid slam attacks. Amalgam Serration should be equipped on primary weapons to increase flight speed in Archwing.
 
-<div style="width: 25%; text-align: left;">
-    <img src="https://cdn.profit-taker.com/u/imperatorriven.png" alt="imperatorriven" style="width: 100%; height: auto;">
-</div>
-
-## **Squad Pylons**
-
-**This section discusses strategies for targeting pylons as a squad and is now defunct due to Pogris. You can still see it in older versions of the guide that you can find [__here__](/miscellaneous/resources-used-honorable-mentions.html).**
+ If you’re interested in finding new strats or wanna run with other people, we welcome you to join [__our discord server__](https://discord.profit-taker.com)*
