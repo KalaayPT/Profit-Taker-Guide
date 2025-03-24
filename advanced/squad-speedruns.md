@@ -29,7 +29,7 @@ POV by Endryx
 
 ::::info [*__Overframe Link__*](https://overframe.gg/build/814124/mirage-prime/squad-builds-mirage-prime-shooting-gallery/)
 
-Mirage takes the role of gunner, and handles the last 3 leg phases. She subsumes Shooting Gallery over her 4th ability as that is the only way to boost damage without replacing Eclipse. Use Prisma Dual Deciurions or Imperator Vandal for extremely fast leg breaks. Vazarin Protective Sling provides easy survivability. Arcane Avenger is only required on rivenless archguns. If there is no space for Mirage in the squad, she can be replaced with Jade using Mausolon.
+Mirage takes the role of gunner, and handles the last 3 leg phases. She subsumes Shooting Gallery over her 4th ability as that is the only way to boost damage without replacing Eclipse. Use Prisma Dual Decurions or Imperator Vandal for extremely fast leg breaks. Vazarin Protective Sling provides easy survivability. Arcane Avenger is only required on rivenless archguns. If there is no space for Mirage in the squad, she can be replaced with Jade using Mausolon.
 
 :::details Video demonstration (240&thinsp;mb):
 POV by Kalaay
@@ -65,7 +65,7 @@ POV by Fremy
 
 ::::info [*__Overframe Link__*](https://overframe.gg/build/814139/jade/squad-builds-jade-roar/)
 
-Jade can provide a large damage buff to Necramechs. which enables Volt to run extra fire rate mods on Velocitus during the first leg phase. If Volt is sufficiently skilled, this is a consistent timesave. Jade has to cast Deathbringer as soon as possible during landing, ideally during flight. Deathbringer's range is 250m in open worlds, so Jade can land a little after Volt.
+Jade can provide a large damage buff to Necramechs, which enables Volt to run extra fire rate mods on Velocitus during the first leg phase. If Volt is sufficiently skilled, this is a consistent timesave. Jade has to cast Deathbringer as soon as possible during landing, ideally during flight. Deathbringer's range is 250m in open worlds, so Jade can land a little after Volt.
 In less experienced squads, Wisp will provide more buffs and survivability across the run. Both Jade and Wisp subsume Roar over their 4th abilities, and run Torid in their primary slot to handle toxin shields, with Sicarus and Balla for everything else.
 
 :::details Video demonstration (Jade Legs) (238&thinsp;mb)
@@ -109,7 +109,7 @@ Excluding Volt, all roles can use Kuva Zarr on their On-call Crewmates, this wea
 
 Do not drop Ancient Healer specters and ideally park all crewmates to avoid slam attacks. Amalgam Serration should be equipped on primary weapons to increase flight speed in Archwing.
 
- If you’re interested in finding new strats or wanna run with other people, we welcome you to join [__our discord server__](https://discord.profit-taker.com)*
+ If you’re interested in finding new strats or want to run with other people, we welcome you to join [__our discord server__](https://discord.profit-taker.com)*
 
 ## **Archguns**
 
