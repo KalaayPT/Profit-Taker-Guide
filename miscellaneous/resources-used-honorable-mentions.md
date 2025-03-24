@@ -4,6 +4,10 @@ As it is an attempt to compile over 5 years of Profit-Taker knowledge, this guid
 
 ## **Notable contributors:**
 
+**Hampter**
+
+- rewrote the Squad Speedruns section for post-1999
+
 **Kreem**
 
 - did a lot of proofreading and rewriting, especially in the creating builds section
