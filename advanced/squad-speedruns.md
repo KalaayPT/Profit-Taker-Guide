@@ -14,8 +14,9 @@ After first legs Volt handles pylons and places shields for both electric elemen
 Madurai Void Strike is used for 2nd pylons for the ammo efficiency rather than the damage buff. 
 
 :::details Video demonstration (90&thinsp;mb)
+POV by Endryx
 <div style="padding-bottom: 20px;">
-<video width="100%" controls>
+<video width="100%" controls muted>
  <source type="video/mp4" src="https://cdn.profit-taker.com/u/Volt%20Host%20POV.mp4">
 </video>
 </div>
@@ -31,8 +32,9 @@ Madurai Void Strike is used for 2nd pylons for the ammo efficiency rather than t
 Mirage takes the role of gunner, and handles the last 3 leg phases. She subsumes Shooting Gallery over her 4th ability as that is the only way to boost damage without replacing Eclipse. Use Prisma Dual Deciurions or Imperator Vandal for extremely fast leg breaks. Vazarin Protective Sling provides easy survivability. Arcane Avenger is only required on rivenless archguns. If there is no space for Mirage in the squad, she can be replaced with Jade using Mausolon.
 
 :::details Video demonstration (240&thinsp;mb):
+POV by Kalaay
 <div style="padding-bottom: 20px;">
-<video width="100%" controls>
+<video width="100%" controls muted>
  <source type="video/mp4" src="https://cdn.profit-taker.com/u/Mirage%20AG%20POV%20optimized.mp4">
 </video>
 </div>
@@ -48,8 +50,9 @@ Mirage takes the role of gunner, and handles the last 3 leg phases. She subsumes
 Chroma doubles the credit drops after the fight, and can help with shields using Sicarus and Balla. Nourish subsumed over his first ability in combination with the Zenurik Focus School allows the squad to run without needing to spend energy pads. In case Volt misses a pylon he can run Zenith to quickly clean up. Vex Armour provides a further damage boost. Heat Elemental Ward increases the Arcane Bellicose buff across the squad.
 
 :::details Video demonstration (85&thinsp;mb):
+POV by Fremy
 <div style="padding-bottom: 20px;">
-<video width="100%" controls>
+<video width="100%" controls muted>
  <source type="video/mp4" src="https://cdn.profit-taker.com/u/Chroma%20Support%20POV.mp4">
 </video>
 </div>
@@ -66,16 +69,18 @@ Jade can provide a large damage buff to Necramechs. which enables Volt to run ex
 In less experienced squads, Wisp will provide more buffs and survivability across the run. Both Jade and Wisp subsume Roar over their 4th abilities, and run Torid in their primary slot to handle toxin shields, with Sicarus and Balla for everything else.
 
 :::details Video demonstration (Jade Legs) (238&thinsp;mb)
+POV by Kalaay
 <div style="padding-bottom: 20px;">
-<video width="100%" controls>
+<video width="100%" controls muted>
  <source type="video/mp4" src="https://cdn.profit-taker.com/u/Jade%20AG%20POV%20optimized.mp4">
 </video>
 </div>
 :::
 
 :::details Video demonstration (Jade Support) (224&thinsp;mb)
+POV by UnOriginalGN
 <div style="padding-bottom: 20px;">
-<video width="100%" controls>
+<video width="100%" controls muted>
  <source type="video/mp4" src="https://cdn.profit-taker.com/u/Jade%20Support%20POV.mp4">
 </video>
 </div>
@@ -91,8 +96,9 @@ In less experienced squads, Wisp will provide more buffs and survivability acros
 Wisp enables the squad to run Arcane Bellicose for a free strength increase. Fused Reservoir speeds up the mote placement, allowing for more survivability, strength, fire rate+ attack speed, and some crowd control with shock mote. Prebuff your initial mote with Madurai Sling Strength and Molt Vigor, then place a second mote after receiving the Bellicose buff. A haste mote can be placed at the elevator to speed up the flight to Profit Taker.
 
 :::details Video demonstration (186&thinsp;mb)
+POV by UnOriginalGN
 <div style="padding-bottom: 20px;">
-<video width="100%" controls>
+<video width="100%" controls muted>
  <source type="video/mp4" src="https://cdn.profit-taker.com/u/Wisp%20Support%20POV.mp4">
 </video>
 </div>
