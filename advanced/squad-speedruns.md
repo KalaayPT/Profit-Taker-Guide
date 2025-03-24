@@ -93,7 +93,7 @@ POV by UnOriginalGN
 
 ::::info [*__Overframe Link__*](https://overframe.gg/build/814120/wisp-prime/squad-builds-wisp-prime-roar/)
 
-Wisp enables the squad to run Arcane Bellicose for a free strength increase. Fused Reservoir speeds up the mote placement, allowing for more survivability, strength, fire rate+ attack speed, and some crowd control with shock mote. Prebuff your initial mote with Madurai Sling Strength and Molt Vigor, then place a second mote after receiving the Bellicose buff. A haste mote can be placed at the elevator to speed up the flight to Profit Taker.
+Wisp enables the squad to run Arcane Bellicose for a free strength increase. Fused Reservoir speeds up the mote placement, allowing for more survivability, strength, fire rate + attack speed, and some crowd control with shock mote. Prebuff your initial mote with Madurai Sling Strength and Molt Vigor, then place a second mote after receiving the Bellicose buff. A haste mote can be placed at the elevator to speed up the flight to Profit Taker.
 
 :::details Video demonstration (186&thinsp;mb)
 POV by UnOriginalGN
@@ -121,7 +121,7 @@ Do not drop Ancient Healer specters and ideally park all crewmates to avoid slam
 
 Mausolon, Prisma Dual Decurions and Imperator Vandal are viable options depending on your squad, sorted by damage potential.
 
-Imperator [Vandal] and [Prisma] Dual Decurions suffer from [Archgun Hitbox Bug](/miscellaneous/bugs#archgun-hitbox-bug) so they can't take adcantage of Volt's shield.
+Imperator [Vandal] and [Prisma] Dual Decurions suffer from [Archgun Hitbox Bug](/miscellaneous/bugs#archgun-hitbox-bug) so they can't take advantage of Volt's shield.
 
 [*__Overframe Link__*](https://overframe.gg/build/771323/)
 
