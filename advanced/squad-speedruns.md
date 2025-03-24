@@ -121,7 +121,7 @@ Do not drop Ancient Healer specters and ideally park all crewmates to avoid slam
 
 Mausolon, Prisma Dual Decurions and Imperator Vandal are viable options depending on your squad, sorted by damage potential.
 
-Imperator [Vandal] and [Prisma] Dual Decurions suffer from [Archgun Hitbox Bug](/miscellaneous/bugs#archgun-hitbox-bug) so they can't tatke adcantage of Volt's shield.
+Imperator [Vandal] and [Prisma] Dual Decurions suffer from [Archgun Hitbox Bug](/miscellaneous/bugs#archgun-hitbox-bug) so they can't take adcantage of Volt's shield.
 
 [*__Overframe Link__*](https://overframe.gg/build/771323/)
 
