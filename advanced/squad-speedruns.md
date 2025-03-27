@@ -131,7 +131,7 @@ Mausolon, Prisma Dual Decurions and Imperator Vandal are viable options dependin
 
 Imperator [Vandal] and [Prisma] Dual Decurions suffer from [Archgun Hitbox Bug](/miscellaneous/bugs#archgun-hitbox-bug) so they can't take advantage of Volt's shield.
 
-### Support Weapons (Shields)
+#### Support Weapons (Shields)
 
 In general, running the same shield setup as in solo (Sicarus+Balla) always works. In squads running a Wisp, ammo economy becomes a problem for Sicarus, making Diplos a viable alternative. If not proficient or not wanting to do contagion, a beam weapon like the [Coda] Synapse or any similary high fire rate high crit weapon for just holding fire works well. [Torid](https://overframe.gg/build/771316/) (previously used for Crewmates in older metas) is also very valuable here and should be ran by at least one person to make sure that toxin is always covered, although other elements can be modded as well.
 
