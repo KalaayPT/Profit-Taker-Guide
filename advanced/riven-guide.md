@@ -67,11 +67,11 @@ Avoid Damage, Crit Damage, Corpus, Fire Rate, Crit Chance, Multishot, Physical D
 
 ## **Zaw with Attack Speed**
 
+- Element: Toxin/Heat/Cold; replacing an element on the build gives the most damage overall.
 - Crit Damage: Yes.
-- Damage: Yes.
-- Element: Toxin/Heat/Cold will be the most flexible.
+- Faction: Yes.
+- Damage: Yes, unless playing Chroma.
 - Crit Chance: Has to be at least 212.5% to reach 100% CC for consistency.
-- Faction
 
 Contagion is OP and grades don't matter, except for CC. On a Volt with Eclipse and Shield, a good riven can mean the difference between needing one or two throws for some elements.
 
