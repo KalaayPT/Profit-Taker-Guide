@@ -71,7 +71,9 @@ Avoid Damage, Crit Damage, Corpus, Fire Rate, Crit Chance, Multishot, Physical D
 - Damage: Yes.
 - Element: Toxin/Heat/Cold will be the most flexible.
 - Crit Chance: Has to be at least 212.5% to reach 100% CC for consistency.
-- Faction Contagion is OP and grades don't matter, except for CC. On a Volt with Eclipse and Shield, only an attack speed riven makes a difference, although very small and usually not noticeable, can run rivenless otherwise. But this doesn't mean you should be intentionally trying to decrease your damage by getting bad grades, mainly because of future disposition changes.
+- Faction
+
+Contagion is OP and grades don't matter, except for CC. On a Volt with Eclipse and Shield, a good riven can mean the difference between needing one or two throws for some elements.
 
 **Negatives:**
 Avoid Physical Damage (IPS), Crit Chance, and Attack Speed;
