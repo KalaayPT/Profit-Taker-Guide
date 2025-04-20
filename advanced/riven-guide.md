@@ -65,13 +65,13 @@ Ideally, you have Toxin and Cold on your Riven, but if you have only one of them
 **Negatives:**
 Avoid Damage, Crit Damage, Corpus, Fire Rate, Crit Chance, Multishot, Physical Damage (IPS)
 
-## **Zaw with Attack Speed**
+## **Zaw**
 
 - Element: Toxin/Heat/Cold; replacing an element on the build gives the most damage overall.
 - Crit Damage: Yes.
 - Faction: Yes.
+- Attack Speed: Yes.
 - Damage: Yes, unless playing Chroma.
-- Crit Chance: Has to be at least 212.5% to reach 100% CC for consistency.
 
 Contagion is OP and grades don't matter, except for CC. On a Volt with Eclipse and Shield, a good riven can mean the difference between needing one or two throws for some elements.
 
