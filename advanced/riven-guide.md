@@ -65,7 +65,7 @@ Ideally, you have Toxin and Cold on your Riven, but if you have only one of them
 **Negatives:**
 Avoid Damage, Crit Damage, Corpus, Fire Rate, Crit Chance, Multishot, Physical Damage (IPS)
 
-## **Zaw**
+## **Balla Zaw**
 
 - Element: Toxin/Heat/Cold; replacing an element on the build gives the most damage overall.
 - Crit Damage: Yes.
