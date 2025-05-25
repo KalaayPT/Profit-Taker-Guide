@@ -103,7 +103,7 @@ Try to stay just inside the distance blue walls spawn from, while staying outsid
     <img src="https://cdn.profit-taker.com/u/angle.png" alt="angle" style="width: 100%; height: auto;">
 </div>
 
-TL;DR: For best results, stay in the green area when not playing Volt, since Volt’s shields protect him from the laser attack. The yellow area is where the laser attack happens, if you’re outside of the green area, Profit-Taker will turn to face you.
+TL;DR: For best results, stay in the green/blue areas. The blue area is where volt shields should go. Without volt shields, the laser attack will hit you in the blue area. If you're outside of the green area, Profit-Taker will turn to face you.
 
 If you position yourself correctly, Profit-Taker will just sit and stare at you while doing minimal attacks.
 
