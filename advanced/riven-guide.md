@@ -1,7 +1,8 @@
-**Profit-Taker Riven Reference Guide**
+# **Profit-Taker Riven Reference Guide**
 
 
-1. General Riven Notes
+## **1. General Riven Notes:**
+
 Rivens are not essential for most players.
 
 
@@ -11,20 +12,22 @@ Only invest if you’re at a high skill level aiming to optimize.
 Always test for one-shot viability via:
 
 
-Altair grading bot (Profit-Taker Discord, use a/g + riven image)
+**Altair grading bot (Profit-Taker Discord, use a/g + riven image)**
 
 
 Profit-Taker Archgun Calculator (https://calc.profit-taker.com)
 
 
 
-2. Archguns
-Velocitus
-(Volt‑only, Necramech)
+## **2. Archguns**
+
+### **Velocitus**
+
+**(Volt‑only, Necramech)**
 Usage: Uncharged shots through Volt Shield + Damage Blessing
 
 
-Critical Chance is MANDATORY
+Critical Chance is **MANDATORY**
 
 
 ✅ Positives
@@ -48,9 +51,9 @@ Cold / Electricity / Damage to Corpus
 
 
 
-Corvas
+### **Corvas**
  
-(Chroma, Necramech)
+**(Chroma, Necramech)**
 Easier stat requirements, no Blessing or Crit Chance needed
 
 
@@ -75,7 +78,7 @@ Multishot
 
 
 
-Prisma Dual Decurions
+### **Prisma Dual Decurions**
  
 (Mirage Solo/Squad w/ Deployer)
 Buff-dependent to be viable
@@ -102,7 +105,7 @@ Ammo Max (solo)
 
 
 
-Imperator Vandal
+### **Imperator Vandal**
 
 (Squads only w/ Deployer)
 Prefire to offset wind‑up
@@ -123,7 +126,7 @@ Any damage stat
 
 
 
-Mausolon
+### **Mausolon**
 Poor disposition (0.5x); rivens rarely beat standard mods
 
 
@@ -132,8 +135,10 @@ Critical Chance (only if dropping Arcane Avenger)
 
 
 
-3. Primaries
-Kuva Ogris
+## **3. Primaries**
+
+
+### **Kuva Ogris**
 Needs >50 % Multishot
 
 
@@ -161,8 +166,10 @@ Projectile Flight Speed (Chroma)
 
 
 
-4. Secondaries
-Sicarus Prime Incarnon
+## **4. Secondaries**
+### **Sicarus Prime Incarnon**
+
+
 High disposition, flexible 
 
 
@@ -194,7 +201,7 @@ Any missing stat from: Toxin, Crit Chance (over 156.5%) etc.
 
 Ranking list: 
 
-Tenet Diplos
+### **Tenet Diplos**
 Deprecated; still underperforms vs rivenless Sicarus
 
 
@@ -206,7 +213,9 @@ Multishot / Damage / Crit Damage / Damage to Corpus
 
 
 
-5. Melee (Balla Zaw)
+## **5. Melee (Balla Zaw)**
+
+
 Volt: Element + Crit Damage + Melee Damage
 
 
@@ -238,8 +247,9 @@ Attack Speed (Chroma)
 
 🔹 Use the “Contagion” section in the PT Calculator to optimize shield breakpoints.
 
-6. Outdated / Niche
-Zenith
+## **6. Outdated / Niche**
+
+### **Zenith**
 Rarely used; does not require a riven
 
 
