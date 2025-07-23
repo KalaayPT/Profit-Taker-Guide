@@ -183,7 +183,7 @@ Damage (Volt)
 Critical Damage (Chroma)
 
 
-Any missing stat from: Toxin, Crit Chance (over 156.5%) etc.
+Any missing stat from: Toxin, Crit Chance (over 156.5%), etc.
 
 
 🚫 Negatives
@@ -199,7 +199,9 @@ Any missing stat from: Toxin, Crit Chance (over 156.5%) etc.
 ⚠️ Avoid Cold if using Ice Storm (maintain Mag Cap bonus)
 
 
-Ranking list: 
+Ranking list: <div style="width: 100%; text-align: left;">
+    <img src="https://cdn.profit-taker.com/u/sicarus_rivens.png" alt="SicarusRivenRanking" style="width: 100%; height: auto;">
+
 
 ### **Tenet Diplos**
 Deprecated; still underperforms vs rivenless Sicarus
