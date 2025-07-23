@@ -1,107 +1,246 @@
-# **Riven Guide**
+**Profit-Taker Riven Reference Guide**
 
-## **Slotting a Riven:**
 
-For a Riven to be worth equipping on a weapon, it needs to replace at least one Mod of the rivenless build. 
-**All Rivens should be entirely composed of given stats**
+1. General Riven Notes
+Rivens are not essential for most players.
 
-## **Kuva Ogris**
 
-Damage + Multishot (ms over 50% is important to hit 3ms):
+Only invest if you’re at a high skill level aiming to optimize.
 
-1. Projectile Flight Speed: most useful stat, drastically improves the time the projectile needs to get to the pylon.
-2. Fire Rate: self explanatory
-3. Magazine Capacity: Increases max mag size to 8
 
-Rivens with only one or only both work too, but need [__workarounds__](/advanced/speedrun-strats.html#builds), Arcane Rise being the most common one.
+Always test for one-shot viability via:
 
-**Negatives:**
-Avoid Damage, Multishot, PFS, Fire Rate, and Magazine; -Ammo max is usually harmless, it takes away a bit of reserve ammo though, so there is less tolerance for missed shots
 
-## **Zenith**
+Altair grading bot (Profit-Taker Discord, use a/g + riven image)
 
-Damage + Multishot:
 
-- Element: Toxin is the most flexible element for all builds, but heat is good to use as well. This is the most popular as it greatly adds to build variety, and helps with Pylon consistency.
-- Magazine: allows spam fire to offset bad aim.
-- Fire Rate: makes spam fire faster.
+Profit-Taker Archgun Calculator (https://calc.profit-taker.com)
 
-Dual Stat of only Damage + Multishot is just as fine, more reliable Pylons while still oneshotting Shields.
 
-**Negatives:**
-Avoid Damage, Corpus, Multishot, Crit Damage, Crit Chance;
 
-*Fire Rate and Magazine Capacity are bad, but won't entirely kill the Riven. Zoom is based on personal preference, but is generally disliked and considered worse for precision.*
+2. Archguns
+Velocitus
+(Volt‑only, Necramech)
+Usage: Uncharged shots through Volt Shield + Damage Blessing
 
-## **Sicarus Prime Incarnoff**
 
-With Sicarus Prime's high disposition, most rivens are slottable. However, having atleast any of Tox/CC/CD will make a riven easy to slot.
+Critical Chance is MANDATORY
 
-- Toxin
-- Critical Chance
-- Multishot
-- Damage
-- Critical Damage
-- Corpus
-- Fire Rate
 
-*Cold and Heat rivens are useable, however the +Magazine Capacity provided by Ice Storm means Cold on riven will leave you with less mag size. While with Heat rivens you cannot slot Primed Heated Charge for higher Heat Damage.*
+✅ Positives
+Critical Chance (required)
 
-**Negatives:**
-Avoid any of the listed positives and -Magazine Capacity/IPS.
 
-## **Tenet Diplos/Tenet Detron**
+Damage
 
-Ideally, you have Toxin and Cold on your Riven, but if you have only one of them it's fine too. Riven needs an element due to disposition.
 
-- Crit Damage
-- Multishot
-- Corpus
-- Damage
-- Heat
-- Fire Rate
-- Crit Chance
+Critical Damage
 
-**Negatives:**
-Avoid Damage, Crit Damage, Corpus, Fire Rate, Crit Chance, Multishot, Physical Damage (IPS)
 
-## **Zaw with Attack Speed**
+Cold / Electricity / Damage to Corpus
 
-- Crit Damage: Yes.
-- Damage: Yes.
-- Element: Toxin/Heat/Cold will be the most flexible.
-- Crit Chance: Has to be at least 212.5% to reach 100% CC for consistency.
-- Faction Contagion is OP and grades don't matter, except for CC. On a Volt with Eclipse and Shield, only an attack speed riven makes a difference, although very small and usually not noticeable, can run rivenless otherwise. But this doesn't mean you should be intentionally trying to decrease your damage by getting bad grades, mainly because of future disposition changes.
 
-**Negatives:**
-Avoid Physical Damage (IPS), Crit Chance, and Attack Speed;
+🚫 Negatives
+✅ Harmless: –Status Chance, –Status Duration, –Zoom (best), –Ammo Max, –Damage to Grineer
 
-## **Velocitus with Crit Chance**
 
-**Calculated with S grades. Grades matter and usually need to be around B or higher.**
+❌ Avoid: –Magazine Capacity, –Reload Speed, –Fire Rate, –Recoil, Multishot (inconsistent shells)
 
- - Any combination of **CC** with Elec,Cold,DTC,CD,DMG on a 3 positive 1 negative riven works if the roll is high enough.
- - All rivens need the Mech Intrinsic and Damage Blessing to oneshot.
- - The only combination that is not viable is CC Cold Elec -.
- - You can use the [Archgun Calc](https://calc.profit-taker.com) to check whether your Riven oneshots.
 
-:::tip Note:
-Crit Chance is mandatory.
-:::
 
-<u>**Negatives:**</u>
-Avoid Multishot, Damage, Physical Damage (IPS), Crit Chance, Crit Damage, Corpus, Reload Speed, Magazine Size;
+Corvas
+ 
+(Chroma, Necramech)
+Easier stat requirements, no Blessing or Crit Chance needed
 
-## **Corvas (non-Prime)**
 
-All of the above from Velocitus applies to Corvas. Corvas doesn’t need a really good grade or god-roll stats, but try to go for the best one you could get. Crit Chance is not necessary on Corvas.
+✅ Positives
+Damage
 
-## **Mausolon (Heavy Weapon)**
 
-The main stat you want on a Mausolon is CC, for the best possible chance at critting. With it having the lowest disposition in the game you also want to have a 2+1 to have the maximum crit chance possible. The other stat being any useful damage stat.
+Critical Damage
 
-A Fire Rate riven will be less consistent damage wise, but might be desirable for faster leg performance.
 
-TL;DR: you want a 2 stat CC + Elec/Cold/DTC/CD/DMG/FR.
+Cold / Electricity / Damage to Corpus
 
-***This section was made using Neemiii’s guide as a base.***
+
+Multishot
+
+
+🚫 Negatives
+✅ Harmless: –Status Chance / Duration, –Zoom, –Ammo Max, –Recoil, –Mag Capacity
+
+
+❌ Avoid: –Impact
+
+
+
+Prisma Dual Decurions
+ 
+(Mirage Solo/Squad w/ Deployer)
+Buff-dependent to be viable
+
+
+✅ Positives
+Critical Chance
+
+
+Fire Rate
+
+
+Damage / Critical Damage
+
+
+Cold / Electricity / Damage to Corpus
+
+
+Ammo Max (solo)
+
+
+🚫 Negatives
+✅ Harmless: –Zoom (ideal), –Status Chance / Duration
+
+
+
+Imperator Vandal
+
+(Squads only w/ Deployer)
+Prefire to offset wind‑up
+
+
+✅ Positives
+Critical Chance (required)
+
+
+Fire Rate (recommended)
+
+
+Any damage stat
+
+
+🚫 Negatives
+✅ Harmless: –Zoom, –Status Duration, –Ammo Max
+
+
+
+Mausolon
+Poor disposition (0.5x); rivens rarely beat standard mods
+
+
+✅ Optional Riven
+Critical Chance (only if dropping Arcane Avenger)
+
+
+
+3. Primaries
+Kuva Ogris
+Needs >50 % Multishot
+
+
+Volt requires Damage to one-shot pylons
+
+
+✅ Positives
+Multishot (mandatory)
+
+
+Damage (Volt)
+
+
+Magazine Capacity (Chroma/Volt)
+
+
+Projectile Flight Speed (Chroma)
+
+
+🚫 Negatives
+✅ Harmless: –Zoom, –Reload Speed, –Status Chance, –Crit Chance, –Crit Damage, –Faction Damage, –Status Duration
+
+
+❌ Avoid: –Recoil, –Ammo Max, –Magazine Capacity
+
+
+
+4. Secondaries
+Sicarus Prime Incarnon
+High disposition, flexible 
+
+
+✅ Positives
+Multishot
+
+
+Damage (Volt)
+
+
+Critical Damage (Chroma)
+
+
+Any missing stat from: Toxin, Crit Chance (over 156.5%) etc.
+
+
+🚫 Negatives
+✅ Harmless: –Zoom, –Projectile Speed, –Status Chance/Duration, –Reload Speed, –Faction Damage
+
+
+❌ Avoid: –Ammo Max, –Magazine Capacity, –Impact
+
+
+❌ Avoid stat: Electricity
+
+
+⚠️ Avoid Cold if using Ice Storm (maintain Mag Cap bonus)
+
+
+Ranking list: 
+
+Tenet Diplos
+Deprecated; still underperforms vs rivenless Sicarus
+
+
+✅ Positives
+Cold + Toxin (for Viral)
+
+
+Multishot / Damage / Crit Damage / Damage to Corpus
+
+
+
+5. Melee (Balla Zaw)
+Volt: Element + Crit Damage + Melee Damage
+
+
+Chroma: Element + Crit Damage + Attack Speed
+
+
+✅ Positives
+Critical Damage (required)
+
+
+Cold / Heat / Toxin
+
+
+Melee Damage (Volt)
+
+
+Attack Speed (Chroma)
+
+
+🚫 Negatives
+✅ Harmless: –Status Chance/Duration, –Range, –Finisher Damage, –Heavy‑Attack Efficiency, –Slide Crit Chance, –Damage to Grineer/Infested
+
+
+❌ Avoid: –Impact, –Puncture, –Slash
+
+
+❌ Stats to Avoid: Critical Chance, Electricity
+
+
+🔹 Use the “Contagion” section in the PT Calculator to optimize shield breakpoints.
+
+6. Outdated / Niche
+Zenith
+Rarely used; does not require a riven
+
+
+
