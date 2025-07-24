@@ -49,7 +49,7 @@ Cold / Electricity / Damage to Corpus
 
 ❌ Avoid: –Magazine Capacity, –Reload Speed, –Fire Rate, –Recoil, Multishot (inconsistent shells)
 
-
+⚠️ Fire Rate is usable in a squad with Jade
 
 ### **Corvas**
  
@@ -70,11 +70,15 @@ Cold / Electricity / Damage to Corpus
 Multishot
 
 
+
+
 🚫 Negatives
 ✅ Harmless: -Zoom, –Status Chance / Duration, –Ammo Max, –Recoil, –Mag Capacity
 
 
 ❌ Avoid: –Impact
+
+⚠️ Fire Rate does not affect charge speed
 
 
 
