@@ -71,7 +71,7 @@ Multishot
 
 
 🚫 Negatives
-✅ Harmless: –Status Chance / Duration, –Zoom, –Ammo Max, –Recoil, –Mag Capacity
+✅ Harmless: -Zoom, –Status Chance / Duration, –Ammo Max, –Recoil, –Mag Capacity
 
 
 ❌ Avoid: –Impact
@@ -248,11 +248,5 @@ Attack Speed (Chroma)
 
 
 🔹 Use the “Contagion” section in the PT Calculator to optimize shield breakpoints.
-
-## **6. Outdated / Niche**
-
-### **Zenith**
-Rarely used; does not require a riven
-
 
 
