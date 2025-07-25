@@ -1,256 +1,187 @@
+---
+outline: [2,3]
+---
+
 # **Profit-Taker Riven Reference Guide**
 
 
 ## **1. General Riven Notes:**
 
-Rivens are not essential for most players.
-
+Rivens are not essential for most players. 
 
 Only invest if you’re at a high skill level aiming to optimize.
 
+For a Riven to be worth equipping on a weapon, it needs to replace at least one mod of the rivenless build. 
 
 Always test for one-shot viability via:
 
-
-**Altair grading bot (Profit-Taker Discord, use a/g + riven image)**
-
-
-Profit-Taker Archgun Calculator (https://calc.profit-taker.com)
-
-
+- **Altair grading bot (Profit-Taker Discord, use a/g + riven image)**
+- Profit-Taker Calculator (https://calc.profit-taker.com)
 
 ## **2. Archguns**
 
-### **Velocitus**
-
-**(Volt‑only, Necramech)**
-Usage: Uncharged shots through Volt Shield + Damage Blessing
-
-
-Critical Chance is **MANDATORY**
-
-
-✅ Positives
-Critical Chance (required)
-
-
-Damage
-
-
-Critical Damage
-
-
-Cold / Electricity / Damage to Corpus
-
-
-🚫 Negatives
-✅ Harmless: –Status Chance, –Status Duration, –Zoom (best), –Ammo Max, –Damage to Grineer
-
-
-❌ Avoid: –Magazine Capacity, –Reload Speed, –Fire Rate, –Recoil, Multishot (inconsistent shells)
-
-⚠️ Fire Rate is usable in a squad with Jade
-
-### **Corvas**
+## **Velocitus (Volt only, Necramech)**
  
-**(Chroma, Necramech)**
-Easier stat requirements, no Blessing or Crit Chance needed
+*Usage: Uncharged shots through Volt Shield + Damage Blessing*
 
+***Grades matter and usually need to be around B or higher.***
 
-✅ Positives
-Damage
+#### ✅ Positives 
+- Critical Chance <span style="color: red;">(required)</span>
+- Damage
+- Critical Damage
+- Cold / Electricity
+- Damage to Corpus
 
+*Note: Fire Rate is usable in a squad with Volt and Jade*
 
-Critical Damage
+#### 🚫 Negatives
 
+- ✅ **Harmless:** 
+    - Zoom (best), Status Chance, Status Duration, Ammo Max, Damage to Grineer
+- ❌ **Avoid:** 
+    - Magazine Capacity, Reload Speed, Fire Rate, +Recoil, Multishot (inconsistent shells)
 
-Cold / Electricity / Damage to Corpus
+## **Corvas (Chroma, Necramech)**
 
+*Easier stat requirements, no Blessing or Crit Chance needed*
 
-Multishot
+#### ✅ Positives
 
+- Damage
+- Critical Damage
+- Cold / Electricity 
+- Damage to Corpus
+- Multishot
 
+*Note: Fire Rate does not affect charge speed*
 
+#### 🚫 Negatives
+- ✅ **Harmless:** 
+    - Zoom, Status Chance/Duration, Ammo Max, +Recoil, Magazine Capacity
+- ❌ **Avoid:** 
+    - Impact
 
-🚫 Negatives
-✅ Harmless: -Zoom, –Status Chance / Duration, –Ammo Max, –Recoil, –Mag Capacity
-
-
-❌ Avoid: –Impact
-
-⚠️ Fire Rate does not affect charge speed
-
-
-
-### **Prisma Dual Decurions**
+## **Prisma Dual Decurions (Mirage Solo/Squad with Deployer)**
  
-(Mirage Solo/Squad w/ Deployer)
-Buff-dependent to be viable
+*Buff-dependent to be viable, very ammo-inefficient*
 
+#### ✅ Positives
 
-✅ Positives
-Critical Chance
+- Critical Chance
+- Fire Rate
+- Damage / Critical Damage
+- Cold / Electricity 
+- Damage to Corpus
+- Ammo Max (solo)
 
+#### 🚫 Negatives
+- ✅ **Harmless:** 
+    - Zoom (ideal), Status Chance/Duration
 
-Fire Rate
+## **Imperator Vandal (Squads only with Deployer)**
 
+*Usage note: Prefire to offset wind‑up*
 
-Damage / Critical Damage
+#### ✅ Positives
+- Critical Chance <span style="color: red;">(required)</span>
+- Fire Rate (recommended)
+- Any damage stat
 
+#### 🚫 Negatives
+- ✅ **Harmless:** 
+    - Zoom, Status Duration, Ammo Max
 
-Cold / Electricity / Damage to Corpus
-
-
-Ammo Max (solo)
-
-
-🚫 Negatives
-✅ Harmless: –Zoom (ideal), –Status Chance / Duration
-
-
-
-### **Imperator Vandal**
-
-(Squads only w/ Deployer)
-Prefire to offset wind‑up
-
-
-✅ Positives
-Critical Chance (required)
-
-
-Fire Rate (recommended)
-
-
-Any damage stat
-
-
-🚫 Negatives
-✅ Harmless: –Zoom, –Status Duration, –Ammo Max
-
-
-
-### **Mausolon**
-Poor disposition (0.5x); rivens rarely beat standard mods
-
-
-✅ Optional Riven
-Critical Chance (only if dropping Arcane Avenger)
-
-
+## **Mausolon**
+- Poor disposition (0.5x); rivens rarely beat standard mods
+- ✅ Optional Riven: 
+    - Critical Chance (only if dropping Arcane Avenger)
+    - Fire Rate
+    - Any Damage Stat
 
 ## **3. Primaries**
 
+## **Kuva Ogris**
+*Needs >50 % Multishot*
 
-### **Kuva Ogris**
-Needs >50 % Multishot
+#### ✅ Positives
+- Multishot <span style="color: red;">(required)</span>
+- Damage (Volt)
+- Magazine Capacity (Chroma/Volt)
+- Projectile Flight Speed (Chroma)
 
+#### 🚫 Negatives
+- ✅ **Harmless:** 
+    - Zoom, Reload Speed, Status Chance/Duration, Crit Chance, Crit Damage, Faction Damage
+- ❌ **Avoid:** 
+    - Ammo Max, Magazine Capacity, +Recoil
 
-Volt requires Damage to one-shot pylons
+## Zenith
 
-
-✅ Positives
-Multishot (mandatory)
-
-
-Damage (Volt)
-
-
-Magazine Capacity (Chroma/Volt)
-
-
-Projectile Flight Speed (Chroma)
-
-
-🚫 Negatives
-✅ Harmless: –Zoom, –Reload Speed, –Status Chance, –Crit Chance, –Crit Damage, –Faction Damage, –Status Duration
-
-
-❌ Avoid: –Recoil, –Ammo Max, –Magazine Capacity
-
-
+> [!WARNING] ⚠️ Deprecated
+> Worse than Ogris in almost every way, unless you need it to cover toxin.
+#### ✅ Positives
+- Damage
+- Multishot
+- Element
 
 ## **4. Secondaries**
-### **Sicarus Prime Incarnon**
+## **Sicarus Prime Incarnoff**
 
+*High disposition, flexible* 
 
-High disposition, flexible 
+#### ✅ Positives
+- Multishot
+- Damage (Volt)
+- Critical Damage (Chroma)
+- Any missing stat from: Toxin, Crit Chance (over 156.5%), etc.
+- ❌ **Avoid:** 
+    - Electricity 
+    - Cold (requires replacing Ice Storm)
 
+#### 🚫 Negatives
+- ✅ **Harmless:** 
+    - Zoom, Projectile Speed, Status Chance/Duration,–Reload Speed, Faction Damage
 
-✅ Positives
-Multishot
+- ❌ **Avoid:** 
+    - Ammo Max, Magazine Capacity, Impact/Puncture/Slash
 
-
-Damage (Volt)
-
-
-Critical Damage (Chroma)
-
-
-Any missing stat from: Toxin, Crit Chance (over 156.5%), etc.
-
-
-🚫 Negatives
-✅ Harmless: –Zoom, –Projectile Speed, –Status Chance/Duration, –Reload Speed, –Faction Damage
-
-
-❌ Avoid: –Ammo Max, –Magazine Capacity, –Impact
-
-
-❌ Avoid stat: Electricity
-
-
-⚠️ Avoid Cold if using Ice Storm (maintain Mag Cap bonus)
-
-
-Ranking list: <div style="width: 100%; text-align: left;">
+Ranking list (lowest ttk (time to kill) is best): 
+<div style="width: 50%; text-align: left;">
     <img src="https://cdn.profit-taker.com/u/sicarus_rivens.png" alt="SicarusRivenRanking" style="width: 100%; height: auto;">
+</div>
 
+## **Tenet Diplos**
 
-### **Tenet Diplos**
-Deprecated; still underperforms vs rivenless Sicarus
+> [!WARNING] ⚠️ Deprecated
+> Even with a perfect riven still underperforms vs rivenless Sicarus
 
+#### ✅ Positives
 
-✅ Positives
-Cold + Toxin (for Viral)
-
-
-Multishot / Damage / Crit Damage / Damage to Corpus
-
-
+- Cold + Toxin (for Viral)
+- Multishot / Damage / Crit Damage / Damage to Corpus
 
 ## **5. Melee (Balla Zaw)**
 
+*A good riven can mean the difference between needing one or two throws for some elements.*
 
-Volt: Element + Crit Damage + Melee Damage
+- Volt:     Element + Crit Damage + Melee Damage
+- Chroma:   Element + Crit Damage + Attack Speed
 
+#### ✅ Positives
+- Critical Damage (required)
+- Element (Cold / Heat / Toxin)
+- Melee Damage (Volt)
+- Attack Speed (Chroma)
+- ❌ **Avoid:** 
+    - Critical Chance
+    - Electricity
 
-Chroma: Element + Crit Damage + Attack Speed
+#### 🚫 Negatives
+- ✅ **Harmless:** 
+    - Status Chance/Duration, Range, Finisher Damage, Heavy‑Attack Efficiency, Slide Crit Chance, Faction Damage
 
+- ❌ **Avoid:** 
+    - Impact, Puncture, Slash
 
-✅ Positives
-Critical Damage (required)
-
-
-Cold / Heat / Toxin
-
-
-Melee Damage (Volt)
-
-
-Attack Speed (Chroma)
-
-
-🚫 Negatives
-✅ Harmless: –Status Chance/Duration, –Range, –Finisher Damage, –Heavy‑Attack Efficiency, –Slide Crit Chance, –Damage to Grineer/Infested
-
-
-❌ Avoid: –Impact, –Puncture, –Slash
-
-
-❌ Stats to Avoid: Critical Chance, Electricity
-
-
-🔹 Use the “Contagion” section in the PT Calculator to optimize shield breakpoints.
-
-
+*Note: Use the “Contagion” section in the PT Calculator to optimize shield breakpoints.*
