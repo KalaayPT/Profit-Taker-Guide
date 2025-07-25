@@ -90,7 +90,7 @@ Always test for one-shot viability via:
 
 #### 🚫 Negatives
 - ✅ **Harmless:** 
-    - Zoom, Status Duration, Ammo Max
+    - Zoom, Status Chance/Duration, Ammo Max
 
 ## **Mausolon**
 - Poor disposition (0.5x); rivens rarely beat standard mods
