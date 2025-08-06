@@ -26,7 +26,7 @@ Always test for one-shot viability via:
 
 ***Grades matter and usually need to be around B or higher.***
 
-#### ✅ Positives 
+#### 🟢 Positives 
 - Critical Chance <span style="color: red;">(required)</span>
 - Damage
 - Critical Damage
@@ -35,7 +35,7 @@ Always test for one-shot viability via:
 
 *Note: Fire Rate is usable in a squad with Volt and Jade*
 
-#### 🚫 Negatives
+#### 🔴 Negatives
 
 - ✅ **Harmless:** 
     - Zoom (best), Status Chance, Status Duration, Ammo Max, Damage to Grineer
@@ -44,9 +44,9 @@ Always test for one-shot viability via:
 
 ## **Corvas (Chroma, Necramech)**
 
-*Easier stat requirements, no Blessing or Crit Chance needed*
+*Easier stat requirements, no Blessing or Crit Chance needed, riven affects amount of charge needed*
 
-#### ✅ Positives
+#### 🟢 Positives
 
 - Damage
 - Critical Damage
@@ -56,7 +56,7 @@ Always test for one-shot viability via:
 
 *Note: Fire Rate does not affect charge speed*
 
-#### 🚫 Negatives
+#### 🔴 Negatives
 - ✅ **Harmless:** 
     - Zoom, Status Chance/Duration, Ammo Max, +Recoil, Magazine Capacity
 - ❌ **Avoid:** 
@@ -64,9 +64,9 @@ Always test for one-shot viability via:
 
 ## **Prisma Dual Decurions (Mirage Solo/Squad with Deployer)**
  
-*Buff-dependent to be viable, very ammo-inefficient*
+*Buff-dependent to be viable, not ammo efficient*
 
-#### ✅ Positives
+#### 🟢 Positives
 
 - Critical Chance
 - Fire Rate
@@ -75,7 +75,7 @@ Always test for one-shot viability via:
 - Damage to Corpus
 - Ammo Max (solo)
 
-#### 🚫 Negatives
+#### 🔴 Negatives
 - ✅ **Harmless:** 
     - Zoom (ideal), Status Chance/Duration
 
@@ -83,12 +83,12 @@ Always test for one-shot viability via:
 
 *Usage note: Prefire to offset wind‑up*
 
-#### ✅ Positives
+#### 🟢 Positives
 - Critical Chance <span style="color: red;">(required)</span>
 - Fire Rate (recommended)
 - Any damage stat
 
-#### 🚫 Negatives
+#### 🔴 Negatives
 - ✅ **Harmless:** 
     - Zoom, Status Chance/Duration, Ammo Max
 
@@ -104,15 +104,15 @@ Always test for one-shot viability via:
 ## **Kuva Ogris**
 *Needs >50 % Multishot*
 
-#### ✅ Positives
+#### 🟢 Positives
 - Multishot <span style="color: red;">(required)</span>
 - Damage (Volt)
 - Magazine Capacity (Chroma/Volt)
 - Projectile Flight Speed (Chroma)
 
-#### 🚫 Negatives
+#### 🔴 Negatives
 - ✅ **Harmless:** 
-    - Zoom, Reload Speed, Status Chance/Duration, Crit Chance, Crit Damage, Faction Damage
+    - Zoom, Reload Speed, Status Chance/Duration, Crit Chance/Damage, Faction Damage
 - ❌ **Avoid:** 
     - Ammo Max, Magazine Capacity, +Recoil
 
@@ -120,7 +120,7 @@ Always test for one-shot viability via:
 
 > [!WARNING] ⚠️ Deprecated
 > Worse than Ogris in almost every way, unless you need it to cover toxin.
-#### ✅ Positives
+#### 🟢 Positives
 - Damage
 - Multishot
 - Element
@@ -130,33 +130,74 @@ Always test for one-shot viability via:
 
 *High disposition, flexible* 
 
-#### ✅ Positives
+#### 🟢 Positives
 - Multishot
 - Damage (Volt)
 - Critical Damage (Chroma)
-- Any missing stat from: Toxin, Crit Chance (over 156.5%), etc.
+- Toxin
+- Heat (Only other viable element, worse than toxin because of Prime Heated Charge)
+- Critical Chance (Must be over 156.5% for consistency)
+- Damage to Corpus
 - ❌ **Avoid:** 
     - Electricity 
     - Cold (requires replacing Ice Storm)
 
-#### 🚫 Negatives
+#### 🔴 Negatives
 - ✅ **Harmless:** 
-    - Zoom, Projectile Speed, Status Chance/Duration,–Reload Speed, Faction Damage
+    - Zoom, Projectile Speed, Status Chance/Duration, Reload Speed, Faction Damage
 
 - ❌ **Avoid:** 
     - Ammo Max, Magazine Capacity, Impact/Puncture/Slash
 
-Ranking list (lowest ttk (time to kill) is best): 
-<div style="width: 50%; text-align: left;">
-    <img src="https://cdn.profit-taker.com/u/sicarus_rivens.png" alt="SicarusRivenRanking" style="width: 100%; height: auto;">
-</div>
+### Ranking list (lowest ttk (time to kill) is best): 
+**Notes:**
+- CC and TOX have the same TTK  
+- **GRADES MATTER MORE THAN WHAT STATS THE RIVEN HAVE**  
+- **BENCHMARKED AT A+ -> S GRADES**
+
+| Stat Combo            | AVG/SLOWEST TTK | Ideal Build Variation                                      |
+|-----------------------|-----------------|-------------------------------------------------------------|
+| dmg ms tox/cc         | 290/386         | standard                                                    |
+| ms cd dmg             | 290/418         | replaces cd                                                 |
+| ms corp dmg           | 290/515         | replaces ms                                                 |
+| dmg cd tox/cc         | 320/613         | cd for lethal torrent, high slowest ttk                     |
+| cc tox dmg            | 320/613         | lethal                                                      |
+| cc tox ms             | 354/515         | drop cc tox, slot riven & hornet                            |
+| ms corp tox/cc        | 354/515         | swap ms for hornet                                          |
+| cd ms tox/cc          | 354/515         | swap cd for hornet                                          |
+| ms corp cd            | 354/515         | replaces cd, ms for hornet                                  |
+| cd ms                 | 386/483         | replaces cd                                                 |
+| dmg ms                | 386/483         | replaces cd                                                 |
+| dmg corp tox/cc       | 386/515         | standard                                                    |
+| corp cd dmg           | 386/515         | replaces cd                                                 |
+| cd corp tox/cc        | 386/515         | cd for hornet                                               |
+| cc tox corp           | 386/515         | standard                                                    |
+| cc tox cd             | 386/515         | cd for primed corp                                          |
+| cd dmg                | 386/547         | replaces cd                                                 |
+| cc ms                 | 386/547         | replaces cc                                                 |
+| cc dmg                | 386/676         | replaces cc                                                 |
+| ms fr tox/cc          | 420/617         | ms for dmg                                                  |
+| dmg fr tox/cc         | 444/568         | standard                                                    |
+| cd fr dmg             | 444/568         | replaces cd                                                 |
+| ms corp fr            | 444/617         | replaces ms                                                 |
+| ms cd fr              | 444/617         | replaces cd                                                 |
+| ms corp               | 483/547         | replaces ms                                                 |
+| dmg corp              | 483/676         | replaces cd                                                 |
+| cd corp               | 483/740         | replaces cd                                                 |
+| cc cd                 | 483/740         | replaces cc & cd, slot hornet                               |
+| cd fr tox/cc          | 519/617         | standard, except replace cd for hornet                      |
+| cc tox fr             | 519/617         | standard                                                    |
+| corp fr tox/cc        | 519/617         | standard                                                    |
+| corp cd fr            | 568/617         | replaces cd                                                 |
+| corp fr dmg           | 568/617         | replaces cd                                                 |
+| ms fr dmg             | 589/919         | replaces cd                             
 
 ## **Tenet Diplos**
 
 > [!WARNING] ⚠️ Deprecated
 > Even with a perfect riven still underperforms vs rivenless Sicarus
 
-#### ✅ Positives
+#### 🟢 Positives
 
 - Cold + Toxin (for Viral)
 - Multishot / Damage / Crit Damage / Damage to Corpus
@@ -168,7 +209,7 @@ Ranking list (lowest ttk (time to kill) is best):
 - Volt:     Element + Crit Damage + Melee Damage
 - Chroma:   Element + Crit Damage + Attack Speed
 
-#### ✅ Positives
+#### 🟢 Positives
 - Critical Damage (required)
 - Element (Cold / Heat / Toxin)
 - Melee Damage (Volt)
@@ -177,7 +218,7 @@ Ranking list (lowest ttk (time to kill) is best):
     - Critical Chance
     - Electricity
 
-#### 🚫 Negatives
+#### 🔴 Negatives
 - ✅ **Harmless:** 
     - Status Chance/Duration, Range, Finisher Damage, Heavy‑Attack Efficiency, Slide Crit Chance, Faction Damage
 
