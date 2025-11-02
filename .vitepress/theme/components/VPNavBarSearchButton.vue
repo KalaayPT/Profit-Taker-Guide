@@ -1,5 +1,6 @@
 <script lang="ts" setup>
-import { ref, onMounted } from 'vue';
+import { ref, onMounted, watch } from 'vue';
+import { useRouter } from 'vitepress';
 import type { ButtonTranslations } from 'vitepress/types/local-search'
 import { createSearchTranslate } from 'vitepress/dist/client/theme-default/support/translation'
 
@@ -13,25 +14,52 @@ const defaultTranslations: { button: ButtonTranslations } = {
 
 const translate = createSearchTranslate(defaultTranslations)
 const docSearchButton = ref<HTMLButtonElement | null>(null);
+const router = useRouter();
 
 const isClicked = ref(false);
+const isHighlighted = ref(false);
 
 const handleButtonClick = () => {
   isClicked.value = true;
+  isHighlighted.value = false;
   localStorage.setItem('docSearchButtonClicked', 'true');
+
+  // Trigger the actual search
+  const searchButton = document.querySelector('.VPNavBarSearch button') as HTMLButtonElement;
+  if (searchButton) {
+    searchButton.click();
+  }
+};
+
+const checkHash = () => {
+  if (window.location.hash === '#search') {
+    isHighlighted.value = true;
+    // Scroll to top and focus search area
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+    // Remove hash after a delay
+    setTimeout(() => {
+      window.history.replaceState(null, '', window.location.pathname);
+    }, 2000);
+  }
 };
 
 onMounted(() => {
   // Check `localStorage` on load to determine if button was clicked
   isClicked.value = localStorage.getItem('docSearchButtonClicked') === 'true';
+
+  // Check hash on mount
+  checkHash();
+
+  // Listen for hash changes
+  window.addEventListener('hashchange', checkHash);
 });
 </script>
 
 <template>
-  <button 
-    type="button" 
-    class="DocSearch DocSearch-Button" 
-    :class="{ 'DocSearch-Button--clicked': isClicked }"
+  <button
+    type="button"
+    class="DocSearch DocSearch-Button"
+    :class="{ 'DocSearch-Button--clicked': isClicked, 'DocSearch-Button--highlighted': isHighlighted }"
     :aria-label="translate('button.buttonAriaLabel')"
     @click="handleButtonClick"
   >
@@ -79,12 +107,25 @@ onMounted(() => {
   width: 48px;
   height: 55px;
   background: transparent;
-  transition: border-color 0.25s;
+  transition: border-color 0.25s, box-shadow 0.3s ease-in-out;
   box-shadow: 0 0 20px var(--vp-c-brand-1); /* Add glow effect */
 }
 
 .DocSearch-Button--clicked {
   box-shadow: none; /* Remove glow effect */
+}
+
+.DocSearch-Button--highlighted {
+  animation: search-pulse 1.5s ease-in-out 3;
+}
+
+@keyframes search-pulse {
+  0%, 100% {
+    box-shadow: 0 0 20px var(--vp-c-brand-1);
+  }
+  50% {
+    box-shadow: 0 0 40px var(--vp-c-brand-1), 0 0 60px var(--vp-c-brand-1);
+  }
 }
 
 .DocSearch-Button:hover {
