@@ -8,7 +8,7 @@
  *
  * Each colors have exact same color scale system with 3 levels of solid
  * colors with different brightness, and 1 soft color.
- * 
+ *
  * - `XXX-1`: The most solid color used mainly for colored text. It must
  *   satisfy the contrast ratio against when used on top of `XXX-soft`.
  *
@@ -43,18 +43,18 @@
  *   in custom container, badges, etc.
  * -------------------------------------------------------------------------- */
 
- :root {
-  --vp-c-default-1: var(--vp-c-gray-1);
-  --vp-c-default-2: var(--vp-c-gray-2);
-  --vp-c-default-3: var(--vp-c-gray-3);
-  --vp-c-default-soft: var(--vp-c-gray-soft);
+:root {
+    --vp-c-default-1: var(--vp-c-gray-1);
+    --vp-c-default-2: var(--vp-c-gray-2);
+    --vp-c-default-3: var(--vp-c-gray-3);
+    --vp-c-default-soft: var(--vp-c-gray-soft);
 
-  --vp-c-brand-1: #dd3f8f;
-  --vp-c-brand-2: #dd3f8f;
-  --vp-c-brand-3: #db2777;
-  --vp-c-brand-soft: rgba(221, 63, 143, 0.14);
+    --vp-c-brand-1: #dd3f8f;
+    --vp-c-brand-2: #dd3f8f;
+    --vp-c-brand-3: #db2777;
+    --vp-c-brand-soft: rgba(221, 63, 143, 0.14);
 
-  /*
+    /*
   --vp-c-brand-1: var(--vp-c-indigo-1);
   --vp-c-brand-2: var(--vp-c-indigo-2);
   --vp-c-brand-3: var(--vp-c-indigo-3);
@@ -66,26 +66,25 @@
   --vp-c-pink-soft: rgba(221, 63, 143, 0.14);
   */
 
-  --vp-c-tip-1: var(--vp-c-brand-1);
-  --vp-c-tip-2: var(--vp-c-brand-2);
-  --vp-c-tip-3: var(--vp-c-brand-3);
-  --vp-c-tip-soft: var(--vp-c-brand-soft);
+    --vp-c-tip-1: var(--vp-c-brand-1);
+    --vp-c-tip-2: var(--vp-c-brand-2);
+    --vp-c-tip-3: var(--vp-c-brand-3);
+    --vp-c-tip-soft: var(--vp-c-brand-soft);
 
-  --vp-c-warning-1: var(--vp-c-yellow-1);
-  --vp-c-warning-2: var(--vp-c-yellow-2);
-  --vp-c-warning-3: var(--vp-c-yellow-3);
-  --vp-c-warning-soft: var(--vp-c-yellow-soft);
+    --vp-c-warning-1: var(--vp-c-yellow-1);
+    --vp-c-warning-2: var(--vp-c-yellow-2);
+    --vp-c-warning-3: var(--vp-c-yellow-3);
+    --vp-c-warning-soft: var(--vp-c-yellow-soft);
 
-  --vp-c-danger-1: var(--vp-c-red-1);
-  --vp-c-danger-2: var(--vp-c-red-2);
-  --vp-c-danger-3: var(--vp-c-red-3);
-  --vp-c-danger-soft: var(--vp-c-red-soft);
+    --vp-c-danger-1: var(--vp-c-red-1);
+    --vp-c-danger-2: var(--vp-c-red-2);
+    --vp-c-danger-3: var(--vp-c-red-3);
+    --vp-c-danger-soft: var(--vp-c-red-soft);
 
-  --vp-c-important-1: var(--vp-c-green-1);
-  --vp-c-important-2: var(--vp-c-green-2);
-  --vp-c-important-3: var(--vp-c-green-3);
-  --vp-c-important-soft: var(--vp-c-green-soft);
-
+    --vp-c-important-1: var(--vp-c-green-1);
+    --vp-c-important-2: var(--vp-c-green-2);
+    --vp-c-important-3: var(--vp-c-green-3);
+    --vp-c-important-soft: var(--vp-c-green-soft);
 }
 
 /**
@@ -93,15 +92,15 @@
  * -------------------------------------------------------------------------- */
 
 :root {
-  --vp-button-brand-border: transparent;
-  --vp-button-brand-text: var(--vp-c-white);
-  --vp-button-brand-bg: var(--vp-c-brand-3);
-  --vp-button-brand-hover-border: transparent;
-  --vp-button-brand-hover-text: var(--vp-c-white);
-  --vp-button-brand-hover-bg: var(--vp-c-brand-2);
-  --vp-button-brand-active-border: transparent;
-  --vp-button-brand-active-text: var(--vp-c-white);
-  --vp-button-brand-active-bg: var(--vp-c-brand-1);
+    --vp-button-brand-border: transparent;
+    --vp-button-brand-text: var(--vp-c-white);
+    --vp-button-brand-bg: var(--vp-c-brand-3);
+    --vp-button-brand-hover-border: transparent;
+    --vp-button-brand-hover-text: var(--vp-c-white);
+    --vp-button-brand-hover-bg: var(--vp-c-brand-2);
+    --vp-button-brand-active-border: transparent;
+    --vp-button-brand-active-text: var(--vp-c-white);
+    --vp-button-brand-active-bg: var(--vp-c-brand-1);
 }
 
 /**
@@ -109,22 +108,30 @@
  * -------------------------------------------------------------------------- */
 
 :root {
-  --vp-home-hero-name-color: transparent;
-  --vp-home-hero-name-background: -webkit-linear-gradient(120deg, var(--vp-c-indigo-1) 30%, var(--vp-c-brand)) !important;
-  --vp-home-hero-image-background-image: linear-gradient(-45deg, var(--vp-c-brand-1) 50%,var(--vp-c-indigo-1) 50%) !important;
-  --vp-home-hero-image-filter: opacity(80%) blur(68px) !important;
+    --vp-home-hero-name-color: transparent;
+    --vp-home-hero-name-background: -webkit-linear-gradient(
+        120deg,
+        var(--vp-c-indigo-1) 30%,
+        var(--vp-c-brand)
+    ) !important;
+    --vp-home-hero-image-background-image: linear-gradient(
+        -45deg,
+        var(--vp-c-brand-1) 50%,
+        var(--vp-c-indigo-1) 50%
+    ) !important;
+    --vp-home-hero-image-filter: opacity(80%) blur(68px) !important;
 }
 
 @media (min-width: 640px) {
-  :root {
-    --vp-home-hero-image-filter: blur(56px);
-  }
+    :root {
+        --vp-home-hero-image-filter: blur(56px);
+    }
 }
 
 @media (min-width: 960px) {
-  :root {
-    --vp-home-hero-image-filter: blur(68px);
-  }
+    :root {
+        --vp-home-hero-image-filter: blur(68px);
+    }
 }
 
 /**
@@ -132,11 +139,10 @@
  * -------------------------------------------------------------------------- */
 
 :root {
-  --vp-custom-block-tip-border: transparent;
-  --vp-custom-block-tip-text: var(--vp-c-text-1);
-  --vp-custom-block-tip-bg: var(--vp-c-brand-soft);
-  --vp-custom-block-tip-code-bg: var(--vp-c-brand-soft);
-  
+    --vp-custom-block-tip-border: transparent;
+    --vp-custom-block-tip-text: var(--vp-c-text-1);
+    --vp-custom-block-tip-bg: var(--vp-c-brand-soft);
+    --vp-custom-block-tip-code-bg: var(--vp-c-brand-soft);
 }
 
 /**
@@ -144,14 +150,54 @@
  * -------------------------------------------------------------------------- */
 
 .DocSearch {
-  --docsearch-primary-color: var(--vp-c-brand-1) !important;
+    --docsearch-primary-color: var(--vp-c-brand-1) !important;
 }
 
-/* tabs */ 
+/* tabs */
 
 :root {
-  --vp-plugin-tabs-tab-bg: transparent !important;
+    --vp-plugin-tabs-tab-bg: transparent !important;
 }
 
-/* feature button */ 
+/* feature button */
 
+/* Search button highlight effect */
+.VPNavBarSearch button,
+.DocSearch-Button {
+    transition: box-shadow 0.3s ease-in-out !important;
+    /* Static glow by default */
+    box-shadow: 0 0 12px rgba(221, 63, 143, 0.6) !important;
+}
+
+/* Remove static glow after button has been clicked */
+.VPNavBarSearch button.search-button-clicked:not(.search-highlighted),
+.DocSearch-Button.search-button-clicked:not(.search-highlighted) {
+    box-shadow: none !important;
+}
+
+/* Pulse animation when "Check out the search" is clicked - only once */
+.search-highlighted {
+    animation: search-pulse 1s ease-in-out 1 !important;
+}
+
+@keyframes search-pulse {
+    0% {
+        box-shadow: 0 0 12px rgba(221, 63, 143, 0.6) !important;
+    }
+    25% {
+        box-shadow:
+            0 0 50px var(--vp-c-brand-1),
+            0 0 70px var(--vp-c-brand-1) !important;
+    }
+    50% {
+        box-shadow: 0 0 12px rgba(221, 63, 143, 0.6) !important;
+    }
+    75% {
+        box-shadow:
+            0 0 50px var(--vp-c-brand-1),
+            0 0 70px var(--vp-c-brand-1) !important;
+    }
+    100% {
+        box-shadow: none !important;
+    }
+}
