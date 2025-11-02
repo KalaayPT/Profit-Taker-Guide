@@ -10,6 +10,7 @@ hero:
       link: /tldr
     - theme: alt
       text: Check out the search function as well!
+      link: /#search
   image:
     src: https://cdn.profit-taker.com/u/pt-orb.webp
     alt: ProfitTakerOrb
