@@ -29,7 +29,7 @@ POV by Endryx
 
 ::::info [*__Overframe Link__*](https://overframe.gg/build/814124/mirage-prime/squad-builds-mirage-prime-shooting-gallery/)
 
-Mirage takes the role of gunner, and handles the last 3 leg phases. Subsume Energized Munitions over her 4th ability to allow her to upkeep fire even with a strong Wisp Haste Mote present. Use Rauta to quickly stack combo for Secondary Outburst on your Prisma Dual Decurions. Pull out your Archgun just before the first pylons land to ensure the Outburst buff lasts the entire fight. 
+Mirage takes the role of gunner, and handles the last 3 leg phases. Subsume Energized Munitions over her 4th ability to allow her to upkeep fire even with a strong Wisp Haste Mote present. Use Rauta to quickly stack combo for Secondary Outburst on your Prisma Dual Decurions. Pull out your Archgun just before the first pylons land to ensure the Outburst buff lasts the entire fight. If there is no space for Mirage in the squad, Jade using Prisma Dual Decurions (or Mausolon in duo) is the preferred option.
 
 :::details Video demonstration (240&thinsp;mb):
 POV by Kalaay
@@ -133,6 +133,8 @@ Imperator [Vandal] and [Prisma] Dual Decurions suffer from [Archgun Hitbox Bug](
 
 ### Support Weapons (Shields)
 
-In squad runs, Chroma and/or Wisp can run Blast+Toxin on Sicarus to help clear shields. 
+In general, Chroma and/or Wisp running the same shield setup as in solo (Sicarus+Balla) always works. Blast+Toxin can be modded on Sicarus to help consistently cover elements. 
+
+In terms of overall element setups, supports should aim to run elements that are typically either not covered (toxin) or relegated to Contagion: Blast, Corrosive, Gas, Cold. This is mainly because with lower FPS in squads, contagion throws get slower too.
 
 [*__Overframe Link__*](https://overframe.gg/build/927801/)
