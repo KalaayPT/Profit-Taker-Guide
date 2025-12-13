@@ -137,4 +137,6 @@ In general, Chroma and/or Wisp running the same shield setup as in solo (Sicarus
 
 In terms of overall element setups, supports should aim to run elements that are typically either not covered (toxin) or relegated to Contagion: Blast, Corrosive, Gas, Cold. This is mainly because with lower FPS in squads, contagion throws get slower too.
 
+![Squad Sicarus](https://cdn.profit-taker.com/u/squad_sicarus.png)
+
 [*__Overframe Link__*](https://overframe.gg/build/927801/)
