@@ -204,6 +204,7 @@ EVO IV: Commodore's Fortune +14% Base CC.
 
 :::info [*__Overframe Link__*](https://overframe.gg/build/771299/)
 
+- See [Mech Builds](/guide/other-builds#mech-builds) for mech-focused archgun builds.
 - For a Heavy Weapon, it takes 5-6 shots to destroy legs.
 - Make sure you have enough health to survive the summon animation.
 :::
