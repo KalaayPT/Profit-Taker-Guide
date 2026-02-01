@@ -210,39 +210,6 @@ EVO IV: Commodore's Fortune +14% Base CC.
 
 ::::
 
-## Mech Builds
-
-::::tabs
-== Basic Corvas
-
-<div style="width: 100%; text-align: left;">
-    <img src="https://cdn.profit-taker.com/u/corvas_mech.png" alt="corvas_mech" style="width: 100%; height: auto;">
-</div>
-
-:::info [*__Overframe Link__*](https://overframe.gg/build/771306/)
-
-- For use on Necramech, this build can twoshot limbs if you fully charge it.
-- Corvas has a lot of viable riven variety.
-- Fire rate is low, so using Heavy Weapon may be faster.
-- The build uses Primed Rubedo-Lined Barrel even if you're using vex armor because Necramech doesn't get Warframe buffs.
-- Is affected by [__hitbox bug__](/miscellaneous/bugs.html#archgun-hitbox-bug)
-:::
-
-== Speedrun Corvas
-
-<div style="width: 100%; text-align: left;">
-    <img src="https://cdn.profit-taker.com/u/speedrunmechcorvas.png" alt="speedrunmechcorvas" style="width: 100%; height: auto;">
-</div>
-
-<div style="width: 25%; text-align: left;">
-    <img src="https://cdn.profit-taker.com/u/speedrunmechcorvas_riven.png" alt="speedrunmechcorvas_riven" style="width: 100%; height: auto;">
-</div>
-
-[*__Overframe Link__*](https://overframe.gg/build/771354/)
-
-For Shock Trooper Chroma. You want a riven that lets you at least oneshot at full charge. Check the [calculator.](https://calc.profit-taker.com)
-
-::::
 
 ## Effigy Placement
 
