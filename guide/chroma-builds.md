@@ -1,23 +1,22 @@
-# Basic Builds
+# Chroma Builds
 
-*Simple builds that aren’t highly specialized for stuff like Crewmate and Total Eclipse. Builds here are more generalized and less highly specific, at least for frames. You can go to the next section for build crafting. This section allows you to hit the ground running without having to learn EVERYTHING about building.*
+*Builds for Chroma running Vex Armor.*
 
-We've tried our best to make cheap builds that do extremely well. When copying these builds, replace any Primed Mods you don't have with a Mod of the same effect, and to save Endo and Forma consider running rank 8 Mods instead of rank 10. Feel free to mess around with 'flex' Mods, but **any Mod not listed as 'flex' can be considered mandatory** for these builds to work properly.
-
-## **Chroma builds - Vex Armor**
-
-These builds are for Chroma running Vex Armor. QoL is a priority in this section.  
+These builds are for Chroma running Vex Armor. QoL is a priority in the basic builds.
 Suggested Warframe Arcanes include: Velocity, Avenger, Nullifier, Acceleration
 
-#### **Generic Vex Armor (Shock Trooper)**
+## Frame Builds
+
+::::tabs
+== Generic (Shock Trooper)
 
 <div style="width: 100%; text-align: left;">
-    <img src="https://cdn.profit-taker.com/u/Generic_Vex_Armor.png" alt="Generic_Vex_Armor" style="width: 100%; height: auto;"> 
+    <img src="https://cdn.profit-taker.com/u/Generic_Vex_Armor.png" alt="Generic_Vex_Armor" style="width: 100%; height: auto;">
 </div>
 
 :::info [*__Overframe Link__*](https://overframe.gg/build/771333/)
 
-- This is the generic build for this section, the others are example variations.
+- This is the generic build, the others are example variations.
 - If you have Primed Sure Footed, use it over Handspring. If you want to just run Unairu instead, you can put Preparation in exilus.
 - Decaying Dragon Key is recommended to stack your Vex Fury much faster, but you should keep an eye on your health since you won't get the full armor buff from Vex immediately.
 - The Umbral Forma isn't necessary if you forma every other slot, but gives you a lot more flexibility for future changes.
@@ -25,20 +24,20 @@ Suggested Warframe Arcanes include: Velocity, Avenger, Nullifier, Acceleration
 - If energy isn't an issue, replacing Arcane Nullifier with Arcane Avenger is a decent boost to Diplos damage, and a big one to Mausolon damage.
 - Rage is a flex Mod. If your runs are fast, Primed Flow with Preparation or amber starting energy archon shards will give you enough energy for the whole run.
 - Heat elemental ward gives you the most EHP, along with healing you when you recast. This means you may be able to forego alternate forms of healing in a pinch.
-- If heat/cold Elemental Ward isn’t needed for survivability, you can use toxin for more dps, but it is additive with Vex and therefore a minor increase.
-- Steel Charge isn’t special aside from the extra capacity, any aura works.
+- If heat/cold Elemental Ward isn't needed for survivability, you can use toxin for more dps, but it is additive with Vex and therefore a minor increase.
+- Steel Charge isn't special aside from the extra capacity, any aura works.
 - You can replace Primed Continuity with Narrow Minded if you don't have a crewmate. If you have one, it's highly recommended to not run negative range, as he is very fragile without Vex.
 - Starting energy archon shard(s) are highly recommended for the first casts.
 - You're expected to run Madurai for damage, and void striking for 2nd leg phase to keep Mausolon cooldown low for 3rd legs. It's somewhat minor, especially in slow runs, so you can replace it with Unairu or Zenurik.
 :::
 
-#### **Energized Munitions**
+== Energized Munitions
 
 <div style="width: 100%; text-align: left;">
-    <img src="https://cdn.profit-taker.com/u/Energized_Munitions_Vex_Armor.png" alt="Energized_Munitions_Vex_Armor" style="width: 100%; height: auto;"> 
+    <img src="https://cdn.profit-taker.com/u/Energized_Munitions_Vex_Armor.png" alt="Energized_Munitions_Vex_Armor" style="width: 100%; height: auto;">
 </div>
 
-::::info [*__Overframe Link__*](https://overframe.gg/build/771334/)
+:::info [*__Overframe Link__*](https://overframe.gg/build/771334/)
 
 - When not running Shock Trooper, you should do electric shields by Void Striking with Virtuos Surge. 7x7 amp with Eternal Onslaught is recommended.
 - Energized Munitions' point is lowering your Archgun Deployer cooldown, as the cooldown is based on ammo spent / max ammo.
@@ -46,15 +45,16 @@ Suggested Warframe Arcanes include: Velocity, Avenger, Nullifier, Acceleration
 - Even with Mausolon, you can find EM useful if your power strength or Mausolon build is lacking.
 - EM is quite expensive to cast at 50 base energy cost and 3 expected casts per run.
 - Natural Talent is a flex slot.
+:::
+
 :::warning
 If you're a client in a squad, the ammo efficiency doesn't affect the cooldown even though visually it does. Your archgun will just be unpullable with no error message until the 'real cooldown' is over.
 :::
-::::
 
-#### **Spellbind**
+== Spellbind
 
 <div style="width: 100%; text-align: left;">
-    <img src="https://cdn.profit-taker.com/u/Spellbind_Vex_Armor.png" alt="Spellbind_Vex_Armor" style="width: 100%; height: auto;"> 
+    <img src="https://cdn.profit-taker.com/u/Spellbind_Vex_Armor.png" alt="Spellbind_Vex_Armor" style="width: 100%; height: auto;">
 </div>
 
 :::info [*__Overframe Link__*](https://overframe.gg/build/771335/)
@@ -65,13 +65,56 @@ If you're a client in a squad, the ammo efficiency doesn't affect the cooldown e
 - All the energy in the above build is probably overkill. Depending on your run speeds and polarities you can swap Rage or Primed Flow for whatever you feel like you need, Steel Fiber for example can help you survive early on.
 :::
 
-## Weapon Builds - Vex Armor
+== Speedrun (Shock Trooper)
 
-*The following builds don’t run Damage Mods (other than Amalgam Serration) because Vex Armor is additive with Damage Mods.*
+*Credit farming setup by Fremy. These builds differ from basic builds due to expected skill level and specialized tools.*
 
-__Primary weapon:__
+**Please do not mindlessly copy these builds. As a rule, they are extremely specialized.**
 
-#### **Kuva Ogris**
+<div style="width: 100%; text-align: left;">
+    <img src="https://cdn.profit-taker.com/u/ShockTrooperchromabyfremy.png" alt="ShockTrooperchromabyfremy" style="width: 100%; height: auto;">
+</div>
+
+[*__Overframe Link__*](https://overframe.gg/build/771351/)
+
+The Shock Trooper build is for running either mech Corvas, or gravimag Mausolon. You get to have all elements without needing to think about electric and doing it with amp, making shield rng much less painful. If you run Mausolon, you should definitely have Arcane Avenger, but with Corvas it's less mandatory and can be replaced with Nullifier. At good speed you shouldn't have energy problems though even with a magnetic proc or two. Archon shards should be starting energy and str.
+
+With Mausolon, Void Striking before 2nd legs is recommended to make sure the cooldown is back up for 3rd legs.
+
+**Less Umbral formas:**
+
+You will have less power strength, but you can replace any Umbral mods with their regular versions. Chroma is rather tanky already, especially if you use Elemental Ward for defense purposes, so the lack of Umbral Vitality/Fiber shouldn't hurt much. You can also consider replacing Fiber with utility like Natural Talent.
+
+**No Primed Sure Footed:**
+
+If you don't have PSF, you can replace it with Handspring or just run without knockdown resist and slot Preparation instead. At fast pace and with a crewmate the knockdowns are less of an issue than you might expect.
+
+== Speedrun (Energized Munitions)
+
+<div style="width: 100%; text-align: left;">
+    <img src="https://cdn.profit-taker.com/u/EMchromabyfremy.png" alt="EMchromabyfremy" style="width: 100%; height: auto;">
+</div>
+
+[*__Overframe Link__*](https://overframe.gg/build/771353/)
+
+Note that this build isn't speedrun.com legal because Virtuos Surge killing an entire shield is technically a bug. You can make it legal by loading cold or electric onto your companion but it is not reliable at all.
+
+Energized Munitions is for enabling gravimag Velocitus, which is by far the fastest archgun. With Ammo Chain on the velocitus, your cooldown should be around 2s per ammo spent. You should have a riven with at least critical chance on it if you don't want to rely on Arcane Avenger. With some bonus damage from Riven, you can quite easily run blessless while slotting Automatic Trigger on the Velocitus. [Use the calculator to check if you can oneshot.](https://calc.profit-taker.com/)
+
+Main con of the build is that you can't do electric with Shock Trooper, so you must do it with your amp. You use 7x7, Virtuos Surge, Eternal Onslaught and Void Strike. If you're close to PT it does more damage than from max range. Basically you're hoping for an electric shield early into shield phase 2, so you can kill the whole shield with the amp. If you didn't get an electric shield in phase 1, you can pre-cast Void Strike between the 2nd legs and bodyshot.
+
+You want to use cast speed archon shards to make the EM cast animation shorter. At least 2 are recommended. If it fits your polarities better, you can use Natural Talent over Preparation and slot starting energy shards instead.
+
+Arcane Nullifier is recommended if you want to run completely padless, as the casts are quite expensive. Arcane Avenger isn't mandatory but helps your Diplos DPS.
+
+::::
+
+## Weapon Builds
+
+*The following builds don't run Damage Mods (other than Amalgam Serration) because Vex Armor is additive with Damage Mods.*
+
+::::tabs
+== Kuva Ogris
 
 <div style="width: 100%; text-align: left;">
     <img src="https://cdn.profit-taker.com/u/pogris_eclipse.png" alt="pogris_eclipse" style="width: 100%; height: auto;">
@@ -84,7 +127,7 @@ __Primary weapon:__
 - Normal Ogris also works well enough if Kuva Ogris feels too grindy. Does less damage (adding Heavy Caliber in place of Vile Acceleration is an option, but makes you miss the pylon sometimes) but only needs one ammo mod. The other one can be replaced with Firestorm on a standard Ogris, for slightly less required accuracy especially if combined with Heavy Caliber.
 :::
 
-#### **Zenith Build**
+== Zenith
 
 <div style="width: 100%; text-align: left;">
     <img src="https://cdn.profit-taker.com/u/Zenith_Build.png" alt="Zenith_Build" style="width: 100%; height: auto;">
@@ -92,16 +135,14 @@ __Primary weapon:__
 
 :::info [*__Overframe Link__*](https://overframe.gg/build/771294/)
 
-- Covers toxin 
-- Despite Vex Armor giving an additive damage bonus, Amalgam Serration is used for its sprint speed buff. 
-- This build relies on multishot to destroy Pylons. 
+- Covers toxin
+- Despite Vex Armor giving an additive damage bonus, Amalgam Serration is used for its sprint speed buff.
+- This build relies on multishot to destroy Pylons.
 - Vex Armor needs to be ramped up to oneshot pylons. This is extremely sensitive to any changes in power strength and needs about 278%str or higher to oneshot (achievable with Blind Rage + Umbral Intensify+Vitality + Augur Secrets)
 - if you don't need Zenith to do shields, replace the crit mods with more fire rate
 :::
 
-__Secondary weapon:__
-
-#### **Sicarus Prime Incarnoff**
+== Sicarus Prime Incarnoff
 
 <div style="width: 100%; text-align: left;">
     <img src="https://cdn.profit-taker.com/u/sicarusbuildgrey.png" alt="sicarusbuildgrey" style="width: 100%; height: auto;">
@@ -109,7 +150,7 @@ __Secondary weapon:__
 
 :::info [*__Overframe Link__*](https://overframe.gg/build/784344/)
 
-The Successor to Tenet Diplos. Rivens will ideally replace Tox/CC/CD Mods on the build. Cold and Heat are replaceable, but slightly less ideal, due to replacing either Ice Storm with its additional Magazine Capacity or Primed Heated Charge's higher Heat Damage. 
+The Successor to Tenet Diplos. Rivens will ideally replace Tox/CC/CD Mods on the build. Cold and Heat are replaceable, but slightly less ideal, due to replacing either Ice Storm with its additional Magazine Capacity or Primed Heated Charge's higher Heat Damage.
 
 Incarnon Adapter Evos;
 
@@ -124,7 +165,7 @@ EVO IV: Commodore's Fortune +14% Base CC.
 - Cascadia Overcharge assumes shield pad usage. If you don't use shield pads, use Secondary Enervate.
 :::
 
-#### **Tenet Diplos Build**
+== Tenet Diplos
 
 <div style="width: 100%; text-align: left;">
     <img src="https://cdn.profit-taker.com/u/Vex_Armor_Tenet_Diplos_Build.png" alt="Vex_Armor_Tenet_Diplos_Build" style="width: 100%; height: auto;">
@@ -132,6 +173,7 @@ EVO IV: Commodore's Fortune +14% Base CC.
 
 :::info [*__Overframe Link__*](https://overframe.gg/build/771296/)
 
+- **Diplos have been superseded by Sicarus Prime with an Incarnon adapter. Only use if you don't have access to Sicarus Prime Incarnoff.**
 - Covers heat, magnetic (progenitor) and viral
 - Lethal Torrent can be replaced with Accelerated Isotope so you don't have to rely on Contagion for Radiation
 - If you don't have Diplos, you can use any weapon with innate (or progenitor) magnetic or any high [crit] damage weapon with the Magnetic Might mod.
@@ -139,9 +181,7 @@ EVO IV: Commodore's Fortune +14% Base CC.
 - Cascadia Overcharge assumes shield pad usage. If you don't use shield pads, you can use Deadhead for less recoil or Merciless if you are able to build stacks.
 :::
 
-__Melee weapon:__
-
-#### **Exodia Contagion Zaw Build**
+== Exodia Contagion Zaw
 
 <div style="width: 100%; text-align: left;">
     <img src="https://cdn.profit-taker.com/u/balla_eclipse.png" alt="Exodia_Contagion_Zaw_Build" style="width: 100%; height: auto;">
@@ -156,9 +196,7 @@ __Melee weapon:__
 - The Zaw is Balla+Peye+Vargeet II Jai. If you have a different strike, see [__How to Build A Zaw__](/codex/creating-builds#zaw-part-setups) for making a Zaw with a different strike.
 :::
 
-__Heavy Weapon:__
-
-#### **Mausolon Build**
+== Mausolon
 
 <div style="width: 100%; text-align: left;">
     <img src="https://cdn.profit-taker.com/u/Mausolon_Build.png" alt="Mausolon_Build" style="width: 100%; height: auto;">
@@ -170,8 +208,42 @@ __Heavy Weapon:__
 - Make sure you have enough health to survive the summon animation.
 :::
 
-__See [Mech Setup](/guide/other-builds.html#mech-setup) for what to use on Mech.__
+::::
 
-### **Effigy Placement**
+## Mech Builds
+
+::::tabs
+== Basic Corvas
+
+<div style="width: 100%; text-align: left;">
+    <img src="https://cdn.profit-taker.com/u/corvas_mech.png" alt="corvas_mech" style="width: 100%; height: auto;">
+</div>
+
+:::info [*__Overframe Link__*](https://overframe.gg/build/771306/)
+
+- For use on Necramech, this build can twoshot limbs if you fully charge it.
+- Corvas has a lot of viable riven variety.
+- Fire rate is low, so using Heavy Weapon may be faster.
+- The build uses Primed Rubedo-Lined Barrel even if you're using vex armor because Necramech doesn't get Warframe buffs.
+- Is affected by [__hitbox bug__](/miscellaneous/bugs.html#archgun-hitbox-bug)
+:::
+
+== Speedrun Corvas
+
+<div style="width: 100%; text-align: left;">
+    <img src="https://cdn.profit-taker.com/u/speedrunmechcorvas.png" alt="speedrunmechcorvas" style="width: 100%; height: auto;">
+</div>
+
+<div style="width: 25%; text-align: left;">
+    <img src="https://cdn.profit-taker.com/u/speedrunmechcorvas_riven.png" alt="speedrunmechcorvas_riven" style="width: 100%; height: auto;">
+</div>
+
+[*__Overframe Link__*](https://overframe.gg/build/771354/)
+
+For Shock Trooper Chroma. You want a riven that lets you at least oneshot at full charge. Check the [calculator.](https://calc.profit-taker.com)
+
+::::
+
+## Effigy Placement
 
 See the tutorial on how to place Effigy [here](https://youtu.be/7-4iw1YjN6A?si=fbrp4014gVYHQHR0)

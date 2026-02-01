@@ -89,7 +89,7 @@ export default defineConfig({
                 { text: "Landing", link: "/guide/landing" },
                 { text: "Positioning", link: "/guide/positioning" },
                 { text: "Pogris", link: "/guide/pogris" },
-                { text: "Speedrun Strategies", link: "/guide/speedrun-strats" },
+                { text: "Speedrun Strats", link: "/guide/speedrun-strats" },
               ],
             },
           ],
