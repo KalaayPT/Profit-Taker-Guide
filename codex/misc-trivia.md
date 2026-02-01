@@ -33,7 +33,7 @@ Each element will change upon one of three conditions, referred to in the follow
 - If at least 5s have passed since the last element change and someone attacks Profit-Taker with void damage, the element is cycled;
 - If at least 162,993 damage is done to a single element, the element is cleared;
 
-Each damage instance is capped at the damage cap stated previously, but multiple instances can do full damage until they reach (or exceed) the damage cap. See [__Untapped Potential__](/advanced/untapped-potential.html) for what this can be used for.
+Each damage instance is capped at the damage cap stated previously, but multiple instances can do full damage until they reach (or exceed) the damage cap. See [__Untapped Potential__](/codex/untapped-potential.html) for what this can be used for.
 
 A common misconception is that the next element in the shield is completely random, this is not true.
 

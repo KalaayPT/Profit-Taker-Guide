@@ -153,7 +153,7 @@ __Melee weapon:__
 - Rank 0 Melee Exposure is just fine on most builds.
 - Rank >0 Exodia Contagion is not necessary.
 - If you don't oneshot elements, consider replacing attack speed mods with Organ shatter and/or Primed Pressure Point or modding for more strength.
-- The Zaw is Balla+Peye+Vargeet II Jai. If you have a different strike, see [__How to Build A Zaw__](/beginner/creating-builds#zaw-part-setups) for making a Zaw with a different strike.
+- The Zaw is Balla+Peye+Vargeet II Jai. If you have a different strike, see [__How to Build A Zaw__](/codex/creating-builds#zaw-part-setups) for making a Zaw with a different strike.
 :::
 
 __Heavy Weapon:__
@@ -170,7 +170,7 @@ __Heavy Weapon:__
 - Make sure you have enough health to survive the summon animation.
 :::
 
-__See [Mech Setup](/beginner/other-builds.html#mech-setup) for what to use on Mech.__
+__See [Mech Setup](/guide/other-builds.html#mech-setup) for what to use on Mech.__
 
 ### **Effigy Placement**
 

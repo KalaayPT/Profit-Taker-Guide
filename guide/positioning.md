@@ -65,7 +65,7 @@ Video (click to play/pause):
 Profit-Taker also has a couple of extremely annoying attacks that seem to be influenced by your position, but it's extremely precise.
 
 ### The **Bounce** 
-appears to happen when you get too close to Profit-Taker during Armor and Pylon Phase. It shoots you away from Profit-Taker and is the only knockback to effect Mech. Rolling or bullet jumping into the bounce minimizes knockback. There is a guaranteed bounce while the first pylons are launching if you are close enough to profit taker. Being bounced during second legs can be avoided via the [__Push Strat__](/advanced/speedrun-strats.html#push-strat).
+appears to happen when you get too close to Profit-Taker during Armor and Pylon Phase. It shoots you away from Profit-Taker and is the only knockback to effect Mech. Rolling or bullet jumping into the bounce minimizes knockback. There is a guaranteed bounce while the first pylons are launching if you are close enough to profit taker. Being bounced during second legs can be avoided via the [__Push Strat__](/guide/speedrun-strats.html#push-strat).
 
 Video (click to play/pause):
 

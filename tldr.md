@@ -35,22 +35,22 @@ To be able to do the Profit-Taker boss in the first place, you need to be max ra
 
 - Primary: [Kuva] Ogris, used exclusively for pylons.
 - Melee: any Zaw with <b>Exodia Contagion</b> (make sure you can reach 100% crit chance). This is because Contagion turns Zaws into incredibly strong projectile weapons that can both be used very quickly and cover a lot of elements because of how Exodia contagion works, more on that a bit later
-- Secondary: any high [crit] damage secondary works (Notable examples include, but are not limited to: Sicarus Incarnon, Tenet Diplos, Gammacor Incarnon, Pyrana Prime etc.), but because of the innate elements on a Contagion Zaw, you either want one that has innate magnetic damage (a lich weapon or a Synoid Gammacor) or you have to equip [Magnetic Might](https://warframe.fandom.com/wiki/Magnetic_Might). The weapon of choice therefore is the [Sicarus Prime](/beginner/vex-armor-builds#sicarus-prime-incarnoff) with an incarnon adapter installed for its passive buffs. More on the element distribution in a second.
+- Secondary: any high [crit] damage secondary works (Notable examples include, but are not limited to: Sicarus Incarnon, Tenet Diplos, Gammacor Incarnon, Pyrana Prime etc.), but because of the innate elements on a Contagion Zaw, you either want one that has innate magnetic damage (a lich weapon or a Synoid Gammacor) or you have to equip [Magnetic Might](https://warframe.fandom.com/wiki/Magnetic_Might). The weapon of choice therefore is the [Sicarus Prime](/guide/chroma-builds#sicarus-prime-incarnoff) with an incarnon adapter installed for its passive buffs. More on the element distribution in a second.
 - Archgun: can be used either in hand (see [Mausolon](#archgun-in-hand-mausolon) lower down) or in mech (see [Corvas](#archgun-on-mech-corvas) lower down). The easier option is usually to do mech, since it doesn't leave you in the open during the pull down animation and during the destroying of the legs
 :::
 
-:::tip The expected distribution of elements looks like this (taken from [Creating builds](/beginner/creating-builds#shields)):
+:::tip The expected distribution of elements looks like this (taken from [Creating builds](/codex/creating-builds#shields)):
 
 Secondary: Viral, Heat, Magnetic, and optional Radiation (also IPS, depending on the weapon)
 
 Melee (Contagion): Gas, Cold, innate IPS, Blast (innate to Exodia Contagion), Corrosive (covered by Melee Exposure), Radiation, and optional Magnetic
 
-[__Operator__](/advanced/speedrun-strats.html#operator-element)/Volt Shield/Shock Trooper: Electric
+[__Operator__](/guide/speedrun-strats.html#operator-element)/Volt Shield/Shock Trooper: Electric
 
 With this combination, you're only missing Toxin, and there is no way to fit it in the builds without creating the need to switch to your primary.
 :::
 
-#### Primary: [Ogris](/beginner/vex-armor-builds#kuva-ogris)
+#### Primary: [Ogris](/guide/chroma-builds#kuva-ogris)
 
 Ogris deals damage to pylons through the pylon bubble without requiring punch through, using the Nightwatch Napalm augment.
 
@@ -63,15 +63,15 @@ Video demonstration (17&thinsp;mb):
 
 You should usually only need one shot if your buffs (Vex Armor on Chroma, Eclipse on anything else) are up. The Nightwatch Napalm damage ticks will finish it for you.
 
-The Ogris is the weapon of choice because it's both simple to use and easy to get. You can use either variant, although the Kuva variant is preferred due to it dealing more damage (more progenitor% is better, element doesn't matter). A very basic but functional build is also <u>shown in the video</u>. For more info about how it works, click [here](/beginner/pogris), and for a proper build with more info, click [here](/beginner/vex-armor-builds#kuva-ogris) or, if you want to get a riven for it (or have one already), [this](/advanced/solo-speedrun-builds#kuva-ogris) might be the build you want.
+The Ogris is the weapon of choice because it's both simple to use and easy to get. You can use either variant, although the Kuva variant is preferred due to it dealing more damage (more progenitor% is better, element doesn't matter). A very basic but functional build is also <u>shown in the video</u>. For more info about how it works, click [here](/guide/pogris), and for a proper build with more info, click [here](/guide/chroma-builds#kuva-ogris) or, if you want to get a riven for it (or have one already), [this](/guide/other-builds#kuva-ogris) might be the build you want.
 
 :::warning ATTENTION:
 All the following builds are meant for Chroma only, as Chroma's Vex Armor ability is additive to damage mods so Chroma does not run +damage% mods if he doesn't have to.
 
-For builds for other frames running Eclipse, consult the [Eclipse Builds](/beginner/eclipse-builds) page.
+For builds for other frames running Eclipse, consult the [Eclipse Builds](/guide/eclipse-builds) page.
 :::
 
-#### Secondary: [Sicarus Prime](/beginner/vex-armor-builds#sicarus-prime-incarnoff)
+#### Secondary: [Sicarus Prime](/guide/chroma-builds#sicarus-prime-incarnoff)
 
 ![sickrus](https://cdn.profit-taker.com/u/sicarusbuildgrey.png)
 
@@ -89,7 +89,7 @@ EVO IV: Commodore's Fortune +14% Base CC.
 
 Example Build:
 ![zaw](https://cdn.profit-taker.com/u/balla_eclipse.png)
-Contagion can be unranked, Exposure often needs at least about rank 2. The Zaw Strike of choice is Balla, because it throws at the beginning of the animation, allowing throws in quick succession. Read more about this [here](/beginner/contagion-zaws)
+Contagion can be unranked, Exposure often needs at least about rank 2. The Zaw Strike of choice is Balla, because it throws at the beginning of the animation, allowing throws in quick succession. Read more about this [here](/codex/contagion-zaws)
 
 Exodia Contagion is thrown by double jumping, aim gliding, and meleeing. This allows you to shoot your secondary while you fall after throwing your zaw, when you do it quickly.
 
@@ -112,22 +112,22 @@ Here is a real life example of quickly throwing and shooting (7&thinsp;mb):
 </div>
 I use the scroll wheel to jump and i shoot with 2 in this example. This allows me to do the contagion-shooting-loop very quickly.
 
-#### Archgun in hand: [Mausolon](/beginner/vex-armor-builds#mausolon-build)
+#### Archgun in hand: [Mausolon](/guide/chroma-builds#mausolon-build)
 
 ![maus](https://cdn.profit-taker.com/u/Mausolon_Build.png)
 
 Benefits from Warframe buffs such as Vex Armor or Reinforced bond, is limited by long call down animation and ammo economy. If You waste too many bullets, you will have to deal with long cooldowns. That's why this build has Ammo Chain, because the cooldown is based on %ammo used.
 
-#### Archgun on mech: [Corvas](/beginner/other-builds#corvas-build-non-prime) <span style="color: red;">(non-Prime)</span>
+#### Archgun on mech: [Corvas](/guide/other-builds#corvas-build-non-prime) <span style="color: red;">(non-Prime)</span>
 
 ![cornbass](https://cdn.profit-taker.com/u/corvas_mech.png)
 Allows you to survive more easily, does not have to deal with cooldowns. Usually slightly more annoying to use because of a higher aiming point and the mech being completely unbuffed.
 
 ### Warframe: Chroma
 
-Here is an example build for Chroma (see more [here](/beginner/vex-armor-builds)): 
+Here is an example build for Chroma (see more [here](/guide/chroma-builds)): 
 ![chroma build](https://cdn.profit-taker.com/u/Generic_Vex_Armor.png)
-:::info See more build notes [here](/beginner/vex-armor-builds#generic-vex-armor-shock-trooper)
+:::info See more build notes [here](/guide/chroma-builds#generic-vex-armor-shock-trooper)
 This build utilizes the Shock Trooper Helminth Ability to cover electric, allowing you to cover all elements if you use an on call crewmate.
 - Handspring can be replaced with Primed Sure Footed if you have it.
 - Decaying Dragon key is recommended so you can stack your damage buff faster.
@@ -137,7 +137,7 @@ This build utilizes the Shock Trooper Helminth Ability to cover electric, allowi
 - Shards: either duration (red), strength (red), starting energy (yellow) or max energy (blue) 
 :::
 
-For best credit gains, you need at least one [Chroma](/beginner/vex-armor-builds) in your squad. To make sure you actually benefit from it, you might as well run it yourself.
+For best credit gains, you need at least one [Chroma](/guide/chroma-builds) in your squad. To make sure you actually benefit from it, you might as well run it yourself.
 
 Chroma has the ability to double credits (double dipping with things like credit blessing) by picking up credits in range of his effigy ability, see [How To Place Effigy](https://youtu.be/7-4iw1YjN6A?si=fbrp4014gVYHQHR0) for how you can place it. 
 :::warning Attention:
@@ -165,7 +165,7 @@ Recommended weapons are (click them to see the builds):
 
 <u>Secondary:</u> [Catabolyst](https://overframe.gg/build/518597/), [__Synoid Gammacor__](https://overframe.gg/build/626714/)
 
-<u>Primary:</u> [Opticor Vandal](/advanced/solo-speedrun-builds.html#crewmate-opticor-vandal), [__Kuva Chakkhurr__](https://overframe.gg/build/626709/), [__Torid__](https://overframe.gg/build/771316/), [__Amprex__](https://overframe.gg/build/599307/) 
+<u>Primary:</u> [Opticor Vandal](/guide/other-builds.html#crewmate-opticor-vandal), [__Kuva Chakkhurr__](https://overframe.gg/build/626709/), [__Torid__](https://overframe.gg/build/771316/), [__Amprex__](https://overframe.gg/build/599307/) 
 
 :::tip Note:
 All weapons except Chakkhurr need your Crewmate to be buffed with Vex Armor or Total Eclipse to work well.

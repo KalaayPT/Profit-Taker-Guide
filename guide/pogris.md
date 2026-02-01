@@ -4,7 +4,7 @@ Pogris is the name Speedrunners have given to using a Kuva Ogris with Nightwatch
 
 ### **Why Pogris?**
 
-What Pogris brings to the table is briefly described and demonstrated [earlier](/beginner/creating-builds.html#kuva-ogris) in Creating Builds when going over potential pylon weapons, but the gist is as follows:
+What Pogris brings to the table is briefly described and demonstrated [earlier](/codex/creating-builds.html#kuva-ogris) in Creating Builds when going over potential pylon weapons, but the gist is as follows:
 
 Nightwatch napalm is an Ogris augment mod that leaves a damage-over-time effect where the rockets land which can damage pylons. By using this to our advantage, it is possible to destroy pylons as they land, massively speeding up solo pylons and dethroning a long-standing pillar of Profit-Taker speedrunning, the Zenith. To understand why, let's look at the advantages and disadvantages of using Pogris, and what can be done about the disadvantages.
 
@@ -14,7 +14,7 @@ Nightwatch napalm is an Ogris augment mod that leaves a damage-over-time effect 
 
 :::danger Disadvantages:
 
-Kuva Ogris cannot deal enough damage to Profit-Taker’s shields with a Pogris build, however, this isn’t a major problem when using the On Call strats mentioned [__later__](/advanced/speedrun-strats.html#on-call-strats), as they can cover all of Zenith’s elements without any time loss from having to swap weapons. Swapping weapons loses over half a second, and this is extremely bad in shield phases that ideally take under a second once damage starts being dealt. All in all, this is a disadvantage that is already mitigated.
+Kuva Ogris cannot deal enough damage to Profit-Taker’s shields with a Pogris build, however, this isn’t a major problem when using the On Call strats mentioned [__later__](/guide/speedrun-strats.html#on-call-strats), as they can cover all of Zenith’s elements without any time loss from having to swap weapons. Swapping weapons loses over half a second, and this is extremely bad in shield phases that ideally take under a second once damage starts being dealt. All in all, this is a disadvantage that is already mitigated.
 
 However, there is another major drawback to Pogris: there is very little build variety for Kuva Ogris and Frame at the high end. This is elaborated upon more in Builds (see below), but TL;DR: without a good riven, Volt needs multiple red archon shards, maxed sling strength from the Madurai focus school, no QoL mods, and there’s only one viable Pogris build  (maybe 2 if you stretch it), with what amounts to three mods of options. This means that if you’re using the meta builds and you just can’t get fast enough to survive or you don’t want to spam energy & shield pads, you’re SoL.
 :::

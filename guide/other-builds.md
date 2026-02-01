@@ -52,7 +52,7 @@ Charged Velocitus often has hitbox problems, so you will likely have to go under
 
 ## **On-Call Crew**
 
-As the crewmate (more on this [__later__](/advanced/speedrun-strats.html#on-call-strats)) only needs to cover toxin (or electricity with Saryn), basically any weapon works as long as it:
+As the crewmate (more on this [__later__](/guide/speedrun-strats.html#on-call-strats)) only needs to cover toxin (or electricity with Saryn), basically any weapon works as long as it:
 
 - Has decent critical stats and good damage.
 - Has a good enough fire rate.
@@ -68,7 +68,7 @@ An example of a usable weapon is the Opticor Vandal, modded for toxin:
 
 - Crewmates don't use rivens or conditional arcanes.
 - An elite crewmate with the proper crit chance effect can increase your dps.
-- Other usable weapons are found in [__On Call Strats__](/advanced/speedrun-strats.html#on-call-strats)
+- Other usable weapons are found in [__On Call Strats__](/guide/speedrun-strats.html#on-call-strats)
 :::
 
 ## **Companion Builds**

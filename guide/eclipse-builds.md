@@ -99,7 +99,7 @@ __Primary weapons:__
 
 :::info [*__Overframe Link__*](https://overframe.gg/build/771293/)
 
-- since Dante Unbound, Pogris needs 427% to only take 3 instead of 4 damage ticks to destroy Pylons with the provided frame build, Sling str and 5 str shards. An alternative to this approach would be to [__double shot pylons__](/advanced/speedrun-strats.html#fast-pogris-pylons-double-shot-void-strike) to require two ticks instead
+- since Dante Unbound, Pogris needs 427% to only take 3 instead of 4 damage ticks to destroy Pylons with the provided frame build, Sling str and 5 str shards. An alternative to this approach would be to [__double shot pylons__](/guide/speedrun-strats.html#fast-pogris-pylons-double-shot-void-strike) to require two ticks instead
 - Nightwatch Napalm will damage Pylons as long as they are in range, even through the Pylon bubble.
 - Damage is extremely sensitive to warframe power strength, very few things will increase Nightwatch Napalm damage.
 - Normal Ogris also works well enough if Kuva Ogris feels too grindy. Does less damage but only needs one ammo mod. Damage can be offset a bit with Heavy Caliber, but that makes it less accurate. The other ammo mod can be replaced with Firestorm on a standard Ogris, for slightly less required accuracy especially if combined with Heavy Caliber.
@@ -169,7 +169,7 @@ __Melee weapon:__
 - Rank 0 Melee Exposure is just fine on most builds.
 - Rank >0 Exodia Contagion is not necessary.
 - If you don't oneshot elements, consider replacing attack speed mods with Primed Pressure Point and/or Organ shatter or modding for more strength.
-- The Zaw is Balla+Peye+Vargeet II Jai. If you have a different strike, see [__How to Build A Zaw__](/beginner/creating-builds.html#zaw-part-setups) for making a Zaw with a different strike.
+- The Zaw is Balla+Peye+Vargeet II Jai. If you have a different strike, see [__How to Build A Zaw__](/codex/creating-builds.html#zaw-part-setups) for making a Zaw with a different strike.
 :::
 
 __Heavy weapon:__

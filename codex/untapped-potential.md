@@ -8,7 +8,7 @@ it is possible to do shields in 4 or 3 elements instead of 5, potentially saving
 
 **__Nova AG:__**
 
-[__As noted in the squad section of the guide__](/advanced/squad-speedruns.html#squad-nova), Nova is an option to clear the first leg phase. This has not been used for a time save so far.
+Nova is, in theory, an option to clear the first leg phase. This has not been used for a time save so far as it is mostly very impractical and overshadowed by Mech + Jade.
 
 Example (click to play/pause):
 

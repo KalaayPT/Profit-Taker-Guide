@@ -75,7 +75,7 @@ Secondary: Viral(Cold+**Toxin**), Heat, innate Mag, and optional Radiation
 
 Melee (Contagion): Gas(**Toxin**\+Heat), Cold, innate IPS, Blast (covered by Exodia Contagion), Corrosive (covered by Melee Exposure),  Radiation, and optional Magnetic
 
-[__Operator__](/advanced/speedrun-strats.html#operator-element)/Volt Shield/Shock Trooper: Electric
+[__Operator__](/guide/speedrun-strats.html#operator-element)/Volt Shield/Shock Trooper: Electric
 
 With this combination, you're only missing Toxin, and there is no way to fit it in the builds without creating the need to switch to your primary.
 :::
@@ -86,7 +86,7 @@ If you try putting it in place of any of the other modded single-stat elements, 
 
 - Use an On Call Crew to cover toxin
 - Sacrifice Pylon performance and use a Zenith with toxin on it
-- Use the [Arquebex](/beginner/other-builds.html#arquebex-build-used-to-clear-toxin-shield) (Voidrigs's 4th ability) or an Archgun on your mech to cover toxin
+- Use the [Arquebex](/guide/other-builds.html#arquebex-build-used-to-clear-toxin-shield) (Voidrigs's 4th ability) or an Archgun on your mech to cover toxin
 - Use Saryn
 - Get a friend(s) to use an alternate elemental config that covers Toxin
 :::
@@ -95,7 +95,7 @@ Going more in depth on how to cover this last missing element:
 
 Saryn can do Toxin via her third ability, Toxic Lash. Meaning she can do every element if she's using Shock Trooper, however - this means she has to remove Eclipse.
 
-For the first solution, you must have an On Call Crew set up properly, [__which is explained in depth later in speedrun strats.__](/advanced/speedrun-strats.html#on-call-strats)
+For the first solution, you must have an On Call Crew set up properly, [__which is explained in depth later in speedrun strats.__](/guide/speedrun-strats.html#on-call-strats)
 
 With a properly set up On Call Crew, you have a way to do missing elements without having to swap weapons.
 
@@ -144,7 +144,7 @@ Ideally, the single stat element you mod onto a weapon is the one covered by the
 As a bonus, Profit-Taker runners also look for certain things about a weapon that results in faster elements, weapons like this include:
 
 - Tenet Detron has so much damage and so many projectiles that it can clear 4 elements with one shot given perfect rng.
-- Exodia Contagion, a Zaw Arcane that adds a grenade-like attack with 3 separate damage instances. Each one of said instances do the modded elements, meaning it is not uncommon to throw Contagion and clear 2-3 elements. For more information, check the [__Zaw guide__](/beginner/contagion-zaws)
+- Exodia Contagion, a Zaw Arcane that adds a grenade-like attack with 3 separate damage instances. Each one of said instances do the modded elements, meaning it is not uncommon to throw Contagion and clear 2-3 elements. For more information, check the [__Zaw guide__](/codex/contagion-zaws)
 
 A generic weapon build will look something like this:
 
@@ -169,7 +169,7 @@ Trying to figure out elemental combinations can get quite confusing, this image 
 
 ##### __Zaw Part setups:__
 
-Contagion deals a lot of damage, meaning Zaws can focus on Quality of Life and reliability.  When choosing parts for your Zaw, you want to go for a Scythe, Staff, or Polearm Zaw with max attack speed and critical chance. As was said [__here__](/beginner/contagion-zaws#melee-mechanics), Scythes, Staves, and Polearms don’t suffer from air lock, making them the weapon of choice. Attack speed will make the Zaw more forgiving and easier to use while critical chance guarantees a reliable damage output. If you’re looking for a Zaw Riven, see the graph below for strikes with good Riven disposition. If you’re looking for what mod config to use, [__see the previous section__](/beginner/creating-builds.html#weapon-choice-and-builds).
+Contagion deals a lot of damage, meaning Zaws can focus on Quality of Life and reliability.  When choosing parts for your Zaw, you want to go for a Scythe, Staff, or Polearm Zaw with max attack speed and critical chance. As was said [__here__](/codex/contagion-zaws#melee-mechanics), Scythes, Staves, and Polearms don’t suffer from air lock, making them the weapon of choice. Attack speed will make the Zaw more forgiving and easier to use while critical chance guarantees a reliable damage output. If you’re looking for a Zaw Riven, see the graph below for strikes with good Riven disposition. If you’re looking for what mod config to use, [__see the previous section__](/codex/creating-builds.html#weapon-choice-and-builds).
 
 Seekalla is the best grip for most strikes because it is the highest attack speed two-handed grip. It is primarily used for Polearms and Staves. Peye is the highest attack speed one-handed grip and is primarily used for Daggers and Scythes.
 
@@ -211,7 +211,7 @@ Before getting into the specifics about Archgun setups, make sure that no matter
 :::danger Cons:
 
 - Has a \~3s delay to call down Archgun. The animation starts once you put away your current weapon and takes place over a fixed amount of time. If you have a scanner out, the animation will start immediately
-- Due to the Archgun cooldown, explained in [Basic Principles](/beginner/basic-principles#_6-clearing-the-armor-phase), many Archguns miss out on DPS to slot Ammo Chain.
+- Due to the Archgun cooldown, explained in [Basic Principles](/guide/basic-principles#_6-clearing-the-armor-phase), many Archguns miss out on DPS to slot Ammo Chain.
 - You are completely exposed when calling down Archgun, requiring you to either get lucky or plan your positioning around calling down Archgun.
 - After the first Shield Phase, it is extremely common for Profit-Taker to do her laser attack while you’re calling Archgun. Press a/d + slide right before calling Archgun to slide out of the way of this attack, your momentum won’t stop immediately when you’re in the call animation, you need the Archgun deployer on a keybind to do this.
 :::
@@ -313,7 +313,7 @@ The three weapon [types] that meet these criteria, in order of speed:
 
 ##### Ogris / Kuva Ogris
 
-Ogris has a mod called Nightwatch Napalm, which leaves a large area of effect where the rockets land that lasts six seconds. This AoE can damage pylons through the pylon bubble, making it possible to destroy a pylon after it has landed, and if a pylon lands in the AoE, it can be quickly destroyed. This makes the Ogris several seconds faster than the next best option, as it isn’t solely reliant on reaction time (and aim) after the pylons have landed, but rather predicting where the pylons will land and pre-firing them. The Kuva Ogris is best for this as the progenitor damage bonus is one of the only damage increases that apply to Nightwatch Napalm. This is a speedrun strat known in the community as “Pogris”, more information on it [__here__](/advanced/speedrun-strats.html#pogris). Pogris is unable to effectively damage shields, so it must also be paired with a good [__On Call Crew__](/advanced/speedrun-strats.html#on-call-strats).
+Ogris has a mod called Nightwatch Napalm, which leaves a large area of effect where the rockets land that lasts six seconds. This AoE can damage pylons through the pylon bubble, making it possible to destroy a pylon after it has landed, and if a pylon lands in the AoE, it can be quickly destroyed. This makes the Ogris several seconds faster than the next best option, as it isn’t solely reliant on reaction time (and aim) after the pylons have landed, but rather predicting where the pylons will land and pre-firing them. The Kuva Ogris is best for this as the progenitor damage bonus is one of the only damage increases that apply to Nightwatch Napalm. This is a speedrun strat known in the community as “Pogris”, more information on it [__here__](/guide/speedrun-strats.html#pogris). Pogris is unable to effectively damage shields, so it must also be paired with a good [__On Call Crew__](/guide/speedrun-strats.html#on-call-strats).
 
 Video (click to play/pause):
 

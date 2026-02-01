@@ -46,13 +46,13 @@ Both of these images were taken during the same phase on mountain spawn.
 
 There are many subtle (and not so subtle) differences between how Profit-Taker holds herself now vs how she used to hold herself. The exact cause is not known, but this bug is an extreme inconvenience and does not appear to be intentional.
 
-One way to work around this issue is [__Late Start Strat__](/advanced/speedrun-strats.html#late-start-strat).
+One way to work around this issue is [__Late Start Strat__](/guide/speedrun-strats.html#late-start-strat).
 
 ## **AoE Damage Bugs**
 
 There are several major bugs related to weapons that deal AoE damage. Some of them are well-understood, and some aren’t.
 
-The most noticeable AoE damage bug led to the creation of [__Ass Meta__](/advanced/speedrun-strats.html#ass-meta-with-cycron-crew). Basically, if an explosion doesn’t damage the Profit-Taker’s “head” hitbox it will do no damage. The “head” is inside the main body close to the center of Profit-Taker’s belly. Its exact location shifts depending on Profit-Taker’s animation. See [__\[Profit-Taker\] AoE weapons haven't dealt damage in the past 1.5 years. - Mission - Warframe Forums__](https://forums.warframe.com/topic/1228081-profit-taker-aoe-weapons-havent-dealt-damage-in-the-past-15-years/) for the extensive report.
+The most noticeable AoE damage bug led to the creation of [__Ass Meta__](/guide/speedrun-strats.html#ass-meta-with-cycron-crew). Basically, if an explosion doesn’t damage the Profit-Taker’s “head” hitbox it will do no damage. The “head” is inside the main body close to the center of Profit-Taker’s belly. Its exact location shifts depending on Profit-Taker’s animation. See [__\[Profit-Taker\] AoE weapons haven't dealt damage in the past 1.5 years. - Mission - Warframe Forums__](https://forums.warframe.com/topic/1228081-profit-taker-aoe-weapons-havent-dealt-damage-in-the-past-15-years/) for the extensive report.
 
 <div style="width: 100%; text-align: left;">
     <img src="https://cdn.profit-taker.com/u/assmeta.png" alt="assmeta" style="width: 100%; height: auto;">

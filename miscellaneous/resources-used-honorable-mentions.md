@@ -97,7 +97,7 @@ This is the guide as it was the day the Jan 2023 update dropped.
 
 [https://tinyurl.com/DantePogris](https://tinyurl.com/DantePogris)
 
-now integrated into [Speedrun Strats](/advanced/speedrun-strats.html#fast-pogris-pylons-double-shot-void-strike)
+now integrated into [Speedrun Strats](/guide/speedrun-strats.html#fast-pogris-pylons-double-shot-void-strike)
 
 **Neemiii’s Profit-Taker loadout and Riven guides (posted on the Warframe Community Discord):**
 
@@ -150,4 +150,4 @@ Written during the Saryn meta, this guide covers many important nuances of said 
 
 [**__The six principles of Profit-Taker - A speedrunner's guide. : r/Warframe__	**](https://www.reddit.com/r/Warframe/comments/hft48g/the_six_principles_of_profittaker_a_speedrunners/)
 
-Which have been integrated into this guide as the [__build basics__](/beginner/basic-principles.html) section. This was the first good Profit-Taker guide, but it really shows its age.
+Which have been integrated into this guide as the [__build basics__](/guide/basic-principles.html) section. This was the first good Profit-Taker guide, but it really shows its age.
