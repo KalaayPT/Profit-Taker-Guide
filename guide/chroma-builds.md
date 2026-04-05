@@ -32,6 +32,7 @@ Generic (Shock Trooper)
 
 - Primary Overcharge will proc off Archwing energy
 - Nightwatch Napalm will damage Pylons as long as they are in range, even through the Pylon bubble. Prefiring pylon locations is a considerable timesave.
+- Normal Ogris can be used theoretically, but its slower and also needs significant investment, so you're better off just getting the Kuva variant
 
 
 ### Sicarus Prime Incarnoff
