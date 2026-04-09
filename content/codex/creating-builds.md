@@ -215,9 +215,12 @@ Before getting into the specifics about Archgun setups, make sure that no matter
 
 ##### __Heavy Weapon__
 
-> [!IMPORTANT] Pros:
-> - Has access to frame damage buffs such as Eclipse or Vex Armor. This means that once you have your Archgun called down, it will shred Profit-Taker legs
-> - Is fairly close to the ground, and you can crouch to get lower, letting you get a decent view of all legs from the front
+:::tip
+**Pros:**
+
+Has access to frame damage buffs such as Eclipse or Vex Armor. This means that once you have your Archgun called down, it will shred Profit-Taker legs
+Is fairly close to the ground, and you can crouch to get lower, letting you get a decent view of all legs from the front
+:::
 
 :::caution
 **Cons:**
@@ -265,10 +268,12 @@ Cons:
 
 ##### __Mech__
 
-> [!IMPORTANT] Pros:
->- Instant summon
->- Fairly tanky, don’t need to worry about dying
->- This also applies to general survivability: not being exposed while doing the armor phase will make you die less overall
+:::tip
+**Pros:**
+Instant summon
+Fairly tanky, don’t need to worry about dying
+This also applies to general survivability: not being exposed while doing the armor phase will make you die less overall
+:::
 
 :::caution
 **Cons:**
@@ -349,4 +354,3 @@ Video (click to play/pause):
 This Archgun is a bit unusual in that it requires a specific setup to give meaningful results. To use the Fluctus to take care of Pylons, you must be using a Zephyr with their Turbulence augment. This gives the Fluctus enough range to hit Pylons from far away. This is less practical than any of the other options and it's only marginally better than using an Amp, but it is an option.
 
 Your alternative to using one of these four weapons is hopping into Archwing and flying to the Pylons.
-

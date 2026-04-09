@@ -32,6 +32,7 @@ const ui = computed(() =>
     to: !!props.to,
   }),
 );
+const hasExplicitTitle = computed(() => !!props.title || !!slots.title);
 const target = computed(() =>
   props.target ||
   (!!props.to && typeof props.to === "string" && props.to.startsWith("http")
@@ -53,13 +54,18 @@ const target = computed(() =>
       :class="ui.externalIcon({ class: uiProp?.externalIcon })"
     />
 
-    <div class="min-w-0 flex-1 *:first:mt-0 *:last:mb-0">
+    <div v-if="title || !!slots.title" class="contents">
       <p v-if="title || !!slots.title" class="mr-1 inline font-medium">
         <slot name="title" mdc-unwrap="p">
           {{ title }}
         </slot>
       </p>
+    </div>
 
+    <div
+      class="contents"
+      :class="!hasExplicitTitle ? '[&>p:first-child]:inline [&>p:first-child]:mr-1 [&>p:first-child]:my-0' : ''"
+    >
       <slot />
     </div>
   </div>

@@ -172,7 +172,7 @@ In terms of weapon choices, as long as it has high damage and is crit-based, it 
 
 Recommended weapons are (click them to see the builds):
 
-*Secondary:* \[Catabolyst]\(<<https://overframe.gg/build/518597/&#x29&#x3E&#x3E;;;, **[Synoid Gammacor](https://overframe.gg/build/626714/)**
+*Secondary:* \[Catabolyst]\(https://overframe.gg/build/518597/) , **[Synoid Gammacor](https://overframe.gg/build/626714/)**
 
 *Primary:* \[Opticor Vandal]\(/guide/other-builds.html#crewmate-opticor-vandal), **[Kuva Chakkhurr](https://overframe.gg/build/626709/)**, **[Torid](https://overframe.gg/build/771316/)**, **[Amprex](https://overframe.gg/build/599307/)**
 

@@ -1,4 +1,8 @@
 export default defineAppConfig({
+  github: {
+    url: "https://github.com/KalaayPT/Profit-Taker-Guide",
+    branch: "development",
+  },
   ui: {
     colors: {
       primary: "cyan",

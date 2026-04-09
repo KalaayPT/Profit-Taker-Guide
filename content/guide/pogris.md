@@ -12,9 +12,12 @@ What Pogris brings to the table is briefly described and demonstrated [earlier](
 
 Nightwatch napalm is an Ogris augment mod that leaves a damage-over-time effect where the rockets land which can damage pylons. By using this to our advantage, it is possible to destroy pylons as they land, massively speeding up solo pylons and dethroning a long-standing pillar of Profit-Taker speedrunning, the Zenith. To understand why, let's look at the advantages and disadvantages of using Pogris, and what can be done about the disadvantages.
 
-> [!IMPORTANT] Advantages:
-> In solos, Pogris is several seconds faster than the fastest solo Zenith time and allows one person using Pogris to do the work of an entire squad using Zenith.
-> It is also significantly more comfortable and forgiving than Zenith.
+:::tip
+**Advantages:**
+
+In solos, Pogris is several seconds faster than the fastest solo Zenith time and allows one person using Pogris to do the work of an entire squad using Zenith.
+It is also significantly more comfortable and forgiving than Zenith.
+:::
 
 :::caution
 **Disadvantages:**
