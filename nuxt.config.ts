@@ -8,6 +8,28 @@ const isCloudflarePagesBuild =
 const studioMediaPrefix = 'u'
 const cloudflareBlobBucketName =
   process.env.NUXT_HUB_BLOB_BUCKET_NAME || 'profit-taker-guide-media'
+const cloudflareD1DatabaseId =
+  process.env.CLOUDFLARE_D1_DATABASE_ID
+  || process.env.NUXT_HUB_CLOUDFLARE_DATABASE_ID
+const cloudflareD1DatabaseName =
+  process.env.CLOUDFLARE_D1_DATABASE_NAME
+  || process.env.NUXT_HUB_CLOUDFLARE_DATABASE_NAME
+const cloudflareD1PreviewDatabaseId =
+  process.env.CLOUDFLARE_D1_PREVIEW_DATABASE_ID
+  || process.env.NUXT_HUB_CLOUDFLARE_PREVIEW_DATABASE_ID
+const cloudflareD1Bindings =
+  isCloudflarePagesBuild && cloudflareD1DatabaseId && cloudflareD1DatabaseName
+    ? [
+        {
+          binding: 'DB',
+          database_name: cloudflareD1DatabaseName,
+          database_id: cloudflareD1DatabaseId,
+          ...(cloudflareD1PreviewDatabaseId
+            ? { preview_database_id: cloudflareD1PreviewDatabaseId }
+            : {}),
+        },
+      ]
+    : undefined
 
 export default defineNuxtConfig({
   extends: ["docus"],
@@ -60,6 +82,15 @@ export default defineNuxtConfig({
           bucketName: cloudflareBlobBucketName,
         }
       : true,
+  },
+  nitro: {
+    cloudflare: {
+      wrangler: cloudflareD1Bindings
+        ? {
+            d1_databases: cloudflareD1Bindings,
+          }
+        : {},
+    },
   },
   css: ["~/assets/css/main.css"],
   ogImage: {
