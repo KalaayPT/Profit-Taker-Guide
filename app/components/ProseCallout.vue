@@ -64,7 +64,10 @@ const target = computed(() =>
 
     <div
       class="contents"
-      :class="!hasExplicitTitle ? '[&>p:first-child]:inline [&>p:first-child]:mr-1 [&>p:first-child]:my-0' : ''"
+      :class="[
+        '[&>p]:my-1.5 [&>ul]:my-1.5 [&>ol]:my-1.5 [&>div]:my-1.5',
+        !hasExplicitTitle ? '[&>p:first-child]:inline [&>p:first-child]:mr-1 [&>p:first-child]:my-0' : '',
+      ]"
     >
       <slot />
     </div>

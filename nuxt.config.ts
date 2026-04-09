@@ -11,6 +11,16 @@ const cloudflareBlobBucketName =
 
 export default defineNuxtConfig({
   extends: ["docus"],
+  content: {
+    build: {
+      markdown: {
+        toc: {
+          depth: 4,
+          searchDepth: 4,
+        },
+      },
+    },
+  },
   mcp: {
     enabled: false,
   },

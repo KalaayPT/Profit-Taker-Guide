@@ -10,6 +10,8 @@ export default defineAppConfig({
     },
     header: {
       slots: {
+        root:
+          "bg-default/60 backdrop-blur border-b border-default h-(--ui-header-height) sticky top-0 z-50",
         container:
           "relative lg:grid lg:grid-cols-[auto_minmax(0,1fr)_auto] lg:justify-normal",
         left: "lg:flex-none",

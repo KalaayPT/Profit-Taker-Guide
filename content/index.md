@@ -95,7 +95,8 @@ What this guide covers
     linear-gradient(180deg, rgba(12, 43, 55, 0.62) 0%, rgba(24, 82, 103, 0.4) 22%, rgba(194, 236, 241, 0.5) 52%, rgba(248, 251, 252, 0.86) 76%, #ffffff 100%),
     url("/vallis_dew.webp") center top / cover no-repeat;
   --landing-backdrop-opacity: 0.97;
-  --landing-title-gradient: linear-gradient(90deg, #183946 0%, #1f5f73 24%, #2d8da6 48%, #5866b0 76%, #322a6f 100%);
+  --landing-title-gradient: linear-gradient(90deg, #060b0d 0%, #143944 24%, #22687a 48%, #38468b 76%, #2e2477 100%);
+  --landing-description-color: rgba(17, 28, 36, 0.86);
 }
 
 .dark .landing-shell {
@@ -104,6 +105,7 @@ What this guide covers
     url("/vallis_midnight.webp") center top / cover no-repeat;
   --landing-backdrop-opacity: 0.95;
   --landing-title-gradient: linear-gradient(90deg, #b8fbff 0%, #95f5ff 24%, #68e5ff 48%, #7f78ff 76%, #322a6f 100%);
+  --landing-description-color: #9f9f9c;
 }
 
 .landing-shell::before {
@@ -127,6 +129,10 @@ What this guide covers
   color: transparent;
 }
 
+.landing-hero [data-slot="description"] {
+  color: var(--landing-description-color);
+}
+
 .landing-features {
   margin-top: -0.75rem;
 }
@@ -136,7 +142,7 @@ What this guide covers
   isolation: isolate;
 }
 
-.hero-orb-wrap::before {
+.dark .hero-orb-wrap::before {
   content: "";
   position: absolute;
   inset: 18%;
