@@ -1,18 +1,15 @@
 {
-  "devDependencies": {
-    "@nolebase/vitepress-plugin-highlight-targeted-heading": "^2.8.1",
-    "@nolebase/vitepress-plugin-inline-link-preview": "^2.8.1",
-    "vitepress": "^1.4.0",
-    "vitepress-plugin-tabs": "^0.5.0"
-  },
+  "name": "Profit-Taker-Guide",
   "scripts": {
-    "dev": "vitepress dev",
-    "build": "vitepress build",
-    "preview": "vitepress preview"
+    "dev": "nuxt dev",
+    "build": "nuxt build",
+    "build:cloudflare": "nuxt build --preset=cloudflare_pages"
   },
   "dependencies": {
-    "@vitejs/plugin-vue": "^5.1.4",
-    "vite": "^5.4.10",
-    "vue": "^3.5.12"
+    "better-sqlite3": "^12.6.2",
+    "docus": "latest",
+    "nuxt": "^4.3.1",
+    "nuxt-component-meta": "0.17.2",
+    "nuxt-studio": "1.5.1"
   }
 }

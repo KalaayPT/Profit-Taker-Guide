@@ -1,0 +1,15 @@
+.pt-sidebar :is(button, a[data-slot="link"]):hover,
+.pt-sidebar :is(button, a[data-slot="link"]):hover [data-slot^="link"] {
+  color: var(--ui-primary) !important;
+}
+
+button[data-slot="trigger"]:not(:disabled) {
+  cursor: pointer;
+}
+
+button[data-slot="trigger"][data-state="inactive"]:not(:disabled):hover,
+button[data-slot="trigger"][data-state="inactive"]:not(:disabled):hover [data-slot="label"],
+button[data-slot="trigger"][data-state="inactive"]:not(:disabled):hover [data-slot="leadingIcon"],
+button[data-slot="trigger"][data-state="inactive"]:not(:disabled):hover [data-slot="trailingBadge"] {
+  color: var(--ui-primary) !important;
+}
