@@ -8,7 +8,7 @@ seo:
 ---
 orientation: horizontal
 ui:
-  container: py-14 sm:py-16 lg:py-20 gap-8 sm:gap-y-8 lg:gap-8
+  container: pt-12 pb-4 sm:pt-14 sm:pb-6 lg:pt-16 lg:pb-6 gap-8 sm:gap-y-8 lg:gap-8
 ---
 #title
 Profit-Taker Guide
@@ -38,6 +38,10 @@ a community effort by uumm, Mebius, Iterniam, Kalaay and others
 ::
 
 ::u-page-section
+---
+ui:
+  container: pt-0 sm:pt-2 lg:pt-2
+---
 #title
 What this guide covers
 

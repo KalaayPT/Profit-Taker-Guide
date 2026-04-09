@@ -245,11 +245,9 @@ Cons:
 
 Video (click to play/pause):
 
-<div style="padding-bottom: 20px;">
-<video width="100%" onclick="this.paused?this.play():this.pause();arguments[0].preventDefault();" loop muted>
- <source type="video/mp4" src="https://cdn.profit-taker.com/u/mausolonarmor.mp4">
-</video>
-</div>
+::div{style="padding-bottom: 20px;"}
+:video{src="/u/mausolonarmor.mp4" width="100%" muted loop}
+::
 
 __Prisma Dual Decurion (Heavy Weapon):__
 
@@ -332,11 +330,9 @@ Ogris has a mod called Nightwatch Napalm, which leaves a large area of effect wh
 
 Video (click to play/pause):
 
-<div style="padding-bottom: 20px;">
-<video height="100" onclick="this.paused?this.play():this.pause();arguments[0].preventDefault();" loop muted>
- <source type="video/mp4" src="https://cdn.profit-taker.com/u/ogrispylons.mp4">
-</video>
-</div>
+::div{style="padding-bottom: 20px;"}
+:video{src="/u/ogrispylons.mp4" height="100" muted loop}
+::
 
 ##### Zenith
 
@@ -344,14 +340,13 @@ Infinite punch-through allows the Zenith to go through mountains to hit Pylons f
 
 Video (click to play/pause):
 
-<div style="padding-bottom: 20px;">
-<video width="100%" onclick="this.paused?this.play():this.pause();arguments[0].preventDefault();" loop muted>
- <source type="video/mp4" src="https://cdn.profit-taker.com/u/zenithpylons.mp4">
-</video>
-</div>
+::div{style="padding-bottom: 20px;"}
+:video{src="/u/zenithpylons.mp4" width="100%" muted loop}
+::
 
 ##### Fluctus
 
 This Archgun is a bit unusual in that it requires a specific setup to give meaningful results. To use the Fluctus to take care of Pylons, you must be using a Zephyr with their Turbulence augment. This gives the Fluctus enough range to hit Pylons from far away. This is less practical than any of the other options and it's only marginally better than using an Amp, but it is an option.
 
 Your alternative to using one of these four weapons is hopping into Archwing and flying to the Pylons.
+

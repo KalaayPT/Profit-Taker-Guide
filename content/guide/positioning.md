@@ -18,22 +18,18 @@ Profit-Taker slams the ground, sending out horizontal magnetic waves in all dire
 
 Video (click to play/pause):
 
-<div style="padding-bottom: 20px;">
-<video width="100%" onclick="this.paused?this.play():this.pause();arguments[0].preventDefault();" loop muted>
- <source type="video/mp4" src="https://cdn.profit-taker.com/u/empslam.mp4">
-</video>
-</div>
+::div{style="padding-bottom: 20px;"}
+:video{src="/u/empslam.mp4" width="100%" muted loop}
+::
 
 ### **The Laser Sweep attack**
 where Profit-Taker fires a massive laser that can deal thousands of damage in as little as three frames. Profit-Taker will only use the attack during or directly after the Shield Phase if you stand directly in front, to the sides, or behind her. If you notice the attack early, it is easy enough to dodge. Keep an eye out for when the legs ‘snap’ into position for the attack and dodge by not being directly in front of her. Don’t eat the lasers, they’re bad for your health.
 
 Video (click to play/pause):
 
-<div style="padding-bottom: 20px;">
-<video width="100%" onclick="this.paused?this.play():this.pause();arguments[0].preventDefault();" loop muted>
- <source type="video/mp4" src="https://cdn.profit-taker.com/u/ptlaser.mp4">
-</video>
-</div>
+::div{style="padding-bottom: 20px;"}
+:video{src="/u/ptlaser.mp4" width="100%" muted loop}
+::
 
 [*__pt laser attack (Youtube)__*](https://www.youtube.com/watch?v=MR1mRcnfrEk)
 
@@ -43,22 +39,18 @@ In this attack, she shoots a fiery ball in front of her that explodes a few seco
 
 Video (click to play/pause):
 
-<div style="padding-bottom: 20px;">
-<video width="100%" onclick="this.paused?this.play():this.pause();arguments[0].preventDefault();" loop muted>
- <source type="video/mp4" src="https://cdn.profit-taker.com/u/mortar.mp4">
-</video>
-</div>
+::div{style="padding-bottom: 20px;"}
+:video{src="/u/mortar.mp4" width="100%" muted loop}
+::
 
 ### **The Leg Zap**
 which inflicts an extremely high damage Electric proc that both destroys your shield gating and can affect teammates with unavoidable damage over time. Profit-Taker will only use this attack when you are in front of one of her legs.
 
 Video (click to play/pause):
 
-<div style="padding-bottom: 20px;">
-<video width="100%" onclick="this.paused?this.play():this.pause();arguments[0].preventDefault();" loop muted>
- <source type="video/mp4" src="https://cdn.profit-taker.com/u/legzap.mp4">
-</video>
-</div>
+::div{style="padding-bottom: 20px;"}
+:video{src="/u/legzap.mp4" width="100%" muted loop}
+::
 
 *As you can see in the gif, the laser attack doesn’t just come from the front*
 
@@ -75,11 +67,9 @@ appears to happen when you get too close to Profit-Taker during Armor and Pylon 
 
 Video (click to play/pause):
 
-<div style="padding-bottom: 20px;">
-<video width="100%" onclick="this.paused?this.play():this.pause();arguments[0].preventDefault();" loop muted>
- <source type="video/mp4" src="https://cdn.profit-taker.com/u/bounce.mp4">
-</video>
-</div>
+::div{style="padding-bottom: 20px;"}
+:video{src="/u/bounce.mp4" width="100%" muted loop}
+::
 
 ### **The Blue Walls** 
 knock you back when you collide with them and can block Zenith shots. These appear to trigger more often when you’re beyond a certain distance from Profit-Taker and don't happen as much if the EMP slam or bounce attack happens.  
@@ -88,16 +78,12 @@ knock you back when you collide with them and can block Zenith shots. These appe
 Video (click to play/pause):
 
 <div style="padding-bottom: 0px;">
-<video width="100%" onclick="this.paused?this.play():this.pause();arguments[0].preventDefault();" loop muted>
- <source type="video/mp4" src="https://cdn.profit-taker.com/u/bluewall1.mp4">
-</video>
+:video{src="/u/bluewall1.mp4" width="100%" muted loop}
 </div>
 
-<div style="padding-bottom: 20px;">
-<video width="100%" onclick="this.paused?this.play():this.pause();arguments[0].preventDefault();" loop muted>
- <source type="video/mp4" src="https://cdn.profit-taker.com/u/bluewall2.mp4">
-</video>
-</div>
+::div{style="padding-bottom: 20px;"}
+:video{src="/u/bluewall2.mp4" width="100%" muted loop}
+::
 
 Try to stay just inside the distance blue walls spawn from, while staying outside of the bounce range.  A good range to aim for is about  25 m away from the main body. This will minimize both bounces and blue walls
 
@@ -118,3 +104,4 @@ If you position yourself correctly, Profit-Taker will just sit and stare at you 
 
 Profit-Taker has a Chin Turret that seems to target the Player/Specter closest to the orb, dealing massive damage. Can be blocked by Volt’s shield.
 :::
+

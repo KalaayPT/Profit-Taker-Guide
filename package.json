@@ -6,6 +6,7 @@
     "build:cloudflare": "nuxt build --preset=cloudflare_pages"
   },
   "dependencies": {
+    "@nuxthub/core": "^0.10.7",
     "better-sqlite3": "^12.6.2",
     "docus": "latest",
     "nuxt": "^4.3.1",

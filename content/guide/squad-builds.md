@@ -19,11 +19,9 @@ Madurai Void Strike is used for 2nd pylons for the ammo efficiency rather than t
 
 ::::collapsible{name="Video demonstration (90&thinsp;mb)"}
 POV by Endryx
-<div style="padding-bottom: 20px;">
-<video width="100%" controls muted>
- <source type="video/mp4" src="https://cdn.profit-taker.com/u/Volt%20Host%20POV.mp4">
-</video>
-</div>
+::div{style="padding-bottom: 20px;"}
+:video{src="/u/Volt%20Host%20POV.mp4" width="100%" controls muted}
+::
 ::::
 :::
 
@@ -39,11 +37,9 @@ Mirage takes the role of gunner, and handles the last 3 leg phases. Subsume Ener
 
 ::::collapsible{name="Video demonstration (240&thinsp;mb):"}
 POV by Kalaay
-<div style="padding-bottom: 20px;">
-<video width="100%" controls muted>
- <source type="video/mp4" src="https://cdn.profit-taker.com/u/Mirage%20AG%20POV%20optimized.mp4">
-</video>
-</div>
+::div{style="padding-bottom: 20px;"}
+:video{src="/u/Mirage%20AG%20POV%20optimized.mp4" width="100%" controls muted}
+::
 ::::
 :::
 
@@ -59,11 +55,9 @@ Chroma doubles the credit drops after the fight, and can help with shields using
 
 ::::collapsible{name="Video demonstration (85&thinsp;mb):"}
 POV by Fremy
-<div style="padding-bottom: 20px;">
-<video width="100%" controls muted>
- <source type="video/mp4" src="https://cdn.profit-taker.com/u/Chroma%20Support%20POV.mp4">
-</video>
-</div>
+::div{style="padding-bottom: 20px;"}
+:video{src="/u/Chroma%20Support%20POV.mp4" width="100%" controls muted}
+::
 ::::
 :::
 
@@ -79,20 +73,16 @@ Jade can provide a large damage buff to Necramechs, which enables Volt to run ex
 
 ::::collapsible{name="Video demonstration (Jade Legs) (238&thinsp;mb)"}
 POV by Kalaay
-<div style="padding-bottom: 20px;">
-<video width="100%" controls muted>
- <source type="video/mp4" src="https://cdn.profit-taker.com/u/Jade%20AG%20POV%20optimized.mp4">
-</video>
-</div>
+::div{style="padding-bottom: 20px;"}
+:video{src="/u/Jade%20AG%20POV%20optimized.mp4" width="100%" controls muted}
+::
 ::::
 
 ::::collapsible{name="Video demonstration (Jade Support) (224&thinsp;mb)"}
 POV by UnOriginalGN
-<div style="padding-bottom: 20px;">
-<video width="100%" controls muted>
- <source type="video/mp4" src="https://cdn.profit-taker.com/u/Jade%20Support%20POV.mp4">
-</video>
-</div>
+::div{style="padding-bottom: 20px;"}
+:video{src="/u/Jade%20Support%20POV.mp4" width="100%" controls muted}
+::
 ::::
 :::
 
@@ -108,11 +98,9 @@ Wisp enables the squad to run Arcane Bellicose for a free strength increase. Fus
 
 ::::collapsible{name="Video demonstration (186&thinsp;mb)"}
 POV by UnOriginalGN
-<div style="padding-bottom: 20px;">
-<video width="100%" controls muted>
- <source type="video/mp4" src="https://cdn.profit-taker.com/u/Wisp%20Support%20POV.mp4">
-</video>
-</div>
+::div{style="padding-bottom: 20px;"}
+:video{src="/u/Wisp%20Support%20POV.mp4" width="100%" controls muted}
+::
 ::::
 :::
 
@@ -152,3 +140,4 @@ In terms of overall element setups, supports should aim to run elements that are
 ![Squad Sicarus](https://cdn.profit-taker.com/u/squad_sicarus.png)
 
 [*__Overframe Link__*](https://overframe.gg/build/934287/)
+

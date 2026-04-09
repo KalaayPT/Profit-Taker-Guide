@@ -11,11 +11,9 @@ The Archguns affected by this are: Imperator (Vandal), Corvas, (Prisma) Dual Dec
 
 Video (click to play/pause):
 
-<div style="padding-bottom: 20px;">
-<video height="100" onclick="this.paused?this.play():this.pause();arguments[0].preventDefault();" loop muted>
- <source type="video/mp4" src="https://cdn.profit-taker.com/u/hitbox_bug.mp4">
-</video>
-</div>
+::div{style="padding-bottom: 20px;"}
+:video{src="/u/hitbox_bug.mp4" height="100" muted loop}
+::
 
 Video showcasing the issue with different archguns: [Archgun issue (Youtube)](https://youtu.be/vxsFDMVjVaE?si=IVWUgNkOq3t6qFZJ)
 
@@ -78,11 +76,9 @@ Another, extremely prevalent and annoying bug is what’s known as the **Armor R
 
 Video (click to play/pause):
 
-<div style="padding-bottom: 20px;">
-<video width="100%" onclick="this.paused?this.play():this.pause();arguments[0].preventDefault();" loop muted>
- <source type="video/mp4" src="https://cdn.profit-taker.com/u/armorreset.mp4">
-</video>
-</div>
+::div{style="padding-bottom: 20px;"}
+:video{src="/u/armorreset.mp4" width="100%" muted loop}
+::
 
 ## **Tenet Detron Multishot Bug**
 

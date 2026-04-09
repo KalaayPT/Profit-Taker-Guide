@@ -81,21 +81,17 @@ Flight Shots are a way to speed up the first phase's shield phase, by simply dea
 
 Video (click to play/pause):
 
-<div style="padding-bottom: 20px;">
-<video width="100%" onclick="this.paused?this.play():this.pause();arguments[0].preventDefault();" loop muted>
- <source type="video/mp4" src="https://cdn.profit-taker.com/u/flight_shots_lq.mp4">
-</video>
-</div> 
+::div{style="padding-bottom: 20px;"}
+:video{src="/u/flight_shots_lq.mp4" width="100%" muted loop}
+:: 
 
 For a more advanced variant of Flight Shots, a Contagion throw is incorporated into flight shots. This is a slight timesave from not having to possibly throw Contagion twice after landing or having to wait for a Contagion DOT to tick. It also eliminates most of the RNG required for fast first shields.
 
 Video (click to play/pause):
 
-<div style="padding-bottom: 20px;">
-<video width="100%" onclick="this.paused?this.play():this.pause();arguments[0].preventDefault();" loop muted>
- <source type="video/mp4" src="https://cdn.profit-taker.com/u/air_contagion.mp4">
-</video>
-</div> 
+::div{style="padding-bottom: 20px;"}
+:video{src="/u/air_contagion.mp4" width="100%" muted loop}
+:: 
 
 ## **Push Strat**
 
@@ -103,11 +99,9 @@ When landing from first pylons, an issue a lot of people run into is that they g
 
 Video (click to play/pause):
 
-<div style="padding-bottom: 20px;">
-<video width="100%" onclick="this.paused?this.play():this.pause();arguments[0].preventDefault();" loop muted>
- <source type="video/mp4" src="https://cdn.profit-taker.com/u/pushstrat.mp4">
-</video>
-</div>
+::div{style="padding-bottom: 20px;"}
+:video{src="/u/pushstrat.mp4" width="100%" muted loop}
+::
 
 As you can see, I get walls instead of bounce as my Warframe is far enough away.
 
@@ -120,16 +114,12 @@ There are two ways to enter mech, proximity, and aim. You want to always use pro
 Placing mech can and should be done during landing to avoid a time loss. See the following videos (click to play/pause):
 
 <div style="padding-bottom: 0px;">
-<video width="100%" onclick="this.paused?this.play():this.pause();arguments[0].preventDefault();" loop muted>
- <source type="video/mp4" src="https://cdn.profit-taker.com/u/proximity.mp4">
-</video>
+:video{src="/u/proximity.mp4" width="100%" muted loop}
 </div>
 
-<div style="padding-bottom: 20px;">
-<video width="100%" onclick="this.paused?this.play():this.pause();arguments[0].preventDefault();" loop muted>
- <source type="video/mp4" src="https://cdn.profit-taker.com/u/placing.mp4">
-</video>
-</div>
+::div{style="padding-bottom: 20px;"}
+:video{src="/u/placing.mp4" width="100%" muted loop}
+::
 
 See the speed difference?
 
@@ -183,11 +173,9 @@ Note: -recoil is needed if you want to shoot accurately with this strat.
 
 Video (click to play/pause):
 
-<div style="padding-bottom: 20px;">
-<video width="100%" onclick="this.paused?this.play():this.pause();arguments[0].preventDefault();" loop muted>
- <source type="video/mp4" src="https://cdn.profit-taker.com/u/unscopedzenith.mp4">
-</video>
-</div>
+::div{style="padding-bottom: 20px;"}
+:video{src="/u/unscopedzenith.mp4" width="100%" muted loop}
+::
 
 ## **Weapon Swaps (no On Call)**
 
@@ -202,3 +190,4 @@ Video (click to play/pause):
 By far the best way to get good at Profit-Taker outside of doing it yourself with the right builds is to go to the [__speedrun leaderboards__](https://www.speedrun.com/wf/leaderboards?h=Profit-Taker-Solo&x=l_rdnrkqvw-rklqexq2) and watch other people’s runs. There are things this guide cannot teach that you’d never imagine, but if you watch them do it, you just have to learn how to do it yourself.
 
 Nearly all Profit-Taker runners mainly learned how to do PT quickly by watching runs and talking with people in the community.
+

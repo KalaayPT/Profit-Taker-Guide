@@ -3,7 +3,7 @@ title: Quick Start Guide
 description: by Kalaay
 ---
 
-*This section is for those who don't have the time or energy to read the entire guide and just want a quick summary. This is* **NOT** *meant to replace reading everything on this site and is* *NOT* *a complete summary by any means. Throughout this page, we will link to more thorough explanations of the discussed topics so you can read up on the things you have questions about.*
+*This section is for those who don't have the time or energy to read the entire guide and just want a quick summary. This is* **NOT** *meant to replace reading everything on this site and is NOT* *a complete summary by any means. Throughout this page, we will link to more thorough explanations of the discussed topics so you can read up on the things you have questions about.*
 
 ## How the fight works
 
@@ -61,7 +61,7 @@ Ogris deals damage to pylons through the pylon bubble without requiring punch th
 Video demonstration (17 mb):
 
 ::div{style="padding-bottom: 20px;"}
-:video{controls width="100%"}
+:video{controls src="/u/Just%20Use%20The%20Ogris-10.mp4" width="100%"}
 ::
 
 You should usually only need one shot if your buffs (Vex Armor on Chroma, Eclipse on anything else) are up. The Nightwatch Napalm damage ticks will finish it for you.
@@ -105,13 +105,13 @@ This allows you to not have to think about what elements are on what weapons, yo
 Here is a slow demonstration of what the button presses look like (7 mb):
 
 ::div{style="padding-bottom: 20px;"}
-:video{width="100%"}
+:video{controls src="/u/Contagion%20Example%20Slow-1.mp4" width="100%"}
 ::
 
 Here is a real life example of quickly throwing and shooting (7 mb):
 
 ::div{style="padding-bottom: 20px;"}
-:video{width="100%"}
+:video{controls src="/u/Contagion%20Example-3.mp4" width="100%"}
 ::
 
 #### Archgun in hand: [Mausolon](/guide/chroma-builds#mausolon-build)
@@ -172,9 +172,9 @@ In terms of weapon choices, as long as it has high damage and is crit-based, it 
 
 Recommended weapons are (click them to see the builds):
 
-*Secondary:* [Catabolyst](https://overframe.gg/build/518597/), **[Synoid Gammacor](https://overframe.gg/build/626714/)**
+*Secondary:* \[Catabolyst]\(<<https://overframe.gg/build/518597/&#x29&#x3E&#x3E;;;, **[Synoid Gammacor](https://overframe.gg/build/626714/)**
 
-*Primary:* [Opticor Vandal](/guide/other-builds.html#crewmate-opticor-vandal), **[Kuva Chakkhurr](https://overframe.gg/build/626709/)**, **[Torid](https://overframe.gg/build/771316/)**, **[Amprex](https://overframe.gg/build/599307/)**
+*Primary:* \[Opticor Vandal]\(/guide/other-builds.html#crewmate-opticor-vandal), **[Kuva Chakkhurr](https://overframe.gg/build/626709/)**, **[Torid](https://overframe.gg/build/771316/)**, **[Amprex](https://overframe.gg/build/599307/)**
 
 ::tip
 **Note:**

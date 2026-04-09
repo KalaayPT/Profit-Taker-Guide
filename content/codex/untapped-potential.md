@@ -16,11 +16,9 @@ Nova is, in theory, an option to clear the first leg phase. This has not been us
 
 Example (click to play/pause):
 
-<div style="padding-bottom: 20px;">
-<video width="100%" onclick="this.paused?this.play():this.pause();arguments[0].preventDefault();" loop muted>
- <source type="video/mp4" src="https://cdn.profit-taker.com/u/novaag.mp4">
-</video>
-</div>
+::div{style="padding-bottom: 20px;"}
+:video{src="/u/novaag.mp4" width="100%" muted loop}
+::
 
 **__Archlanding:__**
 
@@ -28,8 +26,7 @@ An alternative to the Nova strat is doing an archlanding to take out the archgun
 
 Here is an example using Volt (click to play/pause):
 
-<div style="padding-bottom: 20px;">
-<video width="100%" onclick="this.paused?this.play():this.pause();arguments[0].preventDefault();" loop muted>
- <source type="video/mp4" src="https://cdn.profit-taker.com/u/archlanding.mp4">
-</video>
-</div>
+::div{style="padding-bottom: 20px;"}
+:video{src="/u/archlanding.mp4" width="100%" muted loop}
+::
+

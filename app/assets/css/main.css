@@ -13,3 +13,7 @@ button[data-slot="trigger"][data-state="inactive"]:not(:disabled):hover [data-sl
 button[data-slot="trigger"][data-state="inactive"]:not(:disabled):hover [data-slot="trailingBadge"] {
   color: var(--ui-primary) !important;
 }
+
+:where(main video:not([controls])) {
+  cursor: pointer;
+}

@@ -5,6 +5,9 @@ const isCloudflarePagesBuild =
   buildArgs.includes('cloudflare_pages')
   || buildArgs.includes('cloudflare-pages')
   || process.env.CF_PAGES === '1'
+const studioMediaPrefix = 'u'
+const cloudflareBlobBucketName =
+  process.env.NUXT_HUB_BLOB_BUCKET_NAME || 'profit-taker-guide-media'
 
 export default defineNuxtConfig({
   extends: ["docus"],
@@ -12,6 +15,7 @@ export default defineNuxtConfig({
     enabled: false,
   },
   modules: [
+    "@nuxthub/core",
     [
       "nuxt-component-meta",
       {
@@ -29,6 +33,23 @@ export default defineNuxtConfig({
       repo: "Profit-Taker-Guide",
       branch: "development",
     },
+    media: {
+      external: true,
+      publicUrl: "/",
+      prefix: studioMediaPrefix,
+      // Keep this conservative for Studio's current base64 upload path.
+      maxFileSize: 25 * 1024 * 1024,
+      allowedTypes: ["image/*", "video/*", "audio/*"],
+    },
+  },
+  hub: {
+    blob: isCloudflarePagesBuild
+      ? {
+          driver: "cloudflare-r2",
+          binding: "BLOB",
+          bucketName: cloudflareBlobBucketName,
+        }
+      : true,
   },
   css: ["~/assets/css/main.css"],
   ogImage: {
