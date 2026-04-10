@@ -55,21 +55,6 @@ For Volt only. Velocitus needs Damage Bless and a Volt Shield to oneshot. Info a
 </div>
 
 ::::
-::::tabs-item{label="Velocitus (Speedrun - Gravimag)"}
-
-<div style="width: 100%; text-align: left;">
-    <img src="https://cdn.profit-taker.com/u/gravimagvelo.png" alt="gravimagvelo" style="width: 100%; height: auto;">
-</div>
-
-<div style="width: 25%; text-align: left;">
-    <img src="https://cdn.profit-taker.com/u/gravimagveloriven.png" alt="gravimagveloriven" style="width: 100%; height: auto;">
-</div>
-
-[*__Overframe Link__*](https://overframe.gg/build/771357/)
-
-For Energized Munitions Chroma. If you believe in Arcane Avenger, you can even run rivenless. You should have CC on riven for consistency, but it doesn't need great damage rolls to oneshot. If you lack damage, you can drop Automatic Trigger. Check the [calculator.](https://calc.profit-taker.com)
-
-::::
 ::::tabs-item{label="Arquebex"}
 
 <div style="width: 100%; text-align: left;">
