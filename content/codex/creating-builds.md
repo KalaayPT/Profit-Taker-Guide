@@ -17,12 +17,10 @@ Warframe builds for Profit-Taker are pretty open to buildcrafting, there are 4 M
 
 *If you don’t have it, substitute Sure Footed & Fortitude in place of Primed Sure Footed*
 
-:::note
 - Eclipse is used as it's the best available damage buff except on Chroma,
 - Blind Rage and Umbral Intensify bring power strength to appreciable levels,
 - Umbral Vitality is used because shield gating isn’t reliable enough in Profit-Taker to be viable
 - Primed Sure Footed is used because of the sheer number of knockbacks and staggers in the fight.
-:::
 
 This build covers all the basics of a Profit-Taker build. However, this build is not only difficult to use, but it also has quite poor performance as it has very little survivability, no Arcanes, extremely poor energy economy, and none of the normal utility Mods.
 
@@ -89,16 +87,13 @@ With this combination, you're only missing Toxin, and there is no way to fit it 
 
 If you try putting it in place of any of the other modded single-stat elements, it will just combine with the dual-stat elements.
 
-:::note
 **To solve this you must do one of the following:**
-
 
 - Use an On Call Crew to cover toxin
 - Sacrifice Pylon performance and use a Zenith with toxin on it
 - Use the [Arquebex](/guide/other-builds.html#arquebex-build-used-to-clear-toxin-shield) (Voidrigs's 4th ability) or an Archgun on your mech to cover toxin
 - Use Saryn
 - Get a friend(s) to use an alternate elemental config that covers Toxin
-:::
 
 Going more in depth on how to cover this last missing element:
 

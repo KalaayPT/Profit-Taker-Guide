@@ -98,13 +98,28 @@ export default defineNuxtConfig({
   },
   hooks: {
     'nitro:config'(nitroConfig) {
+      nitroConfig.handlers = (nitroConfig.handlers || []).filter(
+        (handler) => {
+          if (handler.route === '/__nuxt_studio/medias/**') {
+            return false
+          }
+
+          if (isCloudflarePagesBuild && handler.route === '/__nuxt_studio/ipx/**') {
+            return false
+          }
+
+          return true
+        },
+      )
+
+      nitroConfig.handlers.push({
+        route: '/__nuxt_studio/medias/**',
+        handler: resolve(process.cwd(), 'server/handlers/studio-medias.mjs').replace(/\\/g, '/'),
+      })
+
       if (!isCloudflarePagesBuild) {
         return
       }
-
-      nitroConfig.handlers = (nitroConfig.handlers || []).filter(
-        handler => handler.route !== '/__nuxt_studio/ipx/**',
-      )
 
       nitroConfig.handlers.push({
         route: '/__nuxt_studio/ipx/**',
