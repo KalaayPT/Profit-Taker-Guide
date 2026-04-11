@@ -33,16 +33,14 @@ To be able to do the Profit-Taker boss in the first place, you need to be max ra
 
 ### Overview
 
-::note
 **Profit-Taker's main mechanic restricts you to dealing damage with only one element at a time, so the recommended setup looks like this:**
 
-- Primary: [Kuva] Ogris, used exclusively for pylons.
-- Melee: any Zaw with **Exodia Contagion** (make sure you can reach 100% crit chance). This is because Contagion turns Zaws into incredibly strong projectile weapons that can both be used very quickly and cover a lot of elements because of how Exodia contagion works, more on that a bit later
-- Secondary: any high [crit] damage secondary works (Notable examples include, but are not limited to: Sicarus Incarnon, Tenet Diplos, Gammacor Incarnon, Pyrana Prime etc.), but because of the innate elements on a Contagion Zaw, you either want one that has innate magnetic damage (a lich weapon or a Synoid Gammacor) or you have to equip [Magnetic Might](https://warframe.fandom.com/wiki/Magnetic_Might). The weapon of choice therefore is the [Sicarus Prime](/guide/chroma-builds#sicarus-prime-incarnoff) with an incarnon adapter installed for its passive buffs. More on the element distribution in a second.
-- Archgun: can be used either in hand (see [Mausolon](#archgun-in-hand-mausolon) lower down) or in mech (see [Corvas](#archgun-on-mech-corvas) lower down). The easier option is usually to do mech, since it doesn't leave you in the open during the pull down animation and during the destroying of the legs
-::
+- **Primary:** [Kuva] Ogris, used exclusively for pylons.
+- **Melee:** any Zaw with **Exodia Contagion** (make sure you can reach 100% crit chance). This is because Contagion turns Zaws into incredibly strong projectile weapons that can both be used very quickly and cover a lot of elements because of how Exodia contagion works, more on that a bit later
+- **Secondary:** any high [crit] damage secondary works (Notable examples include, but are not limited to: Sicarus Incarnon, Tenet Diplos, Gammacor Incarnon, Pyrana Prime etc.), but because of the innate elements on a Contagion Zaw, you either want one that has innate magnetic damage (a lich weapon or a Synoid Gammacor) or you have to equip [Magnetic Might](https://warframe.fandom.com/wiki/Magnetic_Might). The weapon of choice therefore is the [Sicarus Prime](/guide/chroma-builds#sicarus-prime-incarnoff) with an incarnon adapter installed for its passive buffs. More on the element distribution in a second.
+- **Archgun:** can be used either in hand (see [Mausolon](#archgun-in-hand-mausolon) lower down) or in mech (see [Corvas](#archgun-on-mech-corvas) lower down). The easier option is usually to do mech, since it doesn't leave you in the open during the pull down animation and during the destroying of the legs
 
-::tip
+::note
 **The expected distribution of elements looks like this (taken from [Creating builds](/codex/creating-builds#shields)):**
 
 Secondary: Viral, Heat, Magnetic, and optional Radiation (also IPS, depending on the weapon)
@@ -82,6 +80,7 @@ For builds for other frames running Eclipse, consult the [Eclipse Builds](/guide
 
 Not a lot to be said here, you just shoot between contagion throws. Use the Exilus that benefits your situation the most. Cascadia Overcharge assumes shield pad usage. If you don't use shield pads (i.e. if you use Chroma), use Secondary Enervate.
 
+::note
 Incarnon Adapter Evos:
 
 EVO II: Feigned Retreat +40 Base Damage
@@ -89,6 +88,7 @@ EVO II: Feigned Retreat +40 Base Damage
 EVO III: Extended Volley +12 Base Magazine Size
 
 EVO IV: Commodore's Fortune +14% Base CC.
+::
 
 #### Zaw
 
@@ -172,13 +172,11 @@ In terms of weapon choices, as long as it has high damage and is crit-based, it 
 
 Recommended weapons are (click them to see the builds):
 
-*Secondary:* \[Catabolyst]\(https://overframe.gg/build/518597/) , **[Synoid Gammacor](https://overframe.gg/build/626714/)**
+*Secondary:* [Catabolyst](https://overframe.gg/build/518597/) , **[Synoid Gammacor](https://overframe.gg/build/626714/)**
 
-*Primary:* \[Opticor Vandal]\(/guide/other-builds.html#crewmate-opticor-vandal), **[Kuva Chakkhurr](https://overframe.gg/build/626709/)**, **[Torid](https://overframe.gg/build/771316/)**, **[Amprex](https://overframe.gg/build/599307/)**
+*Primary:* [Opticor Vandal](/guide/other-builds.html#crewmate-opticor-vandal), **[Kuva Chakkhurr](https://overframe.gg/build/626709/)**, **[Torid](https://overframe.gg/build/771316/)**, **[Amprex](https://overframe.gg/build/599307/)**
 
-::tip
-**Note:**
-
+::note
 All weapons except Chakkhurr need your Crewmate to be buffed with Vex Armor or Total Eclipse to work well.
 ::
 

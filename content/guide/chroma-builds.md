@@ -1,6 +1,6 @@
 ---
-title: Chroma Build
-description: Build for Chroma running Shock Trooper.
+title: Chroma
+description: Builds for Chroma running Shock Trooper.
 ---
 
 This build is for solo credit farming as Chroma. All elements are covered by Sicarus and Balla, except for toxin which is on your On-Call Crewmate.
@@ -39,11 +39,15 @@ Generic (Shock Trooper)
 ![sicarusbuildgrey](https://cdn.profit-taker.com/u/sicarusbuildgrey.png){style="width: 100%; height: auto;"}
 ::
 
-::note
 ***[Overframe Link](https://overframe.gg/build/784344/)***
 
-- The Successor to Tenet Diplos. Rivens will ideally replace Tox/CC/CD Mods on the build. Cold and Heat are replaceable, but slightly less ideal, due to replacing either Ice Storm with its additional Magazine Capacity or Primed Heated Charge's higher Heat Damage.
+The Successor to Tenet Diplos. Rivens will ideally replace Tox/CC/CD Mods on the build. Cold and Heat are replaceable, but slightly less ideal, due to replacing either Ice Storm with its additional Magazine Capacity or Primed Heated Charge's higher Heat Damage.
 
+- Covers IPS, Magnetic, Radiation, Viral and Heat.
+- Use the Exilus that benefits your situation the most.
+- On Chroma, use Secondary Enervate.
+
+::note
 Incarnon Adapter Evos;
 
 EVO II: Feigned Retreat +40 Base Damage
@@ -51,10 +55,6 @@ EVO II: Feigned Retreat +40 Base Damage
 EVO III: Extended Volley +12 Base Magazine Size
 
 EVO IV: Commodore's Fortune +14% Base CC.
-
-- Covers IPS, Magnetic, Radiation, Viral and Heat.
-- Use the Exilus that benefits your situation the most.
-- On Chroma, use Secondary Enervate.
 ::
 
 ### Tenet Diplos
@@ -63,7 +63,6 @@ EVO IV: Commodore's Fortune +14% Base CC.
 ![Vex\_Armor\_Tenet\_Diplos\_Build](https://cdn.profit-taker.com/u/Vex_Armor_Tenet_Diplos_Build.png){style="width: 100%; height: auto;"}
 ::
 
-::note
 ***[Overframe Link](https://overframe.gg/build/771296/)***
 
 - **Diplos have been superseded by Sicarus Prime with an Incarnon adapter. Only use if you don't have access to Sicarus Prime Incarnoff.**
@@ -72,7 +71,6 @@ EVO IV: Commodore's Fortune +14% Base CC.
 - If you don't have Diplos, you can use any weapon with innate (or progenitor) magnetic or any high [crit] damage weapon with the Magnetic Might mod.
 - Reflex Draw is flex
 - On Chroma, use Secondary Enervate
-::
 
 ### Exodia Contagion Zaw
 
