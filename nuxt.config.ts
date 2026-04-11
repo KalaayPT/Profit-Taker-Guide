@@ -100,7 +100,11 @@ export default defineNuxtConfig({
     'nitro:config'(nitroConfig) {
       nitroConfig.handlers = (nitroConfig.handlers || []).filter(
         (handler) => {
-          if (handler.route === '/__nuxt_studio/medias/**') {
+          if (
+            handler.route === '/__nuxt_studio/medias'
+            || handler.route === '/__nuxt_studio/medias/'
+            || handler.route === '/__nuxt_studio/medias/**'
+          ) {
             return false
           }
 
@@ -111,6 +115,16 @@ export default defineNuxtConfig({
           return true
         },
       )
+
+      nitroConfig.handlers.push({
+        route: '/__nuxt_studio/medias',
+        handler: resolve(process.cwd(), 'server/handlers/studio-medias.mjs').replace(/\\/g, '/'),
+      })
+
+      nitroConfig.handlers.push({
+        route: '/__nuxt_studio/medias/',
+        handler: resolve(process.cwd(), 'server/handlers/studio-medias.mjs').replace(/\\/g, '/'),
+      })
 
       nitroConfig.handlers.push({
         route: '/__nuxt_studio/medias/**',
