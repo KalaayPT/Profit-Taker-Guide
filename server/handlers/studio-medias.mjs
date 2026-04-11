@@ -34,6 +34,21 @@ function isCollectionLookup(relativePath, key) {
   )
 }
 
+function normalizeListedPath(pathname, prefix) {
+  const stripped = prefix ? pathname.slice(`${prefix}/`.length) : pathname
+  const normalized = stripped.replace(/^\/+/, '').trim()
+
+  if (!normalized || normalized === '.' || normalized === '..') {
+    return null
+  }
+
+  if (normalized.endsWith('/')) {
+    return null
+  }
+
+  return normalized
+}
+
 async function requireStudioAuth(event) {
   if (import.meta.dev) {
     return
@@ -69,9 +84,7 @@ export default eventHandler(async (event) => {
         : subPath
       const { blobs } = await blob.list(effectivePrefix ? { prefix: `${effectivePrefix}/` } : {})
 
-      return blobs.map((item) => {
-        return prefix ? item.pathname.slice(`${prefix}/`.length) : item.pathname
-      })
+      return [...new Set(blobs.map((item) => normalizeListedPath(item.pathname, prefix)).filter(Boolean))]
     }
 
     const blobPath = key.replace(/:/g, '/')
