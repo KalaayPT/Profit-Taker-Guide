@@ -9,9 +9,7 @@ This build is for solo credit farming as Chroma. All elements are covered by Sic
 
 Generic (Shock Trooper)
 
-::div{style="width: 100%; text-align: left;"}
-![ChromaSolo](https://cdn.profit-taker.com/u/chroma-solo.png){style="width: 100%; height: auto;"}
-::
+:build{url="https://www.arsenyx.com/builds/06j6bVZ9hM"}
 
 - Recommended Shards are: 2 Tau Energy on mission start, 3 Tau Strength
 - If you have Primed Sure Footed, use Handspring over it, or Power Drift + Unairu.
@@ -25,9 +23,7 @@ Generic (Shock Trooper)
 
 ### Kuva Ogris
 
-::div{style="width: 100%; text-align: left;"}
-![ChromaOgris](https://cdn.profit-taker.com/u/ogris-chroma.png){style="width: 100%; height: auto;"}
-::
+:build
 
 - Primary Overcharge will proc off Archwing energy
 - Nightwatch Napalm will damage Pylons as long as they are in range, even through the Pylon bubble. Prefiring pylon locations is a considerable timesave.
