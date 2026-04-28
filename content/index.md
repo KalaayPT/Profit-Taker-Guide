@@ -4,13 +4,13 @@ seo:
   description: a community effort by uumm, Mebius, Iterniam, Kalaay and others
 ---
 
+::div{class="landing-shell"}
+
 ::u-page-hero
 ---
-ui:
-  container: py-14 sm:py-16 lg:py-20 gap-8 sm:gap-y-8 lg:gap-8
+class: landing-hero
 orientation: horizontal
 ---
-![ProfitTakerOrb](https://cdn.profit-taker.com/u/pt-orb.webp){.image-src.hidden.lg:block.justify-self-center.h-72.w-72.xl:h-80.xl:w-80.2xl:h-96.2xl:w-96.object-contain}
 
 #title
 Profit-Taker Guide
@@ -29,10 +29,18 @@ a community effort by uumm, Mebius, Iterniam, Kalaay and others
   Quick Start Guide
   :::
 
-:search-hint-button{label="Check out the search function as well!"}
+  :search-hint-button{label="Check out the search function as well!"}
+
+#default
+:::div{class="hero-orb-wrap hidden lg:grid place-items-center"}
+![ProfitTakerOrb](https://cdn.profit-taker.com/u/pt-orb.webp){.image-src.h-72.w-72.xl:h-80.xl:w-80.2xl:h-96.2xl:w-96.object-contain}
+:::
 ::
 
 ::u-page-section
+---
+class: landing-features
+---
 #title
 What this guide covers
 
@@ -70,4 +78,5 @@ What this guide covers
   #description
   This guide was made by speedrunners, there's no getting around it, but we've done our best to provide everything you need to do the fight at any level, even if you've never done the fight before.
   :::
+::
 ::
