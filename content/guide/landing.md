@@ -1,8 +1,6 @@
 ---
 title: Landing
-description: For reasons given in the next section, your landing is one of the
-  most important parts of the fight. A good landing sets up the rest of the run,
-  and a bad landing will lose several seconds as the run progresses.
+description: For reasons given in the next section, your landing is one of the most important parts of the fight. A good landing sets up the rest of the run, and a bad landing will lose several seconds as the run progresses.
 ---
 
 There are two general categories of landing: hard and soft. Soft landings are faster but harder to do and tend to become impractically precise as Archwing speed increases. Hard landings add some time loss but are quite simple.
@@ -14,7 +12,7 @@ See how when leaving Archwing I’m flying straight, not up or down? At the spee
 Video (click to play/pause):
 
 ::div{style="padding-bottom: 20px;"}
-:video{src="/u/overshoot.mp4" width="100%" muted loop}
+:video{loop muted src="/u/overshoot.mp4" width="100%"}
 ::
 
 ## **Soft Landing**
@@ -32,7 +30,7 @@ For Mountain, blink up and towards the spawn such that you’re at the right hei
 Video (click to play/pause):
 
 ::div{style="padding-bottom: 20px;"}
-:video{src="/u/softmountain.mp4" width="100%" muted loop}
+:video{loop muted src="/u/softmountain.mp4" width="100%"}
 ::
 
 ### Lake
@@ -42,7 +40,7 @@ For Lake, fly straight to where you want to land, there should be time for 3 bli
 Video (click to play/pause):
 
 ::div{style="padding-bottom: 20px;"}
-:video{src="/u/softlake.mp4" width="100%" muted loop}
+:video{loop muted src="/u/softlake.mp4" width="100%"}
 ::
 
 ### Shrooms
@@ -52,7 +50,7 @@ For shrooms, take a straight line through enrichment labs until you reach the cr
 Video (click to play/pause):
 
 ::div{style="padding-bottom: 20px;"}
-:video{src="/u/softshrooms.mp4" width="100%" muted loop}
+:video{loop muted src="/u/softshrooms.mp4" width="100%"}
 ::
 
 ## **Hard Landing (Volt)**
@@ -68,7 +66,7 @@ First fly up while holding W, then do a blink after you line up with Profit-Take
 Video (click to play/pause):
 
 ::div{style="padding-bottom: 20px;"}
-:video{src="/u/hardmountain.mp4" width="100%" muted loop}
+:video{loop muted src="/u/hardmountain.mp4" width="100%"}
 ::
 
 ### Lake
@@ -80,7 +78,7 @@ Land near the left of Profit-Taker as it'll move to the left. This will help get
 Video (click to play/pause):
 
 ::div{style="padding-bottom: 20px;"}
-:video{src="/u/hardlake.mp4" width="100%" muted loop}
+:video{loop muted src="/u/hardlake.mp4" width="100%"}
 ::
 
 ### Shrooms
@@ -90,22 +88,17 @@ Blink towards the spawn, don't go too high up, make sure you exit archwing early
 Video (click to play/pause):
 
 ::div{style="padding-bottom: 20px;"}
-:video{src="/u/hardshrooms.mp4" width="100%" muted loop}
+:video{loop muted src="/u/hardshrooms.mp4" width="100%"}
 ::
 
-:::note
+::note
 **Notes:**
 
 - During landing, you should not double jump or roll. Neither improves your velocity.
-
 - It is better to leave Archwing too soon rather than too late. If you’re too late, you’ll always overshoot your target. If you’re too soon, you can compensate by aim gliding.
-
 - If you’re using a Necramech for Armor phase, try to spawn it while landing, this will save several fractions of a second.
-
-- Sometimes, the Necramech doesn’t spawn where you aim. This happens when you try to summon it too quickly after a big change in aim, like when you land. If you can find it, you can simply move to it and transference into your mech. Otherwise, you’ll have to deal with the 10s cooldown on the Necramech Summon.  
+- Sometimes, the Necramech doesn’t spawn where you aim. This happens when you try to summon it too quickly after a big change in aim, like when you land. If you can find it, you can simply move to it and transference into your mech. Otherwise, you’ll have to deal with the 10s cooldown on the Necramech Summon.
 - As a client, one of the reasons the Necramech doesn’t spawn where you aim is because spawning mech is done by the host, not the client. You can avoid misplaced Necramechs by waiting a fraction of a second after sudden movements to give the host time to update your position and orientation.
-
 - If you’re using your On Call Crewmate to cover all your elements, summon it while landing.
-
 - In Archwing, you lose some speed when double tapping sprint to blink because you stop sprinting for a fraction of a second. For maximum speed when flying to Profit-Taker, set a separate roll keybind.
-:::
+::

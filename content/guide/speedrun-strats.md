@@ -1,12 +1,11 @@
 ---
 title: Speedrun Strats
-description: Advanced techniques that require special thought toward certain
-  areas of the fight and involve more than your basic level of skill.
+description: Advanced techniques that require special thought toward certain areas of the fight and involve more than your basic level of skill.
 ---
 
 ## **Late Start Strat**
 
-Profit Taker walks forwards constantly until you destroy all four legs in the first armor phase. You can take advantage of this to get a better angle at the rear legs by leaving the elevator just a second to a second after PT spawns (a bit after 8s on the ingame timer). This makes leg phase overall more consistent for fast runners, and minimizes the effect of the [__animation bug__](/miscellaneous/bugs.html#animation-bug).
+Profit Taker walks forwards constantly until you destroy all four legs in the first armor phase. You can take advantage of this to get a better angle at the rear legs by leaving the elevator just a second to a second after PT spawns (a bit after 8s on the ingame timer). This makes leg phase overall more consistent for fast runners, and minimizes the effect of the [**animation bug**](/miscellaneous/bugs.html#animation-bug).
 
 ## **On Call Strats**
 
@@ -22,24 +21,27 @@ If you have an elite Crewmate, you ideally want one with the 150% primary critic
 
 The modern weapon of choice is [Opticor Vandal](/guide/other-builds.html#crewmate-opticor-vandal), as it can oneshot shield elements and adds while having multiple damage instances, allowing your crewmate to clear most of a shield in one hit, if shield RNG allows. Other options are:
 
-[__Kuva Chakkhurr__](https://overframe.gg/build/626709/), [Torid](https://overframe.gg/build/771316/), [__Amprex__](https://overframe.gg/build/599307/), [__Synoid Gammacor__](https://overframe.gg/build/626714/), [__Catabolyst__](https://overframe.gg/build/518597/).
+[**Kuva Chakkhurr**](https://overframe.gg/build/626709/), [Torid](https://overframe.gg/build/771316/), [**Amprex**](https://overframe.gg/build/599307/), [**Synoid Gammacor**](https://overframe.gg/build/626714/), [**Catabolyst**](https://overframe.gg/build/518597/).
 
 ## **Fast Pogris Pylons: Double Shot + Void Strike**
-by [__Vaeli__](https://www.youtube.com/watch?v=X2YnYYS5uGE)
+
+by [**Vaeli**](https://www.youtube.com/watch?v=X2YnYYS5uGE)
 
 Current meta for fast pylons is the following (assumes Riven usage):
+
 - First pylon phase - double shoot pylons to 1 tick
 - Second pylon phase - use Void Strike (madurai school) to 1 tick
 
 Things to consider before running this strat:
+
 - No matter the Damage roll on your riven, eclipse buff and progenitor percentage you can’t 1 tick with two shots unless you use either Vigorous Swap or Arcane Rise
 - Second pylon phase requires you to run the Madurai focus school which means you’ll be more prone to getting knockdowns unless you run Prime Sure Footed or Sure Footed + Fortitude since running Unairu for Poise is not an option
 
 ##### First pylon phase
 
-The “Reload while in archwing” route is a bit tricky since you effectively lose time because you are reloading meaning you’ll have to spot the right pylons faster.  
+The “Reload while in archwing” route is a bit tricky since you effectively lose time because you are reloading meaning you’ll have to spot the right pylons faster.
 
-:::note
+::note
 **That said the gameplay looks like this:**
 
 - Shoot twice
@@ -49,17 +51,17 @@ The “Reload while in archwing” route is a bit tricky since you effectively l
 - Shoot twice
 - Proc Vigorous Swap (skip if you’re running Arcane Rise)
 - Repeat the two steps above
-:::
+::
 
-The alternative approach to this can be used if you have a dmg+ms+mag riven and can have 8 shots in your magazine. 
+The alternative approach to this can be used if you have a dmg+ms+mag riven and can have 8 shots in your magazine.
 
-:::note
+::note
 **In this case the procedure looks like this:**
 
 - Shoot twice
 - Proc Vigorous Swap (skip if you’re running Arcane Rise)
 - Repeat 3 more times
-:::
+::
 
 This approach sacrifices the additional pylon damage (from a dmg ms 2+1- riven) or additional projectile speed (dmg ms pfs riven) for having to do less.
 
@@ -82,16 +84,16 @@ Flight Shots are a way to speed up the first phase's shield phase, by simply dea
 Video (click to play/pause):
 
 ::div{style="padding-bottom: 20px;"}
-:video{src="/u/flight_shots_lq.mp4" width="100%" muted loop}
-:: 
+:video{loop muted src="/u/flight_shots_lq.mp4" width="100%"}
+::
 
 For a more advanced variant of Flight Shots, a Contagion throw is incorporated into flight shots. This is a slight timesave from not having to possibly throw Contagion twice after landing or having to wait for a Contagion DOT to tick. It also eliminates most of the RNG required for fast first shields.
 
 Video (click to play/pause):
 
 ::div{style="padding-bottom: 20px;"}
-:video{src="/u/air_contagion.mp4" width="100%" muted loop}
-:: 
+:video{loop muted src="/u/air_contagion.mp4" width="100%"}
+::
 
 ## **Push Strat**
 
@@ -100,7 +102,7 @@ When landing from first pylons, an issue a lot of people run into is that they g
 Video (click to play/pause):
 
 ::div{style="padding-bottom: 20px;"}
-:video{src="/u/pushstrat.mp4" width="100%" muted loop}
+:video{loop muted src="/u/pushstrat.mp4" width="100%"}
 ::
 
 As you can see, I get walls instead of bounce as my Warframe is far enough away.
@@ -113,12 +115,12 @@ There are two ways to enter mech, proximity, and aim. You want to always use pro
 
 Placing mech can and should be done during landing to avoid a time loss. See the following videos (click to play/pause):
 
-<div style="padding-bottom: 0px;">
-:video{src="/u/proximity.mp4" width="100%" muted loop}
-</div>
+::div{style="padding-bottom: 0px;"}
+\:video{src="/u/proximity.mp4" width="100%" muted loop}
+::
 
 ::div{style="padding-bottom: 20px;"}
-:video{src="/u/placing.mp4" width="100%" muted loop}
+:video{loop muted src="/u/placing.mp4" width="100%"}
 ::
 
 See the speed difference?
@@ -133,15 +135,15 @@ You can only get to 90 FOV in the game settings, but if you use Windowed mode yo
 
 For the most extreme version of this, if you set your resolution to 32:9 (like in the picture below), you can get a maximized horizontal field of view. This makes it easier to get good Pylon time if you can still aim at them with the reduced vertical height.
 
-<div style="width: 100%; text-align: left;">
-    <img src="https://cdn.profit-taker.com/u/fovdemo.png" alt="fovdemo" style="width: 100%; height: auto;">
-</div>
+::div{style="width: 100%; text-align: left;"}
+![fovdemo](https://cdn.profit-taker.com/u/fovdemo.png){style="width: 100%; height: auto;"}
+::
 
 The only way to do so is by dragging your window until it fits 32:9 resolution.
 
-<div style="width: 100%; text-align: left;">
-    <img src="https://cdn.profit-taker.com/u/fovslider.png" alt="fovslider" style="width: 100%; height: auto;">
-</div>
+::div{style="width: 100%; text-align: left;"}
+![fovslider](https://cdn.profit-taker.com/u/fovslider.png){style="width: 100%; height: auto;"}
+::
 
 However, many people dislike this extreme for several reasons: It wastes a lot of your screen, It can be hard to see the Pylons on a small screen, and it doesn’t do much 21:9 doesn’t do.
 
@@ -159,7 +161,7 @@ It is possible to take advantage of this by using a good amp with the Virtuos Su
 
 Ideally, this happens in the first or second shield element, as while the shield element will be changed unless the 5s cooldown is in effect, a good amp can easily remove all of Profit-Taker’s shield.
 
-More info can be found in the Speedrun Builds [__Operator__](/guide/other-builds.html#operator) section
+More info can be found in the Speedrun Builds [**Operator**](/guide/other-builds.html#operator) section
 
 ## **Unscoped Zenith**
 
@@ -174,20 +176,19 @@ Note: -recoil is needed if you want to shoot accurately with this strat.
 Video (click to play/pause):
 
 ::div{style="padding-bottom: 20px;"}
-:video{src="/u/unscopedzenith.mp4" width="100%" muted loop}
+:video{loop muted src="/u/unscopedzenith.mp4" width="100%"}
 ::
 
 ## **Weapon Swaps (no On Call)**
 
-**This strat is now defunct due to power creep. You can still go to the old versions of this guide that contain it [__here__](/miscellaneous/resources-used-honorable-mentions.html#great-guides-of-the-past).** 
+**This strat is now defunct due to power creep. You can still go to the old versions of this guide that contain it&#x20;****[**here**](/miscellaneous/resources-used-honorable-mentions.html#great-guides-of-the-past)****.**
 
 ## **Ass Meta**
 
-**This meta is now defunct due to __Animation Bug__ and new modding options. You can still go to the old versions of this guide that contain mention of it in the section [__here.__](/miscellaneous/resources-used-honorable-mentions.html#great-guides-of-the-past)** 
+**This meta is now defunct due to&#x20;******Animation Bug** and new modding options. You can still go to the old versions of this guide that contain mention of it in the section&#x20;****[**here.**](/miscellaneous/resources-used-honorable-mentions.html#great-guides-of-the-past)**
 
 ## **Learning by Example**
 
-By far the best way to get good at Profit-Taker outside of doing it yourself with the right builds is to go to the [__speedrun leaderboards__](https://www.speedrun.com/wf/leaderboards?h=Profit-Taker-Solo&x=l_rdnrkqvw-rklqexq2) and watch other people’s runs. There are things this guide cannot teach that you’d never imagine, but if you watch them do it, you just have to learn how to do it yourself.
+By far the best way to get good at Profit-Taker outside of doing it yourself with the right builds is to go to the [**speedrun leaderboards**](https://www.speedrun.com/wf/leaderboards?h=Profit-Taker-Solo&x=l_rdnrkqvw-rklqexq2) and watch other people’s runs. There are things this guide cannot teach that you’d never imagine, but if you watch them do it, you just have to learn how to do it yourself.
 
 Nearly all Profit-Taker runners mainly learned how to do PT quickly by watching runs and talking with people in the community.
-

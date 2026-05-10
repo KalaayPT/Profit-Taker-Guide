@@ -1,8 +1,6 @@
 ---
 title: Creating builds
-description: This section should educate readers on general common sense known
-  to Profit-Taker builders, such as the logic behind builds and things in the
-  fight to build around.
+description: This section should educate readers on general common sense known to Profit-Taker builders, such as the logic behind builds and things in the fight to build around.
 ---
 
 originally by uumm
@@ -11,9 +9,9 @@ originally by uumm
 
 Warframe builds for Profit-Taker are pretty open to buildcrafting, there are 4 Mods (5, if you’re missing Primed Sure Footed, 3 if you’re using Unairu’s Poise) that you will see on all but the most specialized Profit-Taker builds
 
-<div style="width: 100%; text-align: left;">
-    <img src="https://cdn.profit-taker.com/u/framebuilds.png" alt="framebuilds" style="width: 100%; height: auto;"> 
-</div>
+::div{style="width: 100%; text-align: left;"}
+![framebuilds](https://cdn.profit-taker.com/u/framebuilds.png){style="width: 100%; height: auto;"}
+::
 
 *If you don’t have it, substitute Sure Footed & Fortitude in place of Primed Sure Footed*
 
@@ -29,7 +27,7 @@ To fix these problems and reach a more standard Profit-Taker build you can follo
 - To fix some of the energy economy issues, Narrow Minded is slotted, this gives enough time for your energy to regen between casting abilities if you’re using Zenurik.
 - To Improve survivability, Adaptation is used, and if that isn’t enough, Arcane Guardian or Arcane Tanker. Proc Arcane Tanker by calling Archgun while in the elevator to give Adaptation time to stack up.
 
-:::note
+::note
 **There is a wide range of utility Mods that range from immensely helpful to questionably useful:**
 
 - Vigorous Swap is a standard as it is a reliable source of damage due to frequent weapon swaps
@@ -41,24 +39,23 @@ To fix these problems and reach a more standard Profit-Taker build you can follo
 - Sometimes you’ll need more power strength to oneshot Pylons with Zenith, so Transient Fortitude may be used
 - Sometimes you want **even more power strength!!!** For this, either Umbral Fiber or Augur Secrets, or both.
 
-<div style="width: 50%; text-align: left;">
-    <img src="https://cdn.profit-taker.com/u/strength.png" alt="strength" style="width: 100%; height: auto;">
-</div>
+  :::div{style="width: 50%; text-align: left;"}
+  ![strength](https://cdn.profit-taker.com/u/strength.png){style="width: 100%; height: auto;"}
+  :::
 
 - Peculiar bloom because big flowers
-:::
+::
 
 Putting it all together, a more standard build might look like this:
 
-<div style="width: 100%; text-align: left;">
-    <img src="https://cdn.profit-taker.com/u/standardbuild.png" alt="standardbuild" style="width: 100%; height: auto;">
-</div>
+::div{style="width: 100%; text-align: left;"}
+![standardbuild](https://cdn.profit-taker.com/u/standardbuild.png){style="width: 100%; height: auto;"}
+::
 
 **There are a few other things that are important to know, too:**
 
-- The damage buff from Eclipse is on Eclipse's hold cast by default. Consider inverting Mirage's ability controls in your settings to make Solar Eclipse (the damage buff) a tap cast  
+- The damage buff from Eclipse is on Eclipse's hold cast by default. Consider inverting Mirage's ability controls in your settings to make Solar Eclipse (the damage buff) a tap cast
 - As of Update 38: Shock Trooper no longer combines with elements, making it ideal for non-Volt frames to do electricity.
-
 
 ## **Shield, Pylon, Armor Build Factors**
 
@@ -68,22 +65,21 @@ To understand weapon builds, you need to look at the fight as a whole, each phas
 
 ### **Shields**
 
-Profit-Taker's shields are the reason behind 80% of the meta loadout. To cover as many elements as possible, and thus make shields as fast as possible, the meta loadout is Volt Kuva Ogris, Magnetic Tenet Diplos, an Exodia Contagion Zaw, and an On Call Crew with Torid. Kuva Ogris is a bit of a black horse here as it is horrible for shield damage, it's here because it's the best option for taking care of Pylons. 
+Profit-Taker's shields are the reason behind 80% of the meta loadout. To cover as many elements as possible, and thus make shields as fast as possible, the meta loadout is Volt Kuva Ogris, Magnetic Tenet Diplos, an Exodia Contagion Zaw, and an On Call Crew with Torid. Kuva Ogris is a bit of a black horse here as it is horrible for shield damage, it's here because it's the best option for taking care of Pylons.
 
 #### **Weapon Elementals**
 
-:::tip
+::tip
 **When building your weapons for Profit-Taker, no Toxin damage is an almost unavoidable problem, to see the reason why consider the current meta weapon elements for solo Profit-Taker:**
-
 
 Secondary: Viral(Cold+**Toxin**), Heat, innate Mag, and optional Radiation
 
-Melee (Contagion): Gas(**Toxin**\+Heat), Cold, innate IPS, Blast (covered by Exodia Contagion), Corrosive (covered by Melee Exposure),  Radiation, and optional Magnetic
+Melee (Contagion): Gas(**Toxin**+Heat), Cold, innate IPS, Blast (covered by Exodia Contagion), Corrosive (covered by Melee Exposure), Radiation, and optional Magnetic
 
-[__Operator__](/guide/speedrun-strats.html#operator-element)/Volt Shield/Shock Trooper: Electric
+**[Operator](/guide/speedrun-strats.html#operator-element)**/Volt Shield/Shock Trooper: Electric
 
 With this combination, you're only missing Toxin, and there is no way to fit it in the builds without creating the need to switch to your primary.
-:::
+::
 
 If you try putting it in place of any of the other modded single-stat elements, it will just combine with the dual-stat elements.
 
@@ -99,7 +95,7 @@ Going more in depth on how to cover this last missing element:
 
 Saryn can do Toxin via her third ability, Toxic Lash. Meaning she can do every element if she's using Shock Trooper, however - this means she has to remove Eclipse.
 
-For the first solution, you must have an On Call Crew set up properly, [__which is explained in depth later in speedrun strats.__](/guide/speedrun-strats.html#on-call-strats)
+For the first solution, you must have an On Call Crew set up properly, **[which is explained in depth later in speedrun strats.](/guide/speedrun-strats.html#on-call-strats)**
 
 With a properly set up On Call Crew, you have a way to do missing elements without having to swap weapons.
 
@@ -111,37 +107,36 @@ For the second solution, you simply use a Zenith as your primary, modding it for
 
 While we’ve mentioned the basics of shields in previous sections, there are some very good reasons the elemental combinations are the way they are. In some cases, it comes down to available Mods, but it mostly has to do with weapon innate elements and fire mode.
 
-:::note
+::note
 **The things Profit-Taker runners look for in weapons when looking at shields are:**
-
 
 - High damage when modded for crit.
 - Multiple innate single stat elements (like the Shedu) OR innate dual stat elements (like the Tenet Detron/Diplos)
 - Functionality: if a weapon requires some specific setup to work as advertised, or doesn’t work properly at all, it's not going to be very practical. (like the Shedu, which doesn’t work)
 - Decent fire rate and magazine are optional in theory, but quite important in practice
-:::
+::
 
 Generally, the only weapons in a Profit-Taker loadout not completely built for breaking shields as fast as possible are primary and whatever you’re using to break limbs. You need as many of the 13 elements as you can get. Simply put, if you only have 6 elements, the best run you’re looking at is in the area of 3-4 minutes due to how much time you will need to spend cycling shields. This assumes you have a good understanding of the fight and have well-set up Archguns already.
 
 That being said, you still need well-built weapons that can do decent damage, as you can see in how slow Profit-Taker is modless.
 
-[__Profit Taker with Modless Weapons | 11m 09s 800ms RTA | PS4 Warframe__](https://www.youtube.com/watch?v=y_TtIvas9WM)
+**[Profit Taker with Modless Weapons | 11m 09s 800ms RTA | PS4 Warframe](https://www.youtube.com/watch?v=y_TtIvas9WM)**
 
 This run uses weapons that have decently high base damage, the meta setup would likely do worse than this under the same circumstances.
 
-##### __Weapon Choice and builds:__
+##### **Weapon Choice and builds:**
 
 To start with, even if a weapon has an innate element like the Cyanex, it is still extremely important for weapons to have the ability to do enough damage to Profit-Taker. The Cyanex isn’t meta because it quite simply doesn’t have the DPS as you can see.
 
-[__Off meta mechless run ft. cyanex + dagger zaw__](https://www.youtube.com/watch?v=1Dgkwg9n4H4)
+**[Off meta mechless run ft. cyanex + dagger zaw](https://www.youtube.com/watch?v=1Dgkwg9n4H4)**
 
-<div style="width: 35%; text-align: left;">
-    <img src="https://cdn.profit-taker.com/u/cyanex.png" alt="cyanex" style="width: 100%; height: auto;">
-</div>
+::div{style="width: 35%; text-align: left;"}
+![cyanex](https://cdn.profit-taker.com/u/cyanex.png){style="width: 100%; height: auto;"}
+::
 
 While on the other hand, even though it doesn’t have any innate elements, the Lato Vandal can be quite good due to its stats.
 
-[__Warframe PS4 Profit Taker Lato Vandal Only | 3m 38s 700ms RTA__](https://www.youtube.com/watch?v=aOJ7CxTb6qE)
+**[Warframe PS4 Profit Taker Lato Vandal Only | 3m 38s 700ms RTA](https://www.youtube.com/watch?v=aOJ7CxTb6qE)**
 
 So as you can see, weapons ideally have both good innate crit and innate elements. Exodia Contagion is the absolute master of covering multiple elements, with Kuva and Tenet weapons being a close second. Dual stat elements that contain Toxin are the easiest to mod for.
 
@@ -150,13 +145,13 @@ Ideally, the single stat element you mod onto a weapon is the one covered by the
 As a bonus, Profit-Taker runners also look for certain things about a weapon that results in faster elements, weapons like this include:
 
 - Tenet Detron has so much damage and so many projectiles that it can clear 4 elements with one shot given perfect rng.
-- Exodia Contagion, a Zaw Arcane that adds a grenade-like attack with 3 separate damage instances. Each one of said instances do the modded elements, meaning it is not uncommon to throw Contagion and clear 2-3 elements. For more information, check the [__Zaw guide__](/codex/contagion-zaws)
+- Exodia Contagion, a Zaw Arcane that adds a grenade-like attack with 3 separate damage instances. Each one of said instances do the modded elements, meaning it is not uncommon to throw Contagion and clear 2-3 elements. For more information, check the **[Zaw guide](/codex/contagion-zaws)**
 
 A generic weapon build will look something like this:
 
-<div style="width: 100%; text-align: left;">
-    <img src="https://cdn.profit-taker.com/u/genericweapon.png" alt="genericweapon" style="width: 100%; height: auto;">
-</div>
+::div{style="width: 100%; text-align: left;"}
+![genericweapon](https://cdn.profit-taker.com/u/genericweapon.png){style="width: 100%; height: auto;"}
+::
 
 The specifics change between primary/secondary/melee, and certain stats are prioritized due to various factors such as available Mods and weapon type.
 
@@ -164,30 +159,29 @@ Once every element a weapon covers can be consistently cleared in one shot, it i
 
 **Rivens MUST be an improvement over at least one of the Mods above or open up a Mod slot, otherwise, they are not worth slotting onto the build**
 
-Note that with a well-coordinated squad, even the most absurd setups can do impressively good runs provided enough damage and most of the elements, like in this sub-2-minute Bonewidow run: [__Bonewidow profit taker 1 47 (Youtube)__](https://www.youtube.com/watch?v=iaFSMatVcHc)
+Note that with a well-coordinated squad, even the most absurd setups can do impressively good runs provided enough damage and most of the elements, like in this sub-2-minute Bonewidow run: **[Bonewidow profit taker 1 47 (Youtube)](https://www.youtube.com/watch?v=iaFSMatVcHc)**
 
 Trying to figure out elemental combinations can get quite confusing, this image from the wiki can help keep track of everything.
 
-<div style="width: 75%; text-align: left;">
-    <img src="https://cdn.profit-taker.com/u/elementschart.png" alt="elementschart" style="width: 100%; height: auto;">
-</div>
-'
+::div{style="width: 75%; text-align: left;"}
+![elementschart](https://cdn.profit-taker.com/u/elementschart.png){style="width: 100%; height: auto;"}
+::
 
-##### __Zaw Part setups:__
+#### **Zaw Part setups:**
 
-Contagion deals a lot of damage, meaning Zaws can focus on Quality of Life and reliability.  When choosing parts for your Zaw, you want to go for a Scythe, Staff, or Polearm Zaw with max attack speed and critical chance. As was said [__here__](/codex/contagion-zaws#melee-mechanics), Scythes, Staves, and Polearms don’t suffer from air lock, making them the weapon of choice. Attack speed will make the Zaw more forgiving and easier to use while critical chance guarantees a reliable damage output. If you’re looking for a Zaw Riven, see the graph below for strikes with good Riven disposition. If you’re looking for what mod config to use, [__see the previous section__](/codex/creating-builds.html#weapon-choice-and-builds).
+Contagion deals a lot of damage, meaning Zaws can focus on Quality of Life and reliability.  When choosing parts for your Zaw, you want to go for a Scythe, Staff, or Polearm Zaw with max attack speed and critical chance. As was said **[here](/codex/contagion-zaws#melee-mechanics)**, Scythes, Staves, and Polearms don’t suffer from air lock, making them the weapon of choice. Attack speed will make the Zaw more forgiving and easier to use while critical chance guarantees a reliable damage output. If you’re looking for a Zaw Riven, see the graph below for strikes with good Riven disposition. If you’re looking for what mod config to use, **[see the previous section](/codex/creating-builds.html#weapon-choice-and-builds)**.
 
 Seekalla is the best grip for most strikes because it is the highest attack speed two-handed grip. It is primarily used for Polearms and Staves. Peye is the highest attack speed one-handed grip and is primarily used for Daggers and Scythes.
 
 Vargeet II Jai gives you max attack speed and critical chance. With Sacrificial Steel and Vargeet II Jai, all strikes reach 100% cc, making it the de facto choice.
 
-<div style="width: 100%; text-align: left;">
-    <img src="https://cdn.profit-taker.com/u/zawspreadsheet1.png" alt="zawspreadsheet1" style="width: 100%; height: auto;">
-</div>
+::div{style="width: 100%; text-align: left;"}
+![zawspreadsheet1](https://cdn.profit-taker.com/u/zawspreadsheet1.png){style="width: 100%; height: auto;"}
+::
 
-<div style="width: 60%; text-align: left;">
-    <img src="https://cdn.profit-taker.com/u/zawspreadsheet2.png" alt="zawspreadsheet2" style="width: 100%; height: auto;">
-</div>
+::div{style="width: 60%; text-align: left;"}
+![zawspreadsheet2](https://cdn.profit-taker.com/u/zawspreadsheet2.png){style="width: 100%; height: auto;"}
+::
 
 ### **Armor**
 
@@ -195,39 +189,38 @@ The easiest and least complicated phase, the Armor Phase relies almost entirely 
 
 Archgun builds are fairly cut and dry, with pretty much all Archguns using the following build (or variations thereof):
 
-<div style="width: 100%; text-align: left;">
-    <img src="https://cdn.profit-taker.com/u/genericarmor.png" alt="genericarmor" style="width: 100%; height: auto;">
-</div>
+::div{style="width: 100%; text-align: left;"}
+![genericarmor](https://cdn.profit-taker.com/u/genericarmor.png){style="width: 100%; height: auto;"}
+::
 
 - Sometimes it is best to replace Hollowed Bullets or Parallax Scope with a Riven. After all, if you consistently (100% of the time) one or two-shot legs without the Mods equipped then there is no reason for them to be equipped.
 - The most important part of any build is to mod for Magnetic because Profit-Taker is weak to it.
 
 Rivens ideally give Archguns 100% cc and/or ms for consistency’s sake, especially in the case of the Velocitus, for which the meta build **requires** critical chance on the Riven.
 
-#### __Archgun Setups Pros/Cons:__
+#### **Archgun Setups Pros/Cons:**
 
 Before getting into the specifics about Archgun setups, make sure that no matter what setup you use, **keybind the gear item** as it massively increases the reliability and versatility of both Heavy Weapon and mech summon.
 
-##### __Heavy Weapon__
+##### **Heavy Weapon**
 
-:::tip
+::tip
 **Pros:**
 
 Has access to frame damage buffs such as Eclipse or Vex Armor. This means that once you have your Archgun called down, it will shred Profit-Taker legs
 Is fairly close to the ground, and you can crouch to get lower, letting you get a decent view of all legs from the front
-:::
+::
 
-:::caution
+::caution
 **Cons:**
-
 
 - Has a \~3s delay to call down Archgun. The animation starts once you put away your current weapon and takes place over a fixed amount of time. If you have a scanner out, the animation will start immediately
 - Due to the Archgun cooldown, explained in [Basic Principles](/guide/basic-principles#_6-clearing-the-armor-phase), many Archguns miss out on DPS to slot Ammo Chain.
 - You are completely exposed when calling down Archgun, requiring you to either get lucky or plan your positioning around calling down Archgun.
 - After the first Shield Phase, it is extremely common for Profit-Taker to do her laser attack while you’re calling Archgun. Press a/d + slide right before calling Archgun to slide out of the way of this attack, your momentum won’t stop immediately when you’re in the call animation, you need the Archgun deployer on a keybind to do this.
-:::
+::
 
-__Mausolon (Heavy Weapon):__
+**Mausolon (Heavy Weapon):**
 
 Pros:
 
@@ -244,10 +237,10 @@ Cons:
 Video (click to play/pause):
 
 ::div{style="padding-bottom: 20px;"}
-:video{src="/u/mausolonarmor.mp4" width="100%" muted loop}
+:video{loop muted src="/u/mausolonarmor.mp4" width="100%"}
 ::
 
-__Prisma Dual Decurion (Heavy Weapon):__
+**Prisma Dual Decurion (Heavy Weapon):**
 
 Pros:
 
@@ -259,26 +252,25 @@ Cons:
 
 - Low ammo pool and high fire rate mean missed/wasted shots are highly penalized by cooldown
 - Projectile weapon like most Archguns
-- Is affected by [__Archgun Hitbox Bug__](/miscellaneous/bugs.html#archgun-hitbox-bug)
+- Is affected by **[Archgun Hitbox Bug](/miscellaneous/bugs.html#archgun-hitbox-bug)**
 
-##### __Mech__
+##### **Mech**
 
-:::tip
+::tip
 **Pros:**
 Instant summon
 Fairly tanky, don’t need to worry about dying
 This also applies to general survivability: not being exposed while doing the armor phase will make you die less overall
-:::
+::
 
-:::caution
+::caution
 **Cons:**
 
-
 - High camera and weapon position sometimes make rear limbs hard to hit
-- Few damage buffs, and an extremely restrictive meta setup. The forms of damage increase available are as follows: Volt shield, Damage Bless, Tactical Rank 9, Riven Mods and Jade's Deathbringer <Badge type="warning" text="still unclear whether thats intended" />.
-:::
+- Few damage buffs, and an extremely restrictive meta setup. The forms of damage increase available are as follows: Volt shield, Damage Bless, Tactical Rank 9, Riven Mods and Jade's Deathbringer :badge[.]{text="still unclear whether thats intended" type="warning"}
+::
 
-__Velocitus (Necramech):__
+**Velocitus (Necramech):**
 
 Pros:
 
@@ -294,7 +286,7 @@ Cons:
 - There are only 9 stat combinations of Riven Mods that work for uncharged oneshots. Note that some Rivens oneshot without a CC Mod on, but they have only 74% cc. No Riven is necessary for charged shots
 - Every Riven combination needs a certain grade value for uncharged oneshots, some less than others. Damage Bless is necessary for every roll
 
-__Corvas (Necramech, <span style="color: red;">non-Prime</span>):__
+**Corvas (Necramech,** [**non-Prime**]{style="color: red;"}**):**
 
 Pros:
 
@@ -311,7 +303,7 @@ Cons:
 - High multishot makes it possible to miss with a few pellets, meaning the legs aren’t oneshot.
 - As it is a shotgun you need to be near Profit-Taker to do significant amounts of damage. Not a massive issue, but something to keep in mind.
 - The Primed version is [garbage](https://www.youtube.com/watch?v=VvGG9xdmAwE) and often deals 0 damage.
-- Is affected by [__Archgun Hitbox Bug__](/miscellaneous/bugs.html#archgun-hitbox-bug)
+- Is affected by **[Archgun Hitbox Bug](/miscellaneous/bugs.html#archgun-hitbox-bug)**
 
 ### **Pylons**
 
@@ -326,12 +318,12 @@ The three weapon [types] that meet these criteria, in order of speed:
 
 ##### Ogris / Kuva Ogris
 
-Ogris has a mod called Nightwatch Napalm, which leaves a large area of effect where the rockets land that lasts six seconds. This AoE can damage pylons through the pylon bubble, making it possible to destroy a pylon after it has landed, and if a pylon lands in the AoE, it can be quickly destroyed. This makes the Ogris several seconds faster than the next best option, as it isn’t solely reliant on reaction time (and aim) after the pylons have landed, but rather predicting where the pylons will land and pre-firing them. The Kuva Ogris is best for this as the progenitor damage bonus is one of the only damage increases that apply to Nightwatch Napalm. This is a speedrun strat known in the community as “Pogris”, more information on it [__here__](/guide/speedrun-strats.html#pogris). Pogris is unable to effectively damage shields, so it must also be paired with a good [__On Call Crew__](/guide/speedrun-strats.html#on-call-strats).
+Ogris has a mod called Nightwatch Napalm, which leaves a large area of effect where the rockets land that lasts six seconds. This AoE can damage pylons through the pylon bubble, making it possible to destroy a pylon after it has landed, and if a pylon lands in the AoE, it can be quickly destroyed. This makes the Ogris several seconds faster than the next best option, as it isn’t solely reliant on reaction time (and aim) after the pylons have landed, but rather predicting where the pylons will land and pre-firing them. The Kuva Ogris is best for this as the progenitor damage bonus is one of the only damage increases that apply to Nightwatch Napalm. This is a speedrun strat known in the community as “Pogris”, more information on it **[here](/guide/speedrun-strats.html#pogris)**. Pogris is unable to effectively damage shields, so it must also be paired with a good **[On Call Crew](/guide/speedrun-strats.html#on-call-strats)**.
 
 Video (click to play/pause):
 
 ::div{style="padding-bottom: 20px;"}
-:video{src="/u/ogrispylons.mp4" height="100" muted loop}
+:video{loop muted height="100" src="/u/ogrispylons.mp4"}
 ::
 
 ##### Zenith
@@ -341,7 +333,7 @@ Infinite punch-through allows the Zenith to go through mountains to hit Pylons f
 Video (click to play/pause):
 
 ::div{style="padding-bottom: 20px;"}
-:video{src="/u/zenithpylons.mp4" width="100%" muted loop}
+:video{loop muted src="/u/zenithpylons.mp4" width="100%"}
 ::
 
 ##### Fluctus
