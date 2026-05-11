@@ -23,25 +23,20 @@ Generic (Shock Trooper)
 
 ### Kuva Ogris
 
-:build
+:build{url="https://www.arsenyx.com/builds/Eh8RyRGNH3"}
 
-- Primary Overcharge will proc off Archwing energy
+- Primary Overcharge will proc off Archwing energy.
 - Nightwatch Napalm will damage Pylons as long as they are in range, even through the Pylon bubble. Prefiring pylon locations is a considerable timesave.
 - Normal Ogris can be used theoretically, but its slower and also needs significant investment, so you're better off just getting the Kuva variant
 
 ### Sicarus Prime Incarnoff
 
-::div{style="width: 100%; text-align: left;"}
-![sicarusbuildgrey](https://cdn.profit-taker.com/u/sicarusbuildgrey.png){style="width: 100%; height: auto;"}
-::
-
-***[Overframe Link](https://overframe.gg/build/784344/)***
+:build{url="https://arsenyx.com/builds/9kjspupQi4"}
 
 The Successor to Tenet Diplos. Rivens will ideally replace Tox/CC/CD Mods on the build. Cold and Heat are replaceable, but slightly less ideal, due to replacing either Ice Storm with its additional Magazine Capacity or Primed Heated Charge's higher Heat Damage.
 
 - Covers IPS, Magnetic, Radiation, Viral and Heat.
 - Use the Exilus that benefits your situation the most.
-- On Chroma, use Secondary Enervate.
 
 ::note
 Incarnon Adapter Evos;
@@ -55,34 +50,25 @@ EVO IV: Commodore's Fortune +14% Base CC.
 
 ### Tenet Diplos
 
-::div{style="width: 100%; text-align: left;"}
-![Vex\_Armor\_Tenet\_Diplos\_Build](https://cdn.profit-taker.com/u/Vex_Armor_Tenet_Diplos_Build.png){style="width: 100%; height: auto;"}
-::
-
-***[Overframe Link](https://overframe.gg/build/771296/)***
+:build{url="https://arsenyx.com/builds/tFjYznNXN6"}
 
 - **Diplos have been superseded by Sicarus Prime with an Incarnon adapter. Only use if you don't have access to Sicarus Prime Incarnoff.**
-- Covers heat, magnetic (progenitor) and viral
-- Lethal Torrent can be replaced with Accelerated Isotope so you don't have to rely on Contagion for Radiation
+- Covers heat (progenitor), magnetic, radiation  and viral
 - If you don't have Diplos, you can use any weapon with innate (or progenitor) magnetic or any high [crit] damage weapon with the Magnetic Might mod.
-- Reflex Draw is flex
-- On Chroma, use Secondary Enervate
+- Reflex Draw is flex.
 
-### Exodia Contagion Zaw
+### Balla Zaw
 
-::div{style="width: 100%; text-align: left;"}
-![Exodia\_Contagion\_Zaw\_Build](https://cdn.profit-taker.com/u/chroma-balla.png){style="width: 100%; height: auto;"}
-::
+:build{url="https://arsenyx.com/builds/Xy2EEjnJkB"}
 
-- Covers IPS, cold, radiation, gas, corrosive and blast.
+- Covers IPS, cold, gas, radiation, magnetic, corrosive and blast.
 - Rank >0 Exodia Contagion is not necessary.
 - The Zaw components are important for consistent performance.
+- Pointed Wind stance is important, the damage buff to neutral attacks that the stance gives also affects the damage of the Exodia Contagion projectile.
 
 ### Corvas (NON PRIME)
 
-::div{style="width: 100%; text-align: left;"}
-![CorvasRivenless](https://cdn.profit-taker.com/u/corvas-rivenless.png){style="width: 100%; height: auto;"}
-::
+:build{url="https://arsenyx.com/builds/Y3FeD9X9Jg"}
 
 - Used on Necramech, can oneshot legs with a charged shot.
 - Make sure not to spam Necramech abilities to maintain the Overcharge buff. Necramech Flow is required.
@@ -90,19 +76,16 @@ EVO IV: Commodore's Fortune +14% Base CC.
 
 ### On-Call Crewmate (Opticor Vandal)
 
-::div{style="width: 100%; text-align: left;"}
-![OpticorCrewmate](https://cdn.profit-taker.com/u/opticor-occ.png){style="width: 100%; height: auto;"}
-::
+:build{url="https://arsenyx.com/builds/d4TBNS68pE"}
 
-- Ideally needs a 150% Rifle Crit Chance Elite Crewmate
+- Covers Toxin.
+- Ideally needs a 150% Rifle Crit Chance Elite Crewmate.
 - Optimal stat distribution is 00555 with maxed endurance, repair and combat, however Vex Armour can make up for a lack of combat points.
 - Don't park the crewmate behind your mech as they often lose track of Profit Taker.
 
 ### Panzer Vulpaphyla
 
-::div{style="width: 100%; text-align: left;"}
-![Panzer](https://cdn.profit-taker.com/u/panzer.png){style="width: 100%; height: auto;"}
-::
+:build{url="https://arsenyx.com/builds/yEfSpmtJFi"}
 
 - Panzer has enough shields to passively trigger Reinforced Bond
 - Use Bite on Panzer Claws to activate Tenacious Bond
