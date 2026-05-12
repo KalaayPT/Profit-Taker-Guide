@@ -3,12 +3,6 @@ title: Volt
 description: "This section covers builds for speedrunning with Volt running subsumed Eclipse. "
 ---
 
-This section covers generic builds for frames using Eclipse.
-This includes: Volt builds, Mirage builds, Saryn builds, etc.
-They are generally tailored to specific primary weapon setups.
-Suggested Warframe Arcanes include: Guardian, Avenger, Acceleration, Velocity
-Suggested operator Arcanes include: Elevate, Repair, Lockdown, Cloud
-
 ## Frame Build
 
 :build{#04SxaSXSv8}
