@@ -20,112 +20,113 @@ Always test for one-shot viability via:
 
 ## **2. Archguns**
 
-## **Velocitus (Volt only, Necramech)**
+### **Velocitus (Volt only, Necramech)**
 
 *Usage: Uncharged shots through Volt Shield + Damage Blessing*
 
-***Grades matter and usually need to be around B or higher.***
+With Bulwark/Overcharge you can oneshot legs with almost any roll that has critical chance and some form of damage stat, however high fire rate builds still require specific stat combinations. Use the template build in the Volt guide as a reference when replacing mods, and always check your damage in the Profit-Taker calc to see if your riven can oneshot.
 
-#### 🟢 Positives
+#### 90%+ Fire Rate
 
-- Critical Chance [(required)]{style="color: red;"}
-- Damage
-- Critical Damage
-- Cold / Electricity
-- Damage to Corpus
+| Build            | Grade Req (on damage stats) | Replaced Mods             |
+| ---------------- | --------------------------- | ------------------------- |
+| CC FR Element/CD | F                           | -Element/CD + FR          |
+| CC FR CORP       | F                           | -Elements +FR +Primed Tox |
+| CC FR DMG        | C+                          | -Elements +FR +Primed Tox |
+| CC CD Element    | CC                          | -CD%Element +FR           |
+| CC Cold Elec     | CC                          | -Cold\&Elec +FR           |
+| CC CD CORP       | A+A+                        | -MS\&CD + FR              |
+| CC CORP Element  | SS                          | -Element\&CD +FR          |
 
-*Note: Fire Rate is usable in a squad with Volt and Jade*
+#### 60% Fire Rate
 
-#### 🔴 Negatives
+| Build           | Grade Req (on damage stats) | Replaced Mods |
+| --------------- | --------------------------- | ------------- |
+| CC CD DMG       | F                           | -MS + FR      |
+| CC CORP Element | F                           | -MS + FR      |
+| CC DMG CORP     | F                           | -MS + FR      |
+| CC DMG Elem     | F                           | -MS + FR      |
 
-- ✅ **Harmless:**
-  - Zoom (best), Status Chance, Status Duration, Ammo Max, Damage to Grineer
-- ❌ **Avoid:**
-  - Magazine Capacity, Reload Speed, Fire Rate, +Recoil, Multishot (inconsistent shells)
+### **Corvas (Necramech)**
 
-## **Corvas (Chroma, Necramech)**
+Riven is not mandatory since a charged shot can oneshot legs rivenless, but good rolls can enable higher fire rate and uncharged oneshots. Fire rate only affects the delay between shots, not the charge rate.
 
-*Easier stat requirements, no Blessing or Crit Chance needed, riven affects amount of charge needed*
+Harmless negatives are:
 
-#### 🟢 Positives
+- Zoom
+- Status Chance/Duration
+- Ammo Max
+- +Recoil
 
-- Damage
-- Critical Damage
-- Cold / Electricity
-- Damage to Corpus
-- Multishot
+![](https://cdn.discordapp.com/attachments/958787992481320961/1473468000886853875/image.png?ex=6a05b843\&is=6a0466c3\&hm=7f22ee572e67efd1d0ac7afae737c6b9f5d421899d6265cb9aa2cfaae387d3de&=){height="" width=""}
 
-*Note: Fire Rate does not affect charge speed*
+### **Prisma Dual Decurions (Mirage Solo)**
 
-#### 🔴 Negatives
+Critical chance (mandatory) and various damage stats enable more fire rate. +Ammo Maximum can be useful if you find yourself running into cooldown problems, but generally Primed Ammo Chain is sufficient.
 
-- ✅ **Harmless:**
-  - Zoom, Status Chance/Duration, Ammo Max, +Recoil, Magazine Capacity
-- ❌ **Avoid:**
-  - Impact
+Harmless negatives are:
 
-## **Prisma Dual Decurions (Mirage Solo/Squad with Deployer)**
+- Zoom (ideal)
+- Status Chance/Duration
 
-*Buff-dependent to be viable, not ammo efficient*
+### **Prisma Dual Decurions/Imperator Vandal (Squad)**
 
-#### 🟢 Positives
+*Used by Mirage/Jade/Chroma*
 
-- Critical Chance
-- Fire Rate
-- Damage / Critical Damage
-- Cold / Electricity
-- Damage to Corpus
-- Ammo Max (solo)
+In squad runs, archgunners have access to Secondary Outburst. This can replace all crit mods, so rolls are very flexible. Look for fire rate, multishot and elemental/Corpus damage.
 
-#### 🔴 Negatives
+Harmless negatives:
 
-- ✅ **Harmless:**
-  - Zoom (ideal), Status Chance/Duration
+- Zoom (ideal)
+- Status Chance/Duration
+- Ammo Max
 
-## **Imperator Vandal (Squads only with Deployer)**
+### **Mausolon**
 
-*Usage note: Prefire to offset wind‑up*
+Poor disposition (0.5x); rivens rarely beat standard mods.
 
-#### 🟢 Positives
-
-- Critical Chance [(required)]{style="color: red;"}
-- Fire Rate (recommended)
-- Any damage stat
-
-#### 🔴 Negatives
-
-- ✅ **Harmless:**
-  - Zoom, Status Chance/Duration, Ammo Max
-
-## **Mausolon**
-
-- Poor disposition (0.5x); rivens rarely beat standard mods
-- ✅ Optional Riven:
-  - Critical Chance (only if dropping Arcane Avenger)
-  - Fire Rate
-  - Any Damage Stat
+Optional Riven:
+* Critical Chance (only if dropping Arcane Avenger)
+* Fire Rate
+* Any Damage Stat
 
 ## **3. Primaries**
 
-## **Kuva Ogris**
+### **Kuva Ogris**
 
 *Needs >50 % Multishot*
 
-#### 🟢 Positives
+Harmless negatives:
 
-- Multishot [(required)]{style="color: red;"}
-- Damage (Volt)
-- Magazine Capacity (Chroma/Volt)
-- Projectile Flight Speed (Chroma)
+- Zoom
+- Reload Speed
+- Status Chance/Duration
+- Crit Chance/Damage
+- Faction Damage
 
-#### 🔴 Negatives
+Avoid: 
 
-- ✅ **Harmless:**
-  - Zoom, Reload Speed, Status Chance/Duration, Crit Chance/Damage, Faction Damage
-- ❌ **Avoid:**
-  - Ammo Max, Magazine Capacity, +Recoil
+- Ammo Max
+- Magazine Capacity
+- +Recoil
 
-## Zenith
+#### Volt
+
+Damage + Multishot with a harmless negative is required to onetick pylons with one shot.
+
+Damage must be over 150% on Kuva Ogris if using Umbral Intensify. With Precision Intensify any value will work if you have a negative and no 3rd stat.
+
+Multishot grade doesn’t matter.
+
+#### Chroma
+
+Riven selection is a lot more flexible since it is possible to onetick pylons with fully stacked Vex Armour with just 60% additional multishot on the riven.
+
+Damage on the riven can allow for a little flexibility with shards or Ogris builds, and magazine capacity/fire rate also helps.
+
+If on a budget you will be fine with virtually any riven that gives you >60% multishot.
+
+### Zenith
 
 ::warning
 Deprecated
@@ -133,7 +134,7 @@ Deprecated
 Worse than Ogris in almost every way, unless you need it to cover toxin.
 ::
 
-#### 🟢 Positives
+#### Positives
 
 - Damage
 - Multishot
@@ -141,31 +142,13 @@ Worse than Ogris in almost every way, unless you need it to cover toxin.
 
 ## **4. Secondaries**
 
-## **Sicarus Prime Incarnoff**
+### **Sicarus Prime Incarnoff**
 
 *High disposition, flexible*
 
-#### 🟢 Positives
+#### Volt
 
-- Multishot
-- Damage (Volt)
-- Critical Damage (Chroma)
-- Toxin
-- Heat (Only other viable element, worse than toxin because of Prime Heated Charge)
-- Critical Chance (Must be over 156.5% for consistency)
-- Damage to Corpus
-- ❌ **Avoid:**
-  - Electricity
-  - Cold (requires replacing Ice Storm)
-
-#### 🔴 Negatives
-
-- ✅ **Harmless:**
-  - Zoom, Projectile Speed, Status Chance/Duration, Reload Speed, Faction Damage
-- ❌ **Avoid:**
-  - Ammo Max, Magazine Capacity, Impact/Puncture/Slash
-
-### Ranking list (lowest ttk (time to kill) is best):
+##### Ranking list (lowest ttk (time to kill) is best):
 
 **Notes:**
 
@@ -210,7 +193,11 @@ Worse than Ogris in almost every way, unless you need it to cover toxin.
 | corp fr dmg     | 568/617         | replaces cd                             |
 | ms fr dmg       | 589/919         | replaces cd                             |
 
-## **Tenet Diplos**
+#### Chroma
+
+Same as Volt but base damage should be avoided, replace with crit damage/damage to corpus/any other stat that allows you to slot the riven.
+
+### **Tenet Diplos**
 
 ::warning
 Deprecated
@@ -218,7 +205,7 @@ Deprecated
 Even with a perfect riven still underperforms vs rivenless Sicarus
 ::
 
-#### 🟢 Positives
+#### Positives
 
 - Cold + Toxin (for Viral)
 - Multishot / Damage / Crit Damage / Damage to Corpus
@@ -227,24 +214,27 @@ Even with a perfect riven still underperforms vs rivenless Sicarus
 
 *A good riven can mean the difference between needing one or two throws for some elements.*
 
-- Volt: Element + Crit Damage + Melee Damage
-- Chroma: Element + Crit Damage + Attack Speed
+Harmless negatives (for both frames) are:
 
-#### 🟢 Positives
+- Status Chance/Duration
+- Range
+- Finisher Damage
+- Heavy‑Attack Efficiency
+- Slide Crit Chance
+- Faction Damage
 
-- Critical Damage (required)
-- Element (Cold / Heat / Toxin)
-- Melee Damage (Volt)
-- Attack Speed (Chroma)
-- ❌ **Avoid:**
-  - Critical Chance
-  - Electricity
+Avoid:
 
-#### 🔴 Negatives
+- Electricity/Impact/Puncture/Slash (both as negative and positive stats).
 
-- ✅ **Harmless:**
-  - Status Chance/Duration, Range, Finisher Damage, Heavy‑Attack Efficiency, Slide Crit Chance, Faction Damage
-- ❌ **Avoid:**
-  - Impact, Puncture, Slash
+### Volt
 
+An ideal Balla riven allows Volt to oneshot every Balla element with Exodia Contagion, including the damage over time instance. This is generally not a huge timesaver however, and does not need to be prioritised. The necessary stats are crit damage, damage and an element (heat, cold or toxin, NOT elec). You need at least B+ grades on crit damage and/or damage to reach the breakpoint, the element grade is irrelevant.
+
+#### Chroma
+
+Attack speed+element (heat, cold or toxin, NOT elec) is the ideal roll for Chroma. Critical damage is also fine.
+
+::prose-note
 *Note: Use the “Contagion” section in the PT Calculator to optimize shield breakpoints.*
+::
