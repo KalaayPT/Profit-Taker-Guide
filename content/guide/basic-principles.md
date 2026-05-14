@@ -17,7 +17,7 @@ You might find builds that use knockdown recovery speed mods, but those are neve
 1. Knockdown immunity Mods - Primed Sure Footed or Sure Footed + Fortitude
 2. Unairu’s Poise - active for 40 seconds.
 3. Frames that have their own ways of providing knockdown immunity like Revenant.
-4. Infuse Titania’s Spellbind.
+4. Negate mod (Wyrm) and roll into the forced push attacks
 ::
 
 ## **2. Surviving**

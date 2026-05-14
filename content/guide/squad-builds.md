@@ -1,19 +1,22 @@
 ---
-title: Squad Speedruns
+title: Squad Profit-Taker
+description: Volt, Mirage and Wisp are the core of the squad, if you want to farm credits then the 4th slot is for Chroma, if running for speedrun times you would want Jade.
+seo:
+  title: Squad Speedruns
+  description: Volt, Mirage and Wisp are the core of the squad, if you want to farm credits then the 4th slot is for Chroma, if running for speedrun times you would want Jade.
 ---
 
 ## **Roles**
 
 ### Volt
 
-![Squad Volt](https://cdn.profit-taker.com/u/Squad_Volt.png)
+:build{url="https://arsenyx.com/builds/8UpcXN4fD6"}
 
-[***Overframe Link***](https://overframe.gg/build/814126/volt-prime/squad-builds-volt-prime-eclipse/)
+Total Eclipse is intentionally removed to avoid a bug caused by 2 instances of Total Eclipse (from Volt and Mirage).
 
-The build for Volt is nearly identical to the solo speedrun setup. Eclipse is subsumed over his 4th ability. Volt's role is to speed up landing/flight and to break first shields and legs. Mech Velocitus will be used for first legs, the riven requirement is much less strict than in solo due to Jade's buff. Critical chance is still mandatory, depending on the strength of the Deathbringer buff you can run up to 3 fire rate modifiers. There is also the option to drop Primed Dual Rounds for Magnetised Cycle which removes Multishot bugs/issues.
+You can use a 3rd casting speed shard if minmaxing, since you will easily hit the pylon onetick threshold with buffs from your squad.
 
-After first legs Volt handles pylons and places shields for both electric element coverage and damage increase. The on-call crewmate should run Kuva Chakkhurr, which can oneshot toxin shields without the need of Total Eclipse.
-Madurai Void Strike is used for 2nd pylons for the ammo efficiency rather than the damage buff.
+Kuva Chakkhurr ([Build](https://arsenyx.com/builds/CRNuUfEKGY)) on your crewmate can oneshot Toxin shields without needing the Eclipse buff, however Opticor Vandal is more consistent once the rest of the squad lands.
 
 ::collapsible{name="Video demonstration (90 mb)"}
 POV by Endryx
@@ -25,43 +28,27 @@ POV by Endryx
 
 ### Mirage
 
-![Squad Mirage](https://cdn.profit-taker.com/u/Squad_Mirage.png)
+:build{url="https://arsenyx.com/builds/phYiOUpm8d"}
 
-[***Overframe Link***](https://overframe.gg/build/814124/mirage-prime/squad-builds-mirage-prime-shooting-gallery/)
+Use Rauta ([Build](https://arsenyx.com/builds/X6p2dzkCCF)) to stack 12x combo on your melee for Secondary Outburst on your Prisma Dual Decurions ([Build](https://arsenyx.com/builds/D0m5oNnxpj)), then deploy your archgun just before the last pylon lands.
 
-Mirage takes the role of gunner, and handles the last 3 leg phases. Subsume Energized Munitions over her 4th ability to allow her to upkeep fire even with a strong Wisp Haste Mote present. Use Rauta to quickly stack combo for Secondary Outburst on your Prisma Dual Decurions. Pull out your Archgun just before the first pylons land to ensure the Outburst buff lasts the entire fight. If there is no space for Mirage in the squad, Jade using Prisma Dual Decurions (or Mausolon in duo) is the preferred option.
+Energized Munitions subsume allows you to start prefiring legs much earlier.
 
-::collapsible{name="Video demonstration (240 mb):"}
-POV by Kalaay
-
-  :::div{style="padding-bottom: 20px;"}
-  :video{controls muted src="/u/Mirage%20AG%20POV%20optimized.mp4" width="100%"}
-  :::
-::
-
-### Chroma
-
-![Squad Chroma](https://cdn.profit-taker.com/u/Squad_Chroma.png)
-
-[***Overframe Link***](https://overframe.gg/build/814133/chroma-prime/squad-builds-chroma-prime-nourish/)
-
-Chroma doubles the credit drops after the fight, and can help with shields using Sicarus and Balla. In case Volt misses a pylon he can run Zenith to quickly clean up. Vex Armour provides a further damage boost. Heat Elemental Ward increases the Arcane Bellicose buff across the squad.
-
-::collapsible{name="Video demonstration (85 mb):"}
-POV by Fremy
+::collapsible{name="Video demonstration (165 mb):"}
+POV by Tren
 
   :::div{style="padding-bottom: 20px;"}
-  :video{controls muted src="/u/Chroma%20Support%20POV.mp4" width="100%"}
+  :video{controls muted src="/u/Mirage%20AG%20POV.mp4" width="100%"}
   :::
 ::
 
 ### Jade
 
-![Squad Jade](https://cdn.profit-taker.com/u/Squad_Jade.png)
+:build{url="https://arsenyx.com/builds/BLC95btfbG"}
 
-[***Overframe Link***](https://overframe.gg/build/814139/jade/squad-builds-jade-roar/)
+Cast Deathbringer while flying to Profit Taker to buff Volt’s Velocitus. Switch to Power of the Seven to buff Wisp’s Motes and Brightbonnet, then go back to Deathbringer.
 
-Jade can provide a large damage buff to Necramechs, which enables Volt to run extra fire rate mods on Velocitus during the first leg phase. If Volt is sufficiently skilled, this is a consistent timesave. Jade has to cast Deathbringer as soon as possible during landing, ideally during flight or in the elevator. Deathbringer's range is 250m in open worlds, so Jade can land a little after Volt. Use Rauta to quickly stack combo for Secondary Outburst on your Prisma Dual Decurions. Pull out your Archgun just before the first pylons land to ensure the Outburst buff lasts the entire fight.
+Use Rauta ([Build](https://arsenyx.com/builds/X6p2dzkCCF)) to stack 12x combo on your melee for Secondary Outburst on your Prisma Dual Decurions ([Build](https://arsenyx.com/builds/D0m5oNnxpj)), then deploy your archgun just before the last pylon lands.
 
 ::collapsible{name="Video demonstration (Jade Legs) (238 mb)"}
 POV by Kalaay
@@ -81,11 +68,11 @@ POV by UnOriginalGN
 
 ### Wisp
 
-![Squad Wisp](https://cdn.profit-taker.com/u/Squad_Wisp.png)
+:build{url="https://arsenyx.com/builds/pEYYKMIM2Y"}
 
-[***Overframe Link***](https://overframe.gg/build/814120/wisp-prime/squad-builds-wisp-prime-roar/)
+Cast Brightbonnet and a Fused Reservoir after landing, once you receive the Bellicose buff and have fired at the Brightbonnets with Arbucep you can recast Fused Reservoir for the highest possible Haste/Vitality buff.
 
-Wisp enables the squad to run Arcane Bellicose for a free strength increase. Fused Reservoir speeds up the mote placement, allowing for more survivability, strength, fire rate + attack speed, and some crowd control with shock mote. Prebuff your initial mote with Madurai Sling Strength and Molt Vigor, then place a second mote after receiving the Bellicose buff. A haste mote can be placed at the elevator to speed up the flight to Profit Taker. Brightbonnet is subsumed over her 4th ability, which provides a large strength buff and sufficient energy for the entire run. Brightbonnet can be placed at the elevator to allow the entire squad to run without energy pads.
+Use Sicarus ([Build](https://arsenyx.com/builds/FMHg_iXXfN)) to help with Blast and Toxin shields.
 
 ::collapsible{name="Video demonstration (186 mb)"}
 POV by UnOriginalGN
@@ -95,12 +82,28 @@ POV by UnOriginalGN
   :::
 ::
 
+### Chroma
+
+:build{url="https://www.arsenyx.com/builds/06j6bVZ9hM"}
+
+The standard solo build works fine, he can use Rauta and Prisma Dual Decurions or help Volt with pylons/shields but he is mostly just there to double the credits at the end of the fight.
+
+::collapsible{name="Video demonstration (85 mb):"}
+POV by Fremy
+
+  :::div{style="padding-bottom: 20px;"}
+  :video{controls muted src="/u/Chroma%20Support%20POV.mp4" width="100%"}
+  :::
+::
+
+### General Notes
+
 Excluding Volt, all roles can use Kuva Zarr on their On-call Crewmates, this weapon doesn't damage Profit Taker, but is very effective at killing trash enemies.
 Opticor Vandal is also a good option, especially in faster squads where trash enemies are less annoying.
 
 Do not drop Ancient Healer specters and ideally park all crewmates to avoid slam attacks. Amalgam Serration should be equipped on primary weapons to increase flight speed in Archwing.
 
-If you’re interested in finding new strats or want to run with other people, we welcome you to join [**our discord server**](https://discord.profit-taker.com)\*
+If you’re interested in finding new strats or want to run with other people, we welcome you to join **[our discord server](https://discord.profit-taker.com)**\*
 
 ## Weapons
 
@@ -112,7 +115,7 @@ If you’re interested in finding new strats or want to run with other people, w
 ![imperatorbuild](https://cdn.profit-taker.com/u/imperatorbuild.png){style="width: 100%; height: auto;"}
 ::
 
-[***Overframe Link***](https://overframe.gg/build/771323/)
+***[Overframe Link](https://overframe.gg/build/771323/)***
 
 ::div{style="width: 25%; text-align: left;"}
 ![imperatorriven](https://cdn.profit-taker.com/u/imperatorriven.png){style="width: 100%; height: auto;"}
@@ -130,4 +133,4 @@ In terms of overall element setups, supports should aim to run elements that are
 
 ![Squad Sicarus](https://cdn.profit-taker.com/u/squad_sicarus.png)
 
-[***Overframe Link***](https://overframe.gg/build/934287/)
+***[Overframe Link](https://overframe.gg/build/934287/)***
