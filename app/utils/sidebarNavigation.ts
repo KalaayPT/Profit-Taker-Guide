@@ -57,13 +57,13 @@ function guideChildren(path: string): SidebarNavigationItem[] {
     { title: "Welcome", path: "/guide/welcome" },
     { title: "Getting Started", path: "/guide/getting-started" },
     { title: "Basic Principles", path: "/guide/basic-principles" },
+    { title: "Beginner Traps", path: "/guide/beginner-traps" },
     {
       title: "Builds",
       defaultOpen: true,
       children: [
         { title: "Chroma", path: "/guide/chroma-builds" },
-        { title: "Eclipse", path: "/guide/eclipse-builds" },
-        { title: "Other", path: "/guide/other-builds" },
+        { title: "Volt", path: "/guide/eclipse-builds" },
         { title: "Squad Setup", path: "/guide/squad-builds" },
       ],
     },
