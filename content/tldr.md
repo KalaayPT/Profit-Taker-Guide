@@ -3,7 +3,7 @@ title: Quick Start Guide
 description: by Kalaay
 ---
 
-*This section is for those who don't have the time or energy to read the entire guide and just want a quick summary. This is* **NOT** *meant to replace reading everything on this site and is NOT* *a complete summary by any means. Throughout this page, we will link to more thorough explanations of the discussed topics so you can read up on the things you have questions about.*
+*This section is for those who don't have the time or energy to read the entire guide and just want a quick summary. This is* **NOT** *meant to replace reading everything on this site and is NOT a complete summary by any means. Throughout this page, we will link to more thorough explanations of the discussed topics so you can read up on the things you have questions about.*
 
 ## How the fight works
 
@@ -41,7 +41,7 @@ To be able to do the Profit-Taker boss in the first place, you need to be max ra
 - **Archgun:** can be used either in hand (see [Mausolon](#archgun-in-hand-mausolon) lower down) or in mech (see [Corvas](#archgun-on-mech-corvas) lower down). The easier option is usually to do mech, since it doesn't leave you in the open during the pull down animation and during the destroying of the legs
 
 ::note
-**The expected distribution of elements looks like this (taken from [Creating builds](/codex/creating-builds#shields)):**
+**The expected distribution of elements looks like this (taken from ****[Creating builds](/codex/creating-builds#shields)****):**
 
 Secondary: Viral, Heat, Magnetic, and optional Radiation (also IPS, depending on the weapon)
 
@@ -131,7 +131,7 @@ Here is an example build for Chroma (see more [here](/guide/chroma-builds)):
 ![chroma build](https://cdn.profit-taker.com/u/Generic_Vex_Armor.png)
 
 ::note
-**See more build notes [here](/guide/chroma-builds#generic-vex-armor-shock-trooper)**
+**See more build notes ****[here](/guide/chroma-builds#generic-vex-armor-shock-trooper)**
 
 This build utilizes the Shock Trooper Helminth Ability to cover electric, allowing you to cover all elements if you use an on call crewmate.
 
@@ -172,9 +172,9 @@ In terms of weapon choices, as long as it has high damage and is crit-based, it 
 
 Recommended weapons are (click them to see the builds):
 
-*Secondary:* [Catabolyst](https://overframe.gg/build/518597/) , **[Synoid Gammacor](https://overframe.gg/build/626714/)**
+*Secondary:* [Catabolyst](https://overframe.gg/build/518597/&#x29; , **[Synoid Gammacor](https://overframe.gg/build/626714/)**
 
-*Primary:* [Opticor Vandal](/guide/other-builds.html#crewmate-opticor-vandal), **[Kuva Chakkhurr](https://overframe.gg/build/626709/)**, **[Torid](https://overframe.gg/build/771316/)**, **[Amprex](https://overframe.gg/build/599307/)**
+*Primary:* [Opticor Vandal](/guide/other-builds.html#crewmate-opticor-vandal&#x29;, **[Kuva Chakkhurr](https://overframe.gg/build/626709/)**, **[Torid](https://overframe.gg/build/771316/)**, **[Amprex](https://overframe.gg/build/599307/)**
 
 ::note
 All weapons except Chakkhurr need your Crewmate to be buffed with Vex Armor or Total Eclipse to work well.
