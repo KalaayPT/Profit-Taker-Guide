@@ -181,11 +181,11 @@ Video (click to play/pause):
 
 ## **Weapon Swaps (no On Call)**
 
-**This strat is now defunct due to power creep. You can still go to the old versions of this guide that contain it&#x20;****[**here**](/miscellaneous/resources-used-honorable-mentions.html#great-guides-of-the-past)****.**
+**This strat is now defunct due to power creep. You can still go to the old versions of this guide that contain it&#x20;********[**here**](/miscellaneous/resources-used-honorable-mentions.html#great-guides-of-the-past)********.**
 
 ## **Ass Meta**
 
-**This meta is now defunct due to&#x20;******Animation Bug** and new modding options. You can still go to the old versions of this guide that contain mention of it in the section&#x20;****[**here.**](/miscellaneous/resources-used-honorable-mentions.html#great-guides-of-the-past)**
+**This meta is now defunct due to&#x20;**********Animation Bug****** ****and new modding options. You can still go to the old versions of this guide that contain mention of it in the section****** **[**here.**](/miscellaneous/resources-used-honorable-mentions.html#great-guides-of-the-past)**
 
 ## **Learning by Example**
 

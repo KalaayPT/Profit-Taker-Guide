@@ -80,7 +80,7 @@ knock you back when you collide with them and can block Zenith shots. These appe
 Video (click to play/pause):
 
 ::div{style="padding-bottom: 0px;"}
-:video{muted loop src="/u/bluewall1.mp4" width="100%"}
+:video{loop muted src="/u/bluewall1.mp4" width="100%"}
 ::
 
 ::div{style="padding-bottom: 20px;"}
