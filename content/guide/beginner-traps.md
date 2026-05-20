@@ -9,15 +9,15 @@ The issue with element cyclers like Lavos and Cyte is that they are just too ine
 
 Since Contagion has multiple elements and can do DoT(damage over time), it can kill multiple elements in a single instance of a projectile.
 
-Arbucep is another noob bait. While it has multiple elements, that's not what we want or need for Profit-Taker legs since they are only weak to magnetic, if you for some reason wanted to Arbucep the shields, it has extremely low damage partly due to how its designed and [how AoE weapons work in PT.](https://testing.profit-taker.com/miscellaneous/bugs#aoe-damage-bugs)
+Arbucep is another noob bait. While it has multiple elements, that's not what we want or need for Profit-Taker legs since they are only weak to magnetic, if you for some reason wanted to Arbucep the shields, it has extremely low damage partly due to how its designed and how AoE weapons work in PT.
 
 ## Corvas Prime
 
-Despite being a prime weapon, we recommend the base version for a myriad of reasons. Corvas Prime's main issue is the fact that the Profit-Taker is coded in a way where if one projectile hits an invulnerable part of PT first, [every other damage instance will be null.](https://www.youtube.com/watch?v=zDqsju5Vo94)
+Despite being a prime weapon, we recommend the base version for a myriad of reasons. Corvas Prime's main issue is the fact that the Profit-Taker is coded in a way where if one projectile hits an invulnerable part of PT first, every other damage instance will be null.
 
 The projectile is also slower, and the riven disposition of Corvas Prime is far worse than the base version.
 
-## Chroma Effigy
+### Chroma Effigy
 
 You might have seen some clickbaity YouTube video where they talk about Chroma's effigy having a "x%" chance to trigger double credits; this is completely false.
 
