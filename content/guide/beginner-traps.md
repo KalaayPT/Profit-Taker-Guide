@@ -13,7 +13,7 @@ Arbucep is another noob bait. While it has multiple elements, that's not what we
 
 ## Corvas Prime
 
-Despite being a prime weapon, we recommend the base version for a myriad of reasons. Corvas Prime's main issue is the fact that the Profit-Taker is coded in a way where if one projectile hits an invulnerable part of PT first, every other damage instance will be null.
+Despite being a prime weapon, we recommend the base version for a myriad of reasons. Corvas Prime's main issue is the fact that the Profit-Taker is coded in a way where if one projectile hits an invulnerable part of PT first, [every other damage instance will be null.](https://www.youtube.com/watch?v=zDqsju5Vo94)
 
 The projectile is also slower, and the riven disposition of Corvas Prime is far worse than the base version.
 
@@ -23,6 +23,6 @@ You might have seen some clickbaity YouTube video where they talk about Chroma's
 
 In truth, Chroma's effigy will ALWAYS trigger the boost, provided you are 10m near it when picking up the credits. It also has to be near where the credits drop.
 
-### Pylons with Crits and Faction Damage
+#### Pylons with Crits and Faction Damage
 
 Contrary to somewhat popular belief, pylons and objects in general cannot be crit and do not have a faction, thus they cannot take ANY faction damage, even universal (e.g. Roar and Damage Bless).
