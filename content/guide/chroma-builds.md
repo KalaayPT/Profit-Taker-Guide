@@ -29,33 +29,37 @@ Generic (Shock Trooper)
 - Nightwatch Napalm will damage Pylons as long as they are in range, even through the Pylon bubble. Prefiring pylon locations is a considerable timesave.
 - Normal Ogris can be used theoretically, but its slower and also needs significant investment, so you're better off just getting the Kuva variant
 
-### Sicarus Prime Incarnoff
+### Secondary
 
-:build{url="https://arsenyx.com/builds/9kjspupQi4"}
+::tabs
+  :::tabs-item{label="Sicarus Prime Incarnoff"}
+  :build{url="https://arsenyx.com/builds/9kjspupQi4"}
 
-The Successor to Tenet Diplos. Rivens will ideally replace Tox/CC/CD Mods on the build. Cold and Heat are replaceable, but slightly less ideal, due to replacing either Ice Storm with its additional Magazine Capacity or Primed Heated Charge's higher Heat Damage.
+  The Successor to Tenet Diplos. Rivens will ideally replace Tox/CC/CD Mods on the build. Cold and Heat are replaceable, but slightly less ideal, due to replacing either Ice Storm with its additional Magazine Capacity or Primed Heated Charge's higher Heat Damage.
 
-- Covers IPS, Magnetic, Radiation, Viral and Heat.
-- Use the Exilus that benefits your situation the most.
+  - Covers IPS, Magnetic, Radiation, Viral and Heat.
+  - Use the Exilus that benefits your situation the most.
 
-::note
-Incarnon Adapter Evos;
+    ::::note
+    Incarnon Adapter Evos;
 
-EVO II: Feigned Retreat +40 Base Damage
+    EVO II: Feigned Retreat +40 Base Damage
 
-EVO III: Extended Volley +12 Base Magazine Size
+    EVO III: Extended Volley +12 Base Magazine Size
 
-EVO IV: Commodore's Fortune +14% Base CC.
+    EVO IV: Commodore's Fortune +14% Base CC.
+    ::::
+  :::
+
+  :::tabs-item{label="Tenet Diplos"}
+  :build{url="https://arsenyx.com/builds/tFjYznNXN6"}
+
+  - **Diplos have been superseded by Sicarus Prime with an Incarnon adapter. Only use if you don't have access to Sicarus Prime Incarnoff.**
+  - Covers heat (progenitor), magnetic, radiation  and viral
+  - If you don't have Diplos, you can use any weapon with innate (or progenitor) magnetic or any high [crit] damage weapon with the Magnetic Might mod.
+  - Reflex Draw is flex.
+  :::
 ::
-
-### Tenet Diplos
-
-:build{url="https://arsenyx.com/builds/tFjYznNXN6"}
-
-- **Diplos have been superseded by Sicarus Prime with an Incarnon adapter. Only use if you don't have access to Sicarus Prime Incarnoff.**
-- Covers heat (progenitor), magnetic, radiation  and viral
-- If you don't have Diplos, you can use any weapon with innate (or progenitor) magnetic or any high [crit] damage weapon with the Magnetic Might mod.
-- Reflex Draw is flex.
 
 ### Balla Zaw
 

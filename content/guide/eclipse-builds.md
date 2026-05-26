@@ -43,22 +43,12 @@ A Riven is mandatory to onetick pylons with Vigorous Swap. The damage % value on
   :::
 
   :::tabs-item{label="Tenet Diplos"}
-    ::::div{style="width: 100%; text-align: left;"}
-    ![diplos\_eclipse](https://cdn.profit-taker.com/u/diplos_eclipse.png){style="width: 100%; height: auto;"}
-    ::::
-
-    ::::div{style="width: 25%; text-align: left;"}
-    ![diplerriven](https://cdn.profit-taker.com/u/diplerriven.png){style="width: 100%; height: auto;"}
-    ::::
-
-  ***[Overframe Link (Basic)](https://overframe.gg/build/771304/)*** | ***[Overframe Link (Speedrun)](https://overframe.gg/build/771313/)***
+  :build{url="https://arsenyx.com/builds/qHPTv38CkP"}
 
   - **Diplos have been superseded by Sicarus Prime with an Incarnon adapter. Only use if you don't have access to Sicarus Prime Incarnoff.**
-  - Covers heat, magnetic (progenitor) and viral
-  - If you don't have Diplos, you can use the Tenet Detron, Tenet Cycron, Synoid Gammacor or any weapon with innate (or progenitor) magnetic, really.
+  - Covers heat (progenitor), magnetic, radiation  and viral
+  - If you don't have Diplos, you can use any weapon with innate (or progenitor) magnetic or any high [crit] damage weapon with the Magnetic Might mod.
   - Reflex Draw is flex
-  - Cascadia Overcharge assumes shield pad usage. If you don't use shield pads, you can use Deadhead for less recoil or Merciless if you are able to build stacks.
-  - **Speedrun:** Tenet Diplos doesn't have much build variety. This build expects riven to have both toxin and cold, however, a riven with only one of the two will work, in which case replace Accelerated Isotope with the missing element. Diplos uses magnetic progenitor.
   :::
 ::
 
@@ -84,10 +74,6 @@ A Riven is mandatory to onetick pylons with Vigorous Swap. The damage % value on
 
 The only mandatory mod is Necramech Steel Fiber to proc Primary Bulwark in combin with Unairu passive. Must be on Bonewidow, Voidrig’s base armour is too low.
 
-### Archwing (Itzal)
-
-Hyperion Thrusters (flight speed) and Auxiliary Power (energy max for Primary Overcharge) are the only mandatory mods.
-
 ### On-Call Crewmate (Opticor Vandal)
 
 :build{url="https://arsenyx.com/builds/d4TBNS68pE"}
@@ -95,7 +81,11 @@ Hyperion Thrusters (flight speed) and Auxiliary Power (energy max for Primary Ov
 - Ideally needs a 150% Rifle Crit Chance Elite Crewmate
 - Optimal stat distribution is 00555 with maxed endurance, repair and combat.
 
-### Companion (Wyrm Prime)
+## Archwing (Itzal)
+
+Hyperion Thrusters (flight speed) and Auxiliary Power (energy max for Primary Overcharge) are the only mandatory mods.
+
+## Companion (Wyrm Prime)
 
 ::build{url="https://arsenyx.com/builds/Dnzjnk7wnk"}
 Provides extra survivability and knockdown/stagger prevention.
