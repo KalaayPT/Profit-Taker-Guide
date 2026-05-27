@@ -64,7 +64,7 @@ Video demonstration (17 mb):
 
 You should usually only need one shot if your buffs (Vex Armor on Chroma, Eclipse on anything else) are up. The Nightwatch Napalm damage ticks will finish it for you.
 
-The Ogris is the weapon of choice because it's both simple to use and easy to get. You can use either variant, although the Kuva variant is preferred due to it dealing more damage (more progenitor% is better, element doesn't matter). A very basic but functional build is also *shown in the video*. For more info about how it works, click [here](/guide/pogris), and for a proper build with more info, click [here](/guide/chroma-builds#kuva-ogris) or, if you want to get a riven for it (or have one already), [this](/guide/other-builds#kuva-ogris) might be the build you want.
+The Ogris is the weapon of choice because it's both simple to use and easy to get. You can use either variant, although the Kuva variant is preferred due to it dealing more damage (more progenitor% is better, element doesn't matter). A very basic but functional build is also *shown in the video*. For more info about how it works, click [here](/guide/pogris), and for a proper build with more info, click [here](/guide/chroma-builds#kuva-ogris).
 
 ::warning
 **ATTENTION:**
@@ -120,7 +120,7 @@ Here is a real life example of quickly throwing and shooting (7 mb):
 
 Benefits from Warframe buffs such as Vex Armor or Reinforced bond, is limited by long call down animation and ammo economy. If You waste too many bullets, you will have to deal with long cooldowns. That's why this build has Ammo Chain, because the cooldown is based on %ammo used.
 
-#### Archgun on mech: [Corvas](/guide/other-builds#corvas-build-non-prime) [(non-Prime)]{style="color: red;"}
+#### Archgun on mech: [Corvas](/guide/chroma-builds#corvas-non-prime) [(non-Prime)]{style="color: red;"}
 
 ![cornbass](https://cdn.profit-taker.com/u/corvas_mech.png)
 Allows you to survive more easily, does not have to deal with cooldowns. Usually slightly more annoying to use because of a higher aiming point and the mech being completely unbuffed.
@@ -174,7 +174,7 @@ Recommended weapons are (click them to see the builds):
 
 *Secondary:* [Catabolyst](https://overframe.gg/build/518597/&#x29; , **[Synoid Gammacor](https://overframe.gg/build/626714/)**
 
-*Primary:* [Opticor Vandal](/guide/other-builds.html#crewmate-opticor-vandal&#x29;, **[Kuva Chakkhurr](https://overframe.gg/build/626709/)**, **[Torid](https://overframe.gg/build/771316/)**, **[Amprex](https://overframe.gg/build/599307/)**
+*Primary:* [Opticor Vandal](https://arsenyx.com/builds/d4TBNS68pE), **[Kuva Chakkhurr](https://overframe.gg/build/626709/)**, **[Torid](https://overframe.gg/build/771316/)**, **[Amprex](https://overframe.gg/build/599307/)**
 
 ::note
 All weapons except Chakkhurr need your Crewmate to be buffed with Vex Armor or Total Eclipse to work well.

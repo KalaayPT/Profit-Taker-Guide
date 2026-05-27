@@ -85,7 +85,6 @@ function guidePageOrder(): OrderedPageItem[] {
     { title: "Basic Principles", path: "/guide/basic-principles" },
     { title: "Chroma Builds", path: "/guide/chroma-builds" },
     { title: "Eclipse Builds", path: "/guide/eclipse-builds" },
-    { title: "Other Builds", path: "/guide/other-builds" },
     { title: "Squad Builds", path: "/guide/squad-builds" },
     { title: "Riven Guide", path: "/guide/riven-guide" },
     { title: "Timing the Fight", path: "/guide/timing-the-fight" },

@@ -7,12 +7,12 @@ import { computed } from "vue";
 import { useAppConfig } from "#imports";
 import UIcon from "#ui/components/Icon.vue";
 import ULink from "#ui/components/Link.vue";
-import { useComponentUI } from "#ui/composables/useComponentUI";
+import { useComponentProps } from "#ui/composables/useComponentProps";
 import { tv } from "#ui/utils/tv";
 
 defineOptions({ inheritAttrs: false });
 
-const props = defineProps({
+const _props = defineProps({
   to: { type: null, required: false },
   target: { type: [String, Object, null], required: false },
   icon: { type: null, required: false },
@@ -25,7 +25,7 @@ const props = defineProps({
 const slots = defineSlots();
 
 const appConfig = useAppConfig();
-const uiProp = useComponentUI("prose.callout", props);
+const props = useComponentProps("prose.callout", _props);
 const ui = computed(() =>
   tv({ extend: tv(theme), ...(appConfig.ui?.prose?.callout || {}) })({
     color: props.color,
@@ -42,22 +42,22 @@ const target = computed(() =>
 </script>
 
 <template>
-  <div :class="ui.base({ class: [uiProp?.base, props.class] })">
-    <ULink v-if="to" v-bind="{ to, target, ...$attrs }" class="focus:outline-none" raw>
+  <div :class="ui.base({ class: [props.ui?.base, props.class] })">
+    <ULink v-if="props.to" v-bind="{ to: props.to, target, ...$attrs }" class="focus:outline-none" raw>
       <span class="absolute inset-0" aria-hidden="true" />
     </ULink>
 
-    <UIcon v-if="icon" :name="icon" :class="ui.icon({ class: uiProp?.icon })" />
+    <UIcon v-if="props.icon" :name="props.icon" :class="ui.icon({ class: props.ui?.icon })" />
     <UIcon
-      v-if="!!to && target === '_blank'"
+      v-if="!!props.to && target === '_blank'"
       :name="appConfig.ui.icons.external"
-      :class="ui.externalIcon({ class: uiProp?.externalIcon })"
+      :class="ui.externalIcon({ class: props.ui?.externalIcon })"
     />
 
-    <div v-if="title || !!slots.title" class="contents">
-      <p v-if="title || !!slots.title" class="mr-1 inline font-medium">
+    <div v-if="props.title || !!slots.title" class="contents">
+      <p v-if="props.title || !!slots.title" class="mr-1 inline font-medium">
         <slot name="title" mdc-unwrap="p">
-          {{ title }}
+          {{ props.title }}
         </slot>
       </p>
     </div>

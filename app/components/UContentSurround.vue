@@ -5,16 +5,16 @@ import { Primitive } from 'reka-ui'
 import { createReusableTemplate } from '@vueuse/core'
 import type { Collections, ContentNavigationItem } from '@nuxt/content'
 import { useAppConfig } from '#imports'
-import { useComponentUI } from '@nuxt/ui/runtime/composables/useComponentUI'
-import { useLocale } from '@nuxt/ui/runtime/composables/useLocale'
-import { tv } from '@nuxt/ui/runtime/utils/tv'
-import ULink from '@nuxt/ui/runtime/components/Link.vue'
-import UIcon from '@nuxt/ui/runtime/components/Icon.vue'
+import { useComponentProps } from '#ui/composables/useComponentProps'
+import { useLocale } from '#ui/composables/useLocale'
+import { tv } from '#ui/utils/tv'
+import ULink from '#ui/components/Link.vue'
+import UIcon from '#ui/components/Icon.vue'
 import { getCustomPageSurround } from '~/utils/sidebarNavigation'
 
 defineOptions({ inheritAttrs: false })
 
-const props = defineProps<{
+const _props = defineProps<{
   as?: any
   prevIcon?: string
   nextIcon?: string
@@ -35,7 +35,7 @@ const route = useRoute()
 const { locale, isEnabled } = useDocusI18n()
 const { dir } = useLocale()
 const appConfig = useAppConfig()
-const uiProp = useComponentUI('contentSurround', props)
+const props = useComponentProps('contentSurround', _props)
 const collectionName = computed(() => isEnabled.value ? `docs_${locale.value}` : 'docs')
 
 const [DefineLinkTemplate, ReuseLinkTemplate] = createReusableTemplate<{
@@ -96,7 +96,7 @@ const resolvedSurround = computed(() => {
       :to="link.path"
       raw
       data-slot="link"
-      :class="ui.link({ class: [uiProp?.link, link.ui?.link, link.class], direction })"
+      :class="ui.link({ class: [props.ui?.link, link.ui?.link, link.class], direction })"
     >
       <slot
         name="link"
@@ -105,7 +105,7 @@ const resolvedSurround = computed(() => {
       >
         <div
           data-slot="linkLeading"
-          :class="ui.linkLeading({ class: [uiProp?.linkLeading, link.ui?.linkLeading] })"
+          :class="ui.linkLeading({ class: [props.ui?.linkLeading, link.ui?.linkLeading] })"
         >
           <slot
             name="link-leading"
@@ -115,14 +115,14 @@ const resolvedSurround = computed(() => {
             <UIcon
               :name="link.icon || icon"
               data-slot="linkLeadingIcon"
-              :class="ui.linkLeadingIcon({ class: [uiProp?.linkLeadingIcon, link.ui?.linkLeadingIcon], direction })"
+              :class="ui.linkLeadingIcon({ class: [props.ui?.linkLeadingIcon, link.ui?.linkLeadingIcon], direction })"
             />
           </slot>
         </div>
 
         <p
           data-slot="linkTitle"
-          :class="ui.linkTitle({ class: [uiProp?.linkTitle, link.ui?.linkTitle] })"
+          :class="ui.linkTitle({ class: [props.ui?.linkTitle, link.ui?.linkTitle] })"
         >
           <slot
             name="link-title"
@@ -135,7 +135,7 @@ const resolvedSurround = computed(() => {
 
         <p
           data-slot="linkDescription"
-          :class="ui.linkDescription({ class: [uiProp?.linkDescription, link.ui?.linkDescription] })"
+          :class="ui.linkDescription({ class: [props.ui?.linkDescription, link.ui?.linkDescription] })"
         >
           <slot
             name="link-description"
@@ -156,10 +156,10 @@ const resolvedSurround = computed(() => {
 
   <Primitive
     v-if="resolvedSurround"
-    :as="as"
+    :as="props.as"
     v-bind="$attrs"
     data-slot="root"
-    :class="ui.root({ class: [uiProp?.root, props.class] })"
+    :class="ui.root({ class: [props.ui?.root, props.class] })"
   >
     <ReuseLinkTemplate
       :link="resolvedSurround[0]"

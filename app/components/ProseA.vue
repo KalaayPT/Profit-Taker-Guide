@@ -4,10 +4,10 @@ import { computed } from "vue";
 import { useAppConfig } from "#imports";
 import UIcon from "#ui/components/Icon.vue";
 import ULink from "#ui/components/Link.vue";
-import { useComponentUI } from "#ui/composables/useComponentUI";
+import { useComponentProps } from "#ui/composables/useComponentProps";
 import { tv } from "#ui/utils/tv";
 
-const props = defineProps({
+const _props = defineProps({
   href: { type: String, required: false },
   target: { type: null, required: false },
   class: { type: null, required: false },
@@ -17,7 +17,7 @@ const props = defineProps({
 defineSlots();
 
 const appConfig = useAppConfig();
-const uiProp = useComponentUI("prose.a", props);
+const props = useComponentProps("prose.a", _props);
 const ui = computed(() => tv({ extend: tv(theme), ...(appConfig.ui?.prose?.a || {}) }));
 const isExternal = computed(() => props.target === "_blank" || props.href?.startsWith("http"));
 const target = computed(() => props.target || (isExternal.value ? "_blank" : undefined));
@@ -25,9 +25,9 @@ const target = computed(() => props.target || (isExternal.value ? "_blank" : und
 
 <template>
   <ULink
-    :href="href"
+    :href="props.href"
     :target="target"
-    :class="ui({ class: [uiProp?.base, props.class] })"
+    :class="ui({ class: [props.ui?.base, props.class] })"
     raw
   >
     <slot />

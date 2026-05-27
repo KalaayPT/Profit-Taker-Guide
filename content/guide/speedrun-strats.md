@@ -19,7 +19,7 @@ The ideal stat distribution for On Call is 00555 (5 Repair, 5 Combat, 5 Enduranc
 
 If you have an elite Crewmate, you ideally want one with the 150% primary critical chance (or 150% secondary if using Catabolyst) bonus, as it opens up a mod slot on the build. An elite Crewmate isn’t necessary, however.
 
-The modern weapon of choice is [Opticor Vandal](/guide/other-builds.html#crewmate-opticor-vandal), as it can oneshot shield elements and adds while having multiple damage instances, allowing your crewmate to clear most of a shield in one hit, if shield RNG allows. Other options are:
+The modern weapon of choice is [Opticor Vandal](https://arsenyx.com/builds/d4TBNS68pE), as it can oneshot shield elements and adds while having multiple damage instances, allowing your crewmate to clear most of a shield in one hit, if shield RNG allows. Other options are:
 
 [**Kuva Chakkhurr**](https://overframe.gg/build/626709/), [Torid](https://overframe.gg/build/771316/), [**Amprex**](https://overframe.gg/build/599307/), [**Synoid Gammacor**](https://overframe.gg/build/626714/), [**Catabolyst**](https://overframe.gg/build/518597/).
 
@@ -160,8 +160,6 @@ Frames other than Volt or Saryn sometimes find themselves missing an element whe
 It is possible to take advantage of this by using a good amp with the Virtuos Surge arcane and Madurai’s void strike ability, letting you delete the rest of a shield phase once you see electricity, minimizing an otherwise unavoidable timeloss.
 
 Ideally, this happens in the first or second shield element, as while the shield element will be changed unless the 5s cooldown is in effect, a good amp can easily remove all of Profit-Taker’s shield.
-
-More info can be found in the Speedrun Builds [**Operator**](/guide/other-builds.html#operator) section
 
 ## **Unscoped Zenith**
 

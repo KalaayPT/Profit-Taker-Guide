@@ -87,7 +87,7 @@ If you try putting it in place of any of the other modded single-stat elements, 
 
 - Use an On Call Crew to cover toxin
 - Sacrifice Pylon performance and use a Zenith with toxin on it
-- Use the [Arquebex](/guide/other-builds.html#arquebex-build-used-to-clear-toxin-shield) (Voidrigs's 4th ability) or an Archgun on your mech to cover toxin
+- Use the Arquebex (Voidrig's 4th ability) or an Archgun on your mech to cover toxin
 - Use Saryn
 - Get a friend(s) to use an alternate elemental config that covers Toxin
 
