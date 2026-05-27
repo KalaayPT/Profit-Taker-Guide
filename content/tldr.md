@@ -37,11 +37,11 @@ To be able to do the Profit-Taker boss in the first place, you need to be max ra
 
 - **Primary:** [Kuva] Ogris, used exclusively for pylons.
 - **Melee:** any Zaw with **Exodia Contagion** (make sure you can reach 100% crit chance). This is because Contagion turns Zaws into incredibly strong projectile weapons that can both be used very quickly and cover a lot of elements because of how Exodia contagion works, more on that a bit later
-- **Secondary:** any high [crit] damage secondary works (Notable examples include, but are not limited to: Sicarus Incarnon, Tenet Diplos, Gammacor Incarnon, Pyrana Prime etc.), but because of the innate elements on a Contagion Zaw, you either want one that has innate magnetic damage (a lich weapon or a Synoid Gammacor) or you have to equip [Magnetic Might](https://warframe.fandom.com/wiki/Magnetic_Might). The weapon of choice therefore is the [Sicarus Prime](/guide/chroma-builds#sicarus-prime-incarnoff) with an incarnon adapter installed for its passive buffs. More on the element distribution in a second.
+- **Secondary:** any high [crit] damage secondary works (Notable examples include, but are not limited to: Sicarus Incarnon, Tenet Diplos, Gammacor Incarnon, Pyrana Prime etc.), but because of the innate elements on a Contagion Zaw, you either want one that has innate magnetic damage (a lich weapon or a Synoid Gammacor) or you have to equip [Magnetic Might](https://warframe.fandom.com/wiki/Magnetic_Might). The weapon of choice therefore is the [Sicarus Prime](/guide/chroma-builds#secondary) with an incarnon adapter installed for its passive buffs. More on the element distribution in a second.
 - **Archgun:** can be used either in hand (see [Mausolon](#archgun-in-hand-mausolon) lower down) or in mech (see [Corvas](#archgun-on-mech-corvas) lower down). The easier option is usually to do mech, since it doesn't leave you in the open during the pull down animation and during the destroying of the legs
 
 ::note
-**The expected distribution of elements looks like this (taken from ****[Creating builds](/codex/creating-builds#shields)****):**
+**The expected distribution of elements looks like this (taken from **[Creating builds](/codex/creating-builds#shields)**\*\*\*\*):**
 
 Secondary: Viral, Heat, Magnetic, and optional Radiation (also IPS, depending on the weapon)
 
@@ -71,12 +71,12 @@ The Ogris is the weapon of choice because it's both simple to use and easy to ge
 
 All the following builds are meant for Chroma only, as Chroma's Vex Armor ability is additive to damage mods so Chroma does not run +damage% mods if he doesn't have to.
 
-For builds for other frames running Eclipse, consult the [Eclipse Builds](/guide/eclipse-builds) page.
+For builds for other frames running Eclipse (mainly Volt), consult the [Volt](/guide/eclipse-builds) page.
 ::
 
-#### Secondary: [Sicarus Prime](/guide/chroma-builds#sicarus-prime-incarnoff)
+#### Secondary: [Sicarus Prime](/guide/chroma-builds#secondary)
 
-![sickrus](https://cdn.profit-taker.com/u/sicarusbuildgrey.png)
+:build{url="https://arsenyx.com/builds/9kjspupQi4"}
 
 Not a lot to be said here, you just shoot between contagion throws. Use the Exilus that benefits your situation the most. Cascadia Overcharge assumes shield pad usage. If you don't use shield pads (i.e. if you use Chroma), use Secondary Enervate.
 
@@ -93,7 +93,9 @@ EVO IV: Commodore's Fortune +14% Base CC.
 #### Zaw
 
 Example Build:
-![zaw](https://cdn.profit-taker.com/u/balla_eclipse.png)
+
+:build{url="https://arsenyx.com/builds/Xy2EEjnJkB"}
+
 Contagion can be unranked, Exposure often needs at least about rank 2. The Zaw Strike of choice is Balla, because it throws at the beginning of the animation, allowing throws in quick succession. Read more about this [here](/codex/contagion-zaws)
 
 Exodia Contagion is thrown by double jumping, aim gliding, and meleeing. This allows you to shoot your secondary while you fall after throwing your zaw, when you do it quickly.
@@ -128,10 +130,11 @@ Allows you to survive more easily, does not have to deal with cooldowns. Usually
 ### Warframe: Chroma
 
 Here is an example build for Chroma (see more [here](/guide/chroma-builds)):
-![chroma build](https://cdn.profit-taker.com/u/Generic_Vex_Armor.png)
+
+:build{url="https://www.arsenyx.com/builds/06j6bVZ9hM"}
 
 ::note
-**See more build notes ****[here](/guide/chroma-builds#generic-vex-armor-shock-trooper)**
+**See more build notes [here](/guide/chroma-builds#generic-vex-armor-shock-trooper)**
 
 This build utilizes the Shock Trooper Helminth Ability to cover electric, allowing you to cover all elements if you use an on call crewmate.
 
@@ -157,7 +160,7 @@ Make sure not to walk away from your Effigy after you have placed it. The credit
 
 ### Intrinsics
 
-In general, you should level up your railjack instrinsics, as this has an effect on a lot of aspects of this fight, mainly: Archwing speed (Piloting r8), Necramech damage (Gunnery r5), pylon damage (Gunnery r8) and:
+In general, you should level up your railjack instrinsics, as this has an effect on a lot of aspects of this fight, mainly: Archwing speed (Piloting r8), Necramech damage (Gunnery r5), pylon damage (Gunnery r8), Blink Cooldown (Tactical r8) and:
 
 ### On-Call Crewmates
 
@@ -172,9 +175,7 @@ In terms of weapon choices, as long as it has high damage and is crit-based, it 
 
 Recommended weapons are (click them to see the builds):
 
-*Secondary:* [Catabolyst](https://overframe.gg/build/518597/&#x29; , **[Synoid Gammacor](https://overframe.gg/build/626714/)**
-
-*Primary:* [Opticor Vandal](https://arsenyx.com/builds/d4TBNS68pE), **[Kuva Chakkhurr](https://overframe.gg/build/626709/)**, **[Torid](https://overframe.gg/build/771316/)**, **[Amprex](https://overframe.gg/build/599307/)**
+[**Kuva Chakkhurr**](https://overframe.gg/build/626709/), [**Torid**](https://overframe.gg/build/771316/), [**Amprex**](https://overframe.gg/build/599307/), [**Synoid Gammacor**](https://overframe.gg/build/626714/), [**Catabolyst**](https://overframe.gg/build/518597/).
 
 ::note
 All weapons except Chakkhurr need your Crewmate to be buffed with Vex Armor or Total Eclipse to work well.

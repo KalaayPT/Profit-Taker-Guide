@@ -73,7 +73,7 @@ Video (click to play/pause):
 
 ### **The Blue Walls**
 
-knock you back when you collide with them and can block Zenith shots. These appear to trigger more often when you’re beyond a certain distance from Profit-Taker and don't happen as much if the EMP slam or bounce attack happens.
+knock you back when you collide with them and can block shots. These appear to trigger more often when you’re beyond a certain distance from Profit-Taker and don't happen as much if the EMP slam or bounce attack happens.
 
 **How to deal with blue walls:** While Blue Walls are spawning, you will see light blue seams between walls. You can move and shoot through these seams. If you can’t reach a seam in time, roll into the wall as it hits you to avoid getting knocked back. Each wall can only hit you once, so once you roll into one you can walk through it like it isn’t there.
 

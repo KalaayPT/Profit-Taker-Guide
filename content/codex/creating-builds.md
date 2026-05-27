@@ -302,7 +302,7 @@ Cons:
 - Still needs quite a specific Riven if you want to oneshot without charging.
 - High multishot makes it possible to miss with a few pellets, meaning the legs aren’t oneshot.
 - As it is a shotgun you need to be near Profit-Taker to do significant amounts of damage. Not a massive issue, but something to keep in mind.
-- The Primed version is [garbage](https://www.youtube.com/watch?v=VvGG9xdmAwE) and often deals 0 damage.
+- The Primed version is [garbage](https://www.youtube.com/watch?v=zDqsju5Vo94) and often deals 0 damage.
 - Is affected by **[Archgun Hitbox Bug](/miscellaneous/bugs.html#archgun-hitbox-bug)**
 
 ### **Pylons**
