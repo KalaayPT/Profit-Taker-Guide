@@ -41,7 +41,7 @@ To be able to do the Profit-Taker boss in the first place, you need to be max ra
 - **Archgun:** can be used either in hand (see [Mausolon](#archgun-in-hand-mausolon) lower down) or in mech (see [Corvas](#archgun-on-mech-corvas) lower down). The easier option is usually to do mech, since it doesn't leave you in the open during the pull down animation and during the destroying of the legs
 
 ::note
-**The expected distribution of elements looks like this (taken from **[Creating builds](/codex/creating-builds#shields)**\*\*\*\*):**
+**The expected distribution of elements looks like this (taken from ******[Creating builds](/codex/creating-builds#shields)******\*\*\*\*):**
 
 Secondary: Viral, Heat, Magnetic, and optional Radiation (also IPS, depending on the weapon)
 
@@ -118,13 +118,14 @@ Here is a real life example of quickly throwing and shooting (7 mb):
 
 #### Archgun in hand: [Mausolon](/guide/chroma-builds#mausolon-build)
 
-![maus](https://cdn.profit-taker.com/u/Mausolon_Build.png)
+:build{url="https://www.arsenyx.com/builds/KLtwDZXNBF"}
 
 Benefits from Warframe buffs such as Vex Armor or Reinforced bond, is limited by long call down animation and ammo economy. If You waste too many bullets, you will have to deal with long cooldowns. That's why this build has Ammo Chain, because the cooldown is based on %ammo used.
 
 #### Archgun on mech: [Corvas](/guide/chroma-builds#corvas-non-prime) [(non-Prime)]{style="color: red;"}
 
-![cornbass](https://cdn.profit-taker.com/u/corvas_mech.png)
+:build{url="https://www.arsenyx.com/builds/Y3FeD9X9Jg"}
+
 Allows you to survive more easily, does not have to deal with cooldowns. Usually slightly more annoying to use because of a higher aiming point and the mech being completely unbuffed.
 
 ### Warframe: Chroma
@@ -134,14 +135,13 @@ Here is an example build for Chroma (see more [here](/guide/chroma-builds)):
 :build{url="https://www.arsenyx.com/builds/06j6bVZ9hM"}
 
 ::note
-**See more build notes [here](/guide/chroma-builds#generic-vex-armor-shock-trooper)**
+**See more build notes ****[here](/guide/chroma-builds#generic-vex-armor-shock-trooper)**
 
 This build utilizes the Shock Trooper Helminth Ability to cover electric, allowing you to cover all elements if you use an on call crewmate.
 
-- Handspring can be replaced with Primed Sure Footed if you have it.
+- Primed Sure Footed can be replaced with Handspring if you have dont have it.
 - Decaying Dragon key is recommended so you can stack your damage buff faster.
 - Healing can be done via Magus Elevate.
-- Flex slots can be filled with more strength or duration (e.g. Augur Message/Secrets), or other QoL mods if needed.
 - Arcane Velocity very noticably affects your secondaries' performance and is therefore a must-get if you are going to invest into farming Profit-Taker, other useful Arcanes include (but are not limited to): Guardian, Awakening, Grace, Nullifier.
 - Shards: either duration (red), strength (red), starting energy (yellow) or max energy (blue)
 ::
@@ -169,13 +169,14 @@ One of the most useful tools to help you with Profit-Taker is the On-Call Railja
 They can have different stats, and the ones you should prioritize are combat, repair and endurance, in that order. Elite crewmates (unlocked at Command r10) can have additional perks, and the one you want most for efficient runs is the +150%cc buff. It comes in secondary and primary variants and is a bonus additive to other cc mods. Generally speaking, any crewmate with a cc perk is better than one without it.
 
 An ideal Crewmate would look somewhat like this:
-![crewmate](https://cdn.profit-taker.com/u/crew.png)
+
+![crewmate](/u/Perfect-opticor-occ.png)
 
 In terms of weapon choices, as long as it has high damage and is crit-based, it will work somewhat. AoE weapons, or weapons with an AoE damage portion, are usually preferred. Limitations are: some AoE weapons cant do damage to Profit-Taker and can therefore only be used for killing adds (notably: Zarr or Ogris), Crewmates cannot use Incarnon perks or abilities, Rivens, or Arcanes (with a few insignificant expections), and Crewmates cannot use a lot of two-handed weapons like bows, double pistols or throwing weapons (anything rifle or pistol shaped will usually work)
 
 Recommended weapons are (click them to see the builds):
 
-[**Kuva Chakkhurr**](https://overframe.gg/build/626709/), [**Torid**](https://overframe.gg/build/771316/), [**Amprex**](https://overframe.gg/build/599307/), [**Synoid Gammacor**](https://overframe.gg/build/626714/), [**Catabolyst**](https://overframe.gg/build/518597/).
+[Opticor Vandal](https://www.arsenyx.com/builds/d4TBNS68pE), [Kuva Chakkhurr](https://www.arsenyx.com/builds/CRNuUfEKGY), [Tenet Detron](https://www.arsenyx.com/builds/PKAFCp2sCW).
 
 ::note
 All weapons except Chakkhurr need your Crewmate to be buffed with Vex Armor or Total Eclipse to work well.
@@ -189,7 +190,7 @@ The more comfortable and cheaper setup is what the community refers to as "padle
 
 Here is an example Volt build with this philosophy in mind:
 
-![voltpadless](https://cdn.profit-taker.com/u/voltpadless.png)[Overframe build](https://overframe.gg/build/396847/)
+:build{url="https://www.arsenyx.com/builds/04SxaSXSv8"}
 
 ### Archon Shards
 
