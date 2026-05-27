@@ -19,50 +19,14 @@ It is also significantly more comfortable and forgiving than Zenith.
 ::caution
 **Disadvantages:**
 
-Kuva Ogris cannot deal enough damage to Profit-Taker’s shields with a Pogris build, however, this isn’t a major problem when using the On Call strats mentioned [**later**](/guide/speedrun-strats.html#on-call-strats), as they can cover all of Zenith’s elements without any time loss from having to swap weapons. Swapping weapons loses over half a second, and this is extremely bad in shield phases that ideally take under a second once damage starts being dealt. All in all, this is a disadvantage that is already mitigated.
+Kuva Ogris cannot deal enough damage to Profit-Taker’s shields with a Pogris build, however, this isn’t a major problem when using the On Call strats mentioned **[later](/guide/speedrun-strats.html#on-call-strats)**, as they can cover all of Zenith’s elements without any time loss from having to swap weapons. Swapping weapons loses over half a second, and this is extremely bad in shield phases that ideally take under a second once damage starts being dealt. All in all, this is a disadvantage that is already mitigated.
 
 However, there is another major drawback to Pogris: there is very little build variety for Kuva Ogris and Frame at the high end. This is elaborated upon more in Builds (see below), but TL;DR: without a good riven, Volt needs multiple red archon shards, maxed sling strength from the Madurai focus school, no QoL mods, and there’s only one viable Pogris build  (maybe 2 if you stretch it), with what amounts to three mods of options. This means that if you’re using the meta builds and you just can’t get fast enough to survive or you don’t want to spam energy & shield pads, you’re SoL.
 ::
 
 ### **Builds**
 
-Rivenless Pogris build (Which element it is doesn't matter, however what bonus% it is, matters)
-
-::div{style="width: 100%; text-align: left;"}
-![pogris](https://cdn.profit-taker.com/u/pogris.png){style="width: 100%; height: auto;"}
-::
-
-[***Overframe Link***](https://overframe.gg/build/771325/)
-
-This build needs 427% strength with subsumed Eclipse, Vengeful Archwing and Arcane Rise/Vigorous Swap to 3-tick pylons consistently (will need 4 ticks otherwise).
-
-::note
-**Note:**
-
-The Strength requirements can be offset somewhat by replacing Speed Trigger with Semi-Rifle Cannonade
-::
-
-This build consists of:
-
-- Magazine so you have enough ammo to destroy all 6 pylons in the second phase
-- Multishot for 2 reliable rockets
-- Terminal Velocity because rockets are slow
-- Amalgam Serration because it’s a massive speed boost.
-- Fire rate because Ogris has low fire rate.
-- Fractalized Reset: procs off of a lot of things, most notably: Transference, Warframe abilities and Archwing abilities. Will make reloads near instant as Volt and can be useful for double-shotting Pylons considering the limited Magazine on the Kuva Ogris
-
-Here are your mod options for this build:
-
-- If you use Void Strike to do the second pylon phase, you dont need to equip Tainted Mag, since Void Strike gives more than enough ammo efficiency to shoot all pylons
-- Empty slot can be filled with a riven or Heavy Caliber. We highly recommend NOT using Heavy Caliber, because while it offsets the strength, the accuracy penalty is *extremely*\* noticeable.
-- Speed Trigger can be replaced by Vile Acceleration, but you’ll need x% more strength to oneshot, or more damage rivens or frame. Vile Accel can also be put in the empty slot
-- Speed Trigger can also be replaced by Semi-Rifle Cannonade, offsetting strength requirements
-
-Here are the ranges of required power strength with various setups:
-
-::div{style="width: 100%; text-align: left;"}
-![pogris\_recommendations](https://cdn.profit-taker.com/u/pogris_recommendations.png){style="width: 100%; height: auto;"}
-::
+Reference builds can be found in the [Volt](eclipse-builds/#primary-kuva-ogris)/[Chroma](chroma-builds/#kuva-ogris) sections.
 
 Here’s what you can do on Frame and elsewhere to boost your Pogris damage beyond power strength mods:
 
