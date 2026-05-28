@@ -5,7 +5,7 @@ description: Advanced techniques that require special thought toward certain are
 
 ## **Late Start Strat**
 
-Profit Taker walks forwards constantly until you destroy all four legs in the first armor phase. You can take advantage of this to get a better angle at the rear legs by leaving the elevator just a second to a second after PT spawns (a bit after 8s on the ingame timer). This makes leg phase overall more consistent for fast runners, and minimizes the effect of the [**animation bug**](/miscellaneous/bugs.html#animation-bug).
+Speedrunners leave the elevator a few seconds after PT spawns for two reasons. First of all, getting close to PT too fast after it spawned will make it turn towards you while you are still approaching it in archwing, resulting in a very uncomfortable landing and fight as PT will not be facing towards you (the usual lanfing spot will end up being on the side of PT). This can be fixed by leaving the elevator at 9 seconds (1 second after PT spawns). You can also take advantage of the fact that PT walks forward constantly until you destroy all four legs during the first armor phase to get faster and more consistent leg phase. This is done by leaving the elevator at 11 seconds, PT will go on a walk while you wait, letting you get a better angle to take down the back legs. This also minimizes the effect of **[animation bug](/miscellaneous/bugs.html#animation-bug)**.
 
 ## **On Call Strats**
 
@@ -21,11 +21,11 @@ If you have an elite Crewmate, you ideally want one with the 150% primary critic
 
 The modern weapon of choice is [Opticor Vandal](https://arsenyx.com/builds/d4TBNS68pE), as it can oneshot shield elements and adds while having multiple damage instances, allowing your crewmate to clear most of a shield in one hit, if shield RNG allows. Other options are:
 
-[**Kuva Chakkhurr**](https://overframe.gg/build/626709/), [Torid](https://overframe.gg/build/771316/), [**Amprex**](https://overframe.gg/build/599307/), [**Synoid Gammacor**](https://overframe.gg/build/626714/), [**Catabolyst**](https://overframe.gg/build/518597/).
+**[Kuva Chakkhurr](https://www.arsenyx.com/builds/CRNuUfEKGY)**, [Tenet Detron](https://www.arsenyx.com/builds/PKAFCp2sCW).
 
 ## **Fast Pogris Pylons: Double Shot + Void Strike**
 
-by [**Vaeli**](https://www.youtube.com/watch?v=X2YnYYS5uGE)
+by **[Vaeli](https://www.youtube.com/watch?v=X2YnYYS5uGE)**
 
 Current meta for fast pylons is the following (assumes Riven usage):
 
@@ -179,14 +179,14 @@ Video (click to play/pause):
 
 ## **Weapon Swaps (no On Call)**
 
-**This strat is now defunct due to power creep. You can still go to the old versions of this guide that contain it [**here**](/miscellaneous/resources-used-honorable-mentions.html#great-guides-of-the-past)****.**
+**This strat is now defunct due to power creep. You can still go to the old versions of this guide that contain it&#x20;******[here](/miscellaneous/resources-used-honorable-mentions.html#great-guides-of-the-past)******\*\*\*\*.**
 
 ## **Ass Meta**
 
-This meta is now defunct due to [Animation Bug](/miscellaneous/bugs#animation-bug) and new modding options. You can still go to the old versions of this guide that contain mention of it in the section [**here.**](/miscellaneous/resources-used-honorable-mentions.html#great-guides-of-the-past)
+This meta is now defunct due to [Animation Bug](/miscellaneous/bugs#animation-bug&#x29; and new modding options. You can still go to the old versions of this guide that contain mention of it in the section **[here.](/miscellaneous/resources-used-honorable-mentions.html#great-guides-of-the-past)**
 
 ## **Learning by Example**
 
-By far the best way to get good at Profit-Taker outside of doing it yourself with the right builds is to go to the [**speedrun leaderboards**](https://www.speedrun.com/wf/leaderboards?h=Profit-Taker-Solo&x=l_rdnrkqvw-rklqexq2) and watch other people’s runs. There are things this guide cannot teach that you’d never imagine, but if you watch them do it, you just have to learn how to do it yourself.
+By far the best way to get good at Profit-Taker outside of doing it yourself with the right builds is to go to the **[speedrun leaderboards](https://www.speedrun.com/wf/leaderboards?h=Profit-Taker-Solo&x=l_rdnrkqvw-rklqexq2)** and watch other people’s runs. There are things this guide cannot teach that you’d never imagine, but if you watch them do it, you just have to learn how to do it yourself.
 
 Nearly all Profit-Taker runners mainly learned how to do PT quickly by watching runs and talking with people in the community.
