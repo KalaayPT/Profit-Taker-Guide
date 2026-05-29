@@ -179,7 +179,7 @@ Video (click to play/pause):
 
 ## **Weapon Swaps (no On Call)**
 
-**This strat is now defunct due to power creep. You can still go to the old versions of this guide that contain it&#x20;******[here](/miscellaneous/resources-used-honorable-mentions.html#great-guides-of-the-past)******\*\*\*\*.**
+This strat is now defunct due to power creep. You can still go to the old versions of this guide that contain it [here](/miscellaneous/resources-used-honorable-mentions.html#great-guides-of-the-past).
 
 ## **Ass Meta**
 
