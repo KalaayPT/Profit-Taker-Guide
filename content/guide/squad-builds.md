@@ -111,15 +111,7 @@ If you’re interested in finding new strats or want to run with other people, w
 
 #### **Build - all Archguns**
 
-::div{style="width: 100%; text-align: left;"}
-![imperatorbuild](https://profit-taker.com/u/imperatorbuild.png){style="width: 100%; height: auto;"}
-::
-
-***[Overframe Link](https://overframe.gg/build/771323/)***
-
-::div{style="width: 25%; text-align: left;"}
-![imperatorriven](https://profit-taker.com/u/imperatorriven.png){style="width: 100%; height: auto;"}
-::
+:build{url="https://www.arsenyx.com/builds/D0m5oNnxpj"}
 
 Mausolon, Prisma Dual Decurions and Imperator Vandal are viable options depending on your squad, sorted by damage potential. An ideal squad riven has crit chance, fire rate and negative zoom (both Imperator and Decurions have very narrow FOVs). Secondary Outburst can be stacked by Rauta and lets gunners hit >100% crit chance without a riven.
 
@@ -127,10 +119,8 @@ Imperator [Vandal] and [Prisma] Dual Decurions suffer from [Archgun Hitbox Bug](
 
 ### Support Weapons (Shields)
 
+:build{url="https://www.arsenyx.com/builds/FMHg_iXXfN"}
+
 In general, Chroma and/or Wisp running the same shield setup as in solo (Sicarus+Balla) always works. Blast+Toxin can be modded on Sicarus to help consistently cover elements.
 
 In terms of overall element setups, supports should aim to run elements that are typically either not covered (toxin) or relegated to Contagion: Blast, Corrosive, Gas, Cold. This is mainly because with lower FPS in squads, contagion throws get slower too.
-
-![Squad Sicarus](https://profit-taker.com/u/squad_sicarus.png)
-
-***[Overframe Link](https://overframe.gg/build/934287/)***
