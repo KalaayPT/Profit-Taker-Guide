@@ -136,13 +136,13 @@ You can only get to 90 FOV in the game settings, but if you use Windowed mode yo
 For the most extreme version of this, if you set your resolution to 32:9 (like in the picture below), you can get a maximized horizontal field of view. This makes it easier to get good Pylon time if you can still aim at them with the reduced vertical height.
 
 ::div{style="width: 100%; text-align: left;"}
-![fovdemo](https://profit-taker.com/u/fovdemo.png){style="width: 100%; height: auto;"}
+![fovdemo](/u/fovdemo.png){style="width: 100%; height: auto;"}
 ::
 
 The only way to do so is by dragging your window until it fits 32:9 resolution.
 
 ::div{style="width: 100%; text-align: left;"}
-![fovslider](https://profit-taker.com/u/fovslider.png){style="width: 100%; height: auto;"}
+![fovslider](/u/fovslider.png){style="width: 100%; height: auto;"}
 ::
 
 However, many people dislike this extreme for several reasons: It wastes a lot of your screen, It can be hard to see the Pylons on a small screen, and it doesn’t do much 21:9 doesn’t do.

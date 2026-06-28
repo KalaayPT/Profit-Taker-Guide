@@ -10,7 +10,7 @@ originally by uumm
 Warframe builds for Profit-Taker are pretty open to buildcrafting, there are 4 Mods (5, if you’re missing Primed Sure Footed, 3 if you’re using Unairu’s Poise) that you will see on all but the most specialized Profit-Taker builds
 
 ::div{style="width: 100%; text-align: left;"}
-![framebuilds](https://profit-taker.com/u/framebuilds.png){style="width: 100%; height: auto;"}
+![framebuilds](/u/framebuilds.png){style="width: 100%; height: auto;"}
 ::
 
 *If you don’t have it, substitute Sure Footed & Fortitude in place of Primed Sure Footed*
@@ -40,7 +40,7 @@ To fix these problems and reach a more standard Profit-Taker build you can follo
 - Sometimes you want **even more power strength!!!** For this, either Umbral Fiber or Augur Secrets, or both.
 
   :::div{style="width: 50%; text-align: left;"}
-  ![strength](https://profit-taker.com/u/strength.png){style="width: 100%; height: auto;"}
+  ![strength](/u/strength.png){style="width: 100%; height: auto;"}
   :::
 
 - Peculiar bloom because big flowers
@@ -49,7 +49,7 @@ To fix these problems and reach a more standard Profit-Taker build you can follo
 Putting it all together, a more standard build might look like this:
 
 ::div{style="width: 100%; text-align: left;"}
-![standardbuild](https://profit-taker.com/u/standardbuild.png){style="width: 100%; height: auto;"}
+![standardbuild](/u/standardbuild.png){style="width: 100%; height: auto;"}
 ::
 
 **There are a few other things that are important to know, too:**
@@ -131,7 +131,7 @@ To start with, even if a weapon has an innate element like the Cyanex, it is sti
 **[Off meta mechless run ft. cyanex + dagger zaw](https://www.youtube.com/watch?v=1Dgkwg9n4H4)**
 
 ::div{style="width: 35%; text-align: left;"}
-![cyanex](https://profit-taker.com/u/cyanex.png){style="width: 100%; height: auto;"}
+![cyanex](/u/cyanex.png){style="width: 100%; height: auto;"}
 ::
 
 While on the other hand, even though it doesn’t have any innate elements, the Lato Vandal can be quite good due to its stats.
@@ -150,7 +150,7 @@ As a bonus, Profit-Taker runners also look for certain things about a weapon tha
 A generic weapon build will look something like this:
 
 ::div{style="width: 100%; text-align: left;"}
-![genericweapon](https://profit-taker.com/u/genericweapon.png){style="width: 100%; height: auto;"}
+![genericweapon](/u/genericweapon.png){style="width: 100%; height: auto;"}
 ::
 
 The specifics change between primary/secondary/melee, and certain stats are prioritized due to various factors such as available Mods and weapon type.
@@ -164,7 +164,7 @@ Note that with a well-coordinated squad, even the most absurd setups can do impr
 Trying to figure out elemental combinations can get quite confusing, this image from the wiki can help keep track of everything.
 
 ::div{style="width: 75%; text-align: left;"}
-![elementschart](https://profit-taker.com/u/elementschart.png){style="width: 100%; height: auto;"}
+![elementschart](/u/elementschart.png){style="width: 100%; height: auto;"}
 ::
 
 #### **Zaw Part setups:**
@@ -176,11 +176,11 @@ Seekalla is the best grip for most strikes because it is the highest attack spee
 Vargeet II Jai gives you max attack speed and critical chance. With Sacrificial Steel and Vargeet II Jai, all strikes reach 100% cc, making it the de facto choice.
 
 ::div{style="width: 100%; text-align: left;"}
-![zawspreadsheet1](https://profit-taker.com/u/zawspreadsheet1.png){style="width: 100%; height: auto;"}
+![zawspreadsheet1](/u/zawspreadsheet1.png){style="width: 100%; height: auto;"}
 ::
 
 ::div{style="width: 60%; text-align: left;"}
-![zawspreadsheet2](https://profit-taker.com/u/zawspreadsheet2.png){style="width: 100%; height: auto;"}
+![zawspreadsheet2](/u/zawspreadsheet2.png){style="width: 100%; height: auto;"}
 ::
 
 ### **Armor**
@@ -190,7 +190,7 @@ The easiest and least complicated phase, the Armor Phase relies almost entirely 
 Archgun builds are fairly cut and dry, with pretty much all Archguns using the following build (or variations thereof):
 
 ::div{style="width: 100%; text-align: left;"}
-![genericarmor](https://profit-taker.com/u/genericarmor.png){style="width: 100%; height: auto;"}
+![genericarmor](/u/genericarmor.png){style="width: 100%; height: auto;"}
 ::
 
 - Sometimes it is best to replace Hollowed Bullets or Parallax Scope with a Riven. After all, if you consistently (100% of the time) one or two-shot legs without the Mods equipped then there is no reason for them to be equipped.

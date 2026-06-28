@@ -27,7 +27,7 @@ Shield → Armor → Death
 ## Prerequisites
 
 To be able to do the Profit-Taker boss in the first place, you need to be max rank with Solaris United and have finished the first three phases of the Profit-Taker heist.
-![old mate](https://profit-taker.com/u/old_mate.png)![bounties](https://profit-taker.com/u/profit_taker_bounties.jpg)
+![old mate](/u/old_mate.png)![bounties](/u/profit_taker_bounties.jpg)
 
 ## Gear
 

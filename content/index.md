@@ -13,7 +13,7 @@ seo:
   orientation: horizontal
   ---
     ::::div{.hero-orb-wrap.hidden.lg:grid.place-items-center}
-    ![ProfitTakerOrb](https://profit-taker.com/u/pt-orb.webp){.image-src.h-72.w-72.xl:h-80.xl:w-80.2xl:h-96.2xl:w-96.object-contain}
+    ![ProfitTakerOrb](/u/pt-orb.webp){.image-src.h-72.w-72.xl:h-80.xl:w-80.2xl:h-96.2xl:w-96.object-contain}
     ::::
 
   #title

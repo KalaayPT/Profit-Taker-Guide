@@ -54,7 +54,7 @@ Video (click to play/pause):
 *As you can see in the gif, the laser attack doesn’t just come from the front*
 
 ::div{style="width: 100%; text-align: left;"}
-![legzap](https://profit-taker.com/u/legzap.png){style="width: 100%; height: auto;"}
+![legzap](/u/legzap.png){style="width: 100%; height: auto;"}
 ::
 
 *Red is the laser attack, blue is the leg zap. Smile is the front*
@@ -94,7 +94,7 @@ Try to stay just inside the distance blue walls spawn from, while staying outsid
 ***The most important thing to do is stay in front of Profit-Taker.*** If she targets someone more than 10-20 degrees off directly in front of her, she will turn to face them. This is generally a bad thing, as it can quickly ruin your ability to shoot some limbs (especially if you’re using mech) and you will be generally unable to reliably hit precise spots while Profit-Taker is moving. Volt is most sensitive to Profit-Taker moving due to his shields, which block a lot of the damage from Profit-Taker while being essential to many parts of the meta setup.
 
 ::div{style="width: 60%; text-align: left;"}
-![angle](https://profit-taker.com/u/angle.png){style="width: 100%; height: auto;"}
+![angle](/u/angle.png){style="width: 100%; height: auto;"}
 ::
 
 TL;DR: For best results, stay in the green/blue areas. The blue area is where Volt's shields should go. Without Volt's shields, the laser attack will hit you in the blue area. If you're outside of the green area, Profit-Taker will turn to face you.
