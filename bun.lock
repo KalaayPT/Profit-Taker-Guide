@@ -6,9 +6,9 @@
       "name": "Profit-Taker-Guide",
       "dependencies": {
         "@nuxthub/core": "^0.10.7",
-        "better-sqlite3": "^12.9.0",
+        "better-sqlite3": "^12.11.1",
         "docus": "latest",
-        "nuxt": "^4.4.4",
+        "nuxt": "^4.4.8",
         "nuxt-component-meta": "0.17.2",
         "nuxt-studio": "1.5.1",
       },

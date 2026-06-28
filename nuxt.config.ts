@@ -6,6 +6,8 @@ const isCloudflarePagesBuild =
   buildArgs.includes("cloudflare-pages") ||
   process.env.CF_PAGES === "1";
 const studioMediaPrefix = "u";
+// Flip to true when Nuxt Studio is ready to use again.
+const studioEnabled = false;
 const cloudflareBlobBucketName =
   process.env.NUXT_HUB_BLOB_BUCKET_NAME || "profit-taker-guide-media";
 const cloudflareD1DatabaseId =
@@ -57,23 +59,25 @@ export default defineNuxtConfig({
     ],
     "nuxt-studio",
   ],
-  studio: {
-    route: "/_studio",
-    repository: {
-      provider: "github",
-      owner: "KalaayPT",
-      repo: "Profit-Taker-Guide",
-      branch: "development",
-    },
-    media: {
-      external: true,
-      publicUrl: "/",
-      prefix: studioMediaPrefix,
-      // Keep this conservative for Studio's current base64 upload path.
-      maxFileSize: 25 * 1024 * 1024,
-      allowedTypes: ["image/*", "video/*", "audio/*"],
-    },
-  },
+  studio: studioEnabled
+    ? {
+        route: "/_studio",
+        repository: {
+          provider: "github",
+          owner: "KalaayPT",
+          repo: "Profit-Taker-Guide",
+          branch: "development",
+        },
+        media: {
+          external: true,
+          publicUrl: "/",
+          prefix: studioMediaPrefix,
+          // Keep this conservative for Studio's current base64 upload path.
+          maxFileSize: 25 * 1024 * 1024,
+          allowedTypes: ["image/*", "video/*", "audio/*"],
+        },
+      }
+    : false,
   hub: {
     blob: isCloudflarePagesBuild
       ? {
@@ -96,64 +100,68 @@ export default defineNuxtConfig({
   ogImage: {
     enabled: !isCloudflarePagesBuild,
   },
-  hooks: {
-    "nitro:config"(nitroConfig) {
-      nitroConfig.handlers = (nitroConfig.handlers || []).filter((handler) => {
-        if (
-          handler.route === "/__nuxt_studio/medias" ||
-          handler.route === "/__nuxt_studio/medias/" ||
-          handler.route === "/__nuxt_studio/medias/**"
-        ) {
-          return false;
-        }
+  hooks: studioEnabled
+    ? {
+        "nitro:config"(nitroConfig) {
+          nitroConfig.handlers = (nitroConfig.handlers || []).filter(
+            (handler) => {
+              if (
+                handler.route === "/__nuxt_studio/medias" ||
+                handler.route === "/__nuxt_studio/medias/" ||
+                handler.route === "/__nuxt_studio/medias/**"
+              ) {
+                return false;
+              }
 
-        if (
-          isCloudflarePagesBuild &&
-          handler.route === "/__nuxt_studio/ipx/**"
-        ) {
-          return false;
-        }
+              if (
+                isCloudflarePagesBuild &&
+                handler.route === "/__nuxt_studio/ipx/**"
+              ) {
+                return false;
+              }
 
-        return true;
-      });
+              return true;
+            },
+          );
 
-      nitroConfig.handlers.push({
-        route: "/__nuxt_studio/medias",
-        handler: resolve(
-          process.cwd(),
-          "server/handlers/studio-medias.mjs",
-        ).replace(/\\/g, "/"),
-      });
+          nitroConfig.handlers.push({
+            route: "/__nuxt_studio/medias",
+            handler: resolve(
+              process.cwd(),
+              "server/handlers/studio-medias.mjs",
+            ).replace(/\\/g, "/"),
+          });
 
-      nitroConfig.handlers.push({
-        route: "/__nuxt_studio/medias/",
-        handler: resolve(
-          process.cwd(),
-          "server/handlers/studio-medias.mjs",
-        ).replace(/\\/g, "/"),
-      });
+          nitroConfig.handlers.push({
+            route: "/__nuxt_studio/medias/",
+            handler: resolve(
+              process.cwd(),
+              "server/handlers/studio-medias.mjs",
+            ).replace(/\\/g, "/"),
+          });
 
-      nitroConfig.handlers.push({
-        route: "/__nuxt_studio/medias/**",
-        handler: resolve(
-          process.cwd(),
-          "server/handlers/studio-medias.mjs",
-        ).replace(/\\/g, "/"),
-      });
+          nitroConfig.handlers.push({
+            route: "/__nuxt_studio/medias/**",
+            handler: resolve(
+              process.cwd(),
+              "server/handlers/studio-medias.mjs",
+            ).replace(/\\/g, "/"),
+          });
 
-      if (!isCloudflarePagesBuild) {
-        return;
+          if (!isCloudflarePagesBuild) {
+            return;
+          }
+
+          nitroConfig.handlers.push({
+            route: "/__nuxt_studio/ipx/**",
+            handler: resolve(
+              process.cwd(),
+              "server/handlers/studio-ipx-cloudflare.mjs",
+            ).replace(/\\/g, "/"),
+          });
+        },
       }
-
-      nitroConfig.handlers.push({
-        route: "/__nuxt_studio/ipx/**",
-        handler: resolve(
-          process.cwd(),
-          "server/handlers/studio-ipx-cloudflare.mjs",
-        ).replace(/\\/g, "/"),
-      });
-    },
-  },
+    : {},
   vite: {
     optimizeDeps: {
       include: ["@vue/devtools-core", "@vue/devtools-kit", "@vueuse/core"],
