@@ -52,6 +52,6 @@ Pylon landing locations are fairly predictable, and it’s just a matter of know
 
 Here are most of the common pylon spawn locations marked on shrooms and lake spawns:
 
-[Pylon Locations (Imgur)](https://imgur.com/a/profit-taker-pylons-landing-spots-Eaffg0r)
+[Pylon Locations (Imgur)](https://imgur.com/a/profit-taker-pylons-landing-spots-7kQm4uu)
 
 Once you’ve shot all the pylon landing locations, return to where you took off from to avoid turning Profit-Taker. If you’ve done it right, you’ll have a small amount of time to prepare for the next phase. Make sure you swap to secondary before trying to do shield phases.

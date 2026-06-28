@@ -103,7 +103,7 @@ Opticor Vandal is also a good option, especially in faster squads where trash en
 
 Do not drop Ancient Healer specters and ideally park all crewmates to avoid slam attacks. Amalgam Serration should be equipped on primary weapons to increase flight speed in Archwing.
 
-If you’re interested in finding new strats or want to run with other people, we welcome you to join **[our discord server](https://discord.profit-taker.com)**\*
+If you’re interested in finding new strats or want to run with other people, we welcome you to join **[our discord server](https://discord.profit-taker.com)**
 
 ## Weapons
 
@@ -112,13 +112,13 @@ If you’re interested in finding new strats or want to run with other people, w
 #### **Build - all Archguns**
 
 ::div{style="width: 100%; text-align: left;"}
-![imperatorbuild](https://cdn.profit-taker.com/u/imperatorbuild.png){style="width: 100%; height: auto;"}
+![imperatorbuild](https://profit-taker.com/u/imperatorbuild.png){style="width: 100%; height: auto;"}
 ::
 
 ***[Overframe Link](https://overframe.gg/build/771323/)***
 
 ::div{style="width: 25%; text-align: left;"}
-![imperatorriven](https://cdn.profit-taker.com/u/imperatorriven.png){style="width: 100%; height: auto;"}
+![imperatorriven](https://profit-taker.com/u/imperatorriven.png){style="width: 100%; height: auto;"}
 ::
 
 Mausolon, Prisma Dual Decurions and Imperator Vandal are viable options depending on your squad, sorted by damage potential. An ideal squad riven has crit chance, fire rate and negative zoom (both Imperator and Decurions have very narrow FOVs). Secondary Outburst can be stacked by Rauta and lets gunners hit >100% crit chance without a riven.
@@ -131,6 +131,6 @@ In general, Chroma and/or Wisp running the same shield setup as in solo (Sicarus
 
 In terms of overall element setups, supports should aim to run elements that are typically either not covered (toxin) or relegated to Contagion: Blast, Corrosive, Gas, Cold. This is mainly because with lower FPS in squads, contagion throws get slower too.
 
-![Squad Sicarus](https://cdn.profit-taker.com/u/squad_sicarus.png)
+![Squad Sicarus](https://profit-taker.com/u/squad_sicarus.png)
 
 ***[Overframe Link](https://overframe.gg/build/934287/)***

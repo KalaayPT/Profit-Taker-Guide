@@ -10,8 +10,7 @@ export default defineAppConfig({
     },
     header: {
       slots: {
-        root:
-          "bg-default/60 backdrop-blur border-b border-default h-(--ui-header-height) sticky top-0 z-50",
+        root: "bg-default/60 backdrop-blur border-b border-default h-(--ui-header-height) sticky top-0 z-50",
         container:
           "relative lg:grid lg:grid-cols-[auto_minmax(0,1fr)_auto] lg:justify-normal",
         left: "lg:flex-none",
@@ -31,8 +30,7 @@ export default defineAppConfig({
     },
     prose: {
       a: {
-        base:
-          "underline decoration-primary/50 underline-offset-4 hover:decoration-primary border-b-0",
+        base: "underline decoration-primary/50 underline-offset-4 hover:decoration-primary border-b-0",
       },
     },
     pageHero: {
@@ -44,8 +42,8 @@ export default defineAppConfig({
   header: {
     title: "Profit-Taker Guide",
     logo: {
-      light: "https://cdn.profit-taker.com/u/buried-debts-sigil.png.webp",
-      dark: "https://cdn.profit-taker.com/u/buried-debts-sigil.png.webp",
+      light: "https://profit-taker.com/u/buried-debts-sigil.png.webp",
+      dark: "https://profit-taker.com/u/buried-debts-sigil.png.webp",
       alt: "Profit-Taker Guide",
       class: "rounded-sm",
       favicon: "/favicon.ico",

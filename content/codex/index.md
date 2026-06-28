@@ -12,4 +12,4 @@ description: The Codex contains in-depth theory, mechanics, and reference materi
 
 ---
 
-*The Codex is for those who want to understand the deeper mechanics behind Profit-Taker. For practical build guides, see the&#x20;****[Builds](/guide/chroma-builds)** page.*
+*The Codex is for those who want to understand the deeper mechanics behind Profit-Taker. For practical build guides, see the **[Builds](/guide/chroma-builds)** page.*
