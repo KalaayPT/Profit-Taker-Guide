@@ -58,7 +58,7 @@ A Riven is mandatory to onetick pylons with Vigorous Swap. The damage % value on
 
 - Rank 0 Melee Exposure is just fine on most builds.
 - Rank >0 Exodia Contagion is not necessary.
-- The Zaw is Balla+Peye+Vargeet II Jai. If you have a different strike, see **[How to Build A Zaw](/codex/creating-builds.html#zaw-part-setups)** for making a Zaw with a different strike.
+- The Zaw is Balla+Peye+Vargeet II Jai. If you have a different strike, see **[How to Build A Zaw](/miscellaneous/archive/creating-builds#zaw-part-setups)** for making a Zaw with a different strike.
 - Attack speed is entirely outsourced to the Speed ability.
 - A riven can enable oneshotting more elements on Contagion’s damage over time instances.
 

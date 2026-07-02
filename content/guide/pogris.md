@@ -5,7 +5,7 @@ description: Pogris is the name Speedrunners have given to using a Kuva Ogris wi
 
 ### **Why Pogris?**
 
-What Pogris brings to the table is briefly described and demonstrated [earlier](/codex/creating-builds.html#kuva-ogris) in Creating Builds when going over potential pylon weapons, but the gist is as follows:
+What Pogris brings to the table is briefly described and demonstrated [earlier](/miscellaneous/archive/creating-builds#kuva-ogris) in Creating Builds when going over potential pylon weapons, but the gist is as follows:
 
 Nightwatch napalm is an Ogris augment mod that leaves a damage-over-time effect where the rockets land which can damage pylons. By using this to our advantage, it is possible to destroy pylons as they land, massively speeding up solo pylons and dethroning a long-standing pillar of Profit-Taker speedrunning, the Zenith. To understand why, let's look at the advantages and disadvantages of using Pogris, and what can be done about the disadvantages.
 

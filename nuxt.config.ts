@@ -35,6 +35,14 @@ const cloudflareD1Bindings =
 
 export default defineNuxtConfig({
   extends: ["docus"],
+  routeRules: {
+    "/codex/creating-builds": {
+      redirect: "/miscellaneous/archive/creating-builds",
+    },
+    "/codex/creating-builds.html": {
+      redirect: "/miscellaneous/archive/creating-builds",
+    },
+  },
   content: {
     build: {
       markdown: {

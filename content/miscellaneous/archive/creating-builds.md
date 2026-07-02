@@ -1,6 +1,6 @@
 ---
 title: Creating builds
-description: This section should educate readers on general common sense known to Profit-Taker builders, such as the logic behind builds and things in the fight to build around.
+description: This section should educate readers on general common sense known to Profit-Taker builders, such as the logic behind builds and things in the fight to build around. Archived in June 2026 as it was not maintained and buildcrafting problems slowly faded out with new updates and power creep.
 ---
 
 originally by uumm
@@ -169,7 +169,7 @@ Trying to figure out elemental combinations can get quite confusing, this image 
 
 #### **Zaw Part setups:**
 
-Contagion deals a lot of damage, meaning Zaws can focus on Quality of Life and reliability.  When choosing parts for your Zaw, you want to go for a Scythe, Staff, or Polearm Zaw with max attack speed and critical chance. As was said **[here](/codex/contagion-zaws#melee-mechanics)**, Scythes, Staves, and Polearms don’t suffer from air lock, making them the weapon of choice. Attack speed will make the Zaw more forgiving and easier to use while critical chance guarantees a reliable damage output. If you’re looking for a Zaw Riven, see the graph below for strikes with good Riven disposition. If you’re looking for what mod config to use, **[see the previous section](/codex/creating-builds.html#weapon-choice-and-builds)**.
+Contagion deals a lot of damage, meaning Zaws can focus on Quality of Life and reliability.  When choosing parts for your Zaw, you want to go for a Scythe, Staff, or Polearm Zaw with max attack speed and critical chance. As was said **[here](/codex/contagion-zaws#melee-mechanics)**, Scythes, Staves, and Polearms don’t suffer from air lock, making them the weapon of choice. Attack speed will make the Zaw more forgiving and easier to use while critical chance guarantees a reliable damage output. If you’re looking for a Zaw Riven, see the graph below for strikes with good Riven disposition. If you’re looking for what mod config to use, **[see the previous section](/miscellaneous/archive/creating-builds#weapon-choice-and-builds)**.
 
 Seekalla is the best grip for most strikes because it is the highest attack speed two-handed grip. It is primarily used for Polearms and Staves. Peye is the highest attack speed one-handed grip and is primarily used for Daggers and Scythes.
 

@@ -27,6 +27,10 @@ export const headerNavigationItems = [
         to: "/miscellaneous/privacy-policy",
       },
       {
+        label: "Archive",
+        to: "/miscellaneous/archive",
+      },
+      {
         label: "Calculator",
         to: "https://calc.profit-taker.com",
         target: "_blank",

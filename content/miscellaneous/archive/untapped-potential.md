@@ -4,6 +4,8 @@ description: What things haven’t been used to their full potential? These are
   NOT bugged things, it's things that are currently possible to do, but haven’t
   been used in a proper run for a time save. Ideally, this section becomes empty
   as these strats get used in world record runs or discredited.
+
+  Archived in June 2026 due to all strategies having become unviable.
 ---
 
 __Intentional 4/3 element shields:__
@@ -29,4 +31,3 @@ Here is an example using Volt (click to play/pause):
 ::div{style="padding-bottom: 20px;"}
 :video{src="/u/archlanding.mp4" width="100%" muted loop}
 ::
-

@@ -41,7 +41,7 @@ To be able to do the Profit-Taker boss in the first place, you need to be max ra
 - **Archgun:** can be used either in hand (see [Mausolon](#archgun-in-hand-mausolon) lower down) or in mech (see [Corvas](#archgun-on-mech-corvas) lower down). The easier option is usually to do mech, since it doesn't leave you in the open during the pull down animation and during the destroying of the legs
 
 ::note
-**The expected distribution of elements looks like this (taken from [Creating builds](/codex/creating-builds#shields)):**
+**The expected distribution of elements looks like this (taken from [Creating builds](/miscellaneous/archive/creating-builds#shields)):**
 
 Secondary: Viral, Heat, Magnetic, and optional Radiation (also IPS, depending on the weapon)
 

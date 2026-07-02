@@ -99,20 +99,44 @@ function guidePageOrder(): OrderedPageItem[] {
 function codexChildren(): SidebarNavigationItem[] {
   return [
     { title: "Overview", path: "/codex" },
-    { title: "Creating Builds", path: "/codex/creating-builds" },
     { title: "Contagion Zaws", path: "/codex/contagion-zaws" },
     { title: "Misc Trivia", path: "/codex/misc-trivia" },
-    { title: "Untapped Potential", path: "/codex/untapped-potential" },
   ];
 }
 
 function codexPageOrder(): OrderedPageItem[] {
   return [
     { title: "Overview", path: "/codex" },
-    { title: "Creating Builds", path: "/codex/creating-builds" },
     { title: "Contagion Zaws", path: "/codex/contagion-zaws" },
     { title: "Misc Trivia", path: "/codex/misc-trivia" },
-    { title: "Untapped Potential", path: "/codex/untapped-potential" },
+  ];
+}
+
+function archiveChildren(): SidebarNavigationItem[] {
+  return [
+    { title: "Overview", path: "/miscellaneous/archive" },
+    {
+      title: "Creating Builds",
+      path: "/miscellaneous/archive/creating-builds",
+    },
+    {
+      title: "Untapped Potential",
+      path: "/miscellaneous/archive/untapped-potential",
+    },
+  ];
+}
+
+function archivePageOrder(): OrderedPageItem[] {
+  return [
+    { title: "Archive", path: "/miscellaneous/archive" },
+    {
+      title: "Creating Builds",
+      path: "/miscellaneous/archive/creating-builds",
+    },
+    {
+      title: "Untapped Potential",
+      path: "/miscellaneous/archive/untapped-potential",
+    },
   ];
 }
 
@@ -209,6 +233,23 @@ export function getSidebarNavigation(path: string): SidebarNavigationItem[] {
     ];
   }
 
+  if (routeMatches(path, "/miscellaneous/archive")) {
+    const archive = section(
+      "Archive",
+      archiveChildren(),
+      "/miscellaneous/archive",
+    );
+
+    return [
+      withActiveOpen(archive, path, true),
+      seeMore([
+        collapsedUnlessActive(guide, path),
+        collapsedUnlessActive(codex, path),
+        collapsedUnlessActive(miscellaneous, path),
+      ]),
+    ];
+  }
+
   if (routeMatches(path, "/miscellaneous")) {
     return [
       withActiveOpen(miscellaneous, path, true),
@@ -233,6 +274,7 @@ export function getOrderedPageNavigation(): OrderedPageItem[] {
     ...guidePageOrder(),
     ...codexPageOrder(),
     ...miscellaneousPageOrder(),
+    ...archivePageOrder(),
   ];
 }
 

@@ -8,7 +8,7 @@ description: "Or: All you never needed to know about the ‘simplest’ part of 
 If you don't care about why we recommend the Zaws we recommend, skip this section.
 :::
 
-An Exodia Contagion Zaw is the most important part of a normal Profit-Taker loadout as it is the only weapon that covers over a half dozen elements well. The Zaw is one of the easiest weapons to set and forget for Profit-Taker while having some of the most complicated mechanics. These mechanics are incredibly important if you want to understand why the recommended Zaw is the way it is. [__For custom zaw parts and builds see the weapon builds section.__](/codex/creating-builds.html#zaw-part-setups)
+An Exodia Contagion Zaw is the most important part of a normal Profit-Taker loadout as it is the only weapon that covers over a half dozen elements well. The Zaw is one of the easiest weapons to set and forget for Profit-Taker while having some of the most complicated mechanics. These mechanics are incredibly important if you want to understand why the recommended Zaw is the way it is. [__For custom zaw parts and builds see the weapon builds section.__](/miscellaneous/archive/creating-builds#zaw-part-setups)
 
 For clarity, in this section **throw** means the button combination required for contagion, while the **launch** is when the contagion projectile appears from your zaw after you throw. This is important because contagion doesn’t launch at the same time as you throw.
 
