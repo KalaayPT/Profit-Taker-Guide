@@ -202,4 +202,4 @@ It is generally recommended to lower your graphics settings (low preset except f
 
 ## Further reading
 
-Want to read more? Start by clicking "Basics" up top!
+Want to read more? Start by clicking "Guide" up top!
