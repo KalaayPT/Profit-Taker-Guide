@@ -12,7 +12,7 @@ Generic (Shock Trooper)
 :build{url="https://www.arsenyx.com/builds/06j6bVZ9hM"}
 
 - Recommended Shards are: 2 Tau Energy on mission start, 3 Tau Strength
-- If you have Primed Sure Footed, use Handspring over it, or Power Drift + Unairu.
+- If you don't have Primed Sure Footed, use Handspring over it, or Power Drift + Unairu.
 - Decaying Dragon Key is recommended to stack your Vex Fury much faster, but you should keep an eye on your health since you won't get the full armor buff from Vex immediately.
 - The Umbral Forma isn't necessary if you forma every other slot, but gives you a lot more flexibility for future changes.
 - Your main method of healing should be Magus Elevate on operator. If you spam 5-e-5-e you can very quickly heal to full health.
