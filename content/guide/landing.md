@@ -12,7 +12,7 @@ See how when leaving Archwing I’m flying straight, not up or down? At the spee
 Video (click to play/pause):
 
 ::div{style="padding-bottom: 20px;"}
-:video{loop muted src="/u/overshoot.mp4" width="100%"}
+:video{loop muted src="https://cdn.profit-taker.com/u/overshoot.mp4" width="100%"}
 ::
 
 ## **Soft Landing**
@@ -30,7 +30,7 @@ For Mountain, blink up and towards the spawn such that you’re at the right hei
 Video (click to play/pause):
 
 ::div{style="padding-bottom: 20px;"}
-:video{loop muted src="/u/softmountain.mp4" width="100%"}
+:video{loop muted src="https://cdn.profit-taker.com/u/softmountain.mp4" width="100%"}
 ::
 
 ### Lake
@@ -40,7 +40,7 @@ For Lake, fly straight to where you want to land, there should be time for 3 bli
 Video (click to play/pause):
 
 ::div{style="padding-bottom: 20px;"}
-:video{loop muted src="/u/softlake.mp4" width="100%"}
+:video{loop muted src="https://cdn.profit-taker.com/u/softlake.mp4" width="100%"}
 ::
 
 ### Shrooms
@@ -50,7 +50,7 @@ For shrooms, take a straight line through enrichment labs until you reach the cr
 Video (click to play/pause):
 
 ::div{style="padding-bottom: 20px;"}
-:video{loop muted src="/u/softshrooms.mp4" width="100%"}
+:video{loop muted src="https://cdn.profit-taker.com/u/softshrooms.mp4" width="100%"}
 ::
 
 ## **Hard Landing (Volt)**
@@ -66,7 +66,7 @@ First fly up while holding W, then do a blink after you line up with Profit-Take
 Video (click to play/pause):
 
 ::div{style="padding-bottom: 20px;"}
-:video{loop muted src="/u/hardmountain.mp4" width="100%"}
+:video{loop muted src="https://cdn.profit-taker.com/u/hardmountain.mp4" width="100%"}
 ::
 
 ### Lake
@@ -78,7 +78,7 @@ Land near the left of Profit-Taker as it'll move to the left. This will help get
 Video (click to play/pause):
 
 ::div{style="padding-bottom: 20px;"}
-:video{loop muted src="/u/hardlake.mp4" width="100%"}
+:video{loop muted src="https://cdn.profit-taker.com/u/hardlake.mp4" width="100%"}
 ::
 
 ### Shrooms
@@ -88,7 +88,7 @@ Blink towards the spawn, don't go too high up, make sure you exit archwing early
 Video (click to play/pause):
 
 ::div{style="padding-bottom: 20px;"}
-:video{loop muted src="/u/hardshrooms.mp4" width="100%"}
+:video{loop muted src="https://cdn.profit-taker.com/u/hardshrooms.mp4" width="100%"}
 ::
 
 ::note

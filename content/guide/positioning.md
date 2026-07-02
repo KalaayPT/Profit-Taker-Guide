@@ -14,7 +14,7 @@ Profit-Taker slams the ground, sending out horizontal magnetic waves in all dire
 Video (click to play/pause):
 
 ::div{style="padding-bottom: 20px;"}
-:video{loop muted src="/u/empslam.mp4" width="100%"}
+:video{loop muted src="https://cdn.profit-taker.com/u/empslam.mp4" width="100%"}
 ::
 
 ### **The Laser Sweep attack**
@@ -24,7 +24,7 @@ where Profit-Taker fires a massive laser that can deal thousands of damage in as
 Video (click to play/pause):
 
 ::div{style="padding-bottom: 20px;"}
-:video{loop muted src="/u/ptlaser.mp4" width="100%"}
+:video{loop muted src="https://cdn.profit-taker.com/u/ptlaser.mp4" width="100%"}
 ::
 
 ***[pt laser attack (Youtube)](https://www.youtube.com/watch?v=MR1mRcnfrEk)***
@@ -38,7 +38,7 @@ In this attack, she shoots a fiery ball in front of her that explodes a few seco
 Video (click to play/pause):
 
 ::div{style="padding-bottom: 20px;"}
-:video{loop muted src="/u/mortar.mp4" width="100%"}
+:video{loop muted src="https://cdn.profit-taker.com/u/mortar.mp4" width="100%"}
 ::
 
 ### **The Leg Zap**
@@ -48,13 +48,13 @@ which inflicts an extremely high damage Electric proc that both destroys your sh
 Video (click to play/pause):
 
 ::div{style="padding-bottom: 20px;"}
-:video{loop muted src="/u/legzap.mp4" width="100%"}
+:video{loop muted src="https://cdn.profit-taker.com/u/legzap.mp4" width="100%"}
 ::
 
 *As you can see in the gif, the laser attack doesn’t just come from the front*
 
 ::div{style="width: 100%; text-align: left;"}
-![legzap](/u/legzap.png){style="width: 100%; height: auto;"}
+![legzap](https://cdn.profit-taker.com/u/legzap.png){style="width: 100%; height: auto;"}
 ::
 
 *Red is the laser attack, blue is the leg zap. Smile is the front*
@@ -68,7 +68,7 @@ appears to happen when you get too close to Profit-Taker during Armor and Pylon 
 Video (click to play/pause):
 
 ::div{style="padding-bottom: 20px;"}
-:video{loop muted src="/u/bounce.mp4" width="100%"}
+:video{loop muted src="https://cdn.profit-taker.com/u/bounce.mp4" width="100%"}
 ::
 
 ### **The Blue Walls**
@@ -80,11 +80,11 @@ knock you back when you collide with them and can block shots. These appear to t
 Video (click to play/pause):
 
 ::div{style="padding-bottom: 0px;"}
-:video{loop muted src="/u/bluewall1.mp4" width="100%"}
+:video{loop muted src="https://cdn.profit-taker.com/u/bluewall1.mp4" width="100%"}
 ::
 
 ::div{style="padding-bottom: 20px;"}
-:video{loop muted src="/u/bluewall2.mp4" width="100%"}
+:video{loop muted src="https://cdn.profit-taker.com/u/bluewall2.mp4" width="100%"}
 ::
 
 Try to stay just inside the distance blue walls spawn from, while staying outside of the bounce range.  A good range to aim for is about  25 m away from the main body. This will minimize both bounces and blue walls
@@ -94,7 +94,7 @@ Try to stay just inside the distance blue walls spawn from, while staying outsid
 ***The most important thing to do is stay in front of Profit-Taker.*** If she targets someone more than 10-20 degrees off directly in front of her, she will turn to face them. This is generally a bad thing, as it can quickly ruin your ability to shoot some limbs (especially if you’re using mech) and you will be generally unable to reliably hit precise spots while Profit-Taker is moving. Volt is most sensitive to Profit-Taker moving due to his shields, which block a lot of the damage from Profit-Taker while being essential to many parts of the meta setup.
 
 ::div{style="width: 60%; text-align: left;"}
-![angle](/u/angle.png){style="width: 100%; height: auto;"}
+![angle](https://cdn.profit-taker.com/u/angle.png){style="width: 100%; height: auto;"}
 ::
 
 TL;DR: For best results, stay in the green/blue areas. The blue area is where Volt's shields should go. Without Volt's shields, the laser attack will hit you in the blue area. If you're outside of the green area, Profit-Taker will turn to face you.

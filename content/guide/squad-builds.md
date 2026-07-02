@@ -22,7 +22,7 @@ Kuva Chakkhurr ([Build](https://arsenyx.com/builds/CRNuUfEKGY)) on your crewmate
 POV by Endryx
 
   :::div{style="padding-bottom: 20px;"}
-  :video{controls muted src="/u/Volt%20Host%20POV.mp4" width="100%"}
+  :video{controls muted src="https://cdn.profit-taker.com/u/Volt%20Host%20POV.mp4" width="100%"}
   :::
 ::
 
@@ -38,7 +38,7 @@ Energized Munitions subsume allows you to start prefiring legs much earlier.
 POV by Tren
 
   :::div{style="padding-bottom: 20px;"}
-  :video{controls muted src="/u/Mirage%20AG%20POV.mp4" width="100%"}
+  :video{controls muted src="https://cdn.profit-taker.com/u/Mirage%20AG%20POV.mp4" width="100%"}
   :::
 ::
 
@@ -54,7 +54,7 @@ Use Rauta ([Build](https://arsenyx.com/builds/X6p2dzkCCF)) to stack 12x combo on
 POV by Kalaay
 
   :::div{style="padding-bottom: 20px;"}
-  :video{controls muted src="/u/Jade%20AG%20POV%20optimized.mp4" width="100%"}
+  :video{controls muted src="https://cdn.profit-taker.com/u/Jade%20AG%20POV%20optimized.mp4" width="100%"}
   :::
 ::
 
@@ -62,7 +62,7 @@ POV by Kalaay
 POV by UnOriginalGN
 
   :::div{style="padding-bottom: 20px;"}
-  :video{controls muted src="/u/Jade%20Support%20POV.mp4" width="100%"}
+  :video{controls muted src="https://cdn.profit-taker.com/u/Jade%20Support%20POV.mp4" width="100%"}
   :::
 ::
 
@@ -78,7 +78,7 @@ Use Sicarus ([Build](https://arsenyx.com/builds/FMHg_iXXfN)) to help with Blast 
 POV by UnOriginalGN
 
   :::div{style="padding-bottom: 20px;"}
-  :video{controls muted src="/u/Wisp%20Support%20POV.mp4" width="100%"}
+  :video{controls muted src="https://cdn.profit-taker.com/u/Wisp%20Support%20POV.mp4" width="100%"}
   :::
 ::
 
@@ -92,7 +92,7 @@ The standard solo build works fine, he can use Rauta and Prisma Dual Decurions o
 POV by Fremy
 
   :::div{style="padding-bottom: 20px;"}
-  :video{controls muted src="/u/Chroma%20Support%20POV.mp4" width="100%"}
+  :video{controls muted src="https://cdn.profit-taker.com/u/Chroma%20Support%20POV.mp4" width="100%"}
   :::
 ::
 

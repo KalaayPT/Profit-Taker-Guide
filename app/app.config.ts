@@ -42,8 +42,8 @@ export default defineAppConfig({
   header: {
     title: "Profit-Taker Guide",
     logo: {
-      light: "/u/buried-debts-sigil.png.webp",
-      dark: "/u/buried-debts-sigil.png.webp",
+      light: "https://cdn.profit-taker.com/u/buried-debts-sigil.png.webp",
+      dark: "https://cdn.profit-taker.com/u/buried-debts-sigil.png.webp",
       alt: "Profit-Taker Guide",
       class: "rounded-sm",
       favicon: "/favicon.ico",
