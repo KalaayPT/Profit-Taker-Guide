@@ -84,7 +84,7 @@ Flight Shots are a way to speed up the first phase's shield phase, by simply dea
 Video (click to play/pause):
 
 ::div{style="padding-bottom: 20px;"}
-:video{loop muted src="/u/flight_shots_lq.mp4" width="100%"}
+:video{loop muted src="https://cdn.profit-taker.com/u/flight_shots_lq.mp4" width="100%"}
 ::
 
 For a more advanced variant of Flight Shots, a Contagion throw is incorporated into flight shots. This is a slight timesave from not having to possibly throw Contagion twice after landing or having to wait for a Contagion DOT to tick. It also eliminates most of the RNG required for fast first shields.
@@ -92,7 +92,7 @@ For a more advanced variant of Flight Shots, a Contagion throw is incorporated i
 Video (click to play/pause):
 
 ::div{style="padding-bottom: 20px;"}
-:video{loop muted src="/u/air_contagion.mp4" width="100%"}
+:video{loop muted src="https://cdn.profit-taker.com/u/air_contagion.mp4" width="100%"}
 ::
 
 ## **Push Strat**
@@ -102,7 +102,7 @@ When landing from first pylons, an issue a lot of people run into is that they g
 Video (click to play/pause):
 
 ::div{style="padding-bottom: 20px;"}
-:video{loop muted src="/u/pushstrat.mp4" width="100%"}
+:video{loop muted src="https://cdn.profit-taker.com/u/pushstrat.mp4" width="100%"}
 ::
 
 As you can see, I get walls instead of bounce as my Warframe is far enough away.
@@ -116,11 +116,11 @@ There are two ways to enter mech, proximity, and aim. You want to always use pro
 Placing mech can and should be done during landing to avoid a time loss. See the following videos (click to play/pause):
 
 ::div{style="padding-bottom: 0px;"}
-:video{loop muted src="/u/proximity.mp4" width="100%"}
+:video{loop muted src="https://cdn.profit-taker.com/u/proximity.mp4" width="100%"}
 ::
 
 ::div{style="padding-bottom: 20px;"}
-:video{loop muted src="/u/placing.mp4" width="100%"}
+:video{loop muted src="https://cdn.profit-taker.com/u/placing.mp4" width="100%"}
 ::
 
 See the speed difference?
@@ -136,13 +136,13 @@ You can only get to 90 FOV in the game settings, but if you use Windowed mode yo
 For the most extreme version of this, if you set your resolution to 32:9 (like in the picture below), you can get a maximized horizontal field of view. This makes it easier to get good Pylon time if you can still aim at them with the reduced vertical height.
 
 ::div{style="width: 100%; text-align: left;"}
-![fovdemo](/u/fovdemo.png){style="width: 100%; height: auto;"}
+![fovdemo](https://cdn.profit-taker.com/u/fovdemo.png){style="width: 100%; height: auto;"}
 ::
 
 The only way to do so is by dragging your window until it fits 32:9 resolution.
 
 ::div{style="width: 100%; text-align: left;"}
-![fovslider](/u/fovslider.png){style="width: 100%; height: auto;"}
+![fovslider](https://cdn.profit-taker.com/u/fovslider.png){style="width: 100%; height: auto;"}
 ::
 
 However, many people dislike this extreme for several reasons: It wastes a lot of your screen, It can be hard to see the Pylons on a small screen, and it doesn’t do much 21:9 doesn’t do.
@@ -174,7 +174,7 @@ Note: -recoil is needed if you want to shoot accurately with this strat.
 Video (click to play/pause):
 
 ::div{style="padding-bottom: 20px;"}
-:video{loop muted src="/u/unscopedzenith.mp4" width="100%"}
+:video{loop muted src="https://cdn.profit-taker.com/u/unscopedzenith.mp4" width="100%"}
 ::
 
 ## **Weapon Swaps (no On Call)**

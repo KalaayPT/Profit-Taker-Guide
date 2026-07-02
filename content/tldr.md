@@ -27,7 +27,7 @@ Shield → Armor → Death
 ## Prerequisites
 
 To be able to do the Profit-Taker boss in the first place, you need to be max rank with Solaris United and have finished the first three phases of the Profit-Taker heist.
-![old mate](/u/old_mate.png)![bounties](/u/profit_taker_bounties.jpg)
+![old mate](https://cdn.profit-taker.com/u/old_mate.png)![bounties](https://cdn.profit-taker.com/u/profit_taker_bounties.jpg)
 
 ## Gear
 
@@ -59,7 +59,7 @@ Ogris deals damage to pylons through the pylon bubble without requiring punch th
 Video demonstration (17 mb):
 
 ::div{style="padding-bottom: 20px;"}
-:video{controls src="/u/Just%20Use%20The%20Ogris-10.mp4" width="100%"}
+:video{controls src="https://cdn.profit-taker.com/u/Just%20Use%20The%20Ogris-10.mp4" width="100%"}
 ::
 
 You should usually only need one shot if your buffs (Vex Armor on Chroma, Eclipse on anything else) are up. The Nightwatch Napalm damage ticks will finish it for you.
@@ -107,13 +107,13 @@ This allows you to not have to think about what elements are on what weapons, yo
 Here is a slow demonstration of what the button presses look like (7 mb):
 
 ::div{style="padding-bottom: 20px;"}
-:video{controls src="/u/Contagion%20Example%20Slow-1.mp4" width="100%"}
+:video{controls src="https://cdn.profit-taker.com/u/Contagion%20Example%20Slow-1.mp4" width="100%"}
 ::
 
 Here is a real life example of quickly throwing and shooting (7 mb):
 
 ::div{style="padding-bottom: 20px;"}
-:video{controls src="/u/Contagion%20Example-3.mp4" width="100%"}
+:video{controls src="https://cdn.profit-taker.com/u/Contagion%20Example-3.mp4" width="100%"}
 ::
 
 #### Archgun in hand: [Mausolon](/guide/chroma-builds#mausolon-build)
@@ -170,7 +170,7 @@ They can have different stats, and the ones you should prioritize are combat, re
 
 An ideal Crewmate would look somewhat like this:
 
-![crewmate](/u/Perfect-opticor-occ.png)
+![crewmate](https://cdn.profit-taker.com/u/Perfect-opticor-occ.png)
 
 In terms of weapon choices, as long as it has high damage and is crit-based, it will work somewhat. AoE weapons, or weapons with an AoE damage portion, are usually preferred. Limitations are: some AoE weapons cant do damage to Profit-Taker and can therefore only be used for killing adds (notably: Zarr or Ogris), Crewmates cannot use Incarnon perks or abilities, Rivens, or Arcanes (with a few insignificant expections), and Crewmates cannot use a lot of two-handed weapons like bows, double pistols or throwing weapons (anything rifle or pistol shaped will usually work)
 
