@@ -5,7 +5,7 @@ description: Advanced techniques that require special thought toward certain are
 
 ## **Late Start Strat**
 
-Speedrunners leave the elevator a few seconds after PT spawns for two reasons. First of all, getting close to PT too fast after it spawned will make it turn towards you while you are still approaching it in archwing, resulting in a very uncomfortable landing and fight as PT will not be facing towards you (the usual lanfing spot will end up being on the side of PT). This can be fixed by leaving the elevator at 9 seconds (1 second after PT spawns). You can also take advantage of the fact that PT walks forward constantly until you destroy all four legs during the first armor phase to get faster and more consistent leg phase. This is done by leaving the elevator at 11 seconds, PT will go on a walk while you wait, letting you get a better angle to take down the back legs. This also minimizes the effect of **[animation bug](/miscellaneous/bugs.html#animation-bug)**.
+Speedrunners leave the elevator a few seconds after PT spawns for two reasons. First of all, getting close to PT too fast after it spawned will make it turn towards you while you are still approaching it in archwing, resulting in a very uncomfortable landing and fight as PT will not be facing towards you (the usual lanfing spot will end up being on the side of PT). This can be fixed by leaving the elevator at 9 seconds (1 second after PT spawns). You can also take advantage of the fact that PT walks forward constantly until you destroy all four legs during the first armor phase to get faster and more consistent leg phase. This is done by leaving the elevator at 11 seconds, PT will go on a walk while you wait, letting you get a better angle to take down the back legs. This also minimizes the effect of **[animation bug](/miscellaneous/bugs#animation-bug)**.
 
 ## **On Call Strats**
 
@@ -179,11 +179,11 @@ Video (click to play/pause):
 
 ## **Weapon Swaps (no On Call)**
 
-This strat is now defunct due to power creep. You can still go to the old versions of this guide that contain it [here](/miscellaneous/resources-used-honorable-mentions.html#great-guides-of-the-past).
+This strat is now defunct due to power creep. You can still go to the old versions of this guide that contain it [here](/miscellaneous/resources-used-honorable-mentions#great-guides-of-the-past).
 
 ## **Ass Meta**
 
-This meta is now defunct due to [Animation Bug](/miscellaneous/bugs#animation-bug) and new modding options. You can still go to the old versions of this guide that contain mention of it in the section **[here.](/miscellaneous/resources-used-honorable-mentions.html#great-guides-of-the-past)**
+This meta is now defunct due to [Animation Bug](/miscellaneous/bugs#animation-bug) and new modding options. You can still go to the old versions of this guide that contain mention of it in the section **[here.](/miscellaneous/resources-used-honorable-mentions#great-guides-of-the-past)**
 
 ## **Learning by Example**
 
