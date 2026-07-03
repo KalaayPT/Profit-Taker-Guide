@@ -11,7 +11,7 @@ description: As it is an attempt to compile over 5 years of Profit-Taker
 
 **Hampter**
 
-- lost of writing work to keep the guide up to date 
+- lots of writing work to keep the guide up to date 
 
 **Kreem**
 
