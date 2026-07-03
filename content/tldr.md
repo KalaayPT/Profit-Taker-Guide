@@ -37,7 +37,7 @@ To be able to do the Profit-Taker boss in the first place, you need to be max ra
 
 - **Primary:** [Kuva] Ogris, used exclusively for pylons.
 - **Melee:** any Zaw with **Exodia Contagion** (make sure you can reach 100% crit chance). This is because Contagion turns Zaws into incredibly strong projectile weapons that can both be used very quickly and cover a lot of elements because of how Exodia contagion works, more on that a bit later
-- **Secondary:** any high [crit] damage secondary works (Notable examples include, but are not limited to: Sicarus Incarnon, Tenet Diplos, Gammacor Incarnon, Pyrana Prime etc.), but because of the innate elements on a Contagion Zaw, you either want one that has innate magnetic damage (a lich weapon or a Synoid Gammacor) or you have to equip [Magnetic Might](https://warframe.fandom.com/wiki/Magnetic_Might). The weapon of choice therefore is the [Sicarus Prime](/guide/chroma-builds#secondary) with an incarnon adapter installed for its passive buffs. More on the element distribution in a second.
+- **Secondary:** any high [crit] damage secondary works (Notable examples include, but are not limited to: Sicarus Incarnon, Tenet Diplos, Gammacor Incarnon, Pyrana Prime etc.), but because of the innate elements on a Contagion Zaw, you either want one that has innate magnetic damage (a lich weapon or a Synoid Gammacor) or you have to equip [Magnetic Might](https://wiki.warframe.com/w/Magnetic_Might). The weapon of choice therefore is the [Sicarus Prime](/guide/chroma-builds#secondary) with an incarnon adapter installed for its passive buffs. More on the element distribution in a second.
 - **Archgun:** can be used either in hand (see [Mausolon](#archgun-in-hand-mausolon) lower down) or in mech (see [Corvas](#archgun-on-mech-corvas) lower down). The easier option is usually to do mech, since it doesn't leave you in the open during the pull down animation and during the destroying of the legs
 
 ::note
@@ -184,9 +184,9 @@ All weapons except Chakkhurr need your Crewmate to be buffed with Vex Armor or T
 
 ### Energy economy
 
-With the provided setup you will quickly notice that you need a lot of energy. With enemies being an inconsistent source of orb drops, we strongly recommend [Energy Restores](https://warframe.fandom.com/wiki/Squad_Energy_Restore).
+With the provided setup you will quickly notice that you need a lot of energy. With enemies being an inconsistent source of orb drops, we strongly recommend [Energy Restores](https://wiki.warframe.com/w/Squad_Energy_Restore).
 
-The more comfortable and cheaper setup is what the community refers to as "padless" by using [Preparation](https://warframe.fandom.com/wiki/Preparation) and Primed Flow to have a huge reserve of Energy which should last the entire run. You can also use amber Archon Shards to fill some of your maximum energy when you spawn in or blue Archon Shards to further expand your energy capacity.
+The more comfortable and cheaper setup is what the community refers to as "padless" by using [Preparation](https://wiki.warframe.com/w/Preparation) and Primed Flow to have a huge reserve of Energy which should last the entire run. You can also use amber Archon Shards to fill some of your maximum energy when you spawn in or blue Archon Shards to further expand your energy capacity.
 
 Here is an example Volt build with this philosophy in mind:
 
