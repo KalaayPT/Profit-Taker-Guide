@@ -3,7 +3,7 @@ title: Landing
 description: For reasons given in the next section, your landing is one of the most important parts of the fight. A good landing sets up the rest of the run, and a bad landing will lose several seconds as the run progresses.
 ---
 
-There are two general categories of landing: hard and soft. Soft landings are faster but harder to do as Chroma and tend to become impractically precise as Archwing speed increases. Hard landings add some time loss but are quite simple and ppreferable if playing Volt.
+There are two general categories of landing: hard and soft. Soft landings are faster but harder to do as Chroma and tend to become impractically precise as Archwing speed increases. Hard landings add some time loss but are quite simple and preferable if playing Volt.
 
 For all landings, you want to be flying straight and level in Archwing, then leave early enough that you have time to cast your abilities and optionally shoot shields before you hit the ground.
 
