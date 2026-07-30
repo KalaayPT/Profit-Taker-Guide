@@ -30,7 +30,7 @@ POV by Endryx
 
 :build{url="https://arsenyx.com/builds/phYiOUpm8d"}
 
-Use Rauta ([Build](https://arsenyx.com/builds/X6p2dzkCCF)) to stack 12x combo on your melee for Secondary Outburst on your Prisma Dual Decurions ([Build](https://arsenyx.com/builds/D0m5oNnxpj)), then deploy your archgun just before the last pylon lands.
+Use Vastilok ([Build](https://www.arsenyx.com/builds/npXyjcigM8)) to stack 12x combo on your melee for Secondary Outburst on your Prisma Dual Decurions ([Build](https://arsenyx.com/builds/D0m5oNnxpj)), then deploy your archgun just before the last pylon lands.
 
 Energized Munitions subsume allows you to start prefiring legs much earlier.
 
@@ -48,7 +48,7 @@ POV by Tren
 
 Cast Deathbringer while flying to Profit Taker to buff Volt’s Velocitus. Switch to Power of the Seven to buff Wisp’s Motes and Brightbonnet, then go back to Deathbringer.
 
-Use Rauta ([Build](https://arsenyx.com/builds/X6p2dzkCCF)) to stack 12x combo on your melee for Secondary Outburst on your Prisma Dual Decurions ([Build](https://arsenyx.com/builds/D0m5oNnxpj)), then deploy your archgun just before the last pylon lands.
+Use Vastilok ([Build](https://www.arsenyx.com/builds/npXyjcigM8)) to stack 12x combo on your melee for Secondary Outburst on your Prisma Dual Decurions ([Build](https://arsenyx.com/builds/D0m5oNnxpj)), then deploy your archgun just before the last pylon lands.
 
 ::collapsible{name="Video demonstration (Jade Legs) (238 mb)"}
 POV by Kalaay
@@ -113,7 +113,7 @@ If you’re interested in finding new strats or want to run with other people, w
 
 :build{url="https://www.arsenyx.com/builds/D0m5oNnxpj"}
 
-Mausolon, Prisma Dual Decurions and Imperator Vandal are viable options depending on your squad, sorted by damage potential. An ideal squad riven has crit chance, fire rate and negative zoom (both Imperator and Decurions have very narrow FOVs). Secondary Outburst can be stacked by Rauta and lets gunners hit >100% crit chance without a riven.
+Mausolon, Prisma Dual Decurions and Imperator Vandal are viable options depending on your squad, sorted by damage potential. An ideal squad riven has crit chance, fire rate and negative zoom (both Imperator and Decurions have very narrow FOVs). Secondary Outburst can be stacked by Vastilok and lets gunners hit >100% crit chance without a riven.
 
 Imperator [Vandal] and [Prisma] Dual Decurions suffer from [Archgun Hitbox Bug](/miscellaneous/bugs#archgun-hitbox-bug) so they can't take advantage of Volt's shield.
 
